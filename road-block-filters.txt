@@ -8,3 +8,8 @@
 ||profitshare.emag.ro^$domain=~profitshare.emag.ro
 ||profitshare.ro^$domain=~profitshare.ro
 ||e-day.ro^$domain=~e-day.ro
+
+
+||brat-online.ro^
+||adservingfactory.com^
+
