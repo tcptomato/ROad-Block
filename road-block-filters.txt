@@ -20,6 +20,7 @@
 ||www.google-analytics.com^
 ||www.googletagservices.com^
 ||google.*/gen_204?$image
+||tpc.googlesyndication.com^
 
 ! Facebook trackers
 ||graph.facebook.com/fql?q=select$third-party
