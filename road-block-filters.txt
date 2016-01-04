@@ -8,8 +8,17 @@
 ||profitshare.emag.ro^$domain=~profitshare.emag.ro
 ||profitshare.ro^$domain=~profitshare.ro
 ||e-day.ro^$domain=~e-day.ro
+||trafic.ro^$domain=~trafic.ro
 
+! Google trackers
+||www.google-analytics.com^
+||www.googletagservices.com^
 
+! Misc trackers
+||storage.trafic.ro^
 ||brat-online.ro^
 ||adservingfactory.com^
+||flx1.com^
+||pixel.facebook.com^
+||gemius.pl^
 
