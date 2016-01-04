@@ -9,6 +9,8 @@
 */banner/*
 */Banners/*
 */Banner/*
+/adverts/*
+/upload/ads/*
 
 ! Filters:
 ||profitshare.emag.ro^$third-party
@@ -25,16 +27,37 @@
 ! Facebook trackers
 ||graph.facebook.com/fql?q=select$third-party
 ||pixel.facebook.com^
+||facebook.com/plugins/like.php?$third-party
+||facebook.com^*/plugins/like_box.php?$third-party
+||facebook.com^*/plugins/page.php?$third-party
+
+||platform.twitter.com/anywhere.js$third-party
 
 ! Misc trackers
+||s.atemda.com^
+||www4.smartadserver.com^
+||profiling.avandor.com^
 ||storage.trafic.ro^
 ||brat-online.ro^
 ||adservingfactory.com^
 ||flx1.com^
 ||gemius.pl^
 ||js-agent.newrelic.com^
-||ringierro.adocean.pl^
+||adocean.pl^
 ||eu-gmtdmp.gd1.mookie1.com^
 ||addthis.com^$third-party
+||ads2.evz.ro^
+||megapopads.com^
+||st.ad.adnow.com^
+||ads.tradeads.eu^
+||amazonaws.com/new.cetrk.com/
+||new.cetrk.com^
+||zontera.com^$third-party
+||static.chartbeat.com^
+||script.crazyegg.com^
+||asset.pagefair.net^
+||asset.pagefair.com^
+
+
 
 
