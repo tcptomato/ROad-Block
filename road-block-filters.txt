@@ -5,20 +5,29 @@
 ! Homepage: https://github.com/tcptomato/ROad-Block
 
 ! Filters:
-||profitshare.emag.ro^$domain=~profitshare.emag.ro
-||profitshare.ro^$domain=~profitshare.ro
-||e-day.ro^$domain=~e-day.ro
-||trafic.ro^$domain=~trafic.ro
+||profitshare.emag.ro^$third-party
+||profitshare.ro^$third-party
+||e-day.ro^$third-party
+||trafic.ro^$third-party
 
 ! Google trackers
 ||www.google-analytics.com^
 ||www.googletagservices.com^
+||google.*/gen_204?$image
+
+! Facebook trackers
+||graph.facebook.com/fql?q=select$third-party
+||pixel.facebook.com^
 
 ! Misc trackers
 ||storage.trafic.ro^
 ||brat-online.ro^
 ||adservingfactory.com^
 ||flx1.com^
-||pixel.facebook.com^
 ||gemius.pl^
+||js-agent.newrelic.com^
+||ringierro.adocean.pl^
+||eu-gmtdmp.gd1.mookie1.com^
+||addthis.com^$third-party
+
 
