@@ -5,5 +5,6 @@
 ! Homepage: https://github.com/tcptomato/ROad-Block
 
 ! Filters:
-||profitshare.emag.ro
-||profitshare.ro
+||profitshare.emag.ro^$domain=~profitshare.emag.ro
+||profitshare.ro^$domain=~profitshare.ro
+||e-day.ro^$domain=~e-day.ro
