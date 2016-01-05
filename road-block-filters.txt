@@ -5,12 +5,25 @@
 ! Homepage: https://github.com/tcptomato/ROad-Block
 
 
-*/banners/*
-*/banner/*
-*/Banners/*
-*/Banner/*
+/banners/*
+/banner/*
+/bannere/*
+/Bannere/*
+/Banners/*
+/Banner/*
+/baner/*
+/banere/*
+/baners/*
+/Baner/*
+/Banere/*
+/Baners/*
+/ads/*
+/Ads/*
 /adverts/*
+/Adverts/*
 /upload/ads/*
+/reclama/*
+/Reclama/*
 
 ! Filters:
 ||profitshare.emag.ro^$third-party
