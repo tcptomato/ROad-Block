@@ -51,6 +51,7 @@
 ||platform.twitter.com/anywhere.js$third-party
 
 ! Misc trackers
+||2parale.ro^
 ||s.atemda.com^
 ||www4.smartadserver.com^
 ||profiling.avandor.com^
