@@ -29,8 +29,12 @@
 ###digi-fm-live-stream
 
 ! Filters:
-||profitshare.emag.ro^$third-party,important
-||profitshare.ro^$third-party,important
+||profitshare.emag.ro^
+||profitshare.ro^
+||e-day.ro^
+||trafic.ro^
+||profitshare.emag.ro^$important
+||profitshare.ro^$important
 ||e-day.ro^$third-party,important
 ||trafic.ro^$third-party,important
 
