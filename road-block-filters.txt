@@ -25,6 +25,9 @@
 /reclama/*
 /Reclama/*
 
+! Dom elements
+###digi-fm-live-stream
+
 ! Filters:
 ||profitshare.emag.ro^$third-party
 ||profitshare.ro^$third-party
