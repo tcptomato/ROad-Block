@@ -29,10 +29,10 @@
 ###digi-fm-live-stream
 
 ! Filters:
-||profitshare.emag.ro^$third-party
-||profitshare.ro^$third-party
-||e-day.ro^$third-party
-||trafic.ro^$third-party
+||profitshare.emag.ro^$third-party,important
+||profitshare.ro^$third-party,important
+||e-day.ro^$third-party,important
+||trafic.ro^$third-party,important
 
 ! Google trackers
 ||www.google-analytics.com^
@@ -51,6 +51,7 @@
 ||platform.twitter.com/anywhere.js$third-party
 
 ! Misc trackers
+||projectagora.s3.amazonaws.com
 ||2parale.ro^
 ||s.atemda.com^
 ||www4.smartadserver.com^
