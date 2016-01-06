@@ -55,6 +55,7 @@
 ||platform.twitter.com/anywhere.js$third-party
 
 ! Misc trackers
+||admonitoring.bsgroup.ro^
 ||projectagora.s3.amazonaws.com
 ||2parale.ro^
 ||s.atemda.com^
@@ -81,6 +82,12 @@
 ||asset.pagefair.net^
 ||asset.pagefair.com^
 
+! trafictube
+trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
+trafictube.ro/shop
+! needs to block more than it should due to a chromium bug
+trafictube.ro^$inline-script
+##.magazin[href="http://camerevideoauto.ro"]
 
 
 
