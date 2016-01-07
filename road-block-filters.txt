@@ -84,7 +84,7 @@
 
 ! trafictube
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
-trafictube.ro/shop
+trafictube.ro/shop/
 ! needs to block more than it should due to a chromium bug
 trafictube.ro^$inline-script
 ##.magazin[href="http://camerevideoauto.ro"]
