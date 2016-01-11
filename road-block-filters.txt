@@ -1,4 +1,4 @@
-[Adblock]
+[Adblock Plus 2.0]
 ! Title: ROU: Romanian Ad (ROad) Block List
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
@@ -24,6 +24,8 @@
 /upload/ads/*
 /reclama/*
 /Reclama/*
+/affiliate/*
+/Affiliate/*
 
 ! Dom elements
 ###digi-fm-live-stream
