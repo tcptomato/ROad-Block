@@ -5,20 +5,6 @@
 ! Homepage: https://github.com/tcptomato/ROad-Block
 
 
-/banners/*
-/banner/*
-/bannere/*
-/Bannere/*
-/Banners/*
-/Banner/*
-/baner/*
-/banere/*
-/baners/*
-/Baner/*
-/Banere/*
-/Baners/*
-/ads/*
-/Ads/*
 /adverts/*
 /Adverts/*
 /upload/ads/*
@@ -26,6 +12,8 @@
 /Reclama/*
 /affiliate/*
 /Affiliate/*
+/affiliates/*
+/Affiliates/*
 
 ! Dom elements
 ###digi-fm-live-stream
@@ -34,29 +22,13 @@
 ||profitshare.emag.ro^
 ||profitshare.ro^
 ||e-day.ro^
-||trafic.ro^
 ||profitshare.emag.ro^$important
 ||profitshare.ro^$important
 ||e-day.ro^$third-party,important
 ||trafic.ro^$third-party,important
 
-! Google trackers
-||www.google-analytics.com^
-||www.googletagservices.com^
-||google.*/gen_204?$image
-||tpc.googlesyndication.com^
-
-! Facebook trackers
-||graph.facebook.com/fql?q=select$third-party
-||pixel.facebook.com^
-||facebook.com/plugins/like.php?$third-party
-||facebook.com^*/plugins/like_box.php?$third-party
-||facebook.com^*/plugins/page.php?$third-party
-/likebox.
-
-||platform.twitter.com/anywhere.js$third-party
-
 ! Misc trackers
+||evensys.ro^$third-party
 ||admonitoring.bsgroup.ro^
 ||projectagora.s3.amazonaws.com
 ||2parale.ro^
