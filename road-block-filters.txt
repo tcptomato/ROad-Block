@@ -19,13 +19,10 @@
 ###digi-fm-live-stream
 
 ! Filters:
-||profitshare.emag.ro^
-||profitshare.ro^
-||e-day.ro^
-||profitshare.emag.ro^$important
-||profitshare.ro^$important
-||e-day.ro^$third-party,important
-||trafic.ro^$third-party,important
+||profitshare.emag.ro^$third-party
+||profitshare.ro^$third-party
+||e-day.ro^$third-party
+||trafic.ro^$third-party
 
 ! Misc trackers
 ||evensys.ro^$third-party
@@ -39,11 +36,7 @@
 ||brat-online.ro^
 ||adservingfactory.com^
 ||flx1.com^
-||gemius.pl^
-||js-agent.newrelic.com^
 ||adocean.pl^
-||eu-gmtdmp.gd1.mookie1.com^
-||addthis.com^$third-party
 ||ads2.evz.ro^
 ||megapopads.com^
 ||st.ad.adnow.com^
@@ -51,10 +44,6 @@
 ||amazonaws.com/new.cetrk.com/
 ||new.cetrk.com^
 ||zontera.com^$third-party
-||static.chartbeat.com^
-||script.crazyegg.com^
-||asset.pagefair.net^
-||asset.pagefair.com^
 
 ! trafictube
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
@@ -63,5 +52,3 @@ trafictube.ro/shop/
 trafictube.ro^$inline-script
 ##.magazin[href="http://camerevideoauto.ro"]
 ||trafictube.ro/wp-content/Banners/*
-
-
