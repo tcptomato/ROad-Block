@@ -52,3 +52,6 @@ trafictube.ro/shop/
 trafictube.ro^$inline-script
 ##.magazin[href="http://camerevideoauto.ro"]
 ||trafictube.ro/wp-content/Banners/*
+
+
+www.nwradu.ro##.second_header > .container > .reclama728
