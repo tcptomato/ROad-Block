@@ -62,6 +62,6 @@ trafictube.ro/shop/
 ! needs to block more than it should due to a chromium bug
 trafictube.ro^$inline-script
 ##.magazin[href="http://camerevideoauto.ro"]
-
+||trafictube.ro/wp-content/Banners/*
 
 
