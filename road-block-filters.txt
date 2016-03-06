@@ -55,3 +55,6 @@ trafictube.ro^$inline-script
 
 
 www.nwradu.ro##.second_header > .container > .reclama728
+
+||s.zoso.ro/wp-content/hiperdia.png
+||i.imgur.com/JVqiNpu.gif
