@@ -61,3 +61,10 @@ www.nwradu.ro##.second_header > .container > .reclama728
 ||i64.tinypic.com/a4a4vn.jpg
 ||valentinu.ro/keyhost_125_x_125.gif
 ||transilvaniareporter.ro/bannerilcjtreporter.png
+||cetin.ro/poze/2016/02/ame-de-aparare.png
+||www.biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif
+||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
+||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
+||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
+||camerevideoauto.ro/api/produs-responsive-featured.php
+||www.trafictube.ro/smecher/api/produs-responsive.php
