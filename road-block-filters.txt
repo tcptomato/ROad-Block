@@ -70,5 +70,4 @@ www.nwradu.ro##.second_header > .container > .reclama728
 ||camerevideoauto.ro/api/produs-responsive-featured.php
 ||www.trafictube.ro/smecher/api/produs-responsive.php
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
-##center > .black-friday > .side_brand > .right_brand[href="http://originals.ro/"]
-##center > .black-friday > .side_brand > .left_brand[href="http://originals.ro/"]
+||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
