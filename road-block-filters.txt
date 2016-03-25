@@ -71,3 +71,5 @@ www.nwradu.ro##.second_header > .container > .reclama728
 ||www.trafictube.ro/smecher/api/produs-responsive.php
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
+||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
+||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
