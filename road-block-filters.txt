@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 25 March 2016 09:30 UTC
+! Last modified: 03 April 2016 17:16 UTC
 
 
 /adverts/*
@@ -73,3 +73,8 @@ www.nwradu.ro##.second_header > .container > .reclama728
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
+
+www.b1.ro###box_email
+www.b1.ro###overlay
+www.b1.ro##body > div:nth-of-type(5)
+||www.b1.ro/static/casadecor.swf
