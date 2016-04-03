@@ -18,5 +18,5 @@ or
 * manually add it to your ad blocker
 
   ```HTML
-  https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters.txt/
+  https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters.txt
   ```
