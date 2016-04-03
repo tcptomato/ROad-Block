@@ -58,8 +58,6 @@ trafictube.ro^$inline-script
 www.nwradu.ro##.second_header > .container > .reclama728
 
 ||s.zoso.ro/wp-content/hiperdia.png
-||i.imgur.com/JVqiNpu.gif
-||i64.tinypic.com/a4a4vn.jpg
 ||valentinu.ro/keyhost_125_x_125.gif
 ||transilvaniareporter.ro/bannerilcjtreporter.png
 ||cetin.ro/poze/2016/02/ame-de-aparare.png
@@ -78,3 +76,9 @@ www.b1.ro###box_email
 www.b1.ro###overlay
 www.b1.ro##body > div:nth-of-type(5)
 ||www.b1.ro/static/casadecor.swf
+
+
+! the scripts inject now ad divs with random IDs
+! only way to do it until inline-script filters work on chrome
+! please report if it causes any issues
+||trafictube.ro/*.js
