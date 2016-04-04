@@ -24,7 +24,6 @@ www.digi24.ro###category_b
 ||profitshare.emag.ro^$third-party
 ||profitshare.ro^$third-party
 ||e-day.ro^$third-party
-||trafic.ro^$third-party
 
 ! Misc trackers
 ||evensys.ro^$third-party
@@ -45,7 +44,6 @@ www.digi24.ro###category_b
 ||ads.tradeads.eu^
 ||amazonaws.com/newd.cetrk.com/
 ||new.cetrk.com^
-||zontera.com^$third-party
 
 ! trafictube
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
@@ -123,5 +121,8 @@ nosteam.ro###stickynote4
 ||hit100.ro^$third-party
 ||statistics.ro^$third-party
 ||top-ro.ro^$third-party
+||trafic.ro^$third-party
 ||trafix.ro^$third-party
 ||zontera.com^$third-party
+
+www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
