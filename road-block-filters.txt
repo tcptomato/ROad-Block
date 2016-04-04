@@ -99,4 +99,6 @@ www.biziday.ro##A[href="https://www.aegonmarket.ro/"]
 www.biziday.ro##A[href="https://www.bancatransilvania.ro/pentru-companii/imm/credite-imm/investeste-romaneste/"]
 www.biziday.ro##DIV[id="_tdv_all"]
 
-||contestapp.a1.ro
+!Pop-up Ads
+||contestapp.a1.ro^
+||rt.awstaticdn.net^
