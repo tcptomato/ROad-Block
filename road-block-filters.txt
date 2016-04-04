@@ -101,4 +101,4 @@ www.biziday.ro##DIV[id="_tdv_all"]
 
 !Pop-up Ads
 ||contestapp.a1.ro^
-||rt.awstaticdn.net^
+||*.awstaticdn.net^
