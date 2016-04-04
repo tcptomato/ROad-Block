@@ -18,6 +18,7 @@
 
 ! Dom elements
 ###digi-fm-live-stream
+www.digi24.ro###category_b
 
 ! Filters:
 ||profitshare.emag.ro^$third-party
@@ -42,7 +43,7 @@
 ||megapopads.com^
 ||st.ad.adnow.com^
 ||ads.tradeads.eu^
-||amazonaws.com/new.cetrk.com/
+||amazonaws.com/newd.cetrk.com/
 ||new.cetrk.com^
 ||zontera.com^$third-party
 
