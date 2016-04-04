@@ -82,3 +82,20 @@ www.b1.ro##body > div:nth-of-type(5)
 ! only way to do it until inline-script filters work on chrome
 ! please report if it causes any issues
 ||trafictube.ro/*.js
+
+
+www.aerotim.ro##[id="intRightSideBanners"]
+||aerotim.ro/images/thrifty.gif
+||aerotim.ro/images/bannerCityLimo.gif
+||aerotim.ro/images/Banner_240x140px.jpg
+||aerotim.ro/images/hertz.gif
+||aerotim.ro/img/bannerEmpty.jpg
+||aerotim.ro/img/Smartfit.gif
+
+
+www.biziday.ro##A[href="http://bit.ly/1RQRaRq"]
+www.biziday.ro##A[href="https://www.aegonmarket.ro/"]
+www.biziday.ro##A[href="https://www.bancatransilvania.ro/pentru-companii/imm/credite-imm/investeste-romaneste/"]
+www.biziday.ro##DIV[id="_tdv_all"]
+
+
