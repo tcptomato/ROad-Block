@@ -102,7 +102,9 @@ nosteam.ro###stickynote4
 ||terrapops.com^$popup
 
 !Pop-up Ads
-||*.awstaticdn.net^
+||awstaticdn.net^
+||dl14.awstaticdn.net^
+||rt.awstaticdn.net^
 ||contestapp.a1.ro^
 
 ||cloudfront.net$script,domain=playfs.com
