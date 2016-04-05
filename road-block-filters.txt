@@ -104,6 +104,8 @@ nosteam.ro###stickynote4
 !Pop-up Ads
 *.awstaticdn.net^
 *.kreativcdn.net^
+www.academiacatavencu.info##.mask
+www.academiacatavencu.info##.widget-popup
 ||contestapp.a1.ro^
 
 ||cloudfront.net$script,domain=playfs.com
