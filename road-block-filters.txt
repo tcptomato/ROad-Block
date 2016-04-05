@@ -103,6 +103,7 @@ nosteam.ro###stickynote4
 
 !Pop-up Ads
 *.awstaticdn.net^
+*.kreativcdn.net^
 ||contestapp.a1.ro^
 
 ||cloudfront.net$script,domain=playfs.com
