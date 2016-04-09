@@ -125,3 +125,4 @@ www.academiacatavencu.info##.widget-popup
 ||zontera.com^$third-party
 
 www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
+http://cetin.ro/
