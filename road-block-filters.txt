@@ -5,72 +5,69 @@
 ! Homepage: https://github.com/tcptomato/ROad-Block
 ! Last modified: 03 April 2016 21:00 UTC
 
-
 /adverts/*
 /Adverts/*
-/upload/ads/*
-/reclama/*
-/Reclama/*
 /affiliate/*
 /Affiliate/*
 /affiliates/*
 /Affiliates/*
+/reclama/*
+/Reclama/*
+/upload/ads/*
 
 ! Dom elements
 ###digi-fm-live-stream
+www.digi24.ro###category_b
 
 ! Filters:
+||e-day.ro^$third-party
 ||profitshare.emag.ro^$third-party
 ||profitshare.ro^$third-party
-||e-day.ro^$third-party
-||trafic.ro^$third-party
 
 ! Misc trackers
-||evensys.ro^$third-party
-||admonitoring.bsgroup.ro^
-||projectagora.s3.amazonaws.com
 ||2parale.ro^
-||s.atemda.com^
-||www4.smartadserver.com^
-||profiling.avandor.com^
-||storage.trafic.ro^
-||brat-online.ro^
-||adservingfactory.com^
-||flx1.com^
+||admonitoring.bsgroup.ro^
 ||adocean.pl^
-||ads2.evz.ro^
-||megapopads.com^
-||st.ad.adnow.com^
 ||ads.tradeads.eu^
-||amazonaws.com/new.cetrk.com/
+||ads2.evz.ro^
+||adservingfactory.com^
+||amazonaws.com/newd.cetrk.com/
+||brat-online.ro^
+||evensys.ro^$third-party
+||flx1.com^
+||megapopads.com^
 ||new.cetrk.com^
-||zontera.com^$third-party
+||profiling.avandor.com^
+||projectagora.s3.amazonaws.com
+||s.atemda.com^
+||st.ad.adnow.com^
+||storage.trafic.ro^
+||www4.smartadserver.com^
 
 ! trafictube
-trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 trafictube.ro/shop/
+trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ! needs to block more than it should due to a chromium bug
-trafictube.ro^$inline-script
 ##.magazin[href="http://camerevideoauto.ro"]
+trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
-
 
 www.nwradu.ro##.second_header > .container > .reclama728
 
-||s.zoso.ro/wp-content/hiperdia.png
-||valentinu.ro/keyhost_125_x_125.gif
-||transilvaniareporter.ro/bannerilcjtreporter.png
+||camerevideoauto.ro/api/produs-responsive-featured.php
 ||cetin.ro/poze/2016/02/ame-de-aparare.png
+||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
+||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
+||s.zoso.ro/wp-content/hiperdia.png
+||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
+||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
+||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
+||transilvaniareporter.ro/bannerilcjtreporter.png
+||valentinu.ro/keyhost_125_x_125.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
 ||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
-||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
-||camerevideoauto.ro/api/produs-responsive-featured.php
 ||www.trafictube.ro/smecher/api/produs-responsive.php
-||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
-||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
-||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
-||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
 
 www.b1.ro###box_email
 www.b1.ro###overlay
@@ -83,12 +80,11 @@ www.b1.ro##body > div:nth-of-type(5)
 ! please report if it causes any issues
 ||trafictube.ro/*.js
 
-
 www.aerotim.ro##[id="intRightSideBanners"]
-||aerotim.ro/images/thrifty.gif
-||aerotim.ro/images/bannerCityLimo.gif
 ||aerotim.ro/images/Banner_240x140px.jpg
+||aerotim.ro/images/bannerCityLimo.gif
 ||aerotim.ro/images/hertz.gif
+||aerotim.ro/images/thrifty.gif
 ||aerotim.ro/img/bannerEmpty.jpg
 ||aerotim.ro/img/Smartfit.gif
 
@@ -98,4 +94,70 @@ www.biziday.ro##A[href="https://www.aegonmarket.ro/"]
 www.biziday.ro##A[href="https://www.bancatransilvania.ro/pentru-companii/imm/credite-imm/investeste-romaneste/"]
 www.biziday.ro##DIV[id="_tdv_all"]
 
+@@||nosteam.ro/ads/advertisements.js
+nosteam.ro###stickynote4
+||nosteam.ro/js/common.lib.js
+||nosteam.ro/js/jquery.min.25-t1.js
+||nosteam.ro/Themes/*alph21$script
+||terrapops.com^$popup
 
+!Pop-up Ads
+*.awstaticdn.net^
+*.kreativcdn.net^
+www.academiacatavencu.info##.mask
+www.academiacatavencu.info##.widget-popup
+||contestapp.a1.ro^
+
+||cloudfront.net$script,domain=playfs.com
+
+@@||adf.ly^$popup,domain=990.ro
+@@||superweb.rol.ro^$popup,domain=990.ro
+|http:$popup,third-party,domain=990.ro|superweb.rol.ro
+||magazinuldecase.ro^$popup
+
+||best-top.ro^$third-party
+||gtop.ro^$third-party
+||hit100.ro^$third-party
+||statistics.ro^$third-party
+||top-ro.ro^$third-party
+||trafic.ro^$third-party
+||trafix.ro^$third-party
+||zontera.com^$third-party
+
+www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
+
+!Spam Newsletter Filters - Domenii ce se ocupa exclusiv sa iti introduca email-ul in liste de spam.
+||mesterproduse.eu^
+||foartetare.eu^
+||mailagent.ro^
+||contemposhop.eu^
+||acante2016.eu^
+||trimiteemail.info^
+||idunne.com^
+||groupoff.ro^
+||smdela.com^
+||presamedicala.com^
+||relatiidiscrete.ro^
+||iareduceri.eu^
+||teleprod.eu^
+||foartetare.eu^
+||myhealthyblog.info^
+||vacantelastminute.info^
+||mareea.ro^
+||excellentfigure.com^
+||activ-forte.com^
+||outlet-rayban.ro^
+||presamedicala.com^
+||melimeloparis.ro^
+||lenjeriipat-outlet.ro^
+||modlet.ro^
+||hotelmercurminerva.ro^
+||shoppingnewsletters.com^
+||izzyreduceri.ro^
+||vacante2016.eu^
+||vacante2015.com^
+||libertatea.info^
+||silueta-perfecta.ro^
+||cesiune.ro^
+||lipo53.ro^
+||cremaminune.ro^
