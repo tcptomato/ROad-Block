@@ -126,7 +126,7 @@ www.academiacatavencu.info##.widget-popup
 
 www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 
-!Spam Newsletter - Previne abonarea la liste de spam.
+!Spam Newsletter Filters - Domenii ce se ocupa exclusiv sa iti introduca email-ul in liste de spam.
 ||mesterproduse.eu^
 ||foartetare.eu^
 ||mailagent.ro^
@@ -134,3 +134,30 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||acante2016.eu^
 ||trimiteemail.info^
 ||idunne.com^
+||groupoff.ro^
+||smdela.com^
+||presamedicala.com^
+||relatiidiscrete.ro^
+||iareduceri.eu^
+||teleprod.eu^
+||foartetare.eu^
+||myhealthyblog.info^
+||vacantelastminute.info^
+||mareea.ro^
+||excellentfigure.com^
+||activ-forte.com^
+||outlet-rayban.ro^
+||presamedicala.com^
+||melimeloparis.ro^
+||lenjeriipat-outlet.ro^
+||modlet.ro^
+||hotelmercurminerva.ro^
+||shoppingnewsletters.com^
+||izzyreduceri.ro^
+||vacante2016.eu^
+||vacante2015.com^
+||libertatea.info^
+||silueta-perfecta.ro^
+||cesiune.ro^
+||lipo53.ro^
+||cremaminune.ro^
