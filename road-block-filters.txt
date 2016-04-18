@@ -127,6 +127,9 @@ www.academiacatavencu.info##.widget-popup
 
 www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 
+||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
+||www.b1.ro/media/image/andfashion.gif
+
 !Spam Newsletter Filters - Domenii ce se ocupa exclusiv sa iti introduca email-ul in liste de spam.
 ||mesterproduse.eu^
 ||foartetare.eu^
