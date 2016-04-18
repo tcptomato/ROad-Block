@@ -33,6 +33,7 @@ www.digi24.ro###category_b
 ||adservingfactory.com^
 ||amazonaws.com/newd.cetrk.com/
 ||brat-online.ro^
+||chargeplatform.com^
 ||evensys.ro^$third-party
 ||flx1.com^
 ||megapopads.com^
