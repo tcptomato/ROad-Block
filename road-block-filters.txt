@@ -165,3 +165,11 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||cesiune.ro^
 ||lipo53.ro^
 ||cremaminune.ro^
+||jocuricorporate.com^
+||parfumul.net^
+||infolosultau.eu^
+||great4mylife.com^
+||new-b.ro^
+||vendiup.com^
+||panipromo.com^
+||certificateiso.ro^
