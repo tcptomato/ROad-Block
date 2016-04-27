@@ -9,7 +9,7 @@ Dacă descoperi probleme în aceasta, te rugăm să deschizi un ticket.
 If you want to contribute filters, pull requests or open issues are welcome.
 
 
-# Adăugarea de filtre customizate
+# Adăugarea filtrului personalizat
 
 Sunt multe moduri prin care poți adăuga acest filtru în blocantul tău, din păcate puțin complicate datorită lipsei unor opțiuni în markdown-ul github.
 
