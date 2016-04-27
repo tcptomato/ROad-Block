@@ -14,7 +14,7 @@ If you want to contribute filters, pull requests or open issues are welcome.
 Sunt multe moduri prin care poți adăuga acest filtru în blocantul tău, din păcate puțin complicate datorită lipsei unor opțiuni în markdown-ul github.
 
 * Mergi la [filterlists.com](https://filterlists.com/),caută pentru **ROad** apoi click pe add
-* Merli la [my own website](http://www.kepler42.net/test.html) și click pe add
+* Mergi la [site-ul meu](http://www.kepler42.net/test.html) și click pe add
 sau
 * manual adăugând următoarea linie în blocantul tău
 
