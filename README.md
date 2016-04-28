@@ -6,7 +6,7 @@ Această listă a fost creată deoarece actuala existentă nu este îndeajuns de
 
 Dacă descoperi probleme în aceasta, te rugăm să deschizi un ticket.
 
-If you want to contribute filters, pull requests or open issues are welcome.
+Dacă dorești să contribui cu filtre, aplică un 'Pull Requests' sau deschide un ticket la 'Issue'.
 
 
 # Adăugarea filtrului personalizat
