@@ -173,3 +173,5 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||vendiup.com^
 ||panipromo.com^
 ||certificateiso.ro^
+||seedfile.ro^
+||torrentsfile.com^
