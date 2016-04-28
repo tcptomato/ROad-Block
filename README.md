@@ -14,12 +14,12 @@ Dacă dorești să contribui cu filtre, aplică un 'Pull Requests' sau deschide 
 Sunt multe moduri prin care poți adăuga acest filtru în blocantul tău, din păcate puțin complicate datorită lipsei unor opțiuni în markdown-ul github.
 
 * Mergi la [filterlists.com](https://filterlists.com/),caută pentru **ROad** apoi click pe add
-* Mergi la [site-ul meu](http://www.kepler42.net/test.html) și click pe add
+* Mergi la [site-ul ROad](https://road.adblock.ro) și click pe add
 sau
 * manual adăugând următoarea linie în blocantul tău
 
   ```HTML
-  https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters.txt
+  https://road.adblock.ro/lista.txt
   ```
 
 
@@ -38,10 +38,10 @@ If you want to contribute filters, pull requests or open issues are welcome.
 There are multiple ways to add this filter to your blocker, unfortunately a bit cumbersome due to a missing feature in the github markdown.
 
 * Go to [filterlists.com](https://filterlists.com/),search for **ROad** then click on add
-* Go to [my own website](http://www.kepler42.net/test.html) and click on add
+* Go to [ROad website](https://road.adblock.ro) and click on add
 or
 * manually add it to your ad blocker
 
   ```HTML
-  https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters.txt
+  https://road.adblock.ro/lista.txt
   ```
