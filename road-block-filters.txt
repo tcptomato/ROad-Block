@@ -130,7 +130,8 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
 ||www.b1.ro/media/image/andfashion.gif
 
-!Spam Newsletter Filters - Domenii ce se ocupa exclusiv sa iti introduca email-ul in liste de spam.
+! Filtre SPAM
+! Domenii ce se ocupa de culegearea adreselor de email pentru crearea de liste spam sau domenii ro ce distribuie malware.
 ||mesterproduse.eu^
 ||foartetare.eu^
 ||mailagent.ro^
