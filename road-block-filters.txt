@@ -177,3 +177,5 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||certificateiso.ro^
 ||seedfile.ro^
 ||torrentsfile.com^
+||trendymag.eu^
+||fashiontribes.ro^
