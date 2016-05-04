@@ -113,6 +113,7 @@ www.academiacatavencu.info##.widget-popup
 
 @@||adf.ly^$popup,domain=990.ro
 @@||superweb.rol.ro^$popup,domain=990.ro
+990.ro##body > div:nth-of-type(1) > .disa
 |http:$popup,third-party,domain=990.ro|superweb.rol.ro
 ||magazinuldecase.ro^$popup
 
