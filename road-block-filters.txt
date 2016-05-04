@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 28 April 2016 11:00 UTC
+! Last modified: 04 May 2016 16:13 UTC
 
 /adverts/*
 /Adverts/*
@@ -180,3 +180,5 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||trendymag.eu^
 ||fashiontribes.ro^
 ||optimashop.ro^
+||pentalog.ro^
+||sacividat.ro^
