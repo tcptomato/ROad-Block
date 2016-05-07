@@ -184,4 +184,6 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||pentalog.ro^
 ||sacividat.ro^
 ||hostyfy.com^
-||reduceriochelari.eu^
+||justfitartstudio.ro^
+||converse-all-star.ro^
+||converse-allstar.ro^
