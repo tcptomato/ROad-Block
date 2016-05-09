@@ -187,3 +187,5 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||justfitartstudio.ro^
 ||converse-all-star.ro^
 ||converse-allstar.ro^
+||campaignsender.ro^
+||ecobricolaj.ro^
