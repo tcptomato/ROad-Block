@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 09 May 2016 14:55 UTC
+! Last modified: 12 May 2016 17:19 UTC
 
 /adverts/*
 /Adverts/*
@@ -69,6 +69,7 @@ www.nwradu.ro##.second_header > .container > .reclama728
 ||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
 ||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
 ||www.trafictube.ro/smecher/api/produs-responsive.php
+||cetin.ro/poze/2016/05/keyhost_125_x_125.gif
 
 www.b1.ro###box_email
 www.b1.ro###overlay
