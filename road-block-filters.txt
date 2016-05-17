@@ -133,8 +133,8 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||www.b1.ro/media/image/andfashion.gif
 ||www.lumeapokemon.ro/pokemon.gif
 
-! Filtre SPAM
-! Domenii ce se ocupa de culegearea adreselor de email pentru crearea de liste spam sau domenii ro ce distribuie malware.
+! Lista Fantoma | Anti-spam | Domenii malitioase
+! Domenii ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
 ||mesterproduse.eu^
 ||foartetare.eu^
 ||mailagent.ro^
