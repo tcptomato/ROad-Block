@@ -133,6 +133,7 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||www.b1.ro/media/image/andfashion.gif
 ||www.lumeapokemon.ro/pokemon.gif
 ||www.agerpres.ro/agerpres/BannerFetch$image
+hotnews.ro###pageBodyx > .padded_page_body > .contentFather > .content > .right_side > a > img
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
