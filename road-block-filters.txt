@@ -196,3 +196,4 @@ www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(
 ||torrentbits.net^
 ||propantofi.eu^
 ||s77.ro^
+||lastfile.ro^
