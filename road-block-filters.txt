@@ -135,6 +135,7 @@ www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
 ||www.agerpres.ro/agerpres/BannerFetch$image
 hotnews.ro###pageBodyx > .padded_page_body > .contentFather > .content > .right_side > a > img
 www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(18)
+www.kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
