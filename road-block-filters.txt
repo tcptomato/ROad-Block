@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 22 May 2016 15:16 UTC
+! Last modified: 25 May 2016 10:10 UTC
 
 /adverts/*
 /Adverts/*
@@ -18,6 +18,12 @@
 ! Dom elements
 ###digi-fm-live-stream
 www.digi24.ro###category_b
+www.catchy.ro###footer-ads-section
+www.catchy.ro###sidebar > .box > .ad300x250-box
+www.catchy.ro###sidebar > .ad300x250-box
+www.catchy.ro###sidebar > .box:nth-of-type(6)
+www.catchy.ro###sidebar > .box:nth-of-type(7)
+www.catchy.ro###sidebar > .box:nth-of-type(15)
 
 ! Filters:
 ||e-day.ro^$third-party
