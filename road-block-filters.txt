@@ -25,6 +25,7 @@ www.catchy.ro###sidebar > .box:nth-of-type(6)
 www.catchy.ro###sidebar > .box:nth-of-type(7)
 www.catchy.ro###sidebar > .box:nth-of-type(15)
 www.stiripesurse.ro##.small.banner
+www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 
 ! Filters:
 ||e-day.ro^$third-party
