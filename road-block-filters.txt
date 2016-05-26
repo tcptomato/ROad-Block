@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 25 May 2016 10:10 UTC
+! Last modified: 26 May 2016 11:09 UTC
 
 /adverts/*
 /Adverts/*
@@ -17,15 +17,20 @@
 
 ! Dom elements
 ###digi-fm-live-stream
-www.digi24.ro###category_b
+hotnews.ro###pageBodyx > .padded_page_body > .contentFather > .content > .right_side > a > img
 www.catchy.ro###footer-ads-section
-www.catchy.ro###sidebar > .box > .ad300x250-box
 www.catchy.ro###sidebar > .ad300x250-box
+www.catchy.ro###sidebar > .box > .ad300x250-box
+www.catchy.ro###sidebar > .box:nth-of-type(15)
 www.catchy.ro###sidebar > .box:nth-of-type(6)
 www.catchy.ro###sidebar > .box:nth-of-type(7)
-www.catchy.ro###sidebar > .box:nth-of-type(15)
-www.stiripesurse.ro##.small.banner
+www.digi24.ro###category_b
+www.kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
+www.nwradu.ro##.second_header > .container > .reclama728
+www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(18)
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
+www.stiripesurse.ro##.small.banner
+www.urban.ro###home_calendar > a
 
 ! Filters:
 ||e-day.ro^$third-party
@@ -61,10 +66,9 @@ trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
 
-www.nwradu.ro##.second_header > .container > .reclama728
-
 ||camerevideoauto.ro/api/produs-responsive-featured.php
 ||cetin.ro/poze/2016/02/ame-de-aparare.png
+||cetin.ro/poze/2016/05/keyhost_125_x_125.gif
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||s.zoso.ro/wp-content/hiperdia.png
@@ -77,7 +81,6 @@ www.nwradu.ro##.second_header > .container > .reclama728
 ||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
 ||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
 ||www.trafictube.ro/smecher/api/produs-responsive.php
-||cetin.ro/poze/2016/05/keyhost_125_x_125.gif
 
 www.b1.ro###box_email
 www.b1.ro###overlay
@@ -97,7 +100,6 @@ www.aerotim.ro##[id="intRightSideBanners"]
 ||aerotim.ro/images/thrifty.gif
 ||aerotim.ro/img/bannerEmpty.jpg
 ||aerotim.ro/img/Smartfit.gif
-
 
 www.biziday.ro##A[href="http://bit.ly/1RQRaRq"]
 www.biziday.ro##A[href="https://www.aegonmarket.ro/"]
@@ -135,74 +137,69 @@ www.academiacatavencu.info##.widget-popup
 ||trafix.ro^$third-party
 ||zontera.com^$third-party
 
-www.urban.ro###home_calendar > a[href^="http://core1.zontera.com/click"]
-
-||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
+||www.agerpres.ro/agerpres/BannerFetch$image
 ||www.b1.ro/media/image/andfashion.gif
 ||www.lumeapokemon.ro/pokemon.gif
-||www.agerpres.ro/agerpres/BannerFetch$image
-hotnews.ro###pageBodyx > .padded_page_body > .contentFather > .content > .right_side > a > img
-www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(18)
-www.kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
+||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
-||mesterproduse.eu^
-||foartetare.eu^
-||mailagent.ro^
-||contemposhop.eu^
 ||acante2016.eu^
-||trimiteemail.info^
-||idunne.com^
-||groupoff.ro^
-||smdela.com^
-||presamedicala.com^
-||relatiidiscrete.ro^
-||iareduceri.eu^
-||teleprod.eu^
-||foartetare.eu^
-||myhealthyblog.info^
-||vacantelastminute.info^
-||mareea.ro^
-||excellentfigure.com^
 ||activ-forte.com^
-||outlet-rayban.ro^
-||presamedicala.com^
-||melimeloparis.ro^
-||lenjeriipat-outlet.ro^
-||modlet.ro^
-||hotelmercurminerva.ro^
-||shoppingnewsletters.com^
-||izzyreduceri.ro^
-||vacante2016.eu^
-||vacante2015.com^
-||libertatea.info^
-||silueta-perfecta.ro^
-||cesiune.ro^
-||lipo53.ro^
-||cremaminune.ro^
-||jocuricorporate.com^
-||parfumul.net^
-||infolosultau.eu^
-||great4mylife.com^
-||new-b.ro^
-||vendiup.com^
-||panipromo.com^
+||campaignsender.ro^
 ||certificateiso.ro^
-||seedfile.ro^
-||torrentsfile.com^
-||trendymag.eu^
-||fashiontribes.ro^
-||optimashop.ro^
-||pentalog.ro^
-||sacividat.ro^
-||hostyfy.com^
-||justfitartstudio.ro^
+||cesiune.ro^
+||contemposhop.eu^
 ||converse-all-star.ro^
 ||converse-allstar.ro^
-||campaignsender.ro^
+||cremaminune.ro^
 ||ecobricolaj.ro^
-||torrentbits.net^
-||propantofi.eu^
-||s77.ro^
+||excellentfigure.com^
+||fashiontribes.ro^
+||foartetare.eu^
+||foartetare.eu^
+||great4mylife.com^
+||groupoff.ro^
+||hostyfy.com^
+||hotelmercurminerva.ro^
+||iareduceri.eu^
+||idunne.com^
+||infolosultau.eu^
+||izzyreduceri.ro^
+||jocuricorporate.com^
+||justfitartstudio.ro^
 ||lastfile.ro^
+||lenjeriipat-outlet.ro^
+||libertatea.info^
+||lipo53.ro^
+||mailagent.ro^
+||mareea.ro^
+||melimeloparis.ro^
+||mesterproduse.eu^
+||modlet.ro^
+||myhealthyblog.info^
+||new-b.ro^
+||optimashop.ro^
+||outlet-rayban.ro^
+||panipromo.com^
+||parfumul.net^
+||pentalog.ro^
+||presamedicala.com^
+||presamedicala.com^
+||propantofi.eu^
+||relatiidiscrete.ro^
+||s77.ro^
+||sacividat.ro^
+||seedfile.ro^
+||shoppingnewsletters.com^
+||silueta-perfecta.ro^
+||smdela.com^
+||teleprod.eu^
+||torrentbits.net^
+||torrentsfile.com^
+||trendymag.eu^
+||trimiteemail.info^
+||vacante2015.com^
+||vacante2016.eu^
+||vacantelastminute.info^
+||vendiup.com^
