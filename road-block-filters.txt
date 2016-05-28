@@ -146,6 +146,7 @@ www.academiacatavencu.info##.widget-popup
 ||www.b1.ro/media/image/andfashion.gif
 ||www.lumeapokemon.ro/pokemon.gif
 ||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
+||xml.agerpres.ro/agerpres/views/site/pages/xml/widget.html*
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
