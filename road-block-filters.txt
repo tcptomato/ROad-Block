@@ -32,6 +32,8 @@ www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 www.stiripesurse.ro##.small.banner
 www.urban.ro###home_calendar > a
+##.only_desktop.related_on_top.parteneri.sectiune
+##.only-desktop.promotii-wrapper
 
 ! Filters:
 ||e-day.ro^$third-party
