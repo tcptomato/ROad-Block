@@ -36,6 +36,7 @@ www.urban.ro###home_calendar > a
 ##.only-desktop.promotii-wrapper
 infopuls.ro###text-3
 infopuls.ro###text-13
+infopuls.ro###text-7
 
 ! Filters:
 ||e-day.ro^$third-party
