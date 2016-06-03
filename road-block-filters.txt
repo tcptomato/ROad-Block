@@ -194,7 +194,6 @@ www.academiacatavencu.info##.widget-popup
 ||parfumul.net^
 ||pentalog.ro^
 ||presamedicala.com^
-||presamedicala.com^
 ||propantofi.eu^
 ||relatiidiscrete.ro^
 ||s77.ro^
@@ -216,3 +215,5 @@ www.academiacatavencu.info##.widget-popup
 ||kidstep.ro^
 ||3x.ro^
 ||hi2.ro^
+||lastfiles.net^
+||last-torrents.org^
