@@ -221,3 +221,5 @@ www.academiacatavencu.info##.widget-popup
 ||softopt.eu^
 ||stereomag.ro^
 ||spshop.eu^
+!cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
+^adidas-pairs.com^
