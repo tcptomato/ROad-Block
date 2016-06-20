@@ -71,6 +71,8 @@ trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ##.magazin[href="http://camerevideoauto.ro"]
 trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
+@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
+@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
 
 ||camerevideoauto.ro/api/produs-responsive-featured.php
 ||cetin.ro/poze/2016/02/ame-de-aparare.png
