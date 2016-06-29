@@ -125,8 +125,9 @@ nosteam.ro###stickynote4
 ||terrapops.com^$popup
 
 !Pop-up Ads
-*.awstaticdn.net^
-*.kreativcdn.net^
+||awstaticdn.net^
+||kreativcdn.net^
+||creativcdn.net^
 www.academiacatavencu.info##.mask
 www.academiacatavencu.info##.widget-popup
 ||contestapp.a1.ro^
@@ -224,5 +225,6 @@ www.academiacatavencu.info##.widget-popup
 ||stereomag.ro^
 ||spshop.eu^
 ||rbromania.com^
+||apps-web-store.net^
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 ||adidas-pairs.com^
