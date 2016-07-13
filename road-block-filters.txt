@@ -73,6 +73,7 @@ transilvaniareporter.ro###flashContent
 ||storage.trafic.ro^
 ||www4.smartadserver.com^
 ||track.atom-data.io^
+||adexc.net^
 
 ! trafictube
 trafictube.ro/shop/
@@ -243,3 +244,5 @@ www.academiacatavencu.info##.widget-popup
 ||adidas-pairs.com^
 ||wwwpromoter.com^
 ||sw1block.com^
+104.197.140.120
+||searchincognito.com^
