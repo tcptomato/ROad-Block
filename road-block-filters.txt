@@ -72,6 +72,7 @@ transilvaniareporter.ro###flashContent
 ||st.ad.adnow.com^
 ||storage.trafic.ro^
 ||www4.smartadserver.com^
+||track.atom-data.io^
 
 ! trafictube
 trafictube.ro/shop/
