@@ -45,6 +45,7 @@ www.urban.ro###home_calendar > a
 infopuls.ro###text-3
 infopuls.ro###text-13
 infopuls.ro###text-7
+transilvaniareporter.ro###flashContent
 
 ! Filters:
 ||e-day.ro^$third-party
