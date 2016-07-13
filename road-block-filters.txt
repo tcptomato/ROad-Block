@@ -16,13 +16,11 @@
 /reclama/*
 /Reclama/*
 /upload/ads/*
-/mashvipo.min.js*
-/jquery.jazz-popup.js*
-/jquery.jazz-popup.min.js*
-/mashsb.min.js*
-/mashfbar.min.js*
-/jquery.iframetracker.js*
-/jquery.fancybox.js*
+/mashshare-fblikebar/*
+/mashsharer/*
+/mashshare-videopost/*
+/crudlab-facebook-like-box/*
+/facebook-page-promoter-lightbox/*
 
 ! Dom elements
 ###digi-fm-live-stream
