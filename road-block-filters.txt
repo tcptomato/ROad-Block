@@ -17,6 +17,10 @@
 /Reclama/*
 /upload/ads/*
 /mashvipo.min.js*
+/jquery.jazz-popup.js*
+/jquery.jazz-popup.min.js*
+/mashsb.min.js*
+/mashfbar.min.js*
 
 ! Dom elements
 ###digi-fm-live-stream
