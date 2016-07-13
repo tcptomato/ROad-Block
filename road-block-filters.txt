@@ -21,6 +21,8 @@
 /mashshare-videopost/*
 /crudlab-facebook-like-box/*
 /facebook-page-promoter-lightbox/*
+/jquery.fancybox.js*
+/jquery.iframetracker.js*
 
 ! Dom elements
 ###digi-fm-live-stream
