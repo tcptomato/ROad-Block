@@ -16,6 +16,7 @@
 /reclama/*
 /Reclama/*
 /upload/ads/*
+/mashvipo.min.js*
 
 ! Dom elements
 ###digi-fm-live-stream
@@ -232,3 +233,4 @@ www.academiacatavencu.info##.widget-popup
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 ||adidas-pairs.com^
 ||wwwpromoter.com^
+||sw1block.com^
