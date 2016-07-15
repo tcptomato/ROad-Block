@@ -1,9 +1,9 @@
-[Adblock Plus 2.0]
+[Adblock Plus 2.1]
 ! Title: ROU: Romanian Ad (ROad) Block List
-! Expires: 1 days
+! Expires: 2 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 13 July 2016 09:54 UTC
+! Last modified: 15 July 2016 21:14 UTC
 
 /adverts/*
 /ads/*
@@ -244,5 +244,5 @@ www.academiacatavencu.info##.widget-popup
 ||adidas-pairs.com^
 ||wwwpromoter.com^
 ||sw1block.com^
-104.197.140.120
+104.197.140.120^$popup
 ||searchincognito.com^
