@@ -3,7 +3,7 @@
 ! Expires: 2 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 18 July 2016 23:42 UTC
+! Last modified: 22 July 2016 20:06 UTC
 
 /adverts/*
 /ads/*
@@ -245,6 +245,8 @@ www.academiacatavencu.info##.widget-popup
 ||spshop.eu^
 ||rbromania.com^
 ||apps-web-store.net^
+||treburilecasei.eu^
+||lenjerii.org^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 ||adidas-pairs.com^
