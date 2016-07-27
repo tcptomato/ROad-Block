@@ -98,6 +98,7 @@ trafictube.ro^$inline-script
 ||cetin.ro/poze/2016/07/echoz_125x125.png
 ||www.letsvote.ro/wp-content/uploads/2016/07/*
 cetin.ro##.cetinblog > .site-header > .prehead
+||cetin.ro/poze/2016/07/sgg.jpg
 
 ||s.zoso.ro/wp-content/hiperdia.png
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
