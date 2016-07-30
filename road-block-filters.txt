@@ -118,6 +118,9 @@ www.b1.ro###overlay
 www.b1.ro##body > div:nth-of-type(5)
 ||www.b1.ro/static/casadecor.swf
 
+www.stiridecluj.ro##div[onclick]
+||www.stiridecluj.ro/files/banners*
+www.ziardecluj.ro##div.ad
 
 ! the scripts inject now ad divs with random IDs
 ! only way to do it until inline-script filters work on chrome
