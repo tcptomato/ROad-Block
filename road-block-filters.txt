@@ -106,6 +106,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||s.zoso.ro/wp-content/steemit_ro.gif
 ||s.zoso.ro/wp-content/steemitro.gif
 ||s.zoso.ro/wp-content/bit.jpg
+||s.zoso.ro/wp-content/bit1.jpg
 ||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
 ||transilvaniareporter.ro/bannerilcjtreporter.png
 ||valentinu.ro/keyhost_125_x_125.gif
