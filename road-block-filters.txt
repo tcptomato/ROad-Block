@@ -3,7 +3,7 @@
 ! Expires: 2 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 04 Aug 2016 15:28 UTC
+! Last modified: 08 Aug 2016 16:18 UTC
 
 /adverts/*
 /ads/*
@@ -106,6 +106,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||s.zoso.ro/wp-content/steemit_ro.gif
 ||s.zoso.ro/wp-content/steemitro.gif
 ||s.zoso.ro/wp-content/bit.jpg
+||s.zoso.ro/wp-content/bit1.jpg
 ||s.zoso.ro/wp-content/bit1.jpg
 ||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
 ||transilvaniareporter.ro/bannerilcjtreporter.png
