@@ -3,30 +3,36 @@
 ! Expires: 2 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 08 Aug 2016 16:18 UTC
+! Last modified: 08 Aug 2016 13:15 UTC
 
-/adverts/*
+/Adverts/*
+/Affiliate/*
+/Affiliates/*
+/Reclama/*
 /ads/*
 /advertisement.js/*
-/Adverts/*
+/adverts/*
 /affiliate/*
-/Affiliate/*
 /affiliates/*
-/Affiliates/*
-/reclama/*
-/Reclama/*
-/upload/ads/*
-/mashshare-fblikebar/*
-/mashsharer/*
-/mashshare-videopost/*
 /crudlab-facebook-like-box/*
 /facebook-page-promoter-lightbox/*
 /jquery.fancybox.js*
 /jquery.iframetracker.js*
+/mashshare-fblikebar/*
+/mashshare-videopost/*
+/mashsharer/*
+/reclama/*
+/upload/ads/*
 
 ! Dom elements
 ###digi-fm-live-stream
+##.only-desktop.promotii-wrapper
+##.only_desktop.related_on_top.parteneri.sectiune
 hotnews.ro###pageBodyx > .padded_page_body > .contentFather > .content > .right_side > a > img
+infopuls.ro###text-13
+infopuls.ro###text-3
+infopuls.ro###text-7
+transilvaniareporter.ro###flashContent
 www.catchy.ro###footer-ads-section
 www.catchy.ro###sidebar > .ad300x250-box
 www.catchy.ro###sidebar > .box > .ad300x250-box
@@ -40,12 +46,6 @@ www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 www.stiripesurse.ro##.small.banner
 www.urban.ro###home_calendar > a
-##.only_desktop.related_on_top.parteneri.sectiune
-##.only-desktop.promotii-wrapper
-infopuls.ro###text-3
-infopuls.ro###text-13
-infopuls.ro###text-7
-transilvaniareporter.ro###flashContent
 
 ! Filters:
 ||e-day.ro^$third-party
@@ -54,6 +54,7 @@ transilvaniareporter.ro###flashContent
 
 ! Misc trackers
 ||2parale.ro^
+||adexc.net^
 ||admonitoring.bsgroup.ro^
 ||adocean.pl^
 ||ads.tradeads.eu^
@@ -71,50 +72,53 @@ transilvaniareporter.ro###flashContent
 ||s.atemda.com^
 ||st.ad.adnow.com^
 ||storage.trafic.ro^
-||www4.smartadserver.com^
 ||track.atom-data.io^
-||adexc.net^
+||www4.smartadserver.com^
 
 ! trafictube
 trafictube.ro/shop/
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ! needs to block more than it should due to a chromium bug
 ##.magazin[href="http://camerevideoauto.ro"]
+@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
+@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
 trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
-@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
-@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
+||www.trafictube.ro/smecher/api/produs-responsive.php
+! the scripts inject now ad divs with random IDs
+! only way to do it until inline-script filters work on chrome
+! please report if it causes any issues
+||trafictube.ro/*.js
 
+cetin.ro##.cetinblog > .site-header > .prehead
 ||camerevideoauto.ro/api/produs-responsive-featured.php
 ||cetin.ro/poze/2016/02/ame-de-aparare.png
+||cetin.ro/poze/2016/04/logo-new.png
+||cetin.ro/poze/2016/04/logoh-new.png
 ||cetin.ro/poze/2016/05/keyhost_125_x_125.gif
-||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
-||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||cetin.ro/poze/2016/06/alexa.png
 ||cetin.ro/poze/2016/06/alexa2.png
 ||cetin.ro/poze/2016/06/servicii-infiintare-firme.png
-||cetin.ro/poze/2016/04/logoh-new.png
-||cetin.ro/poze/2016/04/logo-new.png
 ||cetin.ro/poze/2016/07/echoz_125x125.png
-||www.letsvote.ro/wp-content/uploads/2016/07/*
-cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/poze/2016/07/sgg.jpg
+||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
+||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
+||www.letsvote.ro/wp-content/uploads/2016/07/*
 
-||s.zoso.ro/wp-content/hiperdia.png
-||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
-||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
-||s.zoso.ro/wp-content/steemit_ro.gif
-||s.zoso.ro/wp-content/steemitro.gif
 ||s.zoso.ro/wp-content/bit.jpg
 ||s.zoso.ro/wp-content/bit1.jpg
 ||s.zoso.ro/wp-content/bit_1.jpg
+||s.zoso.ro/wp-content/hiperdia.png
+||s.zoso.ro/wp-content/steemit_ro.gif
+||s.zoso.ro/wp-content/steemitro.gif
+||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
+||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
 ||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
 ||transilvaniareporter.ro/bannerilcjtreporter.png
 ||valentinu.ro/keyhost_125_x_125.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
 ||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
-||www.trafictube.ro/smecher/api/produs-responsive.php
 
 www.b1.ro###box_email
 www.b1.ro###overlay
@@ -122,21 +126,16 @@ www.b1.ro##body > div:nth-of-type(5)
 ||www.b1.ro/static/casadecor.swf
 
 www.stiridecluj.ro##div[onclick]
-||www.stiridecluj.ro/files/banners*
 www.ziardecluj.ro##div.ad
-
-! the scripts inject now ad divs with random IDs
-! only way to do it until inline-script filters work on chrome
-! please report if it causes any issues
-||trafictube.ro/*.js
+||www.stiridecluj.ro/files/banners*
 
 www.aerotim.ro##[id="intRightSideBanners"]
 ||aerotim.ro/images/Banner_240x140px.jpg
 ||aerotim.ro/images/bannerCityLimo.gif
 ||aerotim.ro/images/hertz.gif
 ||aerotim.ro/images/thrifty.gif
-||aerotim.ro/img/bannerEmpty.jpg
 ||aerotim.ro/img/Smartfit.gif
+||aerotim.ro/img/bannerEmpty.jpg
 
 www.biziday.ro##A[href="http://bit.ly/1RQRaRq"]
 www.biziday.ro##A[href="https://www.aegonmarket.ro/"]
@@ -145,24 +144,24 @@ www.biziday.ro##DIV[id="_tdv_all"]
 
 @@||nosteam.ro/ads/advertisements.js
 nosteam.ro###stickynote4
+||nosteam.ro/Themes/*alph21$script
 ||nosteam.ro/js/common.lib.js
 ||nosteam.ro/js/jquery.min.25-t1.js
-||nosteam.ro/Themes/*alph21$script
 ||terrapops.com^$popup
 
 !Pop-up Ads
-||awstaticdn.net^
-||kreativcdn.net^
-||creativcdn.net^
 www.academiacatavencu.info##.mask
 www.academiacatavencu.info##.widget-popup
+||awstaticdn.net^
 ||contestapp.a1.ro^
+||creativcdn.net^
+||kreativcdn.net^
 
 ||cloudfront.net$script,domain=playfs.com
 
+990.ro##body > div:nth-of-type(1) > .disa
 @@||adf.ly^$popup,domain=990.ro
 @@||superweb.rol.ro^$popup,domain=990.ro
-990.ro##body > div:nth-of-type(1) > .disa
 |http:$popup,third-party,domain=990.ro|superweb.rol.ro
 ||magazinuldecase.ro^$popup
 
@@ -178,13 +177,14 @@ www.academiacatavencu.info##.widget-popup
 ||www.agerpres.ro/agerpres/BannerFetch$image
 ||www.b1.ro/media/image/andfashion.gif
 ||www.lumeapokemon.ro/pokemon.gif
-||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
 ||xml.agerpres.ro/agerpres/views/site/pages/xml/widget.html*
+||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
-||acante2016.eu^
+||3x.ro^
 ||activ-forte.com^
+||apps-web-store.net^
 ||campaignsender.ro^
 ||certificateiso.ro^
 ||cesiune.ro^
@@ -192,13 +192,16 @@ www.academiacatavencu.info##.widget-popup
 ||converse-all-star.ro^
 ||converse-allstar.ro^
 ||cremaminune.ro^
+||dvdlovers.org^
 ||ecobricolaj.ro^
+||evrida.ro^
 ||excellentfigure.com^
 ||fashiontribes.ro^
 ||foartetare.eu^
 ||foartetare.eu^
 ||great4mylife.com^
 ||groupoff.ro^
+||hi2.ro^
 ||hostyfy.com^
 ||hotelmercurminerva.ro^
 ||iareduceri.eu^
@@ -207,7 +210,11 @@ www.academiacatavencu.info##.widget-popup
 ||izzyreduceri.ro^
 ||jocuricorporate.com^
 ||justfitartstudio.ro^
+||kidstep.ro^
+||last-torrents.org^
 ||lastfile.ro^
+||lastfiles.net^
+||lenjerii.org^
 ||lenjeriipat-outlet.ro^
 ||libertatea.info^
 ||lipo53.ro^
@@ -225,6 +232,7 @@ www.academiacatavencu.info##.widget-popup
 ||pentalog.ro^
 ||presamedicala.com^
 ||propantofi.eu^
+||rbromania.com^
 ||relatiidiscrete.ro^
 ||s77.ro^
 ||sacividat.ro^
@@ -232,78 +240,66 @@ www.academiacatavencu.info##.widget-popup
 ||shoppingnewsletters.com^
 ||silueta-perfecta.ro^
 ||smdela.com^
+||softopt.eu^
+||spshop.eu^
+||stereomag.ro^
 ||teleprod.eu^
+||thefile.ro^
 ||torrentbits.net^
 ||torrentsfile.com^
+||treburilecasei.eu^
 ||trendymag.eu^
 ||trimiteemail.info^
 ||vacante2015.com^
 ||vacante2016.eu^
 ||vacantelastminute.info^
 ||vendiup.com^
-||thefile.ro^
-||kidstep.ro^
-||3x.ro^
-||hi2.ro^
-||lastfiles.net^
-||dvdlovers.org^
-||evrida.ro^
-||last-torrents.org^
-||softopt.eu^
-||stereomag.ro^
-||spshop.eu^
-||rbromania.com^
-||apps-web-store.net^
-||treburilecasei.eu^
-||lenjerii.org^
 
 ! Lista cu situri flag-uite de verificasursa.ro
-||ziardecluj.ro^
-||cocoon.ro^
-||fluierul.ro^
-||vremuritulburi.com^
-||nedreptate.net^
-||expunere.com^
-||descrieri.ro^
-||cunoastelumea.ro^
 ||activenews.ro^
 ||aflasitu.ro^
-||infoAlert.ro^
-||cyd.ro^
-||efemeride.ro^
-||nationalisti.ro^
-||nasul.ro^
-||nuv.ro^
-||social-media-romania.eu^
-||searchnewsglobal.wordpress.com^
-||lovendal.ro^
-||ziaristionline.ro^
-||yno.ro^
 ||caplimpede.ro^
-||secretele.com^
-||napocanews.ro^
-||stirinefiltrate.ro^
-||dzr.org.ro^
-||stiri-extreme.ro^
-||ro.blastingnews.com^
-||onlinereport.ro^
-||obiectiv.info^
-||dailynewsro.com^
-||soim.ro^
-||gandeste.org^
-||recentnews.ro^
-||eufrosin.wordpress.com^
+||cocoon.ro^
 ||criterii.ro^
-||reporteronline.net^
-||lupuldacicblogg.wordpress.com^
+||cunoastelumea.ro^
+||cyd.ro^
+||dailynewsro.com^
+||descrieri.ro^
+||dzr.org.ro^
+||efemeride.ro^
+||eufrosin.wordpress.com^
+||expunere.com^
+||fluierul.ro^
+||gandeste.org^
 ||incorect.org^
+||infoAlert.ro^
+||lovendal.ro^
+||lupuldacicblogg.wordpress.com^
+||napocanews.ro^
+||nasul.ro^
+||nationalisti.ro^
+||nedreptate.net^
+||nuv.ro^
+||obiectiv.info^
+||onlinereport.ro^
+||recentnews.ro^
+||reporteronline.net^
 ||ro.blastingnews.com^
-
-
+||ro.blastingnews.com^
+||searchnewsglobal.wordpress.com^
+||secretele.com^
+||social-media-romania.eu^
+||soim.ro^
+||stiri-extreme.ro^
+||stirinefiltrate.ro^
+||vremuritulburi.com^
+||yno.ro^
+||ziardecluj.ro^
+||ziaristionline.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
-||adidas-pairs.com^
-||wwwpromoter.com^
-||sw1block.com^
 104.197.140.120^$popup
+||adidas-pairs.com^
 ||searchincognito.com^
+||sw1block.com^
+||wwwpromoter.com^
