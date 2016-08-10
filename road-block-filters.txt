@@ -109,6 +109,8 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||www.letsvote.ro/wp-content/uploads/2016/07/*
 
 ||s.zoso.ro/wp-content/*$image
+! Imgur pentru reclame e impotriva TOSului. 
+||imgur.com$image,domain=www.zoso.ro
 @@||s.zoso.ro/wp-content/themes/zoso4/images/logo.png$image,domain=www.zoso.ro
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
