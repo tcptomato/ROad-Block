@@ -1,9 +1,9 @@
 [Adblock Plus 2.1]
 ! Title: ROU: Romanian Ad (ROad) Block List
-! Expires: 2 days
+! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://github.com/tcptomato/ROad-Block
-! Last modified: 08 Aug 2016 13:15 UTC
+! Last modified: 10 Aug 2016 09:44 UTC
 
 /Adverts/*
 /Affiliate/*
@@ -105,14 +105,9 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||www.letsvote.ro/wp-content/uploads/2016/07/*
 
-||s.zoso.ro/wp-content/hiperdia.png
-||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
-||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
-||s.zoso.ro/wp-content/steemit_ro.gif
-||s.zoso.ro/wp-content/steemitro.gif
-||s.zoso.ro/wp-content/bit*.jpg
-||s.zoso.ro/wp-content/steemit_ro.gif
-||s.zoso.ro/wp-content/steemitro.gif
+||s.zoso.ro/wp-content/*.png
+||s.zoso.ro/wp-content/*.gif
+||s.zoso.ro/wp-content/*.jpg
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
 ||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
