@@ -82,13 +82,16 @@ trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ##.magazin[href="http://camerevideoauto.ro"]
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
-trafictube.ro^$inline-script
+! trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
 ! the scripts inject now ad divs with random IDs
 ! only way to do it until inline-script filters work on chrome
 ! please report if it causes any issues
 ||trafictube.ro/*.js
+trafictube.ro##.smecher:style(height: 1px !important;)
+trafictube.ro##.widget-smecher:style(height: 1px !important;)
+||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
 
 cetin.ro##.cetinblog > .site-header > .prehead
 ||camerevideoauto.ro/api/produs-responsive-featured.php
@@ -110,7 +113,6 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||s.zoso.ro/wp-content/*.jpg
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bfsides.png
 ||s.zoso.ro/wp-content/themes/zoso4-child/images/bftop.jpg
-||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
 ||transilvaniareporter.ro/bannerilcjtreporter.png
 ||valentinu.ro/keyhost_125_x_125.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif
