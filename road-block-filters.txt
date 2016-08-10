@@ -88,7 +88,7 @@ trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ! the scripts inject now ad divs with random IDs
 ! only way to do it until inline-script filters work on chrome
 ! please report if it causes any issues
-||trafictube.ro/*.js
+!||trafictube.ro/*.js
 trafictube.ro##.smecher:style(height: 1px !important;)
 trafictube.ro##.widget-smecher:style(height: 1px !important;)
 ||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
