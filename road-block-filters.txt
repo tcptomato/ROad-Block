@@ -111,7 +111,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 
 ||s.zoso.ro/wp-content/*$image
 ! Imgur pentru reclame e impotriva TOSului. 
-||imgur.com$image,domain=www.zoso.ro
+!||imgur.com$image,domain=www.zoso.ro
 ||yoso.ro$image,domain=www.zoso.ro
 ! Poftim si leaderboardul daca asta te face fericit
 zoso.ro##.leaderboard
