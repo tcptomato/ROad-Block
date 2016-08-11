@@ -14,6 +14,7 @@
 /adverts/*
 /affiliate/*
 /affiliates/*
+/banners/*
 /crudlab-facebook-like-box/*
 /facebook-page-promoter-lightbox/*
 /jquery.fancybox.js*
