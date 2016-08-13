@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 13 Aug 2016 08:48 UTC
+! Last modified: 13 Aug 2016 11:33 UTC
 
 /Adverts/*
 /Affiliate/*
@@ -120,6 +120,14 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||www.biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
 ||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
+manafu.ro###copy
+||manafu.ro/wp-content/uploads/2016/08/bitdefender.jpg
+||petreanu.ro/wp-content/uploads/2016/08/Banner-Vlad.jpg
+||petreanu.ro/wp-content/uploads/2016/08/banner-vlad-2.jpg
+||tvdece.ro/wp-content/uploads/2014/03/banner_hoha_tvdece1.png
+||tvdece.ro/wp-content/uploads/2014/03/printransilvania.jpg
+||tvdece.ro/wp-content/uploads/2014/03/banner-usturoi1.jpg
+||tvdece.ro/wp-content/uploads/2011/12/webfactor-foarte-mic_iepuri.jpg
 
 www.b1.ro###box_email
 www.b1.ro###overlay
