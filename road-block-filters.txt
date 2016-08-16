@@ -110,10 +110,11 @@ cetin.ro##.cetinblog > .site-header > .prehead
 
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
-@@||s.zoso.ro/wp-content/plugins/comment-rating/*
 ! Static assets shouldn't be under a cookie setting domain. 
 ||www.zoso.ro/wp-content/*$image
 @@||www.zoso.ro/wp-content/themes/zoso4/images/logo.png
+@@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_up.png
+@@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_down.png
 
 
 ||transilvaniareporter.ro/bannerilcjtreporter.png
