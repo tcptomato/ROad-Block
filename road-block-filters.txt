@@ -116,7 +116,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_up.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_down.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_up.png
-@@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_up.png
+@@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_down.png
 
 
 ||transilvaniareporter.ro/bannerilcjtreporter.png
