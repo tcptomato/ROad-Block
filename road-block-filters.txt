@@ -107,6 +107,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||www.letsvote.ro/wp-content/uploads/2016/07/*
+||cetin.ro/poze/2016/08/rochisme.png
 
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
