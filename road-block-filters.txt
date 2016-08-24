@@ -314,7 +314,6 @@ www.academiacatavencu.info##.widget-popup
 ||yno.ro^
 ||ziardecluj.ro^
 ||ziaristionline.ro^
-||ppt.ro^
 ||gramacontabilitate.ro^
 ||bursadecontabilitate.ro^
 
