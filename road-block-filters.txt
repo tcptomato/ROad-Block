@@ -314,6 +314,7 @@ www.academiacatavencu.info##.widget-popup
 ||yno.ro^
 ||ziardecluj.ro^
 ||ziaristionline.ro^
+||ppt.ro
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
