@@ -16,7 +16,7 @@
 /affiliates/*
 /crudlab-facebook-like-box/*
 /facebook-page-promoter-lightbox/*
-/jquery.fancybox.js*
+# /jquery.fancybox.js*
 /jquery.iframetracker.js*
 /mashshare-fblikebar/*
 /mashshare-videopost/*
