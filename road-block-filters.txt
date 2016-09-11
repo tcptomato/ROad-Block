@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 10 Sep 2016 20:12 UTC
+! Last modified: 11 Sep 2016 21:06 UTC
 
 /Adverts/*
 /Affiliate/*
@@ -316,6 +316,7 @@ www.academiacatavencu.info##.widget-popup
 ||ziaristionline.ro^
 ||gramacontabilitate.ro^
 ||bursadecontabilitate.ro^
+||indeeway.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
