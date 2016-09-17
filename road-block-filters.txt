@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 11 Sep 2016 21:06 UTC
+! Last modified: 17 Sep 2016 17:06 UTC
 
 /Adverts/*
 /Affiliate/*
@@ -111,8 +111,8 @@ cetin.ro##.cetinblog > .site-header > .prehead
 
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
-! Static assets shouldn't be under a cookie setting domain. 
 ||zoso.ro/wp-content/*$image
+
 @@||zoso.ro/wp-content/themes/zoso4/images/logo.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_up.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_down.png
@@ -317,6 +317,7 @@ www.academiacatavencu.info##.widget-popup
 ||gramacontabilitate.ro^
 ||bursadecontabilitate.ro^
 ||indeeway.ro^
+||oliviasteer.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
