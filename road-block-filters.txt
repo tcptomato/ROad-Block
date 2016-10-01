@@ -85,13 +85,7 @@ trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ! trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
-! the scripts inject now ad divs with random IDs
-! only way to do it until inline-script filters work on chrome
-! please report if it causes any issues
-!||trafictube.ro/*.js
-trafictube.ro##.smecher:style(height: 1px !important;)
-trafictube.ro##.widget-smecher:style(height: 1px !important;)
-||trafictube.ro/wp-content/diverse/ghid_achizitie_camere.jpg
+/\.trafictube\.ro\/[a-zA-Z0-9=?]+$/$domain=trafictube.ro,script
 
 cetin.ro##.cetinblog > .site-header > .prehead
 ||camerevideoauto.ro/api/produs-responsive-featured.php
