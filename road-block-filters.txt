@@ -188,6 +188,10 @@ www.academiacatavencu.info##.widget-popup
 ||xml.agerpres.ro/agerpres/views/site/pages/xml/widget.html*
 ||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
 
+www.pricy.ro##.in.fade.modal.subs-popup > .email-subscription.modal-dialog
+www.pricy.ro##.in.fade.modal.subs-popup
+www.pricy.ro##.in.fade.modal-backdrop
+
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
 ||3x.ro^
