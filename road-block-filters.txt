@@ -316,6 +316,8 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||bursadecontabilitate.ro^
 ||indeeway.ro^
 ||oliviasteer.ro^
+||odofresh.com^
+||promarketmail.com^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
