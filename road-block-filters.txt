@@ -318,6 +318,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||oliviasteer.ro^
 ||odofresh.com^
 ||promarketmail.com^
+||zer0sm0ke.com^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
