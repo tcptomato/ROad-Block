@@ -46,6 +46,8 @@ www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 www.stiripesurse.ro##.small.banner
 www.urban.ro###home_calendar > a
+
+! NEAMT
 www.ziartarguneamt.ro###text-20
 www.ziartarguneamt.ro###text-32
 www.ziartarguneamt.ro###text-22
@@ -54,6 +56,55 @@ www.ziartarguneamt.ro###text-30
 www.ziarpiatraneamt.ro###text-10
 www.ziarpiatraneamt.ro###text-2
 www.ziarpiatraneamt.ro###text-8
+||mesagerulneamt.ro###widget_sp_image-102
+||mesagerulneamt.ro###widget_sp_image-104
+||mesagerulneamt.ro###widget_sp_image-103
+||mesagerulneamt.ro###widget_sp_image-91
+||mesagerulneamt.ro###widget_sp_image-89
+||mesagerulneamt.ro###widget_sp_image-99
+||mesagerulneamt.ro###widget_sp_image-80
+||mesagerulneamt.ro###widget_sp_image-86
+||mesagerulneamt.ro###widget_sp_image-82
+||mesagerulneamt.ro###goodlayers-1-1-video-widget-2
+||mesagerulneamt.ro###widget_sp_image-52
+||mesagerulneamt.ro###widget_sp_image-46
+||mesagerulneamt.ro###widget_sp_image-47
+||mesagerulneamt.ro###widget_sp_image-78
+||mesagerulneamt.ro###widget_sp_image-22
+||mesagerulneamt.ro###widget_sp_image-34
+||mesagerulneamt.ro###widget_sp_image-2
+||mesagerulneamt.ro###widget_sp_image-79
+||mesagerulneamt.ro###widget_sp_image-29
+||mesagerulneamt.ro###widget_sp_image-92
+||mesagerulneamt.ro###widget_sp_image-57
+||mesagerulneamt.ro###widget_sp_image-101
+||vestea.net###buffercode_banner_upload_info-17
+||vestea.net###buffercode_banner_upload_info-18
+||vestea.net/wp-content/uploads/2016/03/gif-reclama-ta.gif$image
+||vestea.net###buffercode_banner_upload_info-33
+||vestea.net###buffercode_banner_upload_info-8
+||vestea.net###sdj_ticker_script_bottom
+||vestea.net###buffercode_banner_upload_info-38
+zch.ro##.widget_sp_image.widget:nth-of-type(3)
+zch.ro##.widget_sp_image.widget:nth-of-type(4)
+zch.ro##.widget_sp_image.widget:nth-of-type(5)
+zch.ro##.widget_sp_image.widget:nth-of-type(6)
+zch.ro##.widget_sp_image.widget:nth-of-type(7)
+zch.ro##.widget_sp_image.widget:nth-of-type(9)
+zch.ro##.widget_sp_image.widget:nth-of-type(10)
+zch.ro##.widget_sp_image.widget:nth-of-type(11)
+zch.ro##.widget_sp_image.widget:nth-of-type(22)
+zch.ro##.widget_text.widget:nth-of-type(23)
+zch.ro##.widget_sp_image.widget:nth-of-type(21)
+zch.ro##.widget_sp_image.widget:nth-of-type(20)
+zch.ro##.widget_sp_image.widget:nth-of-type(19)
+zch.ro##.widget_sp_image.widget:nth-of-type(18)
+zch.ro##.widget_sp_image.widget:nth-of-type(17)
+zch.ro##.widget_sp_image.widget:nth-of-type(16)
+zch.ro##.widget_sp_image.widget:nth-of-type(15)
+zch.ro##.widget_sp_image.widget:nth-of-type(14)
+zch.ro##.widget_sp_image.widget:nth-of-type(13)
+zch.ro##.videosidebar.widget
 
 ! Filters:
 ||e-day.ro^$third-party
