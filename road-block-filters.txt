@@ -380,6 +380,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||zer0sm0ke.com^
 ||danfil-jobs.com^
 ||stiripesurse.ro^
+||flux24.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
