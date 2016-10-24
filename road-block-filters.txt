@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 15 Oct 2016 16:50 UTC
+! Last modified: 24 Oct 2016 10:10 UTC
 
 /Adverts/*
 /Affiliate/*
@@ -379,6 +379,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||promarketmail.com^
 ||zer0sm0ke.com^
 ||danfil-jobs.com^
+||stiripesurse.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
