@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 24 Oct 2016 10:10 UTC
+! Last modified: 25 Oct 2016 11:24 UTC
 
 /Adverts/*
 /Affiliate/*
@@ -325,6 +325,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||vacante2016.eu^
 ||vacantelastminute.info^
 ||vendiup.com^
+||indeeway.ro^
 
 ! Lista cu situri flag-uite de verificasursa.ro
 ||activenews.ro^
