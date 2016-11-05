@@ -7,6 +7,7 @@
 
 /Reclama/*
 /reclama/*
+/adblock.js
 
 ! Dom elements
 ###digi-fm-live-stream
@@ -207,7 +208,6 @@ www.academiacatavencu.info##.widget-popup
 ||contestapp.a1.ro^
 ||creativcdn.net^
 ||kreativcdn.net^
-
 ||cloudfront.net$script,domain=playfs.com
 
 990.ro##body > div:nth-of-type(1) > .disa
@@ -236,6 +236,8 @@ www.pricy.ro##.in.fade.modal.subs-popup
 www.pricy.ro##.in.fade.modal-backdrop
 
 ||www.timesnewroman.ro/files/attach/filebox/banner_nou_570x185.gif
+||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
+||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
