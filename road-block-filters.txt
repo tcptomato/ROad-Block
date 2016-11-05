@@ -3,26 +3,10 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 25 Oct 2016 13:14 UTC
+! Last modified: 04 Nov 2016 17:49 UTC
 
-/Adverts/*
-/Affiliate/*
-/Affiliates/*
 /Reclama/*
-/ads/*
-/advertisement.js/*
-/adverts/*
-/affiliate/*
-/affiliates/*
-/crudlab-facebook-like-box/*
-/facebook-page-promoter-lightbox/*
-# /jquery.fancybox.js*
-/jquery.iframetracker.js*
-/mashshare-fblikebar/*
-/mashshare-videopost/*
-/mashsharer/*
 /reclama/*
-/upload/ads/*
 
 ! Dom elements
 ###digi-fm-live-stream
@@ -250,6 +234,8 @@ www.academiacatavencu.info##.widget-popup
 www.pricy.ro##.in.fade.modal.subs-popup > .email-subscription.modal-dialog
 www.pricy.ro##.in.fade.modal.subs-popup
 www.pricy.ro##.in.fade.modal-backdrop
+
+||www.timesnewroman.ro/files/attach/filebox/banner_nou_570x185.gif
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
