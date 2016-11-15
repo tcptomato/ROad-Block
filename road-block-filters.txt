@@ -95,9 +95,11 @@ zch.ro##.videosidebar.widget
 ||e-day.ro^$third-party
 ||profitshare.emag.ro^$third-party
 ||profitshare.ro^$third-party
+
 ! emag
 @@||s1emagst.akamaized.net/layout/all/js/showads.js$script,domain=emag.ro
 @@||www.googletagmanager.com/gtm.js?id=GTM-TKS335$script,domain=emag.ro
+www.emag.ro##.ns-wrap-bottom-right
 
 ! Misc trackers
 ||2parale.ro^
