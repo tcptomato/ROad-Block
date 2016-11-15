@@ -133,6 +133,9 @@ trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
 /\.trafictube\.ro\/[a-zA-Z0-9=?]+$/$domain=trafictube.ro,script
+/razvanbb\.ro\/[a-zA-Z0-9=?]+/$domain=razvanbb.ro,script
+razvanbb.ro##.feededay
+
 
 cetin.ro##.cetinblog > .site-header > .prehead
 ||camerevideoauto.ro/api/produs-responsive-featured.php
@@ -149,6 +152,8 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||www.letsvote.ro/wp-content/uploads/2016/07/*
 ||cetin.ro/poze/2016/08/rochisme.png
+||cetin.ro/wp-content/themes/cetin_emag/images/cetin_bf.jpg$image
+cetin.ro##.wpel-icon-right.bflink
 
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
