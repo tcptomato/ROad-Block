@@ -157,6 +157,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/poze/2016/08/rochisme.png
 ||cetin.ro/wp-content/themes/cetin_emag/images/cetin_bf.jpg$image
 cetin.ro##.wpel-icon-right.bflink
+cetin.ro##.bf > .wpel-icon-right
 
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
@@ -383,7 +384,6 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||promarketmail.com^
 ||zer0sm0ke.com^
 ||danfil-jobs.com^
-||stiripesurse.ro^
 ||flux24.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
