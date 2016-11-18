@@ -333,6 +333,8 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||areafile.ro^
 ||merinodream-ro.com^
 ||camerawifi-ro.com^
+||roboutiqe.eu^
+||home-boutiqe.ro^
 
 ! Lista cu situri flag-uite de verificasursa.ro
 ||activenews.ro^
