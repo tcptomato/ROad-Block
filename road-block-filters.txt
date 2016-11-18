@@ -96,6 +96,8 @@ zch.ro##.videosidebar.widget
 ||profitshare.emag.ro^$third-party
 ||profitshare.ro^$third-party
 
+www.romanialibera.ro##.left > .widget-profitshare
+
 ! emag
 @@||s1emagst.akamaized.net/layout/all/js/showads.js$script,domain=emag.ro
 @@||www.googletagmanager.com/gtm.js?id=GTM-TKS335$script,domain=emag.ro
