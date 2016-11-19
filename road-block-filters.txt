@@ -404,3 +404,6 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||casinospin365.com^$popup
 ||supaads.com^$popup
 ||adexce.net^$popup
+||104.154.237.193^$popup
+||codeonclick.com^$popup
+||acexedge.com^$popup
