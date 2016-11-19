@@ -338,6 +338,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||uiassan.com^
 ||for-men-ultimate.com^
 ||myhealthyblog.co^
+||idey.ro^
 
 ! Lista cu situri flag-uite de verificasursa.ro
 ||activenews.ro^
