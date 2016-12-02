@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 26 Nov 2016 22:57 UTC
+! Last modified: 02 Dec 2016 20:15 UTC
 
 /Reclama/*
 /reclama/*
@@ -97,8 +97,8 @@ zch.ro##.videosidebar.widget
 
 ! Filters:
 ||e-day.ro^$third-party
-||profitshare.emag.ro^$third-party
-||profitshare.ro^$third-party
+||profitshare.emag.ro^
+||profitshare.ro^
 
 www.romanialibera.ro##.left > .widget-profitshare
 
@@ -170,6 +170,7 @@ cetin.ro##.cd-fade-out.cd-is-visible.cd-top
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
 ||zoso.ro/wp-content/*$image
+||imgur.com$image,domain=www.zoso.ro
 
 @@||zoso.ro/wp-content/themes/zoso4/images/logo.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_up.png
