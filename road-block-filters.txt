@@ -32,6 +32,7 @@ www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sid
 www.stiripesurse.ro##.small.banner
 www.urban.ro###home_calendar > a
 zonait.tv###text-4 > .textwidget
+zonait.tv###text-2 > .textwidget
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
