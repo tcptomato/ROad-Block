@@ -31,6 +31,7 @@ www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 www.stiripesurse.ro##.small.banner
 www.urban.ro###home_calendar > a
+zonait.tv###text-4 > .textwidget
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
@@ -178,7 +179,6 @@ cetin.ro##.cd-fade-out.cd-is-visible.cd-top
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_up.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_down.png
 
-
 ||eftimie.net/wp-content/uploads/2016/10/300x250animat2.gif$image
 ||transilvaniareporter.ro/bannerilcjtreporter.png
 ||valentinu.ro/keyhost_125_x_125.gif
@@ -195,6 +195,8 @@ manafu.ro###copy
 ||tvdece.ro/wp-content/uploads/2014/03/printransilvania.jpg
 ||tvdece.ro/wp-content/uploads/2014/03/banner-usturoi1.jpg
 ||tvdece.ro/wp-content/uploads/2011/12/webfactor-foarte-mic_iepuri.jpg
+zonait.tv/wp-content/uploads/2016/09/229-x-250_dreamhack.jpg
+zonait.tv/wp-content/uploads/2016/10/irobot.jpg
 
 www.b1.ro###box_email
 www.b1.ro###overlay
