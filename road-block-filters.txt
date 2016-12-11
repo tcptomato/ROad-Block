@@ -43,7 +43,7 @@ www.ziartarguneamt.ro###text-30
 www.ziarpiatraneamt.ro###text-10
 www.ziarpiatraneamt.ro###text-2
 www.ziarpiatraneamt.ro###text-8
-||mesagerulneamt.ro##.left.gdl-border-y.gdl-sidebar-wrapper > .sidebar-wrapper
+mesagerulneamt.ro##.left.gdl-border-y.gdl-sidebar-wrapper > .sidebar-wrapper
 ||mesagerulneamt.ro/wp-content/uploads/2015/11/megatravel.png
 ||mesagerulneamt.ro/wp-content/uploads/2016/09/Roll-Up_850x2000mm.jpg
 ||vestea.net###buffercode_banner_upload_info-17
