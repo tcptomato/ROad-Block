@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 11 Dec 2016 13:26 UTC
+! Last modified: 13 Dec 2016 15:00 UTC
 
 /Reclama/*
 /reclama/*
@@ -18,6 +18,11 @@ infopuls.ro###text-13
 infopuls.ro###text-3
 infopuls.ro###text-7
 transilvaniareporter.ro###flashContent
+trafictube.ro##div[style^="width:520px; z-index: 2147483644;"]
+stiripesurse.ro##.giant-modal__left__text
+stiripesurse.ro##.giant-modal--fb-like.giant-modal
+evz.ro###lastmin
+www.antena3.ro###slidebox
 www.catchy.ro###footer-ads-section
 www.catchy.ro###sidebar > .ad300x250-box
 www.catchy.ro###sidebar > .box > .ad300x250-box
@@ -27,6 +32,7 @@ www.catchy.ro###sidebar > .box:nth-of-type(7)
 www.digi24.ro###category_b
 www.kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
 www.nwradu.ro##.second_header > .container > .reclama728
+www.romanialibera.ro##.left > .widget-profitshare
 www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(18)
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 www.stiripesurse.ro##.small.banner
@@ -82,8 +88,6 @@ zch.ro##.videosidebar.widget
 ||e-day.ro^$third-party
 ||profitshare.emag.ro^
 ||profitshare.ro^
-
-www.romanialibera.ro##.left > .widget-profitshare
 
 ! emag
 @@||s1emagst.akamaized.net/layout/all/js/showads.js$script,domain=emag.ro
@@ -246,6 +250,9 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||www.timesnewroman.ro/files/attach/filebox/banner_nou_570x185.gif
 ||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 ||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
+
+
+!RoAD Kill - site-uri de whitelistuit manual
 
 ! Lista Fantoma | Anti-spam | Site-uri periculoase
 ! Site-uri ce se ocupa de culegearea adreselor de email pentru crearea de liste spam si alte domenii .ro ce distribuie malware sau pagini scam.
