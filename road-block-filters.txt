@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 13 Dec 2016 15:00 UTC
+! Last modified: 15 Dec 2016 13:25 UTC
 
 /Reclama/*
 /reclama/*
