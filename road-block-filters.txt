@@ -18,7 +18,7 @@ infopuls.ro###text-13
 infopuls.ro###text-3
 infopuls.ro###text-7
 transilvaniareporter.ro###flashContent
-trafictube.ro##div[style^="width:520px; z-index: 2147483644;"]
+trafictube.ro##div[style$="width:520px"]
 stiripesurse.ro##.giant-modal__left__text
 stiripesurse.ro##.giant-modal--fb-like.giant-modal
 evz.ro###lastmin
@@ -118,20 +118,21 @@ www.emag.ro##.ns-wrap-bottom-right
 ||track.atom-data.io^
 ||www4.smartadserver.com^
 
+mediafax.ro###bula-ultima-ora
+gandul.info###bula-ultima-ora
+
 ! trafictube
 trafictube.ro/shop/
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
-! needs to block more than it should due to a chromium bug
-##.magazin[href="http://camerevideoauto.ro"]
+trafictube.ro##.magazin[href="http://camerevideoauto.ro"]
+trafictube.ro##.magazin1
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
-! trafictube.ro^$inline-script
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
 /\.trafictube\.ro\/[a-zA-Z0-9=?]+$/$domain=trafictube.ro,script
 /razvanbb\.ro\/[a-zA-Z0-9=?]+/$domain=razvanbb.ro,script
 razvanbb.ro##.feededay
-
 
 cetin.ro##.cetinblog > .site-header > .prehead
 ||camerevideoauto.ro/api/produs-responsive-featured.php
@@ -153,12 +154,12 @@ cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro##.wpel-icon-right.bflink
 cetin.ro##.bf > .wpel-icon-right
 cetin.ro##.cd-fade-out.cd-is-visible.cd-top
+||cetin.ro/poze/2016/12/2500lei.png$image
 
 ||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
 ||zoso.ro/wp-content/*$image
 ||imgur.com$image,domain=www.zoso.ro
-
 @@||zoso.ro/wp-content/themes/zoso4/images/logo.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_up.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_down.png
@@ -251,6 +252,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 ||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 
+||cabral.ro/ads/*$image
 
 !RoAD Kill - site-uri de whitelistuit manual
 
