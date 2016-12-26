@@ -415,3 +415,4 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||codeonclick.com^$popup
 ||acexedge.com^$popup
 ||130.211.230.53^$popup
+||wie9eig.top^$popup
