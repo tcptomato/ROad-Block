@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 26 Dec 2016 17:08 UTC
+! Last modified: 28 Dec 2016 16:15 UTC
 
 /Reclama/*
 /reclama/*
@@ -255,6 +255,7 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 
 ||cabral.ro/ads/*$image
+||media.dcnews.ro/ads/*
 
 !RoAD Kill - site-uri de whitelistuit manual
 
