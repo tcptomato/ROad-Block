@@ -120,6 +120,8 @@ www.emag.ro##.ns-wrap-bottom-right
 
 mediafax.ro###bula-ultima-ora
 gandul.info###bula-ultima-ora
+zf.ro##.banda-sticky-vp
+zf.ro##.banda-sticky-mini
 
 ! trafictube
 trafictube.ro/shop/
