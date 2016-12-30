@@ -256,6 +256,9 @@ www.pricy.ro##.in.fade.modal-backdrop
 
 ||cabral.ro/ads/*$image
 ||media.dcnews.ro/ads/*
+||psnews.ro/ads/*$image
+||psnews.ro/*/*Ad_PS*$image
+
 
 !RoAD Kill - site-uri de whitelistuit manual
 
