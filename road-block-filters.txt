@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 30 Dec 2016 16:25 UTC
+! Last modified: 31 Dec 2016 00:55 UTC
 
 /Reclama/*
 /reclama/*
@@ -33,12 +33,16 @@ www.digi24.ro###category_b
 www.kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
 www.nwradu.ro##.second_header > .container > .reclama728
 www.romanialibera.ro##.left > .widget-profitshare
+www.romanialibera.ro###widgetArticleControlsRight
+www.romanialibera.ro###widgetArticleControlsLeft
 www.romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(18)
 www.stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 www.stiripesurse.ro##.small.banner
 www.urban.ro###home_calendar > a
 zonait.tv###text-4 > .textwidget
 zonait.tv###text-2 > .textwidget
+www.academiacatavencu.info##.widget-profitshare:nth-of-type(3)
+
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
@@ -128,12 +132,13 @@ trafictube.ro/shop/
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 trafictube.ro##.magazin[href="http://camerevideoauto.ro"]
 trafictube.ro##.magazin1
+trafictube.ro###body > div:nth-child(9)
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
-/\.trafictube\.ro\/[a-zA-Z0-9=?]+$/$domain=trafictube.ro,script
-/razvanbb\.ro\/[a-zA-Z0-9=?]+/$domain=razvanbb.ro,script
+/\.trafictube\.ro\/[a-zA-Z0-9=?&]+$/$domain=trafictube.ro,script
+/razvanbb\.ro\/[a-zA-Z0-9=?&]+/$domain=razvanbb.ro,script
 razvanbb.ro##.feededay
 
 cetin.ro##.cetinblog > .site-header > .prehead
