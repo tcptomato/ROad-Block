@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 31 Dec 2016 00:55 UTC
+! Last modified: 02 Jan 2017 21:45 UTC
 
 /Reclama/*
 /reclama/*
@@ -132,13 +132,14 @@ trafictube.ro/shop/
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 trafictube.ro##.magazin[href="http://camerevideoauto.ro"]
 trafictube.ro##.magazin1
+trafictube.ro##.smecher
 trafictube.ro###body > div:nth-child(9)
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
-/\.trafictube\.ro\/[a-zA-Z0-9=?&]+$/$domain=trafictube.ro,script
-/razvanbb\.ro\/[a-zA-Z0-9=?&]+/$domain=razvanbb.ro,script
+/trafictube\.ro\/[a-zA-Z0-9=,?&]+$/$domain=trafictube.ro,script,image
+/razvanbb\.ro\/[a-zA-Z0-9=,?&]+/$domain=razvanbb.ro,script,image
 razvanbb.ro##.feededay
 
 cetin.ro##.cetinblog > .site-header > .prehead
