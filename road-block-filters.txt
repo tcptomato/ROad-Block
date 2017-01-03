@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 03 Jan 2017 00:15 UTC
+! Last modified: 03 Jan 2017 00:30 UTC
 
 /Reclama/*
 /reclama/*
@@ -42,7 +42,10 @@ www.urban.ro###home_calendar > a
 zonait.tv###text-4 > .textwidget
 zonait.tv###text-2 > .textwidget
 www.academiacatavencu.info##.widget-profitshare:nth-of-type(3)
-
+mediafax.ro###bula-ultima-ora
+gandul.info###bula-ultima-ora
+zf.ro##.banda-sticky-vp
+zf.ro##.banda-sticky-mini
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
@@ -122,18 +125,13 @@ www.emag.ro##.ns-wrap-bottom-right
 ||track.atom-data.io^
 ||www4.smartadserver.com^
 
-mediafax.ro###bula-ultima-ora
-gandul.info###bula-ultima-ora
-zf.ro##.banda-sticky-vp
-zf.ro##.banda-sticky-mini
-
 ! trafictube
 trafictube.ro/shop/
 trafictube.ro/wp-content/themes/trafictubenew/js/custom1.js
 trafictube.ro##.magazin[href="http://camerevideoauto.ro"]
 trafictube.ro##.magazin1
 trafictube.ro##.smecher
-trafictube.ro###body > div:nth-child(9)
+trafictube.ro##div[style*="width:520px;"]
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
 @@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
 ||trafictube.ro/wp-content/Banners/*
