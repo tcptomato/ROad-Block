@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 03 Jan 2017 00:30 UTC
+! Last modified: 03 Jan 2017 17:30 UTC
 
 /Reclama/*
 /reclama/*
@@ -159,7 +159,9 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/wp-content/themes/cetin_emag_doi/images/cetin_bf.jpg$image
 cetin.ro##.wpel-icon-right.bflink
 cetin.ro##.bf > .wpel-icon-right
+cetin.ro##.cd-is-visible.cd-top
 cetin.ro##.cd-fade-out.cd-is-visible.cd-top
+||cetin.ro/wp-content/themes/cetin/images/top.png
 ||cetin.ro/poze/2016/12/2500lei.png$image
 
 ||s.zoso.ro/wp-content/*$image
@@ -263,6 +265,8 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||psnews.ro/ads/*$image
 ||psnews.ro/*/*Ad_PS*$image
 
+||www.nasul.tv/wp-content/uploads/2016/03/200x600-pantofii-nasul-maro.jpg$image
+||www.nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
 
 !RoAD Kill - site-uri de whitelistuit manual
 
