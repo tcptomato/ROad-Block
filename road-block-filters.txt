@@ -139,7 +139,7 @@ trafictube.ro###body > div:nth-child(9)
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
 /trafictube\.ro\/[a-zA-Z0-9=,.?&]+$/$domain=trafictube.ro,script,image
-/razvanbb\.ro\/[a-zA-Z0-9=,.?&-]+/$domain=razvanbb.ro,script,image
+/razvanbb\.ro\/[a-zA-Z0-9=,.?&-]+$/$domain=razvanbb.ro,script,image
 razvanbb.ro##.feededay
 
 cetin.ro##.cetinblog > .site-header > .prehead
