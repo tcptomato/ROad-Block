@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 03 Jan 2017 17:30 UTC
+! Last modified: 03 Jan 2017 23:20 UTC
 
 /Reclama/*
 /reclama/*
@@ -132,10 +132,13 @@ trafictube.ro##.magazin[href="http://camerevideoauto.ro"]
 trafictube.ro##.magazin1
 trafictube.ro##.smecher
 trafictube.ro##div[style*="width:520px;"]
-@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
-@@||http://www.trafictube.ro/wp-content/themes/trafictubenew/js/test.js
+@@||trafictube.ro/wp-content/themes/trafictubenew/js/player.js?ver=3
+@@||trafictube.ro/wp-content/themes/trafictubenew/js/test.js
+@@||www.trafictube.ro/favicon.ico$image,first-party
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
+@@||k01k0.com/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
+@@||advertising.oriel.io/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
 /trafictube\.ro\/[a-zA-Z0-9=,.?&]+$/$domain=trafictube.ro,script,image
 /razvanbb\.ro\/[a-zA-Z0-9=,.?&-]+$/$domain=razvanbb.ro,script,image
 razvanbb.ro##.feededay
