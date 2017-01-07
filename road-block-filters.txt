@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 03 Jan 2017 23:20 UTC
+! Last modified: 07 Jan 2017 18:24 UTC
 
 /Reclama/*
 /reclama/*
@@ -433,3 +433,4 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||acexedge.com^$popup
 ||130.211.230.53^$popup
 ||wie9eig.top^$popup
+||traffic.myadsino.com^$popup
