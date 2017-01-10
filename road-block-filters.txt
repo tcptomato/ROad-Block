@@ -46,17 +46,17 @@ mediafax.ro###bula-ultima-ora
 gandul.info###bula-ultima-ora
 zf.ro##.banda-sticky-vp
 zf.ro##.banda-sticky-mini
-||luju.ro##aside:nth-of-type(1)
-||luju.ro##aside:nth-of-type(2)
-||luju.ro##aside:nth-of-type(3)
-||luju.ro##aside:nth-of-type(4)
-||luju.ro##aside:nth-of-type(5)
-||luju.ro##aside:nth-of-type(6)
-||luju.ro##aside:nth-of-type(7)
-||luju.ro##aside:nth-of-type(8)
-||luju.ro##.externals:nth-of-type(9)
-||luju.ro##.externals:nth-of-type(10)
-||luju.ro##.externals:nth-of-type(11)
+www.luju.ro##aside:nth-of-type(1)
+www.luju.ro##aside:nth-of-type(2)
+www.luju.ro##aside:nth-of-type(3)
+www.luju.ro##aside:nth-of-type(4)
+www.luju.ro##aside:nth-of-type(5)
+www.luju.ro##aside:nth-of-type(6)
+www.luju.ro##aside:nth-of-type(7)
+www.luju.ro##aside:nth-of-type(8)
+www.luju.ro##.externals:nth-of-type(9)
+www.luju.ro##.externals:nth-of-type(10)
+www.luju.ro##.externals:nth-of-type(11)
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
