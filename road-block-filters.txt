@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 16 Jan 2017 12:59 UTC
+! Last modified: 19 Jan 2017 19:39 UTC
 
 /Reclama/*
 /reclama/*
@@ -299,6 +299,8 @@ www.pricy.ro##.in.fade.modal-backdrop
 
 ||www.nasul.tv/wp-content/uploads/2016/03/200x600-pantofii-nasul-maro.jpg$image
 ||www.nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
+
+||www.ziardebucuresti.ro/wp-content/uploads/2017/01/revolutia-preturilor.jpg
 
 !RoAD Kill - site-uri de whitelistuit manual
 
