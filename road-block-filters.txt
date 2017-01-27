@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 19 Jan 2017 19:39 UTC
+! Last modified: 27 Jan 2017 18:49 UTC
 
 /Reclama/*
 /reclama/*
@@ -81,6 +81,7 @@ www.ziarpiatraneamt.ro###text-8
 mesagerulneamt.ro##.left.gdl-border-y.gdl-sidebar-wrapper > .sidebar-wrapper
 ||mesagerulneamt.ro/wp-content/uploads/2015/11/megatravel.png
 ||mesagerulneamt.ro/wp-content/uploads/2016/09/Roll-Up_850x2000mm.jpg
+mesagerulneamt.ro##.blog-content > div:nth-of-type(1)
 ||vestea.net###buffercode_banner_upload_info-17
 ||vestea.net###buffercode_banner_upload_info-18
 ||vestea.net/wp-content/uploads/2016/03/gif-reclama-ta.gif$image
