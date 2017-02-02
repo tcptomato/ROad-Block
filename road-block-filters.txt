@@ -70,6 +70,40 @@ www.stiripesurse.ro##.column-container:nth-of-type(5) > .md-one-third.ld-one-thi
 www.stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-half.column:nth-of-type(2)
 www.stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-half.column:nth-of-type(1)
 ortodoxinfo.ro###fpub-popup
+!HotNews
+www.hotnews.ro##.left_side > div:nth-of-type(6)
+www.hotnews.ro##.left_side > div:nth-of-type(7)
+www.hotnews.ro###timbru\.science_10169897
+www.hotnews.ro###medlive_6844636
+www.hotnews.ro##.left_side > div:nth-of-type(8)
+www.hotnews.ro##.left_side > div:nth-of-type(9)
+www.hotnews.ro###parteneri_60047 > div:nth-of-type(1)
+www.hotnews.ro###parteneri_60047 > div:nth-of-type(2)
+sport.hotnews.ro##.left_side > div:nth-of-type(5)
+economie.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
+life.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
+www.hotnews.ro###rss\.startupcafe_20767567
+www.hotnews.ro###rss\.medlive_20312972
+www.hotnews.ro##.right_side > div:nth-of-type(10)
+www.hotnews.ro###rss\.contributors_7889719
+www.hotnews.ro###rss\.euractiv_20456596
+www.hotnews.ro###master\.dreapta\.carlig\.smartw_12938869
+||www.privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
+www.hotnews.ro###rss\.webpr_6183168
+www.hotnews.ro###rss\.domnuleprimar_5328294
+sport.hotnews.ro##.right_side > div:nth-of-type(6)
+science.hotnews.ro###rss\.webpr_6183168
+science.hotnews.ro###\$\{tile\.name\}_\$\{tile\.id\}
+||partner.dw-world.de/syndication/feeds/VTPartner_hotnewsecon.2756-cb.html$subdocument
+||partner.dw-world.de/syndication/feeds/rss-en-hotnews.2757-cb.html$subdocument
+economie.hotnews.ro###rss\.startupcafe_20767567
+economie.hotnews.ro###rss\.euractiv_20456596
+economie.hotnews.ro###rss\.contributors_7889719
+sport.hotnews.ro###article_18013158_0_21568245 > div
+www.hotnews.ro##.articol_lead_full:nth-of-type(57)
+www.hotnews.ro###article_60106_87_21567547
+www.hotnews.ro###article_60106_104_21568860
+science.hotnews.ro###article_18013158_0_21568245
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
