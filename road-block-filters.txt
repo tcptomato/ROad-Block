@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 31 Jan 2017 16:05 UTC
+! Last modified: 06 Feb 2017 23:05 UTC
 
 /Reclama/*
 /reclama/*
@@ -22,7 +22,6 @@ transilvaniareporter.ro###flashContent
 trafictube.ro##div[style$="width:520px"]
 stiripesurse.ro##.giant-modal__left__text
 stiripesurse.ro##.giant-modal--fb-like.giant-modal
-evz.ro###lastmin
 www.antena3.ro###slidebox
 www.catchy.ro###footer-ads-section
 www.catchy.ro###sidebar > .ad300x250-box
@@ -166,7 +165,6 @@ www.emag.ro##.ns-wrap-bottom-right
 ||admonitoring.bsgroup.ro^
 ||adocean.pl^
 ||ads.tradeads.eu^
-||ads2.evz.ro^
 ||adservingfactory.com^
 ||amazonaws.com/newd.cetrk.com/
 ||brat-online.ro^
@@ -338,6 +336,11 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||www.nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
 
 ||www.ziardebucuresti.ro/wp-content/uploads/2017/01/revolutia-preturilor.jpg
+
+||ads2.evz.ro^
+||www.evz.ro/banners/*$image
+evz.ro###lastmin
+evz.ro###lastmin2
 
 !RoAD Kill - site-uri de whitelistuit manual
 
