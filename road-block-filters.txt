@@ -238,11 +238,14 @@ manafu.ro###copy
 ||tvdece.ro/wp-content/uploads/2011/12/webfactor-foarte-mic_iepuri.jpg
 zonait.tv/wp-content/uploads/2016/09/229-x-250_dreamhack.jpg
 zonait.tv/wp-content/uploads/2016/10/irobot.jpg
+
 ||luju.ro/static/images/posta.jpg
 ||luju.ro/static/images/banner*
 ||luju.ro/static/images/Ten.jpg
 ||luju.ro/static/images/juri2.jpg
 ||juri.ro/static/images/logo.png
+/luju\.ro\/static\/images\/[a-zA-Z0-9=,.?&]+$/$domain=luju.ro,image
+luju.ro##.index-slide
 
 www.b1.ro###box_email
 www.b1.ro###overlay
