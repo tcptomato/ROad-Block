@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 09 Feb 2017 19:05 UTC
+! Last modified: 09 Feb 2017 20:05 UTC
 
 /Reclama/*
 /reclama/*
@@ -143,7 +143,7 @@ zch.ro##.videosidebar.widget
 ! emag
 @@||s1emagst.akamaized.net/layout/all/js/showads.js$script,domain=emag.ro
 @@||www.googletagmanager.com/gtm.js?id=GTM-TKS335$script,domain=emag.ro
-www.emag.ro##.ns-wrap-bottom-right
+emag.ro##.ns-wrap-bottom-right
 
 ! Misc trackers
 ||2parale.ro^
@@ -318,8 +318,10 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||psnews.ro/ads/*$image
 ||psnews.ro/*/*Ad_PS*$image
 
-||www.nasul.tv/wp-content/uploads/2016/03/200x600-pantofii-nasul-maro.jpg$image
-||www.nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
+||nasul.tv/wp-content/uploads/2016/03/200x600-pantofii-nasul-maro.jpg$image
+||nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
+||nasul.tv/wp-content/uploads/2017/01/Catena-200x600.jpg$image
+
 
 ||www.ziardebucuresti.ro/wp-content/uploads/2017/01/revolutia-preturilor.jpg
 
