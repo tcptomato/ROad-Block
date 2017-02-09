@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 06 Feb 2017 23:05 UTC
+! Last modified: 09 Feb 2017 19:05 UTC
 
 /Reclama/*
 /reclama/*
@@ -48,17 +48,6 @@ zf.ro##.banda-sticky-vp
 zf.ro##.banda-sticky-mini
 zf.ro###bula-ultima-ora
 libertatea.ro###floating
-www.luju.ro##aside:nth-of-type(1)
-www.luju.ro##aside:nth-of-type(2)
-www.luju.ro##aside:nth-of-type(3)
-www.luju.ro##aside:nth-of-type(4)
-www.luju.ro##aside:nth-of-type(5)
-www.luju.ro##aside:nth-of-type(6)
-www.luju.ro##aside:nth-of-type(7)
-www.luju.ro##aside:nth-of-type(8)
-www.luju.ro##.externals:nth-of-type(9)
-www.luju.ro##.externals:nth-of-type(10)
-www.luju.ro##.externals:nth-of-type(11)
 www.stiripesurse.ro/dragnea-i-grindeanu-merg-in-sua-invita-i-la-ceremonia-lui-trump-document_1174162.html
 www.stiripesurse.ro##.banner-request.news-widget-color-1.news-widget.widget
 www.stiripesurse.ro##.news-widget-color-1.news-widget.widget:nth-of-type(14)
@@ -87,7 +76,7 @@ hotnews.ro##.right_side > div:nth-of-type(10)
 hotnews.ro###rss\.contributors_7889719
 hotnews.ro###rss\.euractiv_20456596
 hotnews.ro###master\.dreapta\.carlig\.smartw_12938869
-||www.privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
+||privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
 hotnews.ro###rss\.webpr_6183168
 hotnews.ro###rss\.domnuleprimar_5328294
 sport.hotnews.ro##.right_side > div:nth-of-type(6)
@@ -98,11 +87,8 @@ science.hotnews.ro###\$\{tile\.name\}_\$\{tile\.id\}
 economie.hotnews.ro###rss\.startupcafe_20767567
 economie.hotnews.ro###rss\.euractiv_20456596
 economie.hotnews.ro###rss\.contributors_7889719
-sport.hotnews.ro###article_18013158_0_21568245 > div
-hotnews.ro##.articol_lead_full:nth-of-type(57)
-hotnews.ro###article_60106_87_21567547
-hotnews.ro###article_60106_104_21568860
-science.hotnews.ro###article_18013158_0_21568245
+hotnews.ro##.articol_lead_full[style="width: 158px; margin-right:5px; float:left;"]
+
 
 ! NEAMT
 www.ziartarguneamt.ro###text-20
