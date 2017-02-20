@@ -1,9 +1,13 @@
 [Adblock Plus 2.1]
 ! Title: ROU: Romanian Ad (ROad) Block List
-! Expires: 1 day
+! Expires: 2 day
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
+<<<<<<< HEAD
 ! Last modified: 20 Feb 2017 15:30 UTC
+=======
+! Last modified: 20 Feb 2017 12:58 UTC
+>>>>>>> bcc47f792d747c9a788ec3139c5e338a690d7716
 
 /Reclama/*
 /reclama/*
@@ -424,6 +428,7 @@ evz.ro###lastmin2
 ||idey.ro^
 ||williams-sonona.com^
 ||fierastraieculant-ro.com^
+||fstreet.eu^
 
 ! Lista cu situri flag-uite de verificasursa.ro
 ||activenews.ro^
