@@ -422,7 +422,6 @@ evz.ro###lastmin2
 ||idey.ro^
 ||williams-sonona.com^
 ||fierastraieculant-ro.com^
-||modlet.ro^
 ||fstreet.eu^
 
 ! Lista cu situri flag-uite de verificasursa.ro
