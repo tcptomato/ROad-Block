@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 20 Feb 2017 16:35 UTC
+! Last modified: 02 Mar 2017 22:47 UTC
 
 
 /Reclama/*
@@ -487,6 +487,7 @@ evz.ro###lastmin2
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
+104.198.138.230^$popup
 ||adidas-pairs.com^
 ||searchincognito.com^
 ||sw1block.com^
