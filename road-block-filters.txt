@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 02 Mar 2017 22:47 UTC
+! Last modified: 04 Mar 2017 17:09 UTC
 
 
 /Reclama/*
@@ -149,7 +149,8 @@ zch.ro##.videosidebar.widget
 emag.ro##.ns-wrap-bottom-right
 
 ! Misc trackers
-||2parale.ro^
+||2performant.com^$third-party
+||2parale.ro^$third-party
 ||adexc.net^
 ||admonitoring.bsgroup.ro^
 ||adocean.pl^
