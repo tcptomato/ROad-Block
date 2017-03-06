@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 05 Mar 2017 12:20 UTC
+! Last modified: 06 Mar 2017 14:43 UTC
 
 
 /Reclama/*
@@ -428,6 +428,10 @@ evz.ro###lastmin2
 ||fierastraieculant-ro.com^
 ||fstreet.eu^
 ||gogole.ro^
+||peicipecolo.eu^
+||abrtn.pro^
+||babyneeds.ro^
+||branturi-slabit.ro^
 
 ! Lista cu situri flag-uite de verificasursa.ro
 ||activenews.ro^
