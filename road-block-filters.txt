@@ -201,6 +201,7 @@ cetin.ro##.cetinblog > .site-header > .prehead
 ||cetin.ro/poze/2016/06/servicii-infiintare-firme.png
 ||cetin.ro/poze/2016/07/echoz_125x125.png
 ||cetin.ro/poze/2016/07/sgg.jpg
+||cetin.ro/poze/2017/03/ziardebucuresti.jpg
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||www.letsvote.ro/wp-content/uploads/2016/07/*
