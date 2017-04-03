@@ -186,9 +186,9 @@ trafictube.ro##div[style*="width:520px;"]
 @@||www.trafictube.ro/favicon.ico$image,first-party
 ||trafictube.ro/wp-content/Banners/*
 ||www.trafictube.ro/smecher/api/produs-responsive.php
-@@||k01k0.com/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
-@@||advertising.oriel.io/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
-@@||hm732.com/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
+! @@||k01k0.com/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
+! @@||advertising.oriel.io/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
+! @@||hm732.com/adverts/ad-400.js$xmlhttprequest,domain=trafictube.ro
 /trafictube\.ro\/[a-zA-Z0-9=,.?&]+$/$domain=trafictube.ro,script,image
 /razvanbb\.ro\/[a-zA-Z0-9=,.?&-]+$/$domain=razvanbb.ro,script,image
 razvanbb.ro##.feededay
