@@ -434,6 +434,8 @@ evz.ro###lastmin2
 ||abrtn.pro^
 ||babyneeds.ro^
 ||branturi-slabit.ro^
+||scenefz.me^
+||scenefz.net^
 
 ! Lista cu situri flag-uite de verificasursa.ro
 ||activenews.ro^
