@@ -12,7 +12,6 @@
 /plugins/footer-pop-up-banner/*
 
 ||brand.ad
-||profiling1.avandor.com
 
 ! Dom elements
 ###digi-fm-live-stream
@@ -166,6 +165,7 @@ emag.ro##.ns-wrap-bottom-right
 ||megapopads.com^
 ||new.cetrk.com^
 ||profiling.avandor.com^
+||profiling1.avandor.com^
 ||projectagora.s3.amazonaws.com
 ||s.atemda.com^
 ||st.ad.adnow.com^
