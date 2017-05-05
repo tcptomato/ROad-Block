@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 25 Apr 2017 19:55 UTC
+! Last modified: 05 May 2017 18:05 UTC
 
 
 /Reclama/*
@@ -12,6 +12,8 @@
 /plugins/footer-pop-up-banner/*
 
 ||brand.ad
+||storage.icorp.ro
+||ado.icorp.ro
 
 ! Dom elements
 ###digi-fm-live-stream
