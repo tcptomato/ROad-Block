@@ -17,6 +17,7 @@
 ||adunity.com^
 ||mookie1.com^$third-party
 ||gemius.pl^
+||zm232.com^
 
 ! Dom elements
 ###digi-fm-live-stream
