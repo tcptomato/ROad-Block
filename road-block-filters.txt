@@ -11,10 +11,12 @@
 /adblock.js
 /plugins/footer-pop-up-banner/*
 
-||brand.ad
-||storage.icorp.ro
-||ado.icorp.ro
-||adunity.com
+||brand.ad^
+||storage.icorp.ro^
+||ado.icorp.ro^
+||adunity.com^
+||mookie1.com^$third-party
+||gemius.pl^
 
 ! Dom elements
 ###digi-fm-live-stream
