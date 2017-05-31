@@ -506,6 +506,7 @@ evz.ro###lastmin2
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
 104.198.138.230^$popup
+||seness.info^
 ||adidas-pairs.com^
 ||searchincognito.com^
 ||sw1block.com^
