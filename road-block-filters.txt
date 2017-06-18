@@ -99,7 +99,8 @@ economie.hotnews.ro###rss\.startupcafe_20767567
 economie.hotnews.ro###rss\.euractiv_20456596
 economie.hotnews.ro###rss\.contributors_7889719
 hotnews.ro##.articol_lead_full[style="width: 158px; margin-right:5px; float:left;"]
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.antena3.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
 
 
 ! NEAMT
