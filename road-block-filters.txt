@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 21 May 2017 19:45 UTC
+! Last modified: 18 Jun 2017 22:15 UTC
 
 
 /Reclama/*
@@ -18,6 +18,8 @@
 ||mookie1.com^$third-party
 ||gemius.pl^
 ||zm232.com^
+||taboola.com^
+
 
 ! Dom elements
 ###digi-fm-live-stream
@@ -97,6 +99,7 @@ economie.hotnews.ro###rss\.startupcafe_20767567
 economie.hotnews.ro###rss\.euractiv_20456596
 economie.hotnews.ro###rss\.contributors_7889719
 hotnews.ro##.articol_lead_full[style="width: 158px; margin-right:5px; float:left;"]
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.antena3.ro
 
 
 ! NEAMT
