@@ -116,13 +116,13 @@ mesagerulneamt.ro##.left.gdl-border-y.gdl-sidebar-wrapper > .sidebar-wrapper
 ||mesagerulneamt.ro/wp-content/uploads/2015/11/megatravel.png
 ||mesagerulneamt.ro/wp-content/uploads/2016/09/Roll-Up_850x2000mm.jpg
 mesagerulneamt.ro##.blog-content > div:nth-of-type(1)
-||vestea.net###buffercode_banner_upload_info-17
-||vestea.net###buffercode_banner_upload_info-18
-||vestea.net/wp-content/uploads/2016/03/gif-reclama-ta.gif$image
-||vestea.net###buffercode_banner_upload_info-33
-||vestea.net###buffercode_banner_upload_info-8
-||vestea.net###sdj_ticker_script_bottom
-||vestea.net###buffercode_banner_upload_info-38
+vestea.net###buffercode_banner_upload_info-17
+vestea.net###buffercode_banner_upload_info-18
+vestea.net/wp-content/uploads/2016/03/gif-reclama-ta.gif$image
+vestea.net###buffercode_banner_upload_info-33
+vestea.net###buffercode_banner_upload_info-8
+vestea.net###sdj_ticker_script_bottom
+vestea.net###buffercode_banner_upload_info-38
 zch.ro##.widget_sp_image.widget:nth-of-type(3)
 zch.ro##.widget_sp_image.widget:nth-of-type(4)
 zch.ro##.widget_sp_image.widget:nth-of-type(5)
