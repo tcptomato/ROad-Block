@@ -445,6 +445,7 @@ evz.ro###lastmin2
 ||fierastraieculant-ro.com^
 ||fstreet.eu^
 ||gogole.ro^
+||goagle.ro^
 ||peicipecolo.eu^
 ||abrtn.pro^
 ||babyneeds.ro^
