@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 18 Jun 2017 22:15 UTC
+! Last modified: 26 Jun 2017 12:45 UTC
 
 
 /Reclama/*
@@ -19,7 +19,10 @@
 ||gemius.pl^
 ||zm232.com^
 ||taboola.com^
+||omniconvert.com^
+||7w.ro^
 
+@@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js?v=1498455881$script,domain=www.olx.ro
 
 ! Dom elements
 ###digi-fm-live-stream
