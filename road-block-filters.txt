@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 26 Jun 2017 12:45 UTC
+! Last modified: 30 Jun 2017 14:25 UTC
 
 
 /Reclama/*
@@ -21,6 +21,8 @@
 ||taboola.com^
 ||omniconvert.com^
 ||7w.ro^
+||statcounter.com^
+||2mdn.net^
 
 @@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js?v=1498455881$script,domain=www.olx.ro
 
@@ -246,9 +248,15 @@ cetin.ro##.cd-fade-out.cd-is-visible.cd-top
 ||valentinu.ro/keyhost_125_x_125.gif
 ||www.hdsupraveghere.ro/supraveghere125.jpg
 ||www.picgifs.com/graphics/a/listen-live/animaatjes-listen-live-7518111.gif$image
+
 ||www.biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif
 ||www.biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg
 ||www.biziday.ro/wp-contents/uploads//2015/09/banner-Biziday_ambitioasa.jpg
+||cdn.moise.ro/wp-content/uploads/2017/02/bt-mic-sidebar.jpg$image
+||cdn.moise.ro/wp-content/uploads/2017/04/EMBA_bucharest380x220_0603.gif$image
+||cotatii.tradeville.eu/quotations/img/gr.png$image
+||push.tradeville.eu$websocket,domain=www.moise.ro
+
 manafu.ro###copy
 ||manafu.ro/wp-content/uploads/2016/08/bitdefender.jpg
 ||petreanu.ro/wp-content/uploads/2016/08/Banner-Vlad.jpg
