@@ -256,6 +256,10 @@ cetin.ro##.cd-fade-out.cd-is-visible.cd-top
 ||cdn.moise.ro/wp-content/uploads/2017/04/EMBA_bucharest380x220_0603.gif$image
 ||cotatii.tradeville.eu/quotations/img/gr.png$image
 ||push.tradeville.eu$websocket,domain=www.moise.ro
+||cdn.moise.ro/wp-content/themes/biziday/images/app-desktop.jpg$image
+||cotatii.tradeville.eu/quotations/img/gr.png$image
+moise.ro###_tdv_all
+
 
 manafu.ro###copy
 ||manafu.ro/wp-content/uploads/2016/08/bitdefender.jpg
