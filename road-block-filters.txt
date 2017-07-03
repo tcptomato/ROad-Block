@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 30 Jun 2017 14:25 UTC
+! Last modified: 03 Jul 2017 17:46 UTC
 
 
 /adblock.js
@@ -190,6 +190,7 @@ emag.ro##.ns-wrap-bottom-right
 ||storage.trafic.ro^
 ||track.atom-data.io^
 ||www4.smartadserver.com^
+||pwa.grgs.ro^
 
 ! trafictube
 trafictube.ro/shop/
