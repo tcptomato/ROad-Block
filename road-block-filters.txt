@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 04 Jul 2017 11:32 UTC
+! Last modified: 04 Jul 2017 11:34 UTC
 
 
 /adblock.js
@@ -542,3 +542,4 @@ evz.ro###lastmin2
 ||traffic.myadsino.com^$popup
 ||wie9eig.top^$popup
 ||wwwpromoter.com^
+||tagdelivery.com^
