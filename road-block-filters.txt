@@ -191,6 +191,7 @@ emag.ro##.ns-wrap-bottom-right
 ||track.atom-data.io^
 ||www4.smartadserver.com^
 ||pwa.grgs.ro^
+||retargeting.biz^$third-party
 
 ! trafictube
 trafictube.ro/shop/
