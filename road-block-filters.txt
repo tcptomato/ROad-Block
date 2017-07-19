@@ -524,6 +524,7 @@ evz.ro###lastmin2
 
 ! ROAD FLAG - site-uri ce au un continut periculos sau cu stiri false in scop de a atrage vizitatori.
 ||exclusiv24.ro^
+||infoalert.ro^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
