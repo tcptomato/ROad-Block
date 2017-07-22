@@ -3,9 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 10 Jul 2017 00:00 UTC
-
-
+! Last modified: 22 Jul 2017 13:26 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -523,8 +521,12 @@ evz.ro###lastmin2
 ||ziaristionline.ro^
 
 ! ROAD FLAG - site-uri ce au un continut periculos sau cu stiri false in scop de a atrage vizitatori.
+||evideo.live^
 ||exclusiv24.ro^
 ||infoalert.ro^
+||stiride-calitate.pw^
+||stiripesurse.ro^
+||superclipuri.com^
 ||video-bazar.eu^
 
 !cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
