@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 22 Jul 2017 13:26 UTC
+! Last modified: 23 Jul 2017 19:05 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -524,6 +524,7 @@ evz.ro###lastmin2
 ||evideo.live^
 ||exclusiv24.ro^
 ||infoalert.ro^
+||psnews.ro^
 ||stiride-calitate.pw^
 ||stiripesurse.ro^
 ||superclipuri.com^
