@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 23 Jul 2017 19:05 UTC
+! Last modified: 28 Jul 2017 12:50 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -191,6 +191,7 @@ emag.ro##.ns-wrap-bottom-right
 ||www4.smartadserver.com^
 ||pwa.grgs.ro^
 ||retargeting.biz^
+||hotjar.com^
 
 ! trafictube
 trafictube.ro/shop/
