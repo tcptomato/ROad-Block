@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 12 Aug 2017 10:25 UTC
+! Last modified: 19 Aug 2017 00:21 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -11,6 +11,10 @@
 /reclama/*
 /adsense/
 /adverts/
+/load_e.php
+/preurl.php
+/ac_d_n
+/campaigns/click
 
 ||2mdn.net^
 ||7w.ro^
@@ -539,7 +543,7 @@ evz.ro###lastmin2
 ||superclipuri.com^
 ||video-bazar.eu^
 
-!cateva site-uri blocate temporar pana vor fi adaugate in alte liste.
+!cateva site-uri externe de publicitate si urmarire blocate temporar pana vor fi adaugate in alte liste.
 104.197.140.120^$popup
 104.198.138.230^$popup
 ||104.154.237.193^$popup
@@ -549,12 +553,15 @@ evz.ro###lastmin2
 ||adexce.net^$popup
 ||adidas-pairs.com^
 ||casinospin365.com^$popup
+||clickintoday.com^
 ||codeonclick.com^$popup
+||onclickmax.com^
 ||searchincognito.com^
 ||seness.info^
 ||supaads.com^$popup
 ||sw1block.com^
+||tagdelivery.com^
+||traffanalysis.com^
 ||traffic.myadsino.com^$popup
 ||wie9eig.top^$popup
 ||wwwpromoter.com^
-||tagdelivery.com^
