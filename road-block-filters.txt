@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 19 Aug 2017 00:21 UTC
+! Last modified: 20 Aug 2017 19:15 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -387,6 +387,8 @@ evz.ro###lastmin2
 ||apps-web-store.net^
 ||areafile.ro^
 ||babyneeds.ro^
+||beautyandstylezone.com^
+||boilerinstant-ro.com^
 ||branturi-slabit.ro^
 ||camerawifi-ro.com^
 ||campaignsender.ro^
@@ -399,6 +401,7 @@ evz.ro###lastmin2
 ||dolliholli.com^
 ||dvdlovers.org^
 ||ecobricolaj.ro^
+||enjoyyourmoves.com^
 ||evrida.ro^
 ||excellentfigure.com^
 ||fashiontribes.ro^
@@ -406,10 +409,12 @@ evz.ro###lastmin2
 ||foartetare.eu^
 ||for-men-ultimate.com^
 ||fstreet.eu^
+||fungushelparticle.com^
 ||goagle.ro^
 ||gogole.ro^
 ||great4mylife.com^
 ||groupoff.ro^
+||hemorrhoconsultation.com^
 ||hi2.ro^
 ||home-boutiqe.ro^
 ||hostyfy.com^
@@ -424,6 +429,7 @@ evz.ro###lastmin2
 ||jocuricorporate.com^
 ||justfitartstudio.ro^
 ||kidstep.ro^
+||koseyagroup.com^
 ||last-torrents.org^
 ||lastfile.ro^
 ||lastfiles.net^
@@ -435,12 +441,15 @@ evz.ro###lastmin2
 ||mailagent.ro^
 ||mareea.ro^
 ||melimeloparis.ro^
+||menprotect.com^
 ||merinodream-ro.com^
 ||mesterproduse.eu^
 ||modlet.ro^
 ||myhealthyblog.co^
 ||myhealthyblog.info^
+||nevergrey-ro.com^
 ||new-b.ro^
+||ofertedevis.eu^
 ||optimashop.ro^
 ||outlet-rayban.ro^
 ||panipromo.com^
@@ -449,11 +458,13 @@ evz.ro###lastmin2
 ||pentalog.ro^
 ||presamedicala.com^
 ||propantofi.eu^
+||racirecuceata-ro.com^
 ||rbromania.com^
 ||relatiidiscrete.ro^
 ||roboutiqe.eu^
 ||s77.ro^
 ||sacividat.ro^
+||sanatatesifericire.eu^
 ||scenefz.me^
 ||scenefz.net^
 ||seedfile.ro^
@@ -466,6 +477,7 @@ evz.ro###lastmin2
 ||stereomag.ro^
 ||teleprod.eu^
 ||thefile.ro^
+||tipsforhealthylegs.com^
 ||torrentbits.net^
 ||torrentsfile.com^
 ||treburilecasei.eu^
