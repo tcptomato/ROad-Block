@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 20 Aug 2017 19:15 UTC
+! Last modified: 02 Sept 2017 08:35 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -33,7 +33,8 @@
 ||criteo.net^
 ||tynt.com^
 ||crwdcntrl.net^
-||t5.ro/static/$third-party 
+||t5.ro/static/$third-party
+||smartdreamers.ro/embed/$third-party
 
 @@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$script,domain=www.olx.ro
 
