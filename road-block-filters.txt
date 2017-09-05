@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 02 Sept 2017 08:35 UTC
+! Last modified: 05 Sept 2017 09:35 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -39,16 +39,19 @@
 ||criteo.com^
 ||doubleclick.net^
 ||adform.net^$third-party
+||noadblock.org
+
+||observatorulph.ro/cdn-cgi/apps/*$script,first-party
 
 @@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$script,domain=www.olx.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
 
 ! Dom elements
 !HotNews
 ###digi-fm-live-stream
 ##.only-desktop.promotii-wrapper
 ##.only_desktop.related_on_top.parteneri.sectiune
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
 economie.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
 economie.hotnews.ro###rss\.contributors_7889719
 economie.hotnews.ro###rss\.euractiv_20456596
