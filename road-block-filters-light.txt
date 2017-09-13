@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-! Title: ROU: Romanian Ad (ROad) Block List
+! Title: ROU: Romanian Ad (ROad) Block List Light
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
