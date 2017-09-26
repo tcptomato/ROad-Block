@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 25 Sept 2017 19:35 UTC
+! Last modified: 26 Sept 2017 08:15 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -18,6 +18,12 @@
 /campaigns/click
 
 ||coin-hive.com^
+||jsecoin.com^
+||reasedoper.pw^
+||mataharirama.xyz^
+||listat.biz^
+||lmodr.biz^
+||minecrunch.co^
 ||2mdn.net^
 ||7w.ro^
 ||ado.icorp.ro^
