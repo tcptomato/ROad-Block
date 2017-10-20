@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 26 Sept 2017 08:15 UTC
+! Last modified: 20 Oct 2017 21:45 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -46,7 +46,8 @@
 ||criteo.com^
 ||doubleclick.net^
 ||adform.net^$third-party
-||noadblock.org
+||noadblock.org^
+||i401xox.com^
 
 ||observatorulph.ro/cdn-cgi/apps/*$script,first-party
 
@@ -388,3 +389,9 @@ www.pricy.ro##.in.fade.modal-backdrop
 ||www.evz.ro/banners/*$image
 evz.ro###lastmin
 evz.ro###lastmin2
+evz.ro###overlay
+evz.ro##body > .container:nth-of-type(3)
+evz.ro##.brandc
+evz.ro##.rosu:nth-of-type(6)
+evz.ro###ureche-fb
+evz.ro###likepagefb
