@@ -402,3 +402,4 @@ evz.ro###likepagefb
 prosport.ro###crt-523996
 prosport.ro###crt-523989
 prosport.ro###bula-ultima-ora
+@@||prosport.ro/embed/$first-party,inline-script
