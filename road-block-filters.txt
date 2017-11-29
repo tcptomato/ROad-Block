@@ -8,13 +8,11 @@
 /adblock.js
 /plugins/footer-pop-up-banner/*
 /Reclama/*
-/reclama/*
 /adsense/
 /adverts/
 /load_e.php
 /preurl.php
 /ac_d_n
-/adsense/
 /campaigns/click
 
 ||coin-hive.com^
@@ -61,9 +59,6 @@
 ##.only-desktop.promotii-wrapper
 ##.only_desktop.related_on_top.parteneri.sectiune
 economie.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
-economie.hotnews.ro###rss\.contributors_7889719
-economie.hotnews.ro###rss\.euractiv_20456596
-economie.hotnews.ro###rss\.startupcafe_20767567
 gandul.info###bula-ultima-ora
 hotnews.ro###master\.dreapta\.carlig\.smartw_12938869
 hotnews.ro###medlive_6844636
@@ -91,7 +86,6 @@ life.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
 mediafax.ro###bula-ultima-ora
 ortodoxinfo.ro###fpub-popup
 science.hotnews.ro###\$\{tile\.name\}_\$\{tile\.id\}
-science.hotnews.ro###rss\.webpr_6183168
 sport.hotnews.ro##.left_side > div:nth-of-type(5)
 sport.hotnews.ro##.right_side > div:nth-of-type(6)
 stiripesurse.ro##.giant-modal--fb-like.giant-modal
@@ -259,11 +253,9 @@ cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro##.wpel-icon-right.bflink
 cetin.ro##.bf > .wpel-icon-right
 cetin.ro##.cd-is-visible.cd-top
-cetin.ro##.cd-fade-out.cd-is-visible.cd-top
 ||cetin.ro/wp-content/themes/cetin/images/top.png
 ||cetin.ro/poze/2016/12/2500lei.png$image
 
-||s.zoso.ro/wp-content/*$image
 ||yoso.ro$image,domain=www.zoso.ro
 ||zoso.ro/wp-content/*$image
 ||imgur.com$image,domain=www.zoso.ro
@@ -287,7 +279,6 @@ cetin.ro##.cd-fade-out.cd-is-visible.cd-top
 ||cotatii.tradeville.eu/quotations/img/gr.png$image
 ||push.tradeville.eu$websocket,domain=www.moise.ro
 ||cdn.moise.ro/wp-content/themes/biziday/images/app-desktop.jpg$image
-||cotatii.tradeville.eu/quotations/img/gr.png$image
 moise.ro###_tdv_all
 
 
@@ -363,23 +354,17 @@ www.academiacatavencu.info##.widget-popup
 ||www.agerpres.ro/agerpres/BannerFetch$image
 ||www.b1.ro/media/image/andfashion.gif
 ||www.lumeapokemon.ro/pokemon.gif
-||xml.agerpres.ro/agerpres/views/site/pages/xml/widget.html*
 ||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
-||media.stiripesurse.ro/assets/img/agerpres-300x250.png$image
 ||agerpres.ro/agerpres/views/site/pages/xml/widget.html*
 
-www.pricy.ro##.in.fade.modal.subs-popup > .email-subscription.modal-dialog
 www.pricy.ro##.in.fade.modal.subs-popup
 www.pricy.ro##.in.fade.modal-backdrop
 
 ||www.timesnewroman.ro/files/attach/filebox/banner_nou_570x185.gif
 ||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
-||www.timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 
 ||cabral.ro/ads/*$image
 ||media.dcnews.ro/ads/*
-||psnews.ro/ads/*$image
-||psnews.ro/*/*Ad_PS*$image
 
 ||nasul.tv/wp-content/uploads/2016/03/200x600-pantofii-nasul-maro.jpg$image
 ||nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
@@ -543,7 +528,6 @@ prosport.ro###bula-ultima-ora
 ||gramacontabilitate.ro^
 ||impactpress.ro^
 ||incorect.org^
-||indeeway.ro^
 ||infoAlert.ro^
 ||lovendal.ro^
 ||lupuldacicblogg.wordpress.com^
@@ -580,7 +564,6 @@ prosport.ro###bula-ultima-ora
 ! ROAD FLAG - site-uri ce au un continut periculos sau cu stiri false in scop de a atrage vizitatori.
 ||evideo.live^
 ||exclusiv24.ro^
-||infoalert.ro^
 ||psnews.ro^
 ||stiride-calitate.pw^
 ||stiripesurse.ro^
