@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 02 Nov 2017 17:55 UTC
+! Last modified: 29 Nov 2017 13:37 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -575,6 +575,7 @@ prosport.ro###bula-ultima-ora
 ||zer0sm0ke.com^
 ||ziardecluj.ro^
 ||ziaristionline.ro^
+||statulparalel.com^
 
 ! ROAD FLAG - site-uri ce au un continut periculos sau cu stiri false in scop de a atrage vizitatori.
 ||evideo.live^
