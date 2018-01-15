@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 11 Jan 2018 09:20 UTC
+! Last modified: 15 Jan 2018 16:05 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -266,6 +266,8 @@ cetin.ro##.cd-is-visible.cd-top
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_down.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_up.png
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_down.png
+@@||zoso.ro/wp-content/plugins/classic-smilies/img/icon_smile.gif
+@@||zoso.ro/wp-content/plugins/classic-smilies/img/icon_biggrin.gif
 
 ||eftimie.net/wp-content/uploads/2016/10/300x250animat2.gif$image
 ||transilvaniareporter.ro/bannerilcjtreporter.png
