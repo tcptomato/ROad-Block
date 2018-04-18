@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 16 Apr 2018 10:15 UTC
+! Last modified: 18 Apr 2018 15:30 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -485,3 +485,5 @@ prosport.ro###bula-ultima-ora
 
 ||s2blosh.com^
 vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
+
+||lídl.eu
