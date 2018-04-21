@@ -475,6 +475,7 @@ evz.ro###ureche-fb
 evz.ro###likepagefb
 
 georgebutunoiu.com##.img-banner
+restocracy.ro##.img-banner
 
 ||widgets.apropo.ro/js/providers/autopro/widgets/ads/widget.js$script,domain=prosport.ro
 ||adsnative.com^
