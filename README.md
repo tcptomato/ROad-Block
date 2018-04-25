@@ -1,4 +1,4 @@
-[![GitHub contributors](https://img.shields.io/github/contributors/tcptomato/ROad-Block.svg)]() [![](https://img.shields.io/github/issues-pr/tcptomato/ROad-Block.svg)]() [![](https://img.shields.io/github/issues-pr-closed/tcptomato/ROad-Block.svg)]() [![Website](https://img.shields.io/website-up-down-green-red/https/www.adblock.ro.svg)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/tcptomato/ROad-Block.svg)]() [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/tcptomato/ROad-Block.svg)](http://isitmaintained.com/project/tcptomato/ROad-Block "Average time to resolve an issue") [![](https://img.shields.io/github/issues-pr/tcptomato/ROad-Block.svg)]() [![](https://img.shields.io/github/issues-pr-closed/tcptomato/ROad-Block.svg)]() [![Website](https://img.shields.io/website-up-down-green-red/https/www.adblock.ro.svg)]()
 # ROad-Block [RO]
 Lista română de filtre pentru adblock.
 
