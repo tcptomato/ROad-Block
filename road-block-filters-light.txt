@@ -490,3 +490,4 @@ prosport.ro###bula-ultima-ora
 vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
 
 ||lídl.eu
+||activenews.ro/images/publicitate/*
