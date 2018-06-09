@@ -40,8 +40,11 @@ There are multiple ways to add this filter to your blocker, unfortunately a bit 
 * Go to [filterlists.com](https://filterlists.com/),search for **ROad** then click on add
 * Go to [ROad website](https://www.adblock.ro/add.html) and click on add
 or
+* Click ([Subscribe][ROU: Romanian Ad (ROad) Block List Light Subscribe])
 * manually add it to your ad blocker
 
   ```HTML
   https://road.adblock.ro/lista.txt
   ```
+  
+  [ROU: Romanian Ad (ROad) Block List Light Subscribe]: https://subscribe.adblockplus.org/?location=https://road.adblock.ro/lista.txt&title=ROU%3A%20Romanian%20Ad%20%28ROad%29%20Block%20List%20Light
