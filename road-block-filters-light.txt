@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 22 May 2018 08:15 UTC
+! Last modified: 11 Jun 2018 08:15 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -51,11 +51,14 @@ coinhive.min.js
 ||ads1-adnow.com^
 ||ads2-adnow.com^
 ||ads3-adnow.com^
+||tesseradigital.com^
+||qds.ninja^
 
 ||observatorulph.ro/cdn-cgi/apps/*$script,first-party
 
 @@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$script,domain=olx.ro
 @@tracking/ninja.js$script,domain=olx.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
 /cdn-cgi/apps/head/*$script,first-party,domain=dot.ro
