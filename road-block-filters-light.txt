@@ -73,8 +73,7 @@ coinhive.min.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
 ||ivm.antenaplay.ro/fadead_check.php$xmlhttprequest
 /cdn-cgi/apps/head/*$script,first-party,domain=dot.ro
-||europafm.ro/wp-content/uploads/2018/08/europaFM_static-banner-desktop-*.jpg$image
-||europafm.ro/wp-content/uploads/2018/08/europaFM_static-banner-mobile-*.jpg$image
+||europafm.ro/wp-content/uploads/2018/08/europaFM_static-banner-*.jpg$image,domain=europafm.ro
 
 ! DOM elements
 !HotNews
