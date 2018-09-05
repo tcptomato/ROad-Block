@@ -284,6 +284,8 @@ smlive.ro##img[src="http://smlive.ro/wp-content/uploads/useful_banner_manager_ba
 ||e-day.ro^$third-party
 ||profitshare.emag.ro^
 ||profitshare.ro^
+@@||profitshare.ro/l^
+@@||l.profitshare.ro/lr^
 
 ! eMAG
 @@||s1emagst.akamaized.net/layout/all/js/showads.js$script,domain=emag.ro
