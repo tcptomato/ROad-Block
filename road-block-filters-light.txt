@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 26 Nov 2018 22:15 UTC
+! Last modified: 09 Dec 2018 22:01 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -471,6 +471,9 @@ academiacatavencu.info##.widget-popup
 ||media.stiripesurse.ro/assets/img/agerpres-300x250.png$image
 ||ziuadevest.ro/images/banners/leaderboard/mall750X1006.jpg
 ||agerpres.ro/agerpres/views/site/pages/xml/widget.html*
+
+!iframe blocker
+||j745s.com
 
 pricy.ro##.in.fade.modal.subs-popup
 pricy.ro##.in.fade.modal-backdrop
