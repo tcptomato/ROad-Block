@@ -533,6 +533,7 @@ vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
 ||m4clicks.com^$third-party
 ||ad.mox.tv^
 ||ecoduri.com/imagini/ecoduri.gif$image
+||xzipy.com
 
 !.md
 agora.md##div.grey-section:-abp-contains(Advertorial)
