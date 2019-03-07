@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 27 Feb 2019 12:01 UTC
+! Last modified: 07 Mar 2019 12:01 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -528,6 +528,11 @@ vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
 
 ||lídl.eu^
 ||activenews.ro/images/publicitate/*
+
+||vy4e3jw46l.com
+||m4clicks.com^$third-party
+||ad.mox.tv^
+||ecoduri.com/imagini/ecoduri.gif$image
 
 !.md
 agora.md##div.grey-section:-abp-contains(Advertorial)
