@@ -512,6 +512,9 @@ evz.ro###likepagefb
 evz.ro##.agoramag
 evz.ro##[href="https://agoramag.ro"]
 
+||cotidianul.ro/wp-content/uploads/*/domeniul-coroanei$image
+cotidianul.ro##[title^="ADS:"]
+
 georgebutunoiu.com##.img-banner
 restocracy.ro##.img-banner
 
