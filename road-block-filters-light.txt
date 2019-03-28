@@ -78,6 +78,7 @@ coinhive.min.js
 ||ivm.antenaplay.ro/fadead_check.php$xmlhttprequest
 /cdn-cgi/apps/head/*$script,first-party,domain=dot.ro
 ||europafm.ro/wp-content/uploads/2018/08/europaFM_static-banner-*.jpg$image,domain=europafm.ro
+||europafm.ro/wp-content/uploads/2019/03/telekom_Europa_FM_desktop.jpg
 
 ! DOM elements
 !HotNews
@@ -414,6 +415,8 @@ zonait.tv/wp-content/uploads/2016/10/irobot.jpg
 ||luju.ro/static/banners/banner-psd.jpg
 /luju\.ro\/static\/images\/[a-zA-Z0-9=,.?&]+$/$domain=luju.ro,image
 luju.ro##.index-slide
+luju.ro##[src*="banner"]
+luju.ro##[id*="banner"]
 @@luju.ro/static/images/jurindex.jpg
 @@luju.ro/static/images/unbr2.png
 @@luju.ro/static/images/en.jpg
