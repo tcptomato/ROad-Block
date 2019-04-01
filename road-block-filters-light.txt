@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 28 Mar 2019 12:01 UTC
+! Last modified: 01 Apr 2019 12:01 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -80,6 +80,8 @@ coinhive.min.js
 ||europafm.ro/wp-content/uploads/2018/08/europaFM_static-banner-*.jpg$image,domain=europafm.ro
 ||europafm.ro/wp-content/uploads/2019/03/telekom_Europa_FM_desktop.jpg
 ||europafm.ro/wp-content/uploads/2019/03/telekom_Europa_FM_mobil.jpg
+||www.europafm.ro/wp-content/uploads/2019/03/lidl_deluxe_desktop.jpg
+||www.europafm.ro/wp-content/uploads/2019/03/lidl_deluxe_mobil.jpg
 
 ! DOM elements
 !HotNews
