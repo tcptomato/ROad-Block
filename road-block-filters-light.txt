@@ -86,6 +86,7 @@ europafm.ro###background-image
 
 ||virginradio.ro/wp-content/uploads/2019/04/*kfc-dejun-virgin-*.png$image
 @@||scdn.cxense.com/cx.js$script,domain=www.digi24.ro
+@@||liveplayer.romaniatv.net/js/ads.js$script,domain=liveplayer.romaniatv.net
 
 ! DOM elements
 !HotNews
