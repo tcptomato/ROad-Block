@@ -3,9 +3,9 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 4 Apr 2018 18:15 UTC
+! Last modified: 25 Dec 2019 13:31 UTC
 
-
+!Spam list
 ||3x.ro^
 ||abrtn.pro^
 ||activ-forte.com^
@@ -118,62 +118,96 @@
 ! Lista cu site-uri flaguite de verificasursa.ro
 ||activenews.ro^
 ||aflasitu.ro^
+||aktual24.ro^
+||alternativaromaniei.com^
+||alternativenews.ro^
+||bbmic.ro^
 ||bursadecontabilitate.ro^
 ||caplimpede.ro^
 ||cocoon.ro^
+||comisarul.ro^
+||conspiratii.info^
 ||criterii.ro^
 ||cunoastelumea.ro^
 ||cyd.ro^
 ||dailynewsro.com^
 ||danfil-jobs.com^
+||deretinut.net^
 ||descrieri.ro^
 ||dzr.org.ro^
 ||efemeride.ro^
+||enational.ro^
 ||eufrosin.wordpress.com^
+||exclusiv24.net^
+||exclusivenews.ro^
+||exclusivnews.ro^
 ||expunere.com^
 ||fluierul.ro^
 ||flux24.ro^
 ||gandeste.org^
+||glasul.info^
 ||gramacontabilitate.ro^
 ||impactpress.ro^
 ||incorect.org^
-||infoAlert.ro^
+||infoalert.ro^
+||inliniedreapta.net^
+||internet-bun.info^
+||invectiva.ro^
+||jurnalista.net^
+||jurnalparanormal.ro^
+||loon.ro^
 ||lovendal.ro^
 ||lupuldacicblogg.wordpress.com^
 ||napocanews.ro^
 ||nasul.ro^
+||nasul.tv^
 ||nationalisti.ro^
 ||nedreptate.net^
+||nouaordinemondiala.com^
 ||nuv.ro^
 ||obiectiv.info^
 ||odofresh.com^
+||oficialmedia.com^
+||oglinda.tv^
 ||oliviasteer.ro^
 ||onlinereport.ro^
+||perfect-ask.com^
+||perfectmedia.tv^
+||presalibera.net^
 ||promarketmail.com^
+||psnews.ro^
 ||recentnews.ro^
+||relatari.ro^
 ||reporteronline.net^
 ||ro.blastingnews.com^
 ||searchnewsglobal.wordpress.com^
 ||secretele.com^
+||secretulcunoasterii.ro^
 ||social-media-romania.eu^
 ||soim.ro^
+||stampenet.com^
+||statulparalel.com^
 ||stireazilei.com^
 ||stiri-extreme.ro^
+||stiri-online24.eu^
+||stiri-virale.com^
 ||stiriblana.pw^
 ||stirinefiltrate.ro^
+||suntsanatos.ro^
+||superioraction.com^
 ||teinformam.ro^
 ||us24.ro^
+||viataverdeviu.ro^
 ||vremuritulburi.com^
 ||yno.ro^
 ||zer0sm0ke.com^
 ||ziardecluj.ro^
 ||ziaristionline.ro^
-||statulparalel.com^
+||ziaruldegarda.ro^
 
 ! ROAD FLAG - site-uri ce au un continut periculos sau cu stiri false in scop de a atrage vizitatori
 ||evideo.live^
 ||exclusiv24.ro^
-||psnews.ro^
 ||stiride-calitate.pw^
 ||stiripesurse.ro^
 ||superclipuri.com^
