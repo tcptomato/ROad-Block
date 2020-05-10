@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 10 May 2020 14:40 UTC
+! Last modified: 10 May 2020 14:57 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -205,6 +205,14 @@ zonait.tv###text-4 > .textwidget
 ! 10/05/2020 https://zch.ro
 ||zch.ro/wp-content/uploads/2020/03/Banner-site-TCE-livrari*.jpg$image
 ||zch.ro/wp-content/uploads/2018/04/macheta-arcan-e1546928430943.jpg$image
+||zch.ro/wp-content/uploads/2020/05/4mai_automoldova*.jpg$image
+||zch.ro/wp-content/uploads/2020/02/Valea-buna*.jpg$image
+||zch.ro/wp-content/uploads/2020/03/conservfruct*.jpg$image
+||zch.ro/wp-content/uploads/2020/03/ASCLEPION-FINAL*.jpg$image
+||zch.ro/wp-content/uploads/2017/12/output_ZKpn9l.gif$image
+||zch.ro/wp-content/uploads/2016/08/Danlin.jpg$image
+||zch.ro/wp-content/uploads/2019/01/rifil*.jpg$image
+||zch.ro/wp-content/uploads/2016/11/RECLAMA-ANIMATA-300-logo.gif$image
 ! 10/05/2020 https://www.ziartarguneamt.ro
 ||www.ziartarguneamt.ro/wp-content/uploads/2020/04/uniti-spital3.jpg$image
 ||www.ziartarguneamt.ro/wp-content/uploads/2019/06/targu-neamt-rossal-1024x512-1024x512.png$image
