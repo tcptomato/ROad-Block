@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 28 August 2020 14:36 UTC
+! Last modified: 29 August 2020 09:58 UTC
 
 ! ROAD Kill - site-uri de whitelistuit manual
 ! Lista fantoma | Anti-spam | Site-uri periculoase
@@ -406,15 +406,22 @@ zonait.tv###text-4 > .textwidget
 ||mesagerulneamt.ro/wp-content/uploads/2020/07/sms_propunere*.jpg$image
 ||mesagerulneamt.ro/wp-content/uploads/2020/07/Euro-em*.jpg$image
 ||mesagerulneamt.ro/wp-content/uploads/2020/08/Bacanie-bun*.jpg$image
+||mesagerulneamt.ro/wp-content/uploads/2020/08/logo-Lusitana-clean*.jpg$image
 
 ! https://nemteanul.ro
 ||nemteanul.ro/wp-content/uploads/2020/04/arcan-1024x512-1*.png$image
 ||nemteanul.ro/wp-content/uploads/2018/09/Andrusca-3*.jpg$image
 ||nemteanul.ro/wp-content/uploads/2020/08/Instalatii-copia*.jpg$image
+||nemteanul.ro/wp-content/uploads/2020/08/cuc-ppu-psd*.jpg
+||nemteanul.ro/wp-content/uploads/2020/08/arsene-300x225.gif
 
 ! https://newsallert.ro
 ||newsallert.ro/wp-content/uploads/2020/07/Publiserv-SA-servicii*.jpg$image
 ||newsallert.ro/wp-content/uploads/2020/08/mugur-cozmanciuc-pnl-1200x-150px.png$image
+||newsallert.ro/wp-content/uploads/2020/01/Arhiprint_RCA*.jpg$image
+||newsallert.ro/wp-content/uploads/2020/03/Salubritas-SA-servicii*.jpg$image
+||newsallert.ro/wp-content/uploads/2019/10/mega-travel-sigla*.jpg$image
+||newsallert.ro/wp-content/uploads/2020/08/banner-mugur-cozmanciuc-pnl-1200-x-150.png$image
 
 ! https://stiri-neamt.ro
 ||stiri-neamt.ro/wp-content/uploads/2020/03/teren.jpg$image
@@ -425,6 +432,7 @@ zonait.tv###text-4 > .textwidget
 ||stiri-neamt.ro/wp-content/uploads/2020/07/3cc2b24f-2d50-4ae7-82ce-e92dad4fa80b.jpg$image
 ||stiri-neamt.ro/wp-content/uploads/2020/07/taxi-anny.jpg$image
 ||stiri-neamt.ro/wp-content/uploads/2020/08/Bringo-5-x-20.jpg$image
+||stiri-neamt.ro/wp-content/uploads/2020/08/PSD-CAMPANIE-NEAMT-CUC-ARSENE.jpg
 
 ! https://vestea.net
 ||vestea.net/wp-content/uploads/2019/03/anigif-stan.gif$image
@@ -439,6 +447,11 @@ zonait.tv###text-4 > .textwidget
 ||vestea.net/wp-content/uploads/2015/04/citestigif2.gif$image
 ||vestea.net/wp-content/uploads/2017/11/anigif-tehno.gif$image
 ||vestea.net/wp-content/uploads/2018/12/anigif-targ-1.gif$image
+||vestea.net/wp-content/uploads/2020/08/cropped-coperta-scut-vot-cozmanciuc.png
+||vestea.net/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-28-at-15.08.07-1116x628.jpeg
+||vestea.net/wp-content/uploads/2020/08/anigif-asaftei.gif
+||vestea.net/wp-content/uploads/2020/06/fundal-negru_1-min-4-1024x576.jpg
+||vestea.net/wp-content/uploads/2016/08/anigif.gif
 
 ! https://zch.ro
 ||zch.ro/wp-content/uploads/2020/03/Banner-site-TCE-livrari*.jpg$image
@@ -458,13 +471,9 @@ zonait.tv###text-4 > .textwidget
 ||zch.ro/wp-content/uploads/2020/07/sms_propunere*.jpg$image
 ||zch.ro/wp-content/uploads/2020/08/Durau-park-3b*.png$image
 ||zch.ro/wp-content/uploads/2020/08/Bacanie-bun*.jpg$image
+||zch.ro/wp-content/uploads/2020/08/logo-Lusitana-clean-1*.jpg
 
 ! https://ziartarguneamt.ro
-||ziarpiatraneamt.ro/wp-content/uploads/2015/06/eurotravel-piatra-neamt.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2015/06/trust.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2017/03/aqua-400x200.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/09/70022062_437327273573053_6732254343333937152_n.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/12/80638465_2543127912674698_1767350691224879104_n.jpg$image
 ||ziartarguneamt.ro/wp-content/uploads/2016/04/Pelerinaj-A-Boca-Nt1-page0001.jpg$image
 ||ziartarguneamt.ro/wp-content/uploads/2016/07/Afis-Pelerinaj-A3-crb-X5.jpg$image
 ||ziartarguneamt.ro/wp-content/uploads/2018/07/37691992_1885724854798870_3885506391267344384_n.png$image
@@ -481,6 +490,10 @@ zonait.tv###text-4 > .textwidget
 ||ziartarguneamt.ro/wp-content/uploads/2020/07/arcan-senator.jpg$image
 ||ziartarguneamt.ro/wp-content/uploads/2020/08/ardealul.png$image
 ||ziartarguneamt.ro/wp-content/uploads/2020/08/viorel-baltatescu-candidat-tg-neamtt-1024x577.jpg$image
+||ziartarguneamt.ro/wp-content/uploads/2020/08/arsene.gif$image
+||ziartarguneamt.ro/wp-content/uploads/2020/08/viorel-baltatescu-candidat-tg-neamtt*.jpg$image
+||ziartarguneamt.ro/wp-content/uploads/2019/06/targu-neamt-rossal-1024x512*.png$image
+||ziartarguneamt.ro/wp-content/uploads/2019/06/Andrusca-3-1024x512*.jpg$image
 
 ! https://neamt24.ro
 ||neamt24.ro/wp-content/uploads/2020/02/mplus-fm-creative-print*.jpg$image
@@ -503,6 +516,11 @@ zonait.tv###text-4 > .textwidget
 ||radiomplusfm.ro/wp-content/uploads/2017/10/milenium2.jpg$image
 
 ! https://ziarpiatraneamt.ro
+||ziarpiatraneamt.ro/wp-content/uploads/2015/06/eurotravel-piatra-neamt.jpg$image
+||ziarpiatraneamt.ro/wp-content/uploads/2015/06/trust.jpg$image
+||ziarpiatraneamt.ro/wp-content/uploads/2017/03/aqua-400x200.png$image
+||ziarpiatraneamt.ro/wp-content/uploads/2019/09/70022062_437327273573053_6732254343333937152_n.jpg$image
+||ziarpiatraneamt.ro/wp-content/uploads/2019/12/80638465_2543127912674698_1767350691224879104_n.jpg$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/02/megatravel.png$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2018/03/brantner-1-300x69.png$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2019/04/cmj-300x100.png$image
@@ -547,6 +565,7 @@ tvmneamt.ro##[href^="https://www.facebook.com/TurnulBerarilorOficial/"]
 ||tvmneamt.ro/wp-content/uploads/2020/06/3-razvan-alexandru-cuc1*.jpg$image
 ||tvmneamt.ro/wp-content/uploads/2020/06/caseta-directia-silivica*.jpg$image
 ||tvmneamt.ro/wp-content/uploads/2020/08/caseta-salubritas*.jpg$image
+||tvmneamt.ro/wp-content/uploads/2020/08/91db827b-446f-4ec4-a9b7-64011529386c-e1596986610254.jpg$image
 ||tvmneamt.ro/wp-content/uploads/2020/08/91db827b-446f-4ec4-a9b7-64011529386c-e1596986610254.jpg$image
 
 ! SATU MARE
