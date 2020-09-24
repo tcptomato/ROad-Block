@@ -1,6 +1,6 @@
 [Adblock Plus 2.1]
 ! Title: ROU: Romanian Ad (ROad) Kill List
-! Expires: 1 days
+! Expires: 2 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
 ! Last modified: 29 August 2020 13:55 UTC
