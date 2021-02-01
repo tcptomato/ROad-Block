@@ -757,3 +757,7 @@ ziuaconstanta.ro###optional_banner
 ||ziuaconstanta.ro/images/banners/$image
 
 gazetaromaneasca.com##.rm-skin
+
+||sighet247.ro/banners/banner-pe-web_2020-iulie_1200x280px.png$image
+||sighet247.ro/banners/herodot-covid19.jpg$image
+||sighet247.ro/banners/banner-codul-postal-01.jpg$image
