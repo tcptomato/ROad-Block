@@ -1,9 +1,9 @@
 [Adblock Plus 2.1]
 ! Title: ROU: Romanian Ad (ROad) Block List Light
-! Expires: 2 days
+! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 18 Sept 2020 13:55 UTC
+! Last modified: 8 Feb 2021 13:55 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -761,3 +761,6 @@ gazetaromaneasca.com##.rm-skin
 ||sighet247.ro/banners/banner-pe-web_2020-iulie_1200x280px.png$image
 ||sighet247.ro/banners/herodot-covid19.jpg$image
 ||sighet247.ro/banners/banner-codul-postal-01.jpg$image
+
+||ido.ro/i/a/160.php$subdocument,domain=vremea.ido.ro
+||ido.ro/i/a/300.php$subdocument,domain=vremea.ido.ro
