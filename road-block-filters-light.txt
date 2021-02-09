@@ -770,3 +770,15 @@ romaniatv.net##.SC_TBlock
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/05/27/5cec182e445219c57e1efd38/orig.jpg$image
+
+! click.ro ad spaces/blocks
+click.ro##.clearfix.view-mode-block_2col_75_25_1art_1bloc_h600.bean-un-articol-si-un-bloc.entity-bean.entity.ds_2col_75_25 > .group-right
+click.ro##.block--bean-zontera-rectangle-2.block-bean-zontera.block--bean.block
+click.ro##.block--bean-zontera-rectangle-1--2.block-bean-zontera.block--bean.block
+
+! gps.ro ad spaces/blocks
+gsp.ro##.x970x250.only_desktop.leaderboard.banner
+gsp.ro##.x600x300.only_desktop.banner
+gsp.ro##.x300x250.nimic.banner
+gsp.ro##section.news-block > .controller > .C3 > .x300x250.banner
+
