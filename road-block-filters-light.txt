@@ -783,3 +783,6 @@ gsp.ro##.x600x300.only_desktop.banner
 gsp.ro##.x300x250.nimic.banner
 gsp.ro##section.news-block > .controller > .C3 > .x300x250.banner
 
+||newmoney.ro/wp-content/uploads/2019/05/Banner-online-New-Money_300px-x-250px.jpg$image
+||newmoney.ro/wp-content/uploads/2020/10/Repatriot-300x250.png$image
+
