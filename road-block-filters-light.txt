@@ -784,4 +784,10 @@ gsp.ro##.x600x300.only_desktop.banner
 gsp.ro##.x300x250.nimic.banner
 gsp.ro##section.news-block > .controller > .C3 > .x300x250.banner
 
+! stirilekanald.ro ad spaces/blocks
+stirilekanald.ro##section.pad.section:nth-of-type(9)
+stirilekanald.ro##.row > .col-sm-4.col-12
+stirilekanald.ro##section.pad.section:nth-of-type(8)
+
+||cdn.knd.ro/media/static/jooble.png$image
 
