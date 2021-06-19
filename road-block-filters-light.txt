@@ -771,8 +771,11 @@ romaniatv.net##.column--300
 ||clubopel.com/8080/images/euautopiese.ro.gif$image
 ||clubopel.com/8080/images/autodoc24.gif$image
 ||clubopel.com/8080/images/dwight.gif$image
-www.clubopel.com##.fab_mid_thread
-www.clubopel.com##.my_post_goad.my_post.row-fluid
+clubopel.com##.fab_mid_thread
+clubopel.com##.my_post_goad.my_post.row-fluid
+clubopel.com##.fab_lastpost
+clubopel.com##.banner_720
+
 *.gif$domain=clubopel.com,image
 
 ||www.sfatulmedicului.ro/external/img/adds*
