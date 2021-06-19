@@ -767,6 +767,9 @@ gazetaromaneasca.com##.rm-skin
 
 ! romaniatv.net "loading..."
 romaniatv.net##.SC_TBlock
+! ad spaces
+romaniatv.net##.strawberry-ads__pretty-container
+romaniatv.net##.column--300
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/05/27/5cec182e445219c57e1efd38/orig.jpg$image
