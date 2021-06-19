@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 8 Feb 2021 13:55 UTC
+! Last modified: 19 Jun 2021 13:55 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -770,3 +770,11 @@ romaniatv.net##.SC_TBlock
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/05/27/5cec182e445219c57e1efd38/orig.jpg$image
+
+||clubopel.com/8080/images/autopieseonline24.gif$image
+||clubopel.com/8080/images/autodoc24.gif$image
+||clubopel.com/8080/images/euautopiese.ro.gif$image
+||clubopel.com/8080/images/autodoc24.gif$image
+||clubopel.com/8080/images/dwight.gif$image
+www.clubopel.com##.fab_mid_thread
+www.clubopel.com##.my_post_goad.my_post.row-fluid
