@@ -782,3 +782,7 @@ clubopel.com##.banner_720
 
 ||www.sfatulmedicului.ro/external/img/adds*
 opiniatimisoarei.ro##[href="https://www.rapidauto.ro/ro/content/showroom-timisoara.html"]
+
+multecase.ro##.visible.go-premium-drawer
+multecase.ro##.listAd.center-block.img-responsive
+||multecase.ro/assets/img/banners/*$image
