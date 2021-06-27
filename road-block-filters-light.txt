@@ -741,7 +741,6 @@ newsromania.net##.background-image-clickable
 sfatulmedicului.ro###reclame
 ||agrointel.ro/*.gif$image
 ||crestinortodox.ro/img/pub/$image
-wowbiz.ro##.adocean
 ||opiniatimisoarei.ro/*.gif$image
 opiniatimisoarei.ro##.hiddenad
 ||opiniatimisoarei.ro/*banner$image
