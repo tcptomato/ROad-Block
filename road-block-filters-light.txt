@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 19 Jun 2021 13:55 UTC
+! Last modified: 27 Jun 2021 13:55 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -660,6 +660,9 @@ evz.ro###likepagefb
 ||evz.ro/*banner$image
 evz.ro##.agoramag
 evz.ro##[href="https://agoramag.ro"]
+||media.evz.ro/wp-content/uploads/2021/03/kuga-BDT.png$image
+evz.ro###ado970p1
+evz.ro###ado970p2
 
 ||cotidianul.ro/wp-content/uploads/*/domeniul-coroanei$image
 cotidianul.ro##[title^="ADS:"]
