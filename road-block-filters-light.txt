@@ -757,9 +757,8 @@ gazetaromaneasca.com##.rm-skin
 ||ido.ro/i/a/160.php$subdocument,domain=vremea.ido.ro
 ||ido.ro/i/a/300.php$subdocument,domain=vremea.ido.ro
 
-! romaniatv.net "loading..."
 romaniatv.net##.SC_TBlock
-! ad spaces
+romaniatv.net##.height-300
 romaniatv.net##.strawberry-ads__pretty-container
 romaniatv.net##.column--300
 
