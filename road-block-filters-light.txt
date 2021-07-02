@@ -133,7 +133,6 @@ infopuls.ro###text-13
 kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
 libertatea.ro###floating
 life.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
-mediafax.ro###bula-ultima-ora
 nwradu.ro##.second_header > .container > .reclama728
 ortodoxinfo.ro###fpub-popup
 romanialibera.ro###widgetArticleControlsLeft
@@ -790,3 +789,9 @@ multecase.ro##.listAd.center-block.img-responsive
 www.digi24.ro###adContainer
 
 ||rangfort.ro/resurse/rfhz.png$image
+
+||stream-aleph.m.ro^$domain=mediafax.ro
+mediafax.ro###alephLive
+mediafax.ro###alephLiveBkp
+mediafax.ro###bula-ultima-ora
+mediafax.ro##div.notif-bula.notif
