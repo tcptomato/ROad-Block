@@ -797,3 +797,5 @@ mediafax.ro###bula-ultima-ora
 mediafax.ro##div.notif-bula.notif
 
 ||i.imgur.com/oj9G0zy.png
+
+cancan.ro##.strawberry-ads-manager-container
