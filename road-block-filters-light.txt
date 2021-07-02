@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 27 Jun 2021 13:55 UTC
+! Last modified: 02 Jul 2021 13:55 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -785,3 +785,6 @@ opiniatimisoarei.ro##[href="https://www.rapidauto.ro/ro/content/showroom-timisoa
 multecase.ro##.visible.go-premium-drawer
 multecase.ro##.listAd.center-block.img-responsive
 ||multecase.ro/assets/img/banners/*$image
+
+||www.digi24.ro/static/img/adblock.jpg$image
+www.digi24.ro###adContainer
