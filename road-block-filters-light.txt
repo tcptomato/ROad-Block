@@ -795,3 +795,5 @@ mediafax.ro###alephLive
 mediafax.ro###alephLiveBkp
 mediafax.ro###bula-ultima-ora
 mediafax.ro##div.notif-bula.notif
+
+||i.imgur.com/oj9G0zy.png
