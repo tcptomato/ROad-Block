@@ -788,3 +788,5 @@ multecase.ro##.listAd.center-block.img-responsive
 
 ||www.digi24.ro/static/img/adblock.jpg$image
 www.digi24.ro###adContainer
+
+||rangfort.ro/resurse/rfhz.png$image
