@@ -799,6 +799,7 @@ mediafax.ro##div.notif-bula.notif
 ||i.imgur.com/oj9G0zy.png
 
 cancan.ro##.strawberry-ads-manager-container
+cancan.ro##.height-250
 
 ! cspower.ro
 ||i.postimg.cc/Vv2v9kdD/download.jpg$image
