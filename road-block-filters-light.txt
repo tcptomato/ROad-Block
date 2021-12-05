@@ -760,7 +760,6 @@ gazetaromaneasca.com##.rm-skin
 
 romaniatv.net##.height-300
 romaniatv.net##.strawberry-ads__pretty-container
-romaniatv.net##.column--300
 ##.SC_TBlock
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
