@@ -19,6 +19,7 @@
 ||psd.marketing^$third-party
 ||paydemic.com
 
+coinhive.min.js
 ||jsecoin.com^
 ||reasedoper.pw^
 ||mataharirama.xyz^
