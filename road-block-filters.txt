@@ -931,6 +931,12 @@ tribuna.md###hightopbanner
 ph-online.ro##.banneritem
 ||connect.facebook.net/ro_RO/all.js$script,domain=ph-online.ro
 
+||sighet247.ro/banners/banner-codul-postal-01.jpg
+||sighet247.ro/banners/banner-muzicando-230.jpg
+||sighet247.ro/banners/herodot-covid19.jpg
+||sighet247.ro/banners/frtunningshop.gif
+||sighet247.ro/banners/banner_euronet.gif
+||sighet247.ro/banners/vitreum-desktop.jpg
 ||sighet247.ro/banners/vitreum-1200-280-mai-2020.jpg$image
 ||sighet247.ro/banners/banner-asigurari-bm-1200x280.jpg$image
 ||sighet247.ro/banners/frtunningshop.gif$image
