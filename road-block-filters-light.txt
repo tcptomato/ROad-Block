@@ -866,3 +866,7 @@ www.scritub.com###dreapta > div > div
 
 ||sighet247.ro/banners/
 sighet247.ro##.ad
+
+||hdfilmeonline.ro/wp-content/uploads/2021/03/amazon-bands.jpg$image
+||hdfilmeonline.ro/wp-content/uploads/2021/03/amazonnub.png$image
+hdfilmeonline.ro##.bireklam
