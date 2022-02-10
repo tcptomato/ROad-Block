@@ -869,3 +869,5 @@ sighet247.ro##.ad
 ||hdfilmeonline.ro/wp-content/uploads/2021/03/amazon-bands.jpg$image
 ||hdfilmeonline.ro/wp-content/uploads/2021/03/amazonnub.png$image
 hdfilmeonline.ro##.bireklam
+
+||www.hoinaru.ro/wp-content/uploads/*/*/banner*$image
