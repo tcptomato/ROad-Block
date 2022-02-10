@@ -871,3 +871,6 @@ sighet247.ro##.ad
 hdfilmeonline.ro##.bireklam
 
 ||www.hoinaru.ro/wp-content/uploads/*/*/banner*$image
+
+reno.ro##.profitshare
+reno.ro##.adsense
