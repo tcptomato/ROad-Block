@@ -879,3 +879,6 @@ rasfoiesc.com##td[height^="500"]
 
 daciaclub.ro,reno.ro##.profitshare
 daciaclub.ro,reno.ro##.adsense
+
+click.ro##.google-ads-in_article
+click.ro##.google-ads-billboard
