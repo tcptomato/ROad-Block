@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 15 Dec 2021 11:21 UTC
+! Last modified: 10 Feb 2022 21:23 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -864,3 +864,6 @@ www.scritub.com##.Section1 > div > div
 www.scritub.com##div:nth-of-type(4)
 www.scritub.com##div:nth-of-type(5)
 www.scritub.com###dreapta > div > div
+
+||sighet247.ro/banners/
+sighet247.ro##.ad
