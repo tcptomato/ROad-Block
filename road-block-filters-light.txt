@@ -894,3 +894,5 @@ asculta-live.com##.ad
 cetateanul.net##[href*="/?utm_source=cetateanul"]
 
 myradioonline.ro##.pls-dis-blck
+
+qreferat.com##[style^="overflow:auto;"]
