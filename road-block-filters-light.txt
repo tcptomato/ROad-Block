@@ -896,3 +896,6 @@ cetateanul.net##[href*="/?utm_source=cetateanul"]
 myradioonline.ro##.pls-dis-blck
 
 qreferat.com##[style^="overflow:auto;"]
+
+jurnalul.ro#?#.DAGInScrollInner:-abp-has(.bannerBox)
+jurnalul.ro##.bannerGrey
