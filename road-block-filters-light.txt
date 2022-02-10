@@ -872,5 +872,5 @@ hdfilmeonline.ro##.bireklam
 
 ||www.hoinaru.ro/wp-content/uploads/*/*/banner*$image
 
-reno.ro##.profitshare
-reno.ro##.adsense
+daciaclub.ro,reno.ro##.profitshare
+daciaclub.ro,reno.ro##.adsense
