@@ -61,7 +61,6 @@ coinhive.min.js
 ||thumbs.gfycat.com^$image,domain=deschide.md
 
 @@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$script,domain=olx.ro
-@@tracking/ninja.js$script,domain=olx.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
