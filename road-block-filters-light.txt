@@ -857,11 +857,9 @@ playtech.ro##.mg-bottom-10.text-center
 playtech.ro##.padding-top-10.padding-bottom-10
 playtech.ro##.height-md-300.height-xs-400
 
-www.scritub.com###dreapta > div:nth-of-type(1) > div
-www.scritub.com##.Section1 > div > div
-www.scritub.com##div:nth-of-type(4)
-www.scritub.com##div:nth-of-type(5)
-www.scritub.com###dreapta > div > div
+scritub.com##[style^="overflow:"]:has([data-ad])
+scritub.com##[style^="overflow:"]:has([data-ad-slot])
+scritub.com##[style^="overflow:"]:has(#v-scritub-v3)
 
 ||sighet247.ro/banners/
 sighet247.ro##.ad
