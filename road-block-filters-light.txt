@@ -152,6 +152,12 @@ stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-h
 stiripesurse.ro##.small.banner
 stiripesurse.ro##.banner
 ||media.stiripesurse.ro/assets/img/ads_img/$image
+||media.stiripesurse.ro/image/*.gif$image
+stiripesurse.ro##.js-alternating-banners
+stiripesurse.ro##[href*="Adv"]
+stiripesurse.ro##[href*="Promo"]
+stiripesurse.ro##[href^="https://ccir.ro/"]
+
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
 urban.ro###home_calendar > a
