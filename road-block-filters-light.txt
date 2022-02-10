@@ -887,6 +887,8 @@ gandul.ro##.strawberry-ads-manager-container
 
 ziuanews.ro###pub-top-container
 
+ziaruldeiasi.ro##[href*="adclick"]
+
 asculta-live.com##.ad
 
 cetateanul.net##[href*="/?utm_source=cetateanul"]
