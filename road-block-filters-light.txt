@@ -886,3 +886,5 @@ click.ro##.google-ads-billboard
 gandul.ro##.strawberry-ads-manager-container
 
 ziuanews.ro###pub-top-container
+
+ziaruldeiasi.ro##[href*="adclick"]
