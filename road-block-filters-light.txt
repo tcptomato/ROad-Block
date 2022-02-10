@@ -659,8 +659,8 @@ evz.ro##[href="https://agoramag.ro"]
 evz.ro###ado970p1
 evz.ro###ado970p2
 
-||cotidianul.ro/wp-content/uploads/*/domeniul-coroanei$image
-cotidianul.ro##[title^="ADS:"]
+! https://github.com/tcptomato/ROad-Block/issues/128
+||cotidianul.ro/wp-content/uploads/*banner
 
 national.ro#?#.clear:-abp-has(a)
 national.ro##.metasingle-jos
@@ -871,6 +871,3 @@ sighet247.ro##.ad
 hdfilmeonline.ro##.bireklam
 
 ||www.hoinaru.ro/wp-content/uploads/*/*/banner*$image
-
-reno.ro##.profitshare
-reno.ro##.adsense
