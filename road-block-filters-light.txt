@@ -902,3 +902,6 @@ jurnalul.ro##.bannerGrey
 
 protv.ro##.brandingDfp
 protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
+
+! https://github.com/tcptomato/ROad-Block/issues/136
+fanatik.ro##.strawberry-ads-manager-container
