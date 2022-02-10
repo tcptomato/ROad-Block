@@ -16,7 +16,6 @@
 /campaigns/click
 
 ||ad.doubleclick.net^
-||psd.marketing^$third-party
 ||paydemic.com
 
 coinhive.min.js
