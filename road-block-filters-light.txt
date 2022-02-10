@@ -874,3 +874,7 @@ hdfilmeonline.ro##.bireklam
 
 reno.ro##.profitshare
 reno.ro##.adsense
+
+rasfoiesc.com##[style^="overflow:"]:has([data-ad])
+rasfoiesc.com##[style^="overflow:"]:has([data-ad-slot])
+rasfoiesc.com##td[height^="500"]
