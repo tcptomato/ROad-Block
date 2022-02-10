@@ -877,5 +877,8 @@ rasfoiesc.com##[style^="overflow:"]:has([data-ad])
 rasfoiesc.com##[style^="overflow:"]:has([data-ad-slot])
 rasfoiesc.com##td[height^="500"]
 
+daciaclub.ro,reno.ro##.profitshare
+daciaclub.ro,reno.ro##.adsense
+
 click.ro##.google-ads-in_article
 click.ro##.google-ads-billboard
