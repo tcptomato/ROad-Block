@@ -913,3 +913,13 @@ protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
 fanatik.ro##.strawberry-ads-manager-container
 
 dcnews.ro##[href^="https://ccir.ro/"]
+
+! anti-gambling advertising
+||serve.efortuna.ro^
+||banners.livepartners.com^
+||fanatik.ro/wp-content/uploads/*/*/netbet*.webp
+||fanatik.ro/wp-content/uploads//*/*/netbet-fundal.svg
+||fanatik.ro/wp-content/uploads/*/*/fortuna*.webp
+||fanatik.ro/wp-content/uploads/*/*/betano*.webp
+##[href^="https://serve.efortuna.ro/"]
+##[href^="https://banners.livepartners.com/"]
