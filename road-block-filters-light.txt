@@ -607,7 +607,7 @@ pricy.ro##.in.fade.modal-backdrop
 ||timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif
 
 ||cabral.ro/ads/*$image
-||media.dcnews.ro/ads/*
+
 ||psnews.ro/ads/*$image		
 ||psnews.ro/*/*Ad_PS*$image
 
@@ -709,8 +709,6 @@ ph-online.ro##.banneritem
 ||sighet247.ro/banners/drenaj-limfatic.gif$image
 ||sighet247.ro/banners/test-biorezonanta-2-2019.jpg$image
 ||sighet247.ro/banners/banner_euronet.gif$image
-||media.dcnews.ro/nxt/bolero2300x600min.jpg$image
-||media.dcnews.ro/nxt/publicitate_v2.jpg$image
 
 ||capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif$image
 ||capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg$image
@@ -901,7 +899,12 @@ protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
 ! https://github.com/tcptomato/ROad-Block/issues/136
 fanatik.ro##.strawberry-ads-manager-container
 
+||media.dcnews.ro/nxt/bolero2300x600min.jpg$image
+||media.dcnews.ro/nxt/publicitate_v2.jpg$image
+||media.dcnews.ro/ads/*
 dcnews.ro##[href^="https://ccir.ro/"]
+dcnews.ro##[data-ad]
+dcnews.ro#?##articleContent > [style]:-abp-has([data-ad])
 
 ! anti-gambling advertising
 ||serve.efortuna.ro^
