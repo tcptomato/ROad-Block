@@ -928,3 +928,6 @@ ziare.com##.branding-container
 @@||pagead2.googlesyndication.com/getconfig/$xhr,domain=savoriurbane.com
 
 ||i0.wp.com/arenait.ro/files/*/banner$image,domain=arenait.ro
+
+b365.ro#?#.height-250:-abp-has(.strawberry-ads)
+b365.ro##.strawberry-ad-card
