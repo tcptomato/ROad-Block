@@ -863,9 +863,9 @@ playtech.ro##.mg-bottom-10.text-center
 playtech.ro##.padding-top-10.padding-bottom-10
 playtech.ro##.height-md-300.height-xs-400
 
-scritub.com##[style^="overflow:"]:has([data-ad])
-scritub.com##[style^="overflow:"]:has([data-ad-slot])
-scritub.com##[style^="overflow:"]:has(#v-scritub-v3)
+scritub.com#?#[style^="overflow:"]:-abp-has([data-ad])
+scritub.com#?#[style^="overflow:"]:-abp-has([data-ad-slot])
+scritub.com#?#[style^="overflow:"]:-abp-has(#v-scritub-v3)
 
 ||sighet247.ro/banners/
 sighet247.ro##.ad
@@ -879,8 +879,8 @@ hdfilmeonline.ro##.bireklam
 reno.ro##.profitshare
 reno.ro##.adsense
 
-rasfoiesc.com##[style^="overflow:"]:has([data-ad])
-rasfoiesc.com##[style^="overflow:"]:has([data-ad-slot])
+rasfoiesc.com#?#[style^="overflow:"]:-abp-has([data-ad])
+rasfoiesc.com#?#[style^="overflow:"]:-abp-has([data-ad-slot])
 rasfoiesc.com##td[height^="500"]
 
 daciaclub.ro,reno.ro##.profitshare
