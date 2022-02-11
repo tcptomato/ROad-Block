@@ -938,3 +938,5 @@ b365.ro##.strawberry-ad-card
 
 nationalisti.ro#?#.widget-container:-abp-has(ins.adsbygoogle)
 nationalisti.ro##[href="https://www.incorectpolitic.com"]
+
+incorectpolitic.com#?#.widget-container:-abp-has([href^="http://thecryptobot.com"])
