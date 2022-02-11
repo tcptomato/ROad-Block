@@ -793,16 +793,13 @@ cancan.ro##.height-250
 ! cspower.ro
 ||i.postimg.cc/Vv2v9kdD/download.jpg$image
 
-www.escortebucuresti.com##.banners-box
-www.escortebucuresti.com##.new_domain_r.block
-nimfomane.com###text-10 > .textwidget
+escortebucuresti.com##.banners-box
+escortebucuresti.com##.new_domain_r.block
+
 nimfomane.com##.content-page-mg > p
 nimfomane.com###ipsLayout_sidebar > .cWidgetContainer
-nimfomane.com##center:nth-of-type(2)
-nimfomane.com##center:nth-of-type(3)
-nimfomane.com##center:nth-of-type(4)
-nimfomane.com##center:nth-of-type(5)
-nimfomane.com##center:nth-of-type(6)
+||nimfomane.com/wp-content/uploads/*.gif$image
+nimfomane.com##.advertise
 
 ||www.ro-ph.com/img/banners/roph.jpg
 
