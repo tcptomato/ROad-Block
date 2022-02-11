@@ -933,7 +933,7 @@ ziare.com##.branding-container
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=savoriurbane.com
 @@/adsid/integrator.js$script,domain=savoriurbane.com
-@@||pagead2.googlesyndication.com/getconfig/$xhr,domain=savoriurbane.com
+@@||pagead2.googlesyndication.com/getconfig/$xmlhttprequest,domain=savoriurbane.com
 
 ||i0.wp.com/arenait.ro/files/*/banner$image,domain=arenait.ro
 
@@ -944,3 +944,5 @@ nationalisti.ro#?#.widget-container:-abp-has(ins.adsbygoogle)
 nationalisti.ro##[href="https://www.incorectpolitic.com"]
 
 incorectpolitic.com#?#.widget-container:-abp-has([href^="http://thecryptobot.com"])
+
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro
