@@ -129,16 +129,8 @@ romanialibera.ro###widgetArticleControlsRight
 romanialibera.ro##.left > .widget-profitshare
 
 stiripesurse.ro##.banner-request.news-widget-color-1.news-widget.widget
-stiripesurse.ro##.column-container:nth-of-type(5) > .md-one-third.ld-one-third.column:nth-of-type(1)
-stiripesurse.ro##.column-container:nth-of-type(5) > .md-one-third.ld-one-third.column:nth-of-type(2)
-stiripesurse.ro##.column-container:nth-of-type(5) > .md-one-third.ld-one-third.column:nth-of-type(3)
-stiripesurse.ro##.container_16.main > .md-one-third.ld-one-fourth.column.sidebar > .widget:nth-of-type(9)
 stiripesurse.ro##.giant-modal--fb-like.giant-modal
 stiripesurse.ro##.giant-modal__left__text
-stiripesurse.ro##.news-widget-color-1.news-widget.widget:nth-of-type(11)
-stiripesurse.ro##.news-widget-color-1.news-widget.widget:nth-of-type(14)
-stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-half.column:nth-of-type(1)
-stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-half.column:nth-of-type(2)
 stiripesurse.ro##.small.banner
 stiripesurse.ro##.banner
 ||media.stiripesurse.ro/assets/img/ads_img/$image
@@ -147,6 +139,11 @@ stiripesurse.ro##.js-alternating-banners
 stiripesurse.ro##[href*="Adv"]
 stiripesurse.ro##[href*="Promo"]
 stiripesurse.ro##[href^="https://ccir.ro/"]
+stiripesurse.ro##.vertical-banner
+stiripesurse.ro#?#.news-widget:not([class]:-abp-has([href^="https://www.stiripesurse.ro"]))
+stiripesurse.ro#?#.row:not([class]:-abp-has([href^="https://www.stiripesurse.ro"]))
+stiripesurse.ro##.bgcolor-revista-blogurilor
+stiripesurse.ro##.border-revista-blogurilor
 
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
