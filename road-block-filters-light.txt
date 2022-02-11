@@ -118,10 +118,6 @@ hotnews.ro##[src*="banner"]
 hotnews.ro##.parteneri
 hotnews.ro##.at-widget-anunturi
 
-infopuls.ro###text-3
-infopuls.ro###text-7
-infopuls.ro###text-13
-
 kmkz.ro###sidebar-left > ul > li:nth-of-type(5) > .blank > img
 
 libertatea.ro###floating
