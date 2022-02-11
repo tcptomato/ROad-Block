@@ -687,7 +687,7 @@ protv.md###idvop_fbl
 
 radiochisinau.md##.adds
 
-shok.md##.right_side > div:nth-of-type(2)
+shok.md##.banner-img
 
 stirinonstop.md###Wbanner300x250 > .maxima_zilei
 stirinonstop.md##.numbers-promo-placeholder
