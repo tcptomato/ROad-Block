@@ -946,3 +946,6 @@ nationalisti.ro##[href="https://www.incorectpolitic.com"]
 incorectpolitic.com#?#.widget-container:-abp-has([href^="http://thecryptobot.com"])
 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro
+
+ampress.ro##.fmowr-link
+ampress.ro##.widget_fmowr.widget
