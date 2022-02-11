@@ -80,10 +80,10 @@ europafm.ro###background-image
 @@||liveplayer.romaniatv.net/js/ads.js$script,domain=liveplayer.romaniatv.net
 
 ! DOM elements
-!HotNews
 ###digi-fm-live-stream
 ##.only-desktop.promotii-wrapper
 ##.only_desktop.related_on_top.parteneri.sectiune
+
 academiacatavencu.info##.widget-profitshare
 
 antena3.ro###slidebox
@@ -102,7 +102,6 @@ catchy.ro##.pin-it-button
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=catchy.ro
 
 digi24.ro###category_b
-economie.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
 
 gandul.info###bula-ultima-ora
 
@@ -128,6 +127,7 @@ life.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
 science.hotnews.ro###\$\{tile\.name\}_\$\{tile\.id\}
 sport.hotnews.ro##.left_side > div:nth-of-type(5)
 sport.hotnews.ro##.right_side > div:nth-of-type(6)
+economie.hotnews.ro##[src*="banner"]
 
 infopuls.ro###text-3
 infopuls.ro###text-7
