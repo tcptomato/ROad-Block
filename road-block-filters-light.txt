@@ -397,12 +397,11 @@ satumareonline.ro###reclame_left
 satumareonline.ro###sub_art_pp_div
 satumareonline.ro###venus-136605
 satumareonline.ro###venus-136711
-satumareonline.ro##.in > div:nth-of-type(1) > div:nth-of-type(2)
-satumareonline.ro##.in > div:nth-of-type(1) > div:nth-of-type(3)
-satumareonline.ro##.in > div:nth-of-type(1) > div:nth-of-type(4)
 satumareonline.ro###link_1 > [href^="/servad.php"]
 satumareonline.ro###link_2 > [href^="/servad.php"]
 satumareonline.ro###link_3 > [href^="/servad.php"]
+||satumareonline.ro/*reclame$image
+
 smlive.ro###media_image-2
 smlive.ro###ubm-banners-2.ubm_widget.widget
 smlive.ro##[src="https://smlive.ro/wp-content/uploads/useful_banner_manager_banners/4-4-oooooooooooooooooooo.jpg"]
