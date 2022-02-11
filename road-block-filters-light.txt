@@ -935,3 +935,6 @@ ziare.com##.branding-container
 
 b365.ro#?#.height-250:-abp-has(.strawberry-ads)
 b365.ro##.strawberry-ad-card
+
+nationalisti.ro#?#.widget-container:-abp-has(ins.adsbygoogle)
+nationalisti.ro##[href="https://www.incorectpolitic.com"]
