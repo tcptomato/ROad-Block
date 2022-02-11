@@ -108,26 +108,15 @@ gandul.info###bula-ultima-ora
 hotnews.ro###master\.dreapta\.carlig\.smartw_12938869
 hotnews.ro###medlive_6844636
 hotnews.ro###pageBodyx > .padded_page_body > .contentFather > .content > .right_side > a > img
-hotnews.ro###parteneri_60047 > div:nth-of-type(1)
-hotnews.ro###parteneri_60047 > div:nth-of-type(2)
-hotnews.ro###rss\.contributors_7889719
 hotnews.ro###rss\.domnuleprimar_5328294
 hotnews.ro###rss\.euractiv_20456596
 hotnews.ro###rss\.medlive_20312972
-hotnews.ro###rss\.startupcafe_20767567
 hotnews.ro###rss\.webpr_6183168
-hotnews.ro###timbru\.science_10169897
 hotnews.ro##.articol_lead_full[style="width: 158px; margin-right:5px; float:left;"]
-hotnews.ro##.left_side > div:nth-of-type(6)
-hotnews.ro##.left_side > div:nth-of-type(7)
-hotnews.ro##.left_side > div:nth-of-type(8)
-hotnews.ro##.left_side > div:nth-of-type(9)
-hotnews.ro##.right_side > div:nth-of-type(10)
-life.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
 science.hotnews.ro###\$\{tile\.name\}_\$\{tile\.id\}
-sport.hotnews.ro##.left_side > div:nth-of-type(5)
-sport.hotnews.ro##.right_side > div:nth-of-type(6)
-economie.hotnews.ro##[src*="banner"]
+hotnews.ro##[src*="banner"]
+hotnews.ro##.parteneri
+hotnews.ro##.at-widget-anunturi
 
 infopuls.ro###text-3
 infopuls.ro###text-7
