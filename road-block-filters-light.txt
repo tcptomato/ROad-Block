@@ -664,6 +664,8 @@ evz.ro##[href="https://agoramag.ro"]
 ||media.evz.ro/wp-content/uploads/2021/03/kuga-BDT.png$image
 evz.ro###ado970p1
 evz.ro###ado970p2
+evz.ro##.bncp-desktop
+evz.ro##.ford.reclama-auto
 
 ! https://github.com/tcptomato/ROad-Block/issues/128
 ||cotidianul.ro/wp-content/uploads/*banner
