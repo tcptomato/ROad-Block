@@ -954,3 +954,6 @@ ampress.ro##.widget_fmowr.widget
 rnews.ro##.add728x90
 rnews.ro##[href="http://www.epamedia.ro"]
 rnews.ro##[href="http://www.messages2autdoor.ro"]
+
+ct100.ro##[id*="widget_sp"]
+ct100.ro##[class*="widget_media_image"]
