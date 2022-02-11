@@ -361,25 +361,10 @@ informatia-zilei.ro##.bannerad
 informatia-zilei.ro##[src="http://www.informatia-zilei.ro/sm/wp-content/uploads/2013/10/banner-alma-spa.jpg"]
 
 portalsm.ro##div.st-clr.st-ad-region
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(2)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(3)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(4)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(5)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(6)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(7)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(8)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(9)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(10)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(11)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(12)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(13)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(14)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(15)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(16)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(17)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(18)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(19)
-portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(20)
+portalsm.ro##[src^="/media/publicitate/"]
+||portalsm.ro/wp-content/uploads/*.gif$image
+||portalsm.ro/media/publicitate/$image
+portalsm.ro#?#.st-sidebar-widget:-abp-has([src*="publicitate"])
 presasm.ro###text-11.sb-widget
 presasm.ro###text-71.sb-widget
 presasm.ro###text-72.sb-widget
@@ -403,6 +388,7 @@ presasm.ro###text-216.sb-widget
 presasm.ro###text-218.sb-widget
 presasm.ro###text-222.sb-widget
 presasm.ro###text-224.sb-widget
+
 satmareanul.net###gabfire_simplead_widget-4
 satmareanul.net###gabfire_simplead_widget-8
 satmareanul.net###gabfire_simplead_widget-10
