@@ -862,6 +862,7 @@ playtech.ro##.height-sm-250.height-xs-300
 playtech.ro##.mg-bottom-10.text-center
 playtech.ro##.padding-top-10.padding-bottom-10
 playtech.ro##.height-md-300.height-xs-400
+playtech.ro###sam_branding
 playtech.ro##div.mg-bottom-20.height-300
 playtech.ro##div.height-300
 playtech.ro##.height-md-250
