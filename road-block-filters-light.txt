@@ -950,3 +950,7 @@ incorectpolitic.com#?#.widget-container:-abp-has([href^="http://thecryptobot.com
 
 ampress.ro##.fmowr-link
 ampress.ro##.widget_fmowr.widget
+
+rnews.ro##.add728x90
+rnews.ro##[href="http://www.epamedia.ro"]
+rnews.ro##[href="http://www.messages2autdoor.ro"]
