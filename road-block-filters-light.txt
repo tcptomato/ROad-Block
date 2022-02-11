@@ -923,3 +923,5 @@ dcnews.ro##[href^="https://ccir.ro/"]
 ||fanatik.ro/wp-content/uploads/*/*/betano*.webp
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
+
+arenait.ro##[href^="https://bit.ly"]
