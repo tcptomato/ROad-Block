@@ -924,6 +924,9 @@ dcnews.ro##[href^="https://ccir.ro/"]
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
 
+lauralaurentiu.ro##.ai-attributes
+lauralaurentiu.ro##.reclamaLata
+
 ziare.com##.branding-container
 
 ! page broken
