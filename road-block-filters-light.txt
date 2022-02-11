@@ -96,11 +96,10 @@ antena3.ro##.bannerBox
 antena3.ro##.desktop_only.grey.section
 
 catchy.ro###footer-ads-section
-catchy.ro###sidebar > .ad300x250-box
-catchy.ro###sidebar > .box:nth-of-type(6)
-catchy.ro###sidebar > .box:nth-of-type(7)
-catchy.ro###sidebar > .box:nth-of-type(15)
-catchy.ro###sidebar > .box > .ad300x250-box
+catchy.ro##.pin-it-button
+@@||ado.icorp.ro/files/js/ado.js$script,domain=catchy.ro
+||catchy.ro/wp-content/plugins/sam-images/$image
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=catchy.ro
 
 digi24.ro###category_b
 economie.hotnews.ro###parteneri_60047 > div:nth-of-type(3)
