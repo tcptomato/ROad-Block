@@ -741,8 +741,9 @@ opiniatimisoarei.ro##.hiddenad
 opiniatimisoarei.ro##[href="http://euro-instal.ro"]
 opiniatimisoarei.ro##[href="https://certificatenergetictimis.ro/"]
 opiniatimisoarei.ro##[href="http://toronto-residence.ro/contact/"]
-ziuaconstanta.ro###optional_banner
+
 ||ziuaconstanta.ro/images/banners/$image
+ziuaconstanta.ro##[class^="custom_module add"]
 
 gazetaromaneasca.com##.rm-skin
 
