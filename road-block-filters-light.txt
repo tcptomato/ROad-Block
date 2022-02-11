@@ -925,3 +925,5 @@ dcnews.ro##[href^="https://ccir.ro/"]
 ##[href^="https://banners.livepartners.com/"]
 
 arenait.ro##[href^="https://bit.ly"]
+
+ziare.com##.branding-container
