@@ -84,7 +84,7 @@ europafm.ro###background-image
 ###digi-fm-live-stream
 ##.only-desktop.promotii-wrapper
 ##.only_desktop.related_on_top.parteneri.sectiune
-academiacatavencu.info##.widget-profitshare:nth-of-type(3)
+academiacatavencu.info##.widget-profitshare
 antena3.ro###slidebox
 antena3.ro##.bH600.bannerBox
 antena3.ro##.DAGInScrollContainer
