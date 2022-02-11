@@ -642,6 +642,10 @@ national.ro#?#.clear:-abp-has(a)
 national.ro##.metasingle-jos
 national.ro###ys-container
 national.ro##.visible.ys-layer
+national.ro##.td-a-rec-id-custom-spot
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=national.ro
+@@/adsid/integrator.js$script,domain=national.ro
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=national.ro
 
 ziarulromanesc.de##.adace-slot
 ||ziarulromanesc.de/*promo
@@ -924,7 +928,7 @@ ziare.com##.branding-container
 ! page broken
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=savoriurbane.com
-@@||adservice.google.it/adsid/integrator.js$script,domain=savoriurbane.com
+@@/adsid/integrator.js$script,domain=savoriurbane.com
 @@||pagead2.googlesyndication.com/getconfig/$xhr,domain=savoriurbane.com
 
 ||i0.wp.com/arenait.ro/files/*/banner$image,domain=arenait.ro
