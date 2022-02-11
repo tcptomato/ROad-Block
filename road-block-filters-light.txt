@@ -356,9 +356,10 @@ informatia-zilei.ro###html_javascript_adder-115.widget_html_javascript_adder
 informatia-zilei.ro###html_javascript_adder-119.widget_html_javascript_adder
 informatia-zilei.ro###html_javascript_adder-120.widget_html_javascript_adder
 informatia-zilei.ro##.type-post > .grid_8
-informatia-zilei.ro##div.bannerad:nth-of-type(3)
-informatia-zilei.ro##div.grid_8:nth-of-type(7)
+||informatia-zilei.ro/sm/wp-content/uploads/*.gif$image
+informatia-zilei.ro##.bannerad
 informatia-zilei.ro##[src="http://www.informatia-zilei.ro/sm/wp-content/uploads/2013/10/banner-alma-spa.jpg"]
+
 portalsm.ro##div.st-clr.st-ad-region
 portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(2)
 portalsm.ro##div.st-clr.widget_text.st-sidebar-widget:nth-of-type(3)
