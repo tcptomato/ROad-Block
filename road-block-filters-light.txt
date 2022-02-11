@@ -924,6 +924,8 @@ dcnews.ro##[href^="https://ccir.ro/"]
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
 
+ziare.com##.branding-container
+
 ! page broken
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=savoriurbane.com
