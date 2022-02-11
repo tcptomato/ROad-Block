@@ -623,7 +623,6 @@ evz.ro###lastmin
 evz.ro###lastmin2
 evz.ro###overlay
 evz.ro##.brandc
-evz.ro##.rosu:nth-of-type(6)
 evz.ro###ureche-fb
 evz.ro###likepagefb
 ||evz.ro/*banner$image
@@ -634,6 +633,7 @@ evz.ro###ado970p1
 evz.ro###ado970p2
 evz.ro##.bncp-desktop
 evz.ro##.ford.reclama-auto
+evz.ro##.news-listing-comunicate
 
 ! https://github.com/tcptomato/ROad-Block/issues/128
 ||cotidianul.ro/wp-content/uploads/*banner
