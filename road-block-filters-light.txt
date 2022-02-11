@@ -63,10 +63,6 @@ coinhive.min.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
-@@||adunity.com^$xmlhttprequest,domain=b1.ro
-@@||content.adunity.com/aulib.js$script,domain=b1.ro
-@@||stream.adunity.com/fstream.ashx?d=b1-static&*$media,domain=b1.ro
-@@||stream.adunity.com/b1-static/*$media,domain=b1.ro
 ||ivm.antenaplay.ro/fadead_check.php$xmlhttprequest
 /cdn-cgi/apps/head/*$script,first-party,domain=dot.ro
 
@@ -545,10 +541,9 @@ luju.ro##[id*="banner"]
 @@luju.ro/static/images/logo.jpg
 @@luju.ro/static/images/shadow.jpg
 
-b1.ro###box_email
-b1.ro###overlay
-b1.ro##body > div:nth-of-type(5)
-||b1.ro/static/casadecor.swf
+b1tv.ro##.branding
+b1tv.ro##.strawberry_ads_container
+b1tv.ro##.bg--dark
 
 stiridecluj.ro##div[onclick]
 ziardecluj.ro##div.ad
