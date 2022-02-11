@@ -665,6 +665,8 @@ vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
 
 !.md
 agora.md##div.grey-section:-abp-contains(Advertorial)
+
+||curentul.md/wp-content/banners/
 curentul.md###banner1
 curentul.md###banner5
 curentul.md###banner6
@@ -672,20 +674,30 @@ curentul.md###hightopbanner
 curentul.md###logorow > a[style="margin-left:30px"]
 curentul.md###meteo
 curentul.md##.floating
-curentul.md##div#banner3:nth-of-type(6)
+curentul.md##div.ric.richmedia
+curentul.md###banner8_singlebottom
+
 hotnews.md##.adv
+
 istoria.md##div.d2011-block-lateral-middle:-abp-has(a[href*="voceabasarabiei.net"])
 istoria.md##div:nth-of-type(3) > object > embed
+
 poliexpert.md##.banner
+
 protv.md###idvop_fbl
+
 radiochisinau.md##.adds
+
 shok.md##.right_side > div:nth-of-type(2)
+
 stirinonstop.md###Wbanner300x250 > .maxima_zilei
 stirinonstop.md##.numbers-promo-placeholder
+
 timpul.md##.numbers-promo-placeholder
 timpul.md##.widget_text
+
 tribuna.md###hightopbanner
-||curentul.md/wp-content/banners/
+
 ||ph-online.ro/*banner
 ph-online.ro##.banneritem
 ||connect.facebook.net/ro_RO/all.js$script,domain=ph-online.ro
