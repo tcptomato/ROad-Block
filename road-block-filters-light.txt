@@ -923,3 +923,9 @@ dcnews.ro##[href^="https://ccir.ro/"]
 ||fanatik.ro/wp-content/uploads/*/*/betano*.webp
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
+
+! page broken
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=savoriurbane.com
+@@||adservice.google.it/adsid/integrator.js$script,domain=savoriurbane.com
+@@||pagead2.googlesyndication.com/getconfig/$xhr,domain=savoriurbane.com
