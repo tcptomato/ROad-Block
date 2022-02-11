@@ -128,8 +128,6 @@ romanialibera.ro###widgetArticleControlsLeft
 romanialibera.ro###widgetArticleControlsRight
 romanialibera.ro##.left > .widget-profitshare
 
-romaniatv.net##.wrapper > .right.cRight > .pd20.shadow.whiteBox:nth-of-type(18)
-
 stiripesurse.ro##.banner-request.news-widget-color-1.news-widget.widget
 stiripesurse.ro##.column-container:nth-of-type(5) > .md-one-third.ld-one-third.column:nth-of-type(1)
 stiripesurse.ro##.column-container:nth-of-type(5) > .md-one-third.ld-one-third.column:nth-of-type(2)
@@ -761,6 +759,7 @@ gazetaromaneasca.com##.rm-skin
 
 romaniatv.net##.height-300
 romaniatv.net##.strawberry-ads__pretty-container
+romaniatv.net###sam_branding
 ##.SC_TBlock
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
