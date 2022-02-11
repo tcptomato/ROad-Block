@@ -691,6 +691,7 @@ shok.md##.banner-img
 
 stirinonstop.md###Wbanner300x250 > .maxima_zilei
 stirinonstop.md##.numbers-promo-placeholder
+||bestchange.com/images/banners/$image
 
 timpul.md##.numbers-promo-placeholder
 timpul.md##.widget_text
