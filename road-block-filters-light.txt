@@ -980,3 +980,6 @@ sfatulparintilor.ro#?#.widget_text:-abp-has([id^="div-gpt-ad"])
 serveresamp.com#?#center:-abp-has(a)
 
 bucurestitv.net#?#.side-widget:-abp-has([class="adsbygoogle"])
+
+cspower.ro##[src*="banner"]
+cspower.ro##[href="https://redsky.ro/"]
