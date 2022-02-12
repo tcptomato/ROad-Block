@@ -968,3 +968,7 @@ romaniataramea.com##.widget_text
 ||focuspress.ro/*banner$image
 focuspress.ro##.td_spot_img_all
 focuspress.ro##aside.widget_media_image.widget.td_block_template_1
+
+||sfatulparintilor.ro/*banner$image
+sfatulparintilor.ro##.textwidget:has([target="_blank"]:not([method]))
+sfatulparintilor.ro#?#.widget_text:-abp-has([id^="div-gpt-ad"])
