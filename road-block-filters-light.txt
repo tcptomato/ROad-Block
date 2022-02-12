@@ -963,3 +963,5 @@ floteauto.ro##[href^="https://ivecopentrutine.ro/"]
 ilike-it.ro##.fake_grooveskin
 ilike-it.ro###rectangle
 ilike-it.ro###billboard
+
+lovendal.ro#?#.widget:-abp-contains(/Publicitate|Asemanatoare/)
