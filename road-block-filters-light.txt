@@ -957,6 +957,9 @@ rnews.ro##.add728x90
 rnews.ro##[href="http://www.epamedia.ro"]
 rnews.ro##[href="http://www.messages2autdoor.ro"]
 
+jocuricool.ro##.custom-html-widget.textwidget
+jocuricool.ro###text-2
+
 geeki.ro##.geeki-before-content
 geeki.ro##.geeki-la-inceput-de-articol-mobil
 
