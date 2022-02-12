@@ -741,7 +741,9 @@ opiniatimisoarei.ro##.hiddenad
 opiniatimisoarei.ro##[href="http://euro-instal.ro"]
 opiniatimisoarei.ro##[href="https://certificatenergetictimis.ro/"]
 opiniatimisoarei.ro##[href="http://toronto-residence.ro/contact/"]
+
 ziuaconstanta.ro###optional_banner
+ziuaconstanta.ro##[class^="custom_module add"]
 ||ziuaconstanta.ro/images/banners/$image
 
 gazetaromaneasca.com##.rm-skin
@@ -957,3 +959,22 @@ rnews.ro##[href="http://www.messages2autdoor.ro"]
 
 geeki.ro##.geeki-before-content
 geeki.ro##.geeki-la-inceput-de-articol-mobil
+
+ct100.ro##[id*="widget_sp"]
+ct100.ro##[class*="widget_media_image"]
+
+cugetliber.ro##[class^="banner"]
+
+romaniataramea.com##.widget_text
+
+||focuspress.ro/wp-content/uploads/*/ad$image
+||focuspress.ro/*banner$image
+focuspress.ro##.td_spot_img_all
+focuspress.ro##aside.widget_media_image.widget.td_block_template_1
+
+||sfatulparintilor.ro/*banner$image
+sfatulparintilor.ro##.textwidget:has([target="_blank"]:not([method]))
+sfatulparintilor.ro#?#.widget_text:-abp-has([id^="div-gpt-ad"])
+
+||serveresamp.com/banner$image
+serveresamp.com#?#center:-abp-has(a)
