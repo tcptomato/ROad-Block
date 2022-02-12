@@ -959,3 +959,7 @@ floteauto.ro##.pubheader
 ||autoexpert.ro/img/rca300.png$image,domain=floteauto.ro
 ||floteauto.ro/*Banner$image
 floteauto.ro##[href^="https://ivecopentrutine.ro/"]
+
+ilike-it.ro##.fake_grooveskin
+ilike-it.ro###rectangle
+ilike-it.ro###billboard
