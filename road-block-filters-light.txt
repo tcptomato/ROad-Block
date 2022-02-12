@@ -954,3 +954,8 @@ ampress.ro##.widget_fmowr.widget
 rnews.ro##.add728x90
 rnews.ro##[href="http://www.epamedia.ro"]
 rnews.ro##[href="http://www.messages2autdoor.ro"]
+
+||focuspress.ro/wp-content/uploads/*/*/AD*.jpg$image
+focuspress.ro##[class*="td_spot_img"]
+focuspress.ro##.widget_media_image
+focuspress.ro##.td-header-header
