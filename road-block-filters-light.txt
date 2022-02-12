@@ -983,3 +983,7 @@ bucurestitv.net#?#.side-widget:-abp-has([class="adsbygoogle"])
 
 cspower.ro##[src*="banner"]
 cspower.ro##[href="https://redsky.ro/"]
+
+floteauto.ro##.pubheader
+||cargo-bus.ro/*banner
+||autoexpert.ro/img/rca300.png$image,domain=floteauto.ro
