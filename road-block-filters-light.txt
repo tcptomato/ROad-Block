@@ -205,26 +205,8 @@ zonait.tv###text-4 > .textwidget
 ||stiri-neamt.ro/wp-content/uploads/2020/08/Bringo-5-x-20.jpg$image
 ||stiri-neamt.ro/wp-content/uploads/2020/08/PSD-CAMPANIE-NEAMT-CUC-ARSENE.jpg
 
-! https://vestea.net
-||vestea.net/wp-content/uploads/2019/03/anigif-stan.gif$image
-||vestea.net/wp-content/uploads/2019/03/PROGRAM-CABINET-LEOREANU-LAURENTIU-1200x667.jpg$image
-||vestea.net/wp-content/uploads/2019/03/anigif-manoliu.gif$image
-||vestea.net/wp-content/uploads/2017/07/anigif-serban-audiente.gif$image
-||vestea.net/wp-content/uploads/2019/03/anigif-rotaru.gif$image
-||vestea.net/wp-content/uploads/2017/09/anigif-arcan-audiente.gif$image
-||vestea.net/wp-content/uploads/2018/09/anigif-clinica.gif$image
-||vestea.net/wp-content/uploads/2017/07/anigif-foto-video.gif$image
-||vestea.net/wp-content/uploads/2018/04/DSC_0001-15.jpg$image
-||vestea.net/wp-content/uploads/2015/04/citestigif2.gif$image
-||vestea.net/wp-content/uploads/2017/11/anigif-tehno.gif$image
-||vestea.net/wp-content/uploads/2018/12/anigif-targ-1.gif$image
-||vestea.net/wp-content/uploads/2020/08/cropped-coperta-scut-vot-cozmanciuc.png
-||vestea.net/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-28-at-15.08.07-1116x628.jpeg
-||vestea.net/wp-content/uploads/2020/08/anigif-asaftei.gif
-||vestea.net/wp-content/uploads/2020/06/fundal-negru_1-min-4-1024x576.jpg
-||vestea.net/wp-content/uploads/2016/08/anigif.gif
+vestea.net##[id^="buffercode_banner"]
 
-! https://zch.ro
 zch.ro##.widget_sp_image-image-link
 zch.ro##.widget_sp_image
 zch.ro##.bookingaff
