@@ -957,3 +957,5 @@ cspower.ro##[href="https://redsky.ro/"]
 floteauto.ro##.pubheader
 ||cargo-bus.ro/*banner
 ||autoexpert.ro/img/rca300.png$image,domain=floteauto.ro
+||floteauto.ro/*Banner$image
+floteauto.ro##[href^="https://ivecopentrutine.ro/"]
