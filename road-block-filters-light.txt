@@ -775,14 +775,14 @@ clubopel.com##.banner_720
 
 *.gif$domain=clubopel.com,image
 
-||www.sfatulmedicului.ro/external/img/adds*
+||sfatulmedicului.ro/external/img/adds*
 opiniatimisoarei.ro##[href="https://www.rapidauto.ro/ro/content/showroom-timisoara.html"]
 
 multecase.ro##.visible.go-premium-drawer
 multecase.ro##.listAd.center-block.img-responsive
 ||multecase.ro/assets/img/banners/*$image
 
-||www.digi24.ro/static/img/adblock.jpg$image
+||digi24.ro/static/img/adblock.jpg$image
 digi24.ro###adContainer
 
 ||rangfort.ro/resurse/rfhz.png$image
@@ -810,7 +810,7 @@ nimfomane.com###ipsLayout_sidebar > .cWidgetContainer
 ||nimfomane.com/wp-content/uploads/*.gif$image
 nimfomane.com##.advertise
 
-||www.ro-ph.com/img/banners/roph.jpg
+||ro-ph.com/img/banners/roph.jpg
 
 craiovaforum.ro##.wpb_wrapper > aside.widget_text.widget
 
@@ -823,8 +823,8 @@ gsp.ro##.article-hero > .banner-container
 gsp.ro##.x970x250.banner
 gsp.ro##.x90.banner
 
-||www.oradesibiu.ro/wp-content/uploads/*/*/banner*.jpg$image
-||www.oradesibiu.ro/wp-content/uploads/*/*/*-banner-*.gif$image
+||oradesibiu.ro/wp-content/uploads/*/*/banner*.jpg$image
+||oradesibiu.ro/wp-content/uploads/*/*/*-banner-*.gif$image
 oradesibiu.ro##div[class^="ods"]
 oradesibiu.ro##.sidebar-column-primary.sidebar-column.col-sm-4 > .sidebar
 
@@ -872,7 +872,7 @@ sighet247.ro##.ad
 ||hdfilmeonline.ro/wp-content/uploads/2021/03/amazonnub.png$image
 hdfilmeonline.ro##.bireklam
 
-||www.hoinaru.ro/wp-content/uploads/*/*/banner*$image
+||hoinaru.ro/wp-content/uploads/*/*/banner*$image
 
 reno.ro##.profitshare
 reno.ro##.adsense
