@@ -965,3 +965,8 @@ ilike-it.ro###rectangle
 ilike-it.ro###billboard
 
 lovendal.ro#?#.widget:-abp-contains(/Publicitate|Asemanatoare/)
+
+||onlinesport.ro/uploads/*.gif$image
+onlinesport.ro##[href^="https://afiliati-online.casapariurilor.ro/promoRedirect"]
+onlinesport.ro##.ptate_banner_cmz
+onlinesport.ro##[href="http://www.rcforfun.ro/"]
