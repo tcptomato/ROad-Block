@@ -225,24 +225,9 @@ zonait.tv###text-4 > .textwidget
 ||vestea.net/wp-content/uploads/2016/08/anigif.gif
 
 ! https://zch.ro
-||zch.ro/wp-content/uploads/2020/03/Banner-site-TCE-livrari*.jpg$image
-||zch.ro/wp-content/uploads/2018/04/macheta-arcan-e1546928430943.jpg$image
-||zch.ro/wp-content/uploads/2020/05/4mai_automoldova*.jpg$image
-||zch.ro/wp-content/uploads/2020/02/Valea-buna*.jpg$image
-||zch.ro/wp-content/uploads/2020/03/conservfruct*.jpg$image
-||zch.ro/wp-content/uploads/2020/03/ASCLEPION-FINAL*.jpg$image
-||zch.ro/wp-content/uploads/2017/12/output_ZKpn9l.gif$image
-||zch.ro/wp-content/uploads/2016/08/Danlin.jpg$image
-||zch.ro/wp-content/uploads/2019/01/rifil*.jpg$image
-||zch.ro/wp-content/uploads/2016/11/RECLAMA-ANIMATA-300-logo.gif$image
-||zch.ro/wp-content/uploads/2020/08/anunt_inginer_piatra*.jpg$image
-||zch.ro/wp-content/uploads/2020/07/Euro-em*.jpg$image
-||zch.ro/wp-content/uploads/2020/08/endocrinologie-22-iulie-si-FIC*.jpg$image
-||zch.ro/wp-content/uploads/2020/07/publiserv.jpg$image
-||zch.ro/wp-content/uploads/2020/07/sms_propunere*.jpg$image
-||zch.ro/wp-content/uploads/2020/08/Durau-park-3b*.png$image
-||zch.ro/wp-content/uploads/2020/08/Bacanie-bun*.jpg$image
-||zch.ro/wp-content/uploads/2020/08/logo-Lusitana-clean-1*.jpg
+zch.ro##.widget_sp_image-image-link
+zch.ro##.widget_sp_image
+zch.ro##.bookingaff
 
 ! https://ziartarguneamt.ro
 ||ziartarguneamt.ro/wp-content/uploads/2016/04/Pelerinaj-A-Boca-Nt1-page0001.jpg$image
