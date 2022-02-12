@@ -972,3 +972,6 @@ focuspress.ro##aside.widget_media_image.widget.td_block_template_1
 ||sfatulparintilor.ro/*banner$image
 sfatulparintilor.ro##.textwidget:has([target="_blank"]:not([method]))
 sfatulparintilor.ro#?#.widget_text:-abp-has([id^="div-gpt-ad"])
+
+||serveresamp.com/banner$image
+serveresamp.com#?#center:-abp-has(a)
