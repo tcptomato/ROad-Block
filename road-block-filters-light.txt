@@ -991,3 +991,4 @@ autoexpert.ro#?#.textwidget:-abp-has([target="_blank"])
 carzz.ro##[href^="https://www.carvertical.com/"]
 carzz.ro##.second_carvertical_noVin
 carzz.ro##.description_area_gad
+carzz.ro###carvertical_widget
