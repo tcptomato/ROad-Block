@@ -818,6 +818,7 @@ pieseauto.ro##.aobn
 roboxfilme4k.com##a[href^="https://www.udont2021.com/"]
 
 promotor.ro##div[class^="strawberry-ad"]
+||aff.carvertical.com^$domain=promotor.ro
 
 retete.unica.ro##div[class^="strawberry"]
 retete.unica.ro##.sam_branding.hidden-xs
@@ -964,6 +965,7 @@ floteauto.ro##.pubheader
 ||autoexpert.ro/img/rca300.png$image,domain=floteauto.ro
 ||floteauto.ro/*Banner$image
 floteauto.ro##[href^="https://ivecopentrutine.ro/"]
+floteauto.ro#?#.textwidget:not([class]:-abp-has([href^="https://floteauto.ro"])):not([class]:-abp-has([href*="//www.autoexpert.ro"]))
 
 ilike-it.ro##.fake_grooveskin
 ilike-it.ro###rectangle
@@ -982,3 +984,10 @@ forum.softpedia.com#?#.post_block:-abp-contains(Anunturi)
 
 dirtbike.ro##[class*="banner"]
 ||dirtbike.ro/*banner$image
+
+autoexpert.ro##.pubheader
+autoexpert.ro#?#.textwidget:-abp-has([target="_blank"])
+
+carzz.ro##[href^="https://www.carvertical.com/"]
+carzz.ro##.second_carvertical_noVin
+carzz.ro##.description_area_gad
