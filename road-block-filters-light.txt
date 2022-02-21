@@ -626,6 +626,7 @@ ziarulromanesc.de##.adace-slot
 ||ziarulromanesc.de/*promo
 
 flux24.ro##[href*="profitshare.ro/"]
+flux24.ro##.td_spot_img_all
 
 georgebutunoiu.com##.img-banner
 restocracy.ro##.img-banner
