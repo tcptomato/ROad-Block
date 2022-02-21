@@ -144,10 +144,15 @@ stiripesurse.ro##.border-revista-blogurilor
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
 urban.ro###home_calendar > a
+
 zf.ro###bula-ultima-ora
 zf.ro##.banda-sticky-mini
 zf.ro##.banda-sticky-vp
 ||gemius.mgr.consensu.org^$script,domain=zf.ro
+||alephnews.ro^$xhr,domain=zf.ro
+||stream-aleph.m.ro^$xhr,domain=zf.ro
+zf.ro###alephLiveBkp
+
 zonait.tv###text-2 > .textwidget
 zonait.tv###text-4 > .textwidget
 ||partner.dw-world.de/syndication/feeds/rss-en-hotnews.2757-cb.html$subdocument
@@ -628,7 +633,6 @@ restocracy.ro##.img-banner
 ||widgets.apropo.ro/js/providers/autopro/widgets/ads/widget.js$script,domain=prosport.ro
 ||adsnative.com^
 !||prosport.ro^$inline-script
-||zf.ro^$inline-script
 prosport.ro###crt-523996
 prosport.ro###crt-523989
 prosport.ro###bula-ultima-ora
