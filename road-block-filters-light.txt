@@ -991,3 +991,5 @@ carzz.ro##.description_area_gad
 carzz.ro###carvertical_widget
 
 gazetadecluj.ro##.textwidget
+
+gazetadinvest.ro##aside.widget_media_image.widget
