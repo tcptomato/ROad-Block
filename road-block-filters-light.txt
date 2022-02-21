@@ -791,6 +791,8 @@ gsp.ro##div.article-top.banner
 gsp.ro##.article-hero > .banner-container
 gsp.ro##.x970x250.banner
 gsp.ro##.x90.banner
+||gsp.ro/plugins/brandings/$image
+gsp.ro##.banner
 
 ||oradesibiu.ro/wp-content/uploads/*/*/banner*.jpg$image
 ||oradesibiu.ro/wp-content/uploads/*/*/*-banner-*.gif$image
