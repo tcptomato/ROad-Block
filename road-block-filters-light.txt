@@ -446,7 +446,6 @@ razvanbb.ro##.feededay
 ||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
 ||cetin.ro/wp-content/themes/cetin_emag/images/cetin_bf.jpg$image
 ||cetin.ro/wp-content/themes/cetin_emag_doi/images/cetin_bf.jpg$image
-||letsvote.ro/wp-content/uploads/2016/07/*
 cetin.ro##.cetinblog > .site-header > .prehead
 cetin.ro##.wpel-icon-right.bflink
 cetin.ro##.bf > .wpel-icon-right
@@ -739,8 +738,6 @@ clubopel.com##.fab_mid_thread
 clubopel.com##.my_post_goad.my_post.row-fluid
 clubopel.com##.fab_lastpost
 clubopel.com##.banner_720
-
-*.gif$domain=clubopel.com,image
 
 ||sfatulmedicului.ro/external/img/adds*
 opiniatimisoarei.ro##[href="https://www.rapidauto.ro/ro/content/showroom-timisoara.html"]
