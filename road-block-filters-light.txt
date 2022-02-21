@@ -632,11 +632,10 @@ restocracy.ro##.img-banner
 
 ||widgets.apropo.ro/js/providers/autopro/widgets/ads/widget.js$script,domain=prosport.ro
 ||adsnative.com^
-!||prosport.ro^$inline-script
 prosport.ro###crt-523996
 prosport.ro###crt-523989
 prosport.ro###bula-ultima-ora
-@@||prosport.ro/embed/$first-party,inline-script
+prosport.ro##.height-250.mg-bottom-20
 
 ||s2blosh.com^
 vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
