@@ -1006,3 +1006,5 @@ project-e.ro##[href*="?referral"]
 sroscas.ro##.textwidget
 
 @@||dez.ro/media/images/ads/$image,~third-party
+dez.ro#@##ad-carousel
+dez.ro##.alert-warning.alert
