@@ -503,14 +503,14 @@ zonait.tv/wp-content/uploads/2016/10/irobot.jpg
 luju.ro##.index-slide
 luju.ro##[src*="banner"]
 luju.ro##[id*="banner"]
-@@luju.ro/static/images/jurindex.jpg
-@@luju.ro/static/images/unbr2.png
-@@luju.ro/static/images/en.jpg
-@@luju.ro/static/images/ladylft.jpg
-@@luju.ro/static/images/ladyrht.jpg
-@@luju.ro/static/images/home.jpg
-@@luju.ro/static/images/logo.jpg
-@@luju.ro/static/images/shadow.jpg
+@@||luju.ro/static/images/jurindex.jpg
+@@||luju.ro/static/images/unbr2.png
+@@||luju.ro/static/images/en.jpg
+@@||luju.ro/static/images/ladylft.jpg
+@@||luju.ro/static/images/ladyrht.jpg
+@@||luju.ro/static/images/home.jpg
+@@||luju.ro/static/images/logo.jpg
+@@||luju.ro/static/images/shadow.jpg
 
 b1tv.ro##.branding
 b1tv.ro##.strawberry_ads_container
