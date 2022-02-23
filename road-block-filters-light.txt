@@ -82,8 +82,6 @@ europafm.ro##.nspb-interstitial
 ##.only-desktop.promotii-wrapper
 ##.only_desktop.related_on_top.parteneri.sectiune
 
-academiacatavencu.info##.widget-profitshare
-
 antena3.ro###slidebox
 antena3.ro##.bH600.bannerBox
 antena3.ro##.DAGInScrollContainer
@@ -523,6 +521,7 @@ ziardecluj.ro##div.ad
 ||stiridecluj.ro/files/banners*
 
 aerotim.ro##[id="intRightSideBanners"]
+aerotim.ro##.front-overlay-banners
 ||aerotim.ro/images/Banner_240x140px.jpg
 ||aerotim.ro/images/bannerCityLimo.gif
 ||aerotim.ro/images/hertz.gif
@@ -543,6 +542,7 @@ nosteam.ro###stickynote4
 ||terrapops.com^$popup
 
 ! Pop-up ads
+academiacatavencu.info##.widget-profitshare
 academiacatavencu.info##.mask
 academiacatavencu.info##.widget-popup
 ||awstaticdn.net^
