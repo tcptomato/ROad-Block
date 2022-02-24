@@ -1013,3 +1013,5 @@ dez.ro#@##ad-carousel
 dez.ro##.alert-warning.alert
 
 substantial.ro##[id^="subst-"][style]
+
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kanald.ro
