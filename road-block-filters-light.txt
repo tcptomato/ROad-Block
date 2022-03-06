@@ -1020,3 +1020,5 @@ mediculmeu.com##[style]:has(.adsbygoogle)
 
 bugetul.ro##[class^="reclama"]
 bugetul.ro##[class^="banner"]
+
+@@||vitan-auto.ro/*/ads_images/$image,~third-party
