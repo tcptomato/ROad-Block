@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 10 Feb 2022 21:23 UTC
+! Last modified: 07 Mar 2022 21:23 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -380,6 +380,7 @@ smlive.ro##[src="https://smlive.ro/wp-content/uploads/useful_banner_manager_bann
 ||e-day.ro^$third-party
 ||profitshare.emag.ro^
 ||profitshare.ro^
+||l.profitshare.ro^
 
 ! eMAG
 @@||s1emagst.akamaized.net/layout/all/js/showads.js$script,domain=emag.ro
