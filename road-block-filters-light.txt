@@ -1023,3 +1023,5 @@ bugetul.ro##[class^="reclama"]
 bugetul.ro##[class^="banner"]
 
 @@||vitan-auto.ro/*/ads_images/$image,~third-party
+
+shtiu.ro##.strawberry-ads-manager-container
