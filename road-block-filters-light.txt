@@ -906,6 +906,7 @@ fanatik.ro##.container.mg-top-20
 ||fanatik.ro/wp-content/uploads//*/*/netbet-fundal.svg
 ||fanatik.ro/wp-content/uploads/*/*/fortuna*.webp
 ||fanatik.ro/wp-content/uploads/*/*/betano*.webp
+||fanatik.ro/wp-content/*/casapariurilor.png
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
 
