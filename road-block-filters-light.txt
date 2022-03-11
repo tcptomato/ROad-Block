@@ -901,6 +901,7 @@ dcnews.ro#?##articleContent > [style]:-abp-has([data-ad])
 ! anti-gambling advertising
 ||serve.efortuna.ro^
 ||banners.livepartners.com^
+fanatik.ro##.container.mg-top-20
 ||fanatik.ro/wp-content/uploads/*/*/netbet*.webp
 ||fanatik.ro/wp-content/uploads//*/*/netbet-fundal.svg
 ||fanatik.ro/wp-content/uploads/*/*/fortuna*.webp
