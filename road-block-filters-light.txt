@@ -1028,3 +1028,15 @@ kudika.ro##.minh-250
 ##.strawberry-ads__pretty-container
 ##.strawberry-ads-manager-container
 ##.strawberry-ad-card
+
+uzpbihor.ro#?##widget-wrap:not(*:-abp-has([href*="uzpbihor.ro"]))
+
+crisana.ro##[src*="banner"]
+
+tenisdecamp.ro###ad-bilboard
+
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=zutv.ro|life.ro
+
+farmaciata.ro##.banner-info
+
+tvhappy.ro##.ads
