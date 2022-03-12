@@ -1041,3 +1041,5 @@ tenisdecamp.ro###ad-bilboard
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=zutv.ro|life.ro
 
 ciao.ro##.strawberry-ads-category-container
+
+farmaciata.ro##.banner-info
