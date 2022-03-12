@@ -1046,3 +1046,5 @@ monitorulexpres.ro##.td_spot_img_all
 
 crestintotal.ro##[href="https://www.kerigma.ro/"]
 crestintotal.ro##[href^="https://librariact.ro/"]
+
+spynews.ro##.ads
