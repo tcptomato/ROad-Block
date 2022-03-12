@@ -1043,3 +1043,5 @@ tenisdecamp.ro###ad-bilboard
 ciao.ro##.strawberry-ads-category-container
 
 farmaciata.ro##.banner-info
+
+tvhappy.ro##.ads
