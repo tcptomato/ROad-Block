@@ -1037,3 +1037,5 @@ kudika.ro##.minh-250
 uzpbihor.ro##[href="http://www.onaxaelectronics.ro/"]
 
 tenisdecamp.ro###ad-bilboard
+
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=zutv.ro
