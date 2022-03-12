@@ -1028,3 +1028,10 @@ shtiu.ro##.strawberry-ads-manager-container
 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kudika.ro
 kudika.ro##.minh-250
+
+||crisana.ro/*/300x300$image
+
+||uzpbihor.ro/wp-content/uploads/*/*/impressmedia-*$image
+||uzpbihor.ro/wp-content/uploads/*/*/sigla$image
+||uzpbihor.ro/wp-content/uploads/*/*/durans-$image
+uzpbihor.ro##[href="http://www.onaxaelectronics.ro/"]
