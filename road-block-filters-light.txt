@@ -1043,3 +1043,6 @@ tvhappy.ro##.ads
 
 monitorulexpres.ro##.td_spot_img_all
 ||monitorulexpres.ro/*banner$image
+
+crestintotal.ro##[href="https://www.kerigma.ro/"]
+crestintotal.ro##[href^="https://librariact.ro/"]
