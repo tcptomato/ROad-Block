@@ -1048,3 +1048,6 @@ crestintotal.ro##[href="https://www.kerigma.ro/"]
 crestintotal.ro##[href^="https://librariact.ro/"]
 
 spynews.ro##.ads
+
+moduri.ro#?#.widget-container:-abp-has([id="t5_zone_standard-ga"])
+moduri.ro#?#.widget-container:-abp-has(.adsbygoogle)
