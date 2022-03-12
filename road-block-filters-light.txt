@@ -515,7 +515,6 @@ luju.ro##[id*="banner"]
 @@||luju.ro/static/images/shadow.jpg
 
 b1tv.ro##.branding
-b1tv.ro##.strawberry_ads_container
 b1tv.ro##.bg--dark
 
 stiridecluj.ro##div[onclick]
@@ -730,7 +729,6 @@ gazetaromaneasca.com##.rm-skin
 ||ido.ro/i/a/300.php$subdocument,domain=vremea.ido.ro
 
 romaniatv.net##.height-300
-romaniatv.net##.strawberry-ads__pretty-container
 romaniatv.net###sam_branding
 ##.SC_TBlock
 
@@ -769,7 +767,6 @@ mediafax.ro##div.notif-bula.notif
 
 ||i.imgur.com/oj9G0zy.png
 
-cancan.ro##.strawberry-ads-manager-container
 cancan.ro##.height-250
 
 ! cspower.ro
@@ -868,8 +865,6 @@ daciaclub.ro,reno.ro##.adsense
 click.ro##.google-ads-in_article
 click.ro##.google-ads-billboard
 
-gandul.ro##.strawberry-ads-manager-container
-
 ziuanews.ro###pub-top-container
 
 ziaruldeiasi.ro##[href*="adclick"]
@@ -887,9 +882,6 @@ jurnalul.ro##.bannerGrey
 
 protv.ro##.brandingDfp
 protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
-
-! https://github.com/tcptomato/ROad-Block/issues/136
-fanatik.ro##.strawberry-ads-manager-container
 
 ||media.dcnews.ro/nxt/bolero2300x600min.jpg$image
 ||media.dcnews.ro/nxt/publicitate_v2.jpg$image
@@ -928,7 +920,6 @@ ziare.com##.branding-container
 ||i0.wp.com/arenait.ro/files/*/banner$image,domain=arenait.ro
 
 b365.ro#?#.height-250:-abp-has(.strawberry-ads)
-b365.ro##.strawberry-ad-card
 
 nationalisti.ro#?#.widget-container:-abp-has(ins.adsbygoogle)
 nationalisti.ro##[href="https://www.incorectpolitic.com"]
@@ -1030,7 +1021,10 @@ bugetul.ro##[class^="banner"]
 
 @@||vitan-auto.ro/*/ads_images/$image,~third-party
 
-shtiu.ro##.strawberry-ads-manager-container
-
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kudika.ro
 kudika.ro##.minh-250
+
+##.strawberry_ads_container
+##.strawberry-ads__pretty-container
+##.strawberry-ads-manager-container
+##.strawberry-ad-card
