@@ -907,6 +907,12 @@ dcnews.ro#?##articleContent > [style]:-abp-has([data-ad])
 ||fanatik.ro/wp-content/uploads/*/*/betano*.webp
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
+fanatik.ro##[rel^="sponsored"]
+fanatik.ro##.ssc-card__branding--left
+fanatik.ro##.ssc-card__branding--right
+fanatik.ro##.ssc-card__branding--top
+fanatik.ro##[id^="strawberry_feeds_manager_widget"]
+fanatik.ro#?#.container.mg-top-20:-abp-has([href*="pariuri"])
 
 lauralaurentiu.ro##.ai-attributes
 lauralaurentiu.ro##.reclamaLata
