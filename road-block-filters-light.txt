@@ -1040,3 +1040,6 @@ tenisdecamp.ro###ad-bilboard
 farmaciata.ro##.banner-info
 
 tvhappy.ro##.ads
+
+monitorulexpres.ro##.td_spot_img_all
+||monitorulexpres.ro/*banner$image
