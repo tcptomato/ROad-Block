@@ -1035,3 +1035,5 @@ kudika.ro##.minh-250
 ||uzpbihor.ro/wp-content/uploads/*/*/sigla$image
 ||uzpbihor.ro/wp-content/uploads/*/*/durans-$image
 uzpbihor.ro##[href="http://www.onaxaelectronics.ro/"]
+
+tenisdecamp.ro###ad-bilboard
