@@ -8,8 +8,8 @@
 /adblock.js
 /plugins/footer-pop-up-banner/*
 /Reclama/*
-/adsense/
-/adverts/
+/adsense/*
+/adverts/*
 /load_e.php
 /preurl.php
 /ac_d_n
