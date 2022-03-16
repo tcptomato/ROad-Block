@@ -1051,3 +1051,8 @@ spynews.ro##.ads
 
 moduri.ro#?#.widget-container:-abp-has([id="t5_zone_standard-ga"])
 moduri.ro#?#.widget-container:-abp-has(.adsbygoogle)
+
+turdanews.net##.elementor-widget-smartmag-codes
+turdanews.net##.smartmag-widget-codes
+
+!#include road-ubo.txt
