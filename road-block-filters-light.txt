@@ -289,6 +289,7 @@ zch.ro##.bookingaff
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/06/andrusca-neamt*.jpg$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/06/arhiprint-piatra-neamt*.jpg$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/06/cadou-piatra-neamt*.jpg$image
+||ziarpiatraneamt.ro/*.gif$image
 
 ! http://tvmneamt.ro
 ||tvmneamt.ro/wp-content/uploads/2016/08/macheta-arcan-1*.jpg$image
