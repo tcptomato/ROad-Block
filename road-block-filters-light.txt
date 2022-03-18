@@ -1043,4 +1043,7 @@ turdanews.net##.smartmag-widget-codes
 
 g4media.ro##.custom-html-widget
 
+||investigatoria.ro/*banner$image
+investigatoria.ro##.code-block
+
 !#include road-ubo.txt
