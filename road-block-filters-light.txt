@@ -513,6 +513,7 @@ luju.ro##[id*="banner"]
 @@||luju.ro/static/images/home.jpg
 @@||luju.ro/static/images/logo.jpg
 @@||luju.ro/static/images/shadow.jpg
+luju.ro##aside.externals:has([href*="cotidianul.ro"])
 
 b1tv.ro##.branding
 b1tv.ro##.bg--dark
