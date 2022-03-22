@@ -1046,4 +1046,6 @@ g4media.ro##.custom-html-widget
 ||investigatoria.ro/*banner$image
 investigatoria.ro##.code-block
 
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kfetele.ro
+
 !#include road-ubo.txt
