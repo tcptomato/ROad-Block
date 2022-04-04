@@ -1075,4 +1075,10 @@ wall-street.ro##.minh-lg-600.sidebarBox
 ! anti adb videos on stirilekanald.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=stirilekanald.ro|video.onnetwork.tv
 
+! observatornews .ro anti adb
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observatornews.ro
+
+! https://github.com/uBlockOrigin/uAssets/issues/8551
+pbinfo.ro##div.center.well-sm.well
+
 !#include road-ubo.txt

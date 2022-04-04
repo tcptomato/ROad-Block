@@ -9,3 +9,6 @@ turdanews.net##+js(nostif, ai_)
 
 ! nosteam.ro + nosteamgames popups
 nosteam.ro,nosteamgames.ro##+js(nowoif)
+
+! https://github.com/uBlockOrigin/uAssets/issues/8709
+competentedigitale.ro##+js(acis, Math.floor, offsetHeight)
