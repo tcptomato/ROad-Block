@@ -1072,4 +1072,7 @@ wall-street.ro##.minh-lg-600.sidebarBox
 ! https://github.com/NanoMeow/QuickReports/issues/610
 @@||giz.ro^$ghide
 
+! anti adb videos on stirilekanald.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=video.onnetwork.tv
+
 !#include road-ubo.txt
