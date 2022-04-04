@@ -621,6 +621,10 @@ prosport.ro###crt-523996
 prosport.ro###crt-523989
 prosport.ro###bula-ultima-ora
 prosport.ro##.height-250.mg-bottom-20
+prosport.ro##.height-250.text-center
+prosport.ro##.strawberry-ads-manager-container
+prosport.ro##.height-250.mg-sm-bottom-20
+@@||brid.tv/player/$script,domain=prosport.ro
 
 ||s2blosh.com^
 vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
@@ -1057,5 +1061,10 @@ wall-street.ro##.ads
 wall-street.ro##.minh-250
 wall-street.ro###adocean\.slots\.box3
 wall-street.ro##.minh-lg-600.sidebarBox
+
+9am.ro###branding-holder
+9am.ro##.ad-in-artilce
+9am.ro##.minh-250
+9am.ro##.retail_insert_in_article
 
 !#include road-ubo.txt
