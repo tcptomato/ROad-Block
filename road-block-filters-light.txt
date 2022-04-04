@@ -1048,4 +1048,14 @@ investigatoria.ro##.code-block
 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kfetele.ro
 
+! anti adb + ads wall-street.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=wall-street.ro
+wall-street.ro##.minh-250.mb-20.mt-20
+wall-street.ro##.slick-slider.slick-initialized.ws_gallery_image > .draggable.slick-list > .slick-track
+wall-street.ro##.slick-slider.slick-initialized.ws_gallery_image
+wall-street.ro##.ads
+wall-street.ro##.minh-250
+wall-street.ro###adocean\.slots\.box3
+wall-street.ro##.minh-lg-600.sidebarBox
+
 !#include road-ubo.txt
