@@ -1084,4 +1084,7 @@ pbinfo.ro##div.center.well-sm.well
 ! https://github.com/uBlockOrigin/uAssets/issues/11501
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=9am.ro|wowbiz.ro
 
+libnet.ro##div.bnd
+libnet.ro##.row-header-baner
+
 !#include road-ubo.txt
