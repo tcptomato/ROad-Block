@@ -1073,6 +1073,6 @@ wall-street.ro##.minh-lg-600.sidebarBox
 @@||giz.ro^$ghide
 
 ! anti adb videos on stirilekanald.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=video.onnetwork.tv
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=stirilekanald.ro|video.onnetwork.tv
 
 !#include road-ubo.txt
