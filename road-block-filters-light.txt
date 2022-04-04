@@ -1081,4 +1081,7 @@ wall-street.ro##.minh-lg-600.sidebarBox
 ! https://github.com/uBlockOrigin/uAssets/issues/8551
 pbinfo.ro##div.center.well-sm.well
 
+! https://github.com/uBlockOrigin/uAssets/issues/11501
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=9am.ro|wowbiz.ro
+
 !#include road-ubo.txt
