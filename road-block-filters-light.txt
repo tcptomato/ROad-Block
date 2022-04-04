@@ -73,7 +73,6 @@ europafm.ro###background-image
 europafm.ro##.nspb-interstitial
 
 ||virginradio.ro/wp-content/uploads/2019/04/*kfc-dejun-virgin-*.png$image
-@@||scdn.cxense.com/cx.js$script,domain=digi24.ro
 @@||liveplayer.romaniatv.net/js/ads.js$script,domain=liveplayer.romaniatv.net
 
 ! DOM elements
@@ -97,8 +96,6 @@ catchy.ro##.pin-it-button
 @@||ado.icorp.ro/files/js/ado.js$script,domain=catchy.ro
 ||catchy.ro/wp-content/plugins/sam-images/$image
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=catchy.ro
-
-digi24.ro###category_b
 
 gandul.info###bula-ultima-ora
 
@@ -738,6 +735,9 @@ multecase.ro##.listAd.center-block.img-responsive
 
 ||digi24.ro/static/img/adblock.jpg$image
 digi24.ro###adContainer
+digi24.ro###category_b
+@@||scdn.cxense.com/cx.js$script,domain=digi24.ro
+@@||pubads.g.doubleclick.net/ssai/event/$xhr,domain=digi24.ro
 
 ||rangfort.ro/resurse/rfhz.png$image
 
