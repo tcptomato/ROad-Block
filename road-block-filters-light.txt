@@ -1067,4 +1067,9 @@ wall-street.ro##.minh-lg-600.sidebarBox
 9am.ro##.minh-250
 9am.ro##.retail_insert_in_article
 
+@@||mocasoft.ro^$ghide
+
+! https://github.com/NanoMeow/QuickReports/issues/610
+@@||giz.ro^$ghide
+
 !#include road-ubo.txt
