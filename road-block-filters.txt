@@ -211,7 +211,6 @@
 ||ecoduri.com/imagini/ecoduri.gif$image
 ||xzipy.com
 
-/adblock.js
 /plugins/footer-pop-up-banner/*
 /Reclama/*
 /adsense/
