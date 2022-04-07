@@ -5,7 +5,6 @@
 ! Homepage: https://www.adblock.ro
 ! Last modified: 07 Mar 2022 21:23 UTC
 
-/adblock.js
 /plugins/footer-pop-up-banner/*
 /Reclama/*
 /adsense/*
