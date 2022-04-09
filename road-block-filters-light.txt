@@ -1086,4 +1086,8 @@ pbinfo.ro##div.center.well-sm.well
 libnet.ro##div.bnd
 libnet.ro##.row-header-baner
 
+||odat.ro/wp-content/uploads/*/Moveout1.jpg$image
+odat.ro##[href="https://chestionareauto.ro/"]
+odat.ro###text-22 > .textwidget
+
 !#include road-ubo.txt
