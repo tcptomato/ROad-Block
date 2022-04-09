@@ -1086,6 +1086,10 @@ pbinfo.ro##div.center.well-sm.well
 libnet.ro##div.bnd
 libnet.ro##.row-header-baner
 
+odat.ro#?#.textwidget:-abp-has(.adsbygoogle)
+odat.ro##[href="https://chestionareauto.ro/"]
+odat.ro##[href="http://www.moveout.ro/"]
+
 stirileprotv.ro##.topBranding
 stirileprotv.ro###topBranding
 
