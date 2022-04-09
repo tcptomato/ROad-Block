@@ -12,3 +12,9 @@ nosteam.ro,nosteamgames.ro##+js(nowoif)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8709
 competentedigitale.ro##+js(acis, Math.floor, offsetHeight)
+
+! https://github.com/uBlockOrigin/uAssets/issues/8753
+*$script,redirect-rule=noopjs,domain=protvplus.ro
+
+stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
+sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()

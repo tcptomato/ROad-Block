@@ -1086,8 +1086,14 @@ pbinfo.ro##div.center.well-sm.well
 libnet.ro##div.bnd
 libnet.ro##.row-header-baner
 
-||odat.ro/wp-content/uploads/*/Moveout1.jpg$image
+odat.ro#?#.textwidget:-abp-has(.adsbygoogle)
 odat.ro##[href="https://chestionareauto.ro/"]
-odat.ro###text-22 > .textwidget
+odat.ro##[href="http://www.moveout.ro/"]
+
+stirileprotv.ro##.topBranding
+stirileprotv.ro###topBranding
+
+sport.ro##.dfp-d-branding
+sport.ro##.dfp-d-billboard
 
 !#include road-ubo.txt
