@@ -1096,4 +1096,8 @@ stirileprotv.ro###topBranding
 sport.ro##.dfp-d-branding
 sport.ro##.dfp-d-billboard
 
+7est.ro##[href="https://silkdistrict.ro/"]
+7est.ro##[href^="https://www.inamstro.ro/"]
+7est.ro##[href="https://sushivo.ro"]
+
 !#include road-ubo.txt
