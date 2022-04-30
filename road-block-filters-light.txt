@@ -1096,4 +1096,9 @@ stirileprotv.ro###topBranding
 sport.ro##.dfp-d-branding
 sport.ro##.dfp-d-billboard
 
+7est.ro##.popmake-content
+7est.ro##.td-a-rec-id-header
+7est.ro##.widget_wq_reclame
+7est.ro##[class*="_ad_"]
+
 !#include road-ubo.txt
