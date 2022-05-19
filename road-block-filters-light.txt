@@ -1103,4 +1103,6 @@ sport.ro##.dfp-d-billboard
 
 pretbenzina.ro##[id^="box"]:-abp-has(.adsbygoogle)
 
+autouncle.ro##[style="text-align: center; min-height: 180px;"]
+
 !#include road-ubo.txt
