@@ -1103,4 +1103,12 @@ sport.ro##.dfp-d-billboard
 
 pretbenzina.ro##[id^="box"]:-abp-has(.adsbygoogle)
 
+autouncle.ro##[style="text-align: center; min-height: 180px;"]
+
+evmarket.ro#?##custom_html-10:-abp-contains(Advertising)
+
+automobilen.ro##.reclama
+
+pint.ro##.a-wrap
+
 !#include road-ubo.txt
