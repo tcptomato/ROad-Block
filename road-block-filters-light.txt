@@ -1105,4 +1105,6 @@ pretbenzina.ro#?#[id^="box"]:-abp-has(.adsbygoogle)
 
 autouncle.ro#?#[style]:-abp-has([id^="div-gpt-ad"])
 
+evmarket.ro#?##custom_html-10:-abp-contains(Advertising)
+
 !#include road-ubo.txt
