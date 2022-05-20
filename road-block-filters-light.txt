@@ -1101,7 +1101,7 @@ sport.ro##.dfp-d-billboard
 7est.ro##.widget_wq_reclame
 7est.ro##[class*="_ad_"]
 
-pretbenzina.ro##[id^="box"]:-abp-has(.adsbygoogle)
+pretbenzina.ro#?#[id^="box"]:-abp-has(.adsbygoogle)
 
 autouncle.ro#?#[style]:-abp-has([id^="div-gpt-ad"])
 
