@@ -1109,4 +1109,6 @@ evmarket.ro#?##custom_html-10:-abp-contains(Advertising)
 
 automobilen.ro##.reclama
 
+pint.ro##.a-wrap
+
 !#include road-ubo.txt
