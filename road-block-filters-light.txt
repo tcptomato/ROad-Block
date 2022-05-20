@@ -1107,4 +1107,6 @@ autouncle.ro#?#[style]:-abp-has([id^="div-gpt-ad"])
 
 evmarket.ro#?##custom_html-10:-abp-contains(Advertising)
 
+automobilen.ro##.reclama
+
 !#include road-ubo.txt
