@@ -1109,4 +1109,7 @@ evmarket.ro#?##custom_html-10:-abp-contains(Advertising)
 
 automobilen.ro##.reclama
 
+nwradu.ro#?#.textwidget:-abp-has(.afiliere)
+nwradu.ro#?#.widget_header:-abp-contains(/recomand/i)
+
 !#include road-ubo.txt
