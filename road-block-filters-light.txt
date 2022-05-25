@@ -1120,4 +1120,12 @@ anonimus.ro##[href="https://anonimus.ro/oferta-de-publicitate/"]
 anonimus.ro##[href="https://gandeste.org/"]
 anonimus.ro##[href="http://contramundum.ro/"]
 
+||desteptarea.ro/*.gif$image
+desteptarea.ro##[href="https://anunturi.desteptarea.ro/minireclame/"]
+desteptarea.ro##[href="http://www.arenamall.ro/"]
+desteptarea.ro##[href^="https://volvobacau.ro/cere-oferta"]
+desteptarea.ro##[href*="&utm_campaign"]
+desteptarea.ro##[style*="banner"]
+desteptarea.ro##[href*="banner"]
+
 !#include road-ubo.txt
