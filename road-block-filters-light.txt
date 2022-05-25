@@ -1112,4 +1112,12 @@ automobilen.ro##.reclama
 nwradu.ro#?#.textwidget:-abp-has(.afiliere)
 nwradu.ro#?#.widget_header:-abp-contains(/recomand/i)
 
+anonimus.ro##[href="https://trenduri.blogspot.com/"]
+anonimus.ro##[href="https://fabricatinro.ro/"]
+anonimus.ro##[href="https://malltaranesc.ro/"]
+anonimus.ro##[href="https://softimaj.ro/"]
+anonimus.ro##[href="https://anonimus.ro/oferta-de-publicitate/"]
+anonimus.ro##[href="https://gandeste.org/"]
+anonimus.ro##[href="http://contramundum.ro/"]
+
 !#include road-ubo.txt
