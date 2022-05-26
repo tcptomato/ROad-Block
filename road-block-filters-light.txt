@@ -1131,4 +1131,7 @@ desteptarea.ro##[href*="banner"]
 
 ||integr8.digital^$third-party
 
+csid.ro##.height-sm-90
+csid.ro##.height-sm-250
+
 !#include road-ubo.txt
