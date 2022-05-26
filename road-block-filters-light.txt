@@ -1129,4 +1129,6 @@ desteptarea.ro##[href*="&utm_campaign"]
 desteptarea.ro##[style*="banner"]
 desteptarea.ro##[href*="banner"]
 
+||integr8.digital^$third-party
+
 !#include road-ubo.txt
