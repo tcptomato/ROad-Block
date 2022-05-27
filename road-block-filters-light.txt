@@ -1147,4 +1147,7 @@ eblogauto.ro##.reclama
 
 cristianmargarit.ro##.textwidget
 
+7media.md##.sidebar-widget:-abp-contains(/Recomandate/):not(*:-abp-contains(Post))
+7media.md##.p-b-30
+
 !#include road-ubo.txt
