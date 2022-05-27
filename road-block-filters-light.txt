@@ -1134,4 +1134,9 @@ desteptarea.ro##[href*="banner"]
 csid.ro##.height-sm-90
 csid.ro##.height-sm-250
 
+##[href^="http://profitshare.ro/l/"]
+androidu.ro##.banner728x90px
+androidu.ro##.align-right
+androidu.ro##.sustine
+
 !#include road-ubo.txt
