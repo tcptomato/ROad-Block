@@ -1143,4 +1143,6 @@ autolatest.ro##.td-pb-span12.tdi_24
 
 turatii.ro##.header_banner
 
+eblogauto.ro##.reclama
+
 !#include road-ubo.txt
