@@ -1131,4 +1131,9 @@ desteptarea.ro##[href*="banner"]
 
 ||integr8.digital^$third-party
 
+csid.ro#?#.centered:-abp-has(.strawberry-ads-manager-container)
+
+androidu.ro##.banner728x90px
+androidu.ro#?#.align-right:-abp-has(.adsbygoogle)
+
 !#include road-ubo.txt
