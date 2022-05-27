@@ -1145,4 +1145,6 @@ turatii.ro##.header_banner
 
 eblogauto.ro##.reclama
 
+cristianmargarit.ro##.textwidget
+
 !#include road-ubo.txt
