@@ -1141,4 +1141,6 @@ autolatest.ro#?#.td-pb-span12:-abp-contains(Advertisement)
 ||autolatest.ro/wp-content/uploads/*/Banner$image
 autolatest.ro##.td-pb-span12.tdi_24
 
+turatii.ro##.header_banner
+
 !#include road-ubo.txt
