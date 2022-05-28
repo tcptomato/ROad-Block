@@ -1010,6 +1010,7 @@ bugetul.ro##[class^="banner"]
 @@||vitan-auto.ro/*/ads_images/$image,~third-party
 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kudika.ro
+kudika.ro#?#.textlink:-abp-contains(ad)
 kudika.ro##.minh-250
 
 ##.strawberry_ads_container
