@@ -18,3 +18,5 @@ competentedigitale.ro##+js(acis, Math.floor, offsetHeight)
 
 stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
+
+stireadeazi.ro##+js(aopr, adblockModal)
