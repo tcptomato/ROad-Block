@@ -1154,5 +1154,6 @@ cristianmargarit.ro##.textwidget
 arenait.ro##[href^="https://msi.gm/"]
 
 @@||stireadeazi.ro^$ghide
+stireadeazi.ro#?#.inside-right-sidebar:-abp-contains(ads)
 
 !#include road-ubo.txt
