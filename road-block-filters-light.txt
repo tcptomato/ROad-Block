@@ -1158,4 +1158,14 @@ stireadeazi.ro#?#.inside-right-sidebar:-abp-contains(ads)
 
 ||project-e.ro/*.gif$image
 
+ziarul21.ro###leader-wrap
+ziarul21.ro###foot-ad-wrap
+ziarul21.ro##[href*="opticline.jpg"]
+ziarul21.ro##.lazyloaded.alignnone
+||caaries.ro^$third-party
+||ziarul21.ro/wp-content/uploads/2021/09/flo1-*.jpg$image
+||ziarul21.ro/wp-content/uploads/2022/04/emanuela1*.png$image
+||ziarul21.ro/wp-content/uploads/2022/03/total-clean-1*.jpg$image
+||ziarul21.ro/wp-content/uploads/*/*/city-juniorfamily*.jpg$image
+
 !#include road-ubo.txt
