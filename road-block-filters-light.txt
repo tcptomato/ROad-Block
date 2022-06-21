@@ -1158,4 +1158,11 @@ stireadeazi.ro#?#.inside-right-sidebar:-abp-contains(ads)
 
 ||project-e.ro/*.gif$image
 
+ziarul21.ro###leader-wrap
+||invicdn.clausweb-hosting.ro/*/publicitate
+ziarul21.ro###foot-ad-wrap
+ziarul21.ro##.custom-html-widget
+ziarul21.ro##.lazyloaded.alignnone
+||caaries.ro^$3p
+
 !#include road-ubo.txt
