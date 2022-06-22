@@ -1186,4 +1186,8 @@ agro-tv.ro##[href="https://www.fabricadecompost.ro/"]
 
 mesageruldesibiu.ro#?#.widget:-abp-contains(PUBLICITATE)
 
+stiridesibiu.ro##.adcontainer
+||cdn.sanity.io/images/*1170x90.jpg*$image,domain=stiridesibiu.ro
+||cdn.sanity.io*gif$image,domain=stiridesibiu.ro
+
 !#include road-ubo.txt
