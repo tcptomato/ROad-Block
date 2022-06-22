@@ -1207,4 +1207,6 @@ curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
 
 ||giurgiuveanul.ro/stiri/*banner$image
 
+||confortmedia.ro^$3p
+
 !#include road-ubo.txt
