@@ -1190,4 +1190,8 @@ stiridesibiu.ro##.adcontainer
 ||cdn.sanity.io/images/*1170x90.jpg*$image,domain=stiridesibiu.ro
 ||cdn.sanity.io*gif$image,domain=stiridesibiu.ro
 
+weradio.ro##[id^="werad"]
+weradio.ro#?#.textwidget:-abp-contains(Publicitate)
+||weradio.ro/*banner*$image
+
 !#include road-ubo.txt
