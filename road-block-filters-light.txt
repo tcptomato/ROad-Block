@@ -1205,4 +1205,6 @@ curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
 
 ||startingup.ro^*/banner*$image
 
+||giurgiuveanul.ro/stiri/*banner$image
+
 !#include road-ubo.txt
