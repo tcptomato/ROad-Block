@@ -1194,4 +1194,10 @@ weradio.ro##[id^="werad"]
 weradio.ro#?#.textwidget:-abp-contains(Publicitate)
 ||weradio.ro/*banner*$image
 
+
+||curier.ro^*/banner/$image
+||curier.ro^*/publicitate/$image
+curier.ro##[href="https://hotelilavamaveche.ro/"]
+curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
+
 !#include road-ubo.txt
