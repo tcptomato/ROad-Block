@@ -1184,4 +1184,6 @@ agro-tv.ro##.gofollow > .lazyloaded.entered
 agro-tv.ro#?#.td-pb-span3:-abp-contains(Publicitate)
 agro-tv.ro##[href="https://www.fabricadecompost.ro/"]
 
+mesageruldesibiu.ro#?#.widget:-abp-contains(PUBLICITATE)
+
 !#include road-ubo.txt
