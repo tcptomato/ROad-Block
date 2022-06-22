@@ -1200,4 +1200,6 @@ weradio.ro#?#.textwidget:-abp-contains(Publicitate)
 curier.ro##[href="https://hotelilavamaveche.ro/"]
 curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
 
+||startingup.ro^*/banner*$image
+
 !#include road-ubo.txt
