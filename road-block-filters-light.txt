@@ -1209,4 +1209,32 @@ curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
 
 ||confortmedia.ro^$3p
 
+||independentonline.ro^*/commercials/$image
+
+inturda.ro##.banner
+inturda.ro##.panel[class*=widget]
+||inturda.ro^*.gif$image
+
+campinatv.ro##.banner-ads-container
+campinatv.ro#?#section:-abp-contains(Publicitate)
+||campinatv.ro/Photos/ad_$image
+
+evenimentvalcean.ro##.widget[id*="image"]
+
+ziartopdearges.com##[href^="https://www.gralmedical.ro/"]
+||ziartopdearges.com^*.gif$image
+
+saptamana.net##[id^="banner"]
+saptamana.net##[id*="ads"]
+
+refleqtmedia.ro##.td_spot_img_all
+||i0.wp.com^*.gif$image,domain=refleqtmedia.ro
+
+buletindecarei.ro#?#.widget:-abp-contains(Recomandam)
+buletindecarei.ro#?#h2:-abp-contains(Publicitate)
+buletindecarei.ro#?#.widget:-abp-contains(Radio)
+buletindecarei.ro###sidebar > [href*="_click"]
+
+agoramedia.ro##.bannergroup
+
 !#include road-ubo.txt
