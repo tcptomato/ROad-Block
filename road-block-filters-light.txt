@@ -1237,4 +1237,12 @@ buletindecarei.ro###sidebar > [href*="_click"]
 
 agoramedia.ro##.bannergroup
 
+glasul-hd.ro##.gofollow
+glasul-hd.ro##.widget_custom_html
+glasul-hd.ro##[href="http://prohd.ro"]
+glasul-hd.ro##[href="http://www.avis3000.ro/"]
+glasul-hd.ro##[href="http://www.jos-palaria.ro/"]
+glasul-hd.ro##[href^="https://www.fordcarbenta.ro/"]
+||glasul-hd.ro/*1200x200px.jpg$image
+
 !#include road-ubo.txt
