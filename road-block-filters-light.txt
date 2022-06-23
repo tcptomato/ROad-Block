@@ -1245,4 +1245,6 @@ glasul-hd.ro##[href="http://www.jos-palaria.ro/"]
 glasul-hd.ro##[href^="https://www.fordcarbenta.ro/"]
 ||glasul-hd.ro/*1200x200px.jpg$image
 
+dailyfeed.ro##.essbis-container
+
 !#include road-ubo.txt
