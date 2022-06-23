@@ -1219,7 +1219,8 @@ campinatv.ro##.banner-ads-container
 campinatv.ro#?#section:-abp-contains(Publicitate)
 ||campinatv.ro/Photos/ad_$image
 
-evenimentvalcean.ro##.widget[id*="image"]
+evenimentvalcean.ro##[href="http://boromir.ro/"]
+evenimentvalcean.ro##[href="https://uzinamecanicavl.ro/site/index.php"]
 
 ziartopdearges.com##[href^="https://www.gralmedical.ro/"]
 ||ziartopdearges.com^*.gif$image
@@ -1230,9 +1231,7 @@ saptamana.net##[id*="ads"]
 refleqtmedia.ro##.td_spot_img_all
 ||i0.wp.com^*.gif$image,domain=refleqtmedia.ro
 
-buletindecarei.ro#?#.widget:-abp-contains(Recomandam)
 buletindecarei.ro#?#h2:-abp-contains(Publicitate)
-buletindecarei.ro#?#.widget:-abp-contains(Radio)
 buletindecarei.ro###sidebar > [href*="_click"]
 
 agoramedia.ro##.bannergroup
