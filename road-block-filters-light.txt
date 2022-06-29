@@ -1248,4 +1248,6 @@ glasul-hd.ro##[href^="https://www.fordcarbenta.ro/"]
 
 dailyfeed.ro##.essbis-container
 
+lapunkt.ro##.widget_custom_html
+
 !#include road-ubo.txt
