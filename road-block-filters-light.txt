@@ -1250,4 +1250,9 @@ dailyfeed.ro##.essbis-container
 
 lapunkt.ro##.widget_custom_html
 
+viatasisanatate.com###ppsPopupBgOverlay
+viatasisanatate.com##.ppsPopupShell
+viatasisanatate.com##.code-block-8.code-block
+viatasisanatate.com##.ai_widget.widget
+
 !#include road-ubo.txt
