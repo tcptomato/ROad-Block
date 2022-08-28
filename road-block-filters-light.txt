@@ -776,6 +776,7 @@ nimfomane.com##[alt="advertisement_alt"]
 
 sa-mp.ro#?#.ipsWidget_title.ipsType_reset:-abp-contains(Sponsor)
 ||ro-ph.com/img/banners/roph.jpg
+||sa-mp.ro^*reclama
 
 craiovaforum.ro##.wpb_wrapper > aside.widget_text.widget
 
