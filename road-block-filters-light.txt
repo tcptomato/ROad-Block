@@ -1257,4 +1257,8 @@ viatasisanatate.com##.ai_widget.widget
 
 dezvaluiri.ro#?#[id^="media_image"]:not(*:-abp-has([href*="dezvaluiri.ro"]))
 
+||clujust.ro/*banner$image
+||clujust.ro/*.gif$image
+clujust.ro##[id^="ad"]
+
 !#include road-ubo.txt
