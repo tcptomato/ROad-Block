@@ -1261,4 +1261,6 @@ dezvaluiri.ro#?#[id^="media_image"]:not(*:-abp-has([href*="dezvaluiri.ro"]))
 ||clujust.ro/*.gif$image
 clujust.ro##[id^="ad"]
 
+forum-auto.info#?#.ipsWidget_inner:-abp-has([href="https://e-husa.ro/"])
+
 !#include road-ubo.txt
