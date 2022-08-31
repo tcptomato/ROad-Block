@@ -1264,4 +1264,6 @@ clujust.ro##[id^="ad"]
 
 forum-auto.info#?#.ipsWidget_inner:-abp-has([href="https://e-husa.ro/"])
 
+||horticultorul.ro/rcl/*.html$subdocument
+
 !#include road-ubo.txt
