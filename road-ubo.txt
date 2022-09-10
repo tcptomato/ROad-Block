@@ -18,3 +18,6 @@ competentedigitale.ro##+js(acis, Math.floor, offsetHeight)
 
 stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
+
+! https://github.com/tcptomato/ROad-Block/issues/213
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=as.ro
