@@ -1266,4 +1266,9 @@ forum-auto.info#?#.ipsWidget_inner:-abp-has([href="https://e-husa.ro/"])
 
 ||horticultorul.ro/rcl/*.html$subdocument
 
+napocanews.ro##[href="http://www.coralimpex.ro/"]
+napocanews.ro##[href="http://www.rosal.ro/"]
+napocanews.ro##[href="http://www.trcj.ro"]
+||napocanews.ro/*Banner$image
+
 !#include road-ubo.txt
