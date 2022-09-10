@@ -1271,4 +1271,6 @@ napocanews.ro##[href="http://www.rosal.ro/"]
 napocanews.ro##[href="http://www.trcj.ro"]
 ||napocanews.ro/*Banner$image
 
+ciutacu.ro#?#.widget:-abp-contains(Reclame)
+
 !#include road-ubo.txt
