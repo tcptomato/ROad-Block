@@ -808,6 +808,7 @@ filmecrestineonline.ro##div[id^="custom_html"]
 
 impact.ro##.mg-top-20.container--single.container > .mg-bottom-20
 impact.ro##.height-sm-250.height-xs-400.text-center.mg-bottom-20
+impact.ro##.height-250
 
 pieseauto.ro##.aobn
 
