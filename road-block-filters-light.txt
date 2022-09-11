@@ -625,7 +625,6 @@ prosport.ro##.height-250.mg-sm-bottom-20
 @@||brid.tv/player/$script,domain=prosport.ro
 
 ||s2blosh.com^
-vezi-online.com##A[href$=".html"][rel="nofollow norefferer noopener"]
 
 !.md
 agora.md##div.grey-section:-abp-contains(Advertorial)
