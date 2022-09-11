@@ -151,8 +151,8 @@ zf.ro##.banda-sticky-vp
 ||stream-aleph.m.ro^$xhr,domain=zf.ro
 zf.ro###alephLiveBkp
 
-zonait.tv###text-2 > .textwidget
-zonait.tv###text-4 > .textwidget
+||zonait.ro/*/728x90px$image
+zonait.ro##[href^="//www.techinstyle.ro/"]
 ||partner.dw-world.de/syndication/feeds/rss-en-hotnews.2757-cb.html$subdocument
 ||partner.dw-world.de/syndication/feeds/VTPartner_hotnewsecon.2756-cb.html$subdocument
 ||privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
@@ -574,8 +574,6 @@ nasul.tv##[href="http://stefanovidiu.ro/"]
 nasul.tv##[href="https://www.expresorul.ro/"]
 nasul.tv##.widget_text.text-124.widget
 
-||ziardebucuresti.ro/wp-content/uploads/2017/01/revolutia-preturilor.jpg
-
 ||ads2.evz.ro^
 ||evz.ro/banners/*$image
 evz.ro###lastmin
@@ -606,7 +604,7 @@ national.ro##.td-a-rec-id-custom-spot
 @@/adsid/integrator.js$script,domain=national.ro
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=national.ro
 
-ziarulromanesc.de##.adace-slot
+ziarulromanesc.de###adv-Piede-sticky
 ||ziarulromanesc.de/*promo
 
 flux24.ro##[href*="profitshare.ro/"]
@@ -663,6 +661,7 @@ timpul.md##.numbers-promo-placeholder
 timpul.md##.widget_text
 
 tribuna.md###hightopbanner
+||tribuna.md^*.gif$image
 
 ||ph-online.ro/*banner
 ph-online.ro##.banneritem
@@ -1178,6 +1177,7 @@ epitesti.ro##.section.add
 ||alba24.ro/*banner*.gif$image
 alba24.ro###mvp-content-bot
 
+||ziarulunirea.ro^*.gif$image
 ziarulunirea.ro###mvp-leader-wrap
 
 ||vremeanoua.ro/wp-content/uploads/*/*/banner*.jpg$image
@@ -1272,5 +1272,8 @@ napocanews.ro##[href="http://www.trcj.ro"]
 ||napocanews.ro/*Banner$image
 
 ciutacu.ro#?#.widget:-abp-contains(Reclame)
+
+! banner
+||anime-kage.eu/media/affiliate/$image
 
 !#include road-ubo.txt
