@@ -1275,6 +1275,6 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 ||geekchronicles.ro/*lisandraad$image
 ||geekchronicles.ro/*/ban$image
 
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=spynews.ro|a1.ro|zutv.ro|antena3.ro|observatornews.ro|observator.tv
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro|antena3.ro|antenastars.ro|observator.tv|observatornews.ro|spynews.ro|zutv.ro
 
 !#include road-ubo.txt
