@@ -60,8 +60,6 @@ coinhive.min.js
 ||thumbs.gfycat.com^$image,domain=deschide.md
 
 @@||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$script,domain=olx.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observator.tv
 ||ivm.antenaplay.ro/fadead_check.php$xmlhttprequest
 /cdn-cgi/apps/head/*$script,first-party,domain=dot.ro
 
@@ -80,7 +78,6 @@ europafm.ro##.nspb-interstitial
 ##.only-desktop.promotii-wrapper
 ##.only_desktop.related_on_top.parteneri.sectiune
 
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=antena3.ro
 antena3.ro###slidebox
 antena3.ro##.bH600.bannerBox
 antena3.ro##.DAGInScrollContainer
@@ -1031,7 +1028,7 @@ crisana.ro##[src*="banner"]
 
 tenisdecamp.ro###ad-bilboard
 
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=zutv.ro|life.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=life.ro
 
 farmaciata.ro##.banner-info
 
@@ -1082,9 +1079,6 @@ wall-street.ro##.minh-lg-600.sidebarBox
 
 ! anti adb videos on stirilekanald.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=stirilekanald.ro|video.onnetwork.tv
-
-! observatornews .ro anti adb
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=observatornews.ro
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8551
 pbinfo.ro##div.center.well-sm.well
@@ -1281,6 +1275,6 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 ||geekchronicles.ro/*lisandraad$image
 ||geekchronicles.ro/*/ban$image
 
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=spynews.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=spynews.ro|a1.ro|zutv.ro|antena3.ro|observatornews.ro|observator.tv
 
 !#include road-ubo.txt
