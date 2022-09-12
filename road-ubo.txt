@@ -25,4 +25,5 @@ sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 ! popup
 posturi.live##+js(nowoif)
 
+! https://github.com/tcptomato/ROad-Block/pull/222
 cool-etv.net##+js(acis, onload, noBackPlease)
