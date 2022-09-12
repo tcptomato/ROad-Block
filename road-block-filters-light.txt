@@ -699,6 +699,7 @@ opiniatimisoarei.ro##[href="http://toronto-residence.ro/contact/"]
 
 ||agrointel.ro/*.gif$image
 agrointel.ro###sticky
+agrointel.ro##.textwidget
 agrointel.ro###aboveheader
 
 ziuaconstanta.ro###optional_banner
