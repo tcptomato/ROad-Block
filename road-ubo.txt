@@ -24,3 +24,5 @@ sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 
 ! popup
 posturi.live##+js(nowoif)
+
+cool-etv.net##+js(acis, onload, noBackPlease)
