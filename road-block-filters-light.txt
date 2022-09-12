@@ -1277,4 +1277,7 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 ! banner
 ||anime-kage.eu/media/affiliate/$image
 
+! geekchronicles. ro - ad
+##[href^="https://l.profitshare.ro/"]
+
 !#include road-ubo.txt
