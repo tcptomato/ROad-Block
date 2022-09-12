@@ -351,6 +351,7 @@ satumareonline.ro###link_2 > [href^="/servad.php"]
 satumareonline.ro###link_3 > [href^="/servad.php"]
 ||satumareonline.ro/*reclame$image
 
+smlive.ro##.ig_content
 smlive.ro###media_image-2
 smlive.ro###ubm-banners-2.ubm_widget.widget
 smlive.ro##[src="https://smlive.ro/wp-content/uploads/useful_banner_manager_banners/4-4-oooooooooooooooooooo.jpg"]
