@@ -1280,4 +1280,6 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 ||geekchronicles.ro/*lisandraad$image
 ||geekchronicles.ro/*/ban$image
 
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=spynews.ro
+
 !#include road-ubo.txt
