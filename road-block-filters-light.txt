@@ -1296,4 +1296,6 @@ graiulsalajului.ro#?#.wp-block-image:-abp-has([sizes])
 graiulsalajului.ro#?#.elementor-element:-abp-has([data-widget_type="image.default"])
 graiulsalajului.ro#?#.elementor-element:-abp-contains(ad)
 
+||voceavalcii.ro/*ad.jpg$image
+
 !#include road-ubo.txt
