@@ -1282,4 +1282,8 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 ziarulargesul.ro##[class*="e3lan"]
 ziarulargesul.ro#?#.widget_custom_html:-abp-contains(ad)
 
+||opiniabuzau.ro/*banner$image
+opiniabuzau.ro#?#.stream-item-mag:-abp-has([target="_blank"])
+opiniabuzau.ro#?#.stream-item-mag:-abp-has([href=""])
+
 !#include road-ubo.txt
