@@ -1296,4 +1296,7 @@ graiulsalajului.ro#?#.elementor-element:-abp-contains(ad)
 
 ||voceavalcii.ro/*ad.jpg$image
 
+||gazetadambovitei.ro/*.gif$image
+gazetadambovitei.ro##.custom-html-widget
+
 !#include road-ubo.txt
