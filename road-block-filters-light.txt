@@ -1279,4 +1279,7 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro|antena3.ro|antenastars.ro|observator.tv|observatornews.ro|spynews.ro|zutv.ro
 
+ziarulargesul.ro##[class*="e3lan"]
+ziarulargesul.ro#?#.widget_custom_html:-abp-contains(ad)
+
 !#include road-ubo.txt
