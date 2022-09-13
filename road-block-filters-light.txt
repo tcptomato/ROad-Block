@@ -71,7 +71,6 @@ europafm.ro###background-image
 europafm.ro##.nspb-interstitial
 
 ||virginradio.ro/wp-content/uploads/2019/04/*kfc-dejun-virgin-*.png$image
-@@||liveplayer.romaniatv.net/js/ads.js$script,domain=liveplayer.romaniatv.net
 
 ! DOM elements
 ###digi-fm-live-stream
@@ -713,6 +712,9 @@ gazetaromaneasca.com##.rm-skin
 ||ido.ro/i/a/160.php$subdocument,domain=vremea.ido.ro
 ||ido.ro/i/a/300.php$subdocument,domain=vremea.ido.ro
 
+@@||liveplayer.romaniatv.net/js/ads.js$script,domain=liveplayer.romaniatv.net
+! https://github.com/uBlockOrigin/uAssets/issues/10382
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=romaniatv.net
 romaniatv.net##.height-300
 romaniatv.net###sam_branding
 ##.SC_TBlock
