@@ -1285,6 +1285,8 @@ ziarulargesul.ro#?#.widget_custom_html:-abp-contains(ad)
 ||opiniabuzau.ro/*banner$image
 opiniabuzau.ro#?#.stream-item-mag:-abp-has([target="_blank"])
 opiniabuzau.ro#?#.stream-item-mag:-abp-has([href=""])
+opiniabuzau.ro##[href^="https://vreaulanova.ro/"]
+opiniabuzau.ro##[href="https://souqeshop.ro/panouri-solare-fotovoltaice/"]
 
 ||graiulsalajului.ro/*Banner$image
 ||graiulsalajului.ro/*2048x136$image
