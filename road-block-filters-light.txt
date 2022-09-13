@@ -1286,4 +1286,10 @@ ziarulargesul.ro#?#.widget_custom_html:-abp-contains(ad)
 opiniabuzau.ro#?#.stream-item-mag:-abp-has([target="_blank"])
 opiniabuzau.ro#?#.stream-item-mag:-abp-has([href=""])
 
+||graiulsalajului.ro/*Banner$image
+||graiulsalajului.ro/*2048x136$image
+graiulsalajului.ro#?#.wp-block-image:-abp-has([sizes])
+graiulsalajului.ro#?#.elementor-element:-abp-has([data-widget_type="image.default"])
+graiulsalajului.ro#?#.elementor-element:-abp-contains(ad)
+
 !#include road-ubo.txt
