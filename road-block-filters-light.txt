@@ -1321,4 +1321,7 @@ bursa.ro##.zoom.banner
 
 gorjonline.ro#?#.container-wrapper > [href="https://www.gorjonline.ro/anunturi/"]:-abp-has([src])
 
+newmoney.ro#?#.sow-image-container:-abp-has([target="_blank"][rel])
+||newmoney.ro/*Banner$image
+
 !#include road-ubo.txt
