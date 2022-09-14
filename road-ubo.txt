@@ -27,3 +27,6 @@ posturi.live##+js(nowoif)
 
 ! https://github.com/tcptomato/ROad-Block/pull/222
 cool-etv.net##+js(acis, onload, noBackPlease)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/n3bjwx/ublock_detected_on_website/
+vwforum.ro##+js(nostif, adsbygoogle)
