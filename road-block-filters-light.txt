@@ -1327,4 +1327,7 @@ newmoney.ro#?#.sow-image-container:-abp-has([target="_blank"][rel])
 ||filme-bune.biz^*.gif$image
 filme-bune.biz#?#.Wdgt:-abp-has([src*=".gif"])
 
+||topgear.ro^*Banner$image
+||topgear.ro^*gif$image
+
 !#include road-ubo.txt
