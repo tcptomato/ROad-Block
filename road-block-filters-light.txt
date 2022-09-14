@@ -1269,6 +1269,7 @@ forum-auto.info#?#.ipsWidget_inner:-abp-has([href="https://e-husa.ro/"])
 
 ||horticultorul.ro/rcl/*.html$subdocument
 
+napocanews.ro#?#.widget:-abp-has([target="_blank"])
 napocanews.ro##[href="http://www.coralimpex.ro/"]
 napocanews.ro##[href="http://www.rosal.ro/"]
 napocanews.ro##[href="http://www.trcj.ro"]
