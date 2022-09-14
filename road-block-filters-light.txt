@@ -1310,4 +1310,10 @@ mobilissimo.ro##.aboveDisqusBanners
 
 ||viata-libera.ro/images/banners/$image
 
+||monitoruldevrancea.ro/*banner$image
+||monitoruldevrancea.ro/*reclama
+monitoruldevrancea.ro#?#.widget_rss:-abp-has([href*=".bursa.ro/"])
+monitoruldevrancea.ro##[class*="td-a-rec-id-custom_ad"]
+monitoruldevrancea.ro##[href="https://www.bursa.ro/"]
+
 !#include road-ubo.txt
