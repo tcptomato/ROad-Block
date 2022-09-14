@@ -1303,4 +1303,8 @@ graiulsalajului.ro#?#.elementor-element:-abp-contains(ad)
 ||gazetadambovitei.ro/*.gif$image
 gazetadambovitei.ro##.custom-html-widget
 
+mobilissimo.ro##.banner
+mobilissimo.ro##.profitshare
+mobilissimo.ro##.aboveDisqusBanners
+
 !#include road-ubo.txt
