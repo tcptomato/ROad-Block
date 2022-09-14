@@ -1308,4 +1308,6 @@ mobilissimo.ro##.banner
 mobilissimo.ro##.profitshare
 mobilissimo.ro##.aboveDisqusBanners
 
+||viata-libera.ro/images/banners/$image
+
 !#include road-ubo.txt
