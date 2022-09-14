@@ -1330,4 +1330,10 @@ filme-bune.biz#?#.Wdgt:-abp-has([src*=".gif"])
 ||topgear.ro^*Banner$image
 ||topgear.ro^*gif$image
 
+tuktuk.ro#?#[href]:not([href*="tuktuk"]):-abp-has([src*="anner"])
+tuktuk.ro#?#.widget:-abp-has([data-aid])
+tuktuk.ro#?#.widget:-abp-has(.adsbygoogle)
+tuktuk.ro##.herald-header-wraper.header-middle
+tuktuk.ro##[href^="//www.booking.com"]
+
 !#include road-ubo.txt
