@@ -1330,4 +1330,6 @@ filme-bune.biz#?#.Wdgt:-abp-has([src*=".gif"])
 ||topgear.ro^*Banner$image
 ||topgear.ro^*gif$image
 
+||tuktuk.ro/*banner$image
+
 !#include road-ubo.txt
