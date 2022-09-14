@@ -1319,4 +1319,6 @@ monitoruldevrancea.ro##[href="https://www.bursa.ro/"]
 bursa.ro#?#.clearfix [href][target="_blank"][rel]:-abp-has([alt][title][style])
 bursa.ro##.zoom.banner
 
+gorjonline.ro#?#.container-wrapper > [href="https://www.gorjonline.ro/anunturi/"]:-abp-has([src])
+
 !#include road-ubo.txt
