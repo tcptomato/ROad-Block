@@ -1324,4 +1324,7 @@ gorjonline.ro#?#.container-wrapper > [href="https://www.gorjonline.ro/anunturi/"
 newmoney.ro#?#.sow-image-container:-abp-has([target="_blank"][rel])
 ||newmoney.ro/*Banner$image
 
+||filme-bune.biz^*.gif$image
+filme-bune.biz#?#.Wdgt:-abp-has([src*=".gif"])
+
 !#include road-ubo.txt
