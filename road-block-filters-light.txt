@@ -1317,5 +1317,6 @@ monitoruldevrancea.ro##[class*="td-a-rec-id-custom_ad"]
 monitoruldevrancea.ro##[href="https://www.bursa.ro/"]
 
 bursa.ro#?#.clearfix [href][target="_blank"][rel]:-abp-has([alt][title][style])
+bursa.ro##.zoom.banner
 
 !#include road-ubo.txt
