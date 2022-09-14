@@ -678,9 +678,8 @@ capital.ro###adobranding
 capital.ro###ado970p2
 capital.ro###ado300p1
 
-||media.timponline.ro/2016/03/2016-03-plan-b-angajare.gif$image
-||media.timponline.ro/2019/10/2019-10-carliont-anunt-300x250.jpg$image
-||media.timponline.ro/2015/04/virgil_rus_298x198.jpg$image
+||timponline.ro/*300x250$image
+||timponline.ro/*728x90.jpg$image
 
 newsromania.net##.background-image-clickable
 
