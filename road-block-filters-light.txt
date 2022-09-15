@@ -1336,4 +1336,6 @@ tuktuk.ro#?#.widget:-abp-has(.adsbygoogle)
 tuktuk.ro##.herald-header-wraper.header-middle
 tuktuk.ro##[href^="//www.booking.com"]
 
+cespun.eu#?#.code-block:-abp-contains(Publicitate)
+
 !#include road-ubo.txt
