@@ -1338,4 +1338,6 @@ tuktuk.ro##[href^="//www.booking.com"]
 
 ||lajumate.ro/images/banners/$image
 
+cespun.eu#?#.code-block:-abp-contains(Publicitate)
+
 !#include road-ubo.txt
