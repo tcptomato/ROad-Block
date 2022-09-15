@@ -1336,4 +1336,6 @@ tuktuk.ro#?#.widget:-abp-has(.adsbygoogle)
 tuktuk.ro##.herald-header-wraper.header-middle
 tuktuk.ro##[href^="//www.booking.com"]
 
+||lajumate.ro/images/banners/$image
+
 !#include road-ubo.txt
