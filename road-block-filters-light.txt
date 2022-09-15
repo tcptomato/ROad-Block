@@ -1340,4 +1340,6 @@ cespun.eu#?#.code-block:-abp-contains(Publicitate)
 
 ||lajumate.ro/images/banners/$image
 
+prwave.ro##.image[height="250"][width="300"]
+
 !#include road-ubo.txt
