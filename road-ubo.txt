@@ -30,3 +30,6 @@ cool-etv.net##+js(acis, onload, noBackPlease)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/n3bjwx/ublock_detected_on_website/
 vwforum.ro##+js(nostif, adsbygoogle)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/x9qoen/
+bloground.ro##+js(nostif, show)
