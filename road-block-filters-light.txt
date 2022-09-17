@@ -1343,4 +1343,8 @@ prwave.ro##.image[height="250"][width="300"]
 
 dinpopor.ro##.a-wrap
 
+||computerblog.ro^*970x250$image
+||computerblog.ro^*600_300$image
+||computerblog.ro/banner/
+
 !#include road-ubo.txt
