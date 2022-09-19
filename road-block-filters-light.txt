@@ -1351,5 +1351,7 @@ myexpert.ro#?#.content-segment:-abp-has([src*="pagead"])
 myexpert.ro#?#[style*="border-radius: 3px; margin-bottom: 20px; width: 160px;"]:-abp-has([target="_blank"])
 
 bankingnews.ro#?#[href^="https://www.brd.ro/"]:-abp-has([id*="_b"][src*="300"])
+bankingnews.ro#?##text-49:-abp-contains(Publicitate)
+bankingnews.ro##.banner_g
 
 !#include road-ubo.txt
