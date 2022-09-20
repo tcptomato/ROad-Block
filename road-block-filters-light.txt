@@ -1358,4 +1358,6 @@ bankingnews.ro###text-49
 ||i0.wp.com/r3media.ro/*/banner$image
 r3media.ro##iframe[src*="feature=oembed"]
 
+parerimagazin.ro#?#.widget_custom_html:-abp-has([src*="pagead"])
+
 !#include road-ubo.txt
