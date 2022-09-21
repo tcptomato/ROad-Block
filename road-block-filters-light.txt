@@ -157,6 +157,7 @@ mesagerulneamt.ro#?#.elementor-column:-abp-contains(PUBLICITATE)
 ||mesagerulneamt.ro/*banner$image
 mesagerulneamt.ro##.theiaStickySidebar.inner
 mesagerulneamt.ro##[href="http://www.volta.ro/"]
+mesagerulneamt.ro##[href^="https://cybernet.volvocarsdealer.ro/cere-oferta"]
 
 ! https://newsallert.ro
 ||newsallert.ro/wp-content/uploads/2020/07/Publiserv-SA-servicii*.jpg$image
