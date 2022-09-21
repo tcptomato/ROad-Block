@@ -152,30 +152,11 @@ zonait.ro##[href^="//www.techinstyle.ro/"]
 ||partner.dw-world.de/syndication/feeds/VTPartner_hotnewsecon.2756-cb.html$subdocument
 ||privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
 
-! NEAMT
-! https://mesagerulneamt.ro
-||mesagerulneamt.ro/wp-content/uploads/2020/01/pietricican.gif$image
-||mesagerulneamt.ro/wp-content/uploads/2019/05/delgaz*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/03/Banner-site-TCE-livrari*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-31-at-11.12.34*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/02/Valea-buna*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/03/ASCLEPION-FINAL*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/01/Banner-site-CB-PN*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2019/09/conservfruct*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/01/output_ZKpn9l.gif$image
-||mesagerulneamt.ro/wp-content/uploads/2019/09/daniromv2*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2019/09/rifil*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2019/05/RECLAMA-ANIMATA-300-logo.gif$image
-||mesagerulneamt.ro/wp-content/uploads/2019/09/macheta-arcan*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2016/08/Danlin*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/06/Stan-Viorel-Program-audiente*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/07/publiserv*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/08/endocrinologie-22-iulie-si-FIC*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/08/Neamt_18.08-licitatie*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/07/sms_propunere*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/07/Euro-em*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/08/Bacanie-bun*.jpg$image
-||mesagerulneamt.ro/wp-content/uploads/2020/08/logo-Lusitana-clean*.jpg$image
+mesagerulneamt.ro##[href="https://www.platinumoptic.ro/"]
+mesagerulneamt.ro##.elementor-column:has-text(PUBLICITATE)
+||mesagerulneamt.ro/*banner$image
+mesagerulneamt.ro##.theiaStickySidebar.inner
+mesagerulneamt.ro##[href="http://www.volta.ro/"]
 
 ! https://newsallert.ro
 ||newsallert.ro/wp-content/uploads/2020/07/Publiserv-SA-servicii*.jpg$image
