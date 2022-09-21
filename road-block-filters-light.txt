@@ -1380,4 +1380,8 @@ turbomag.ro##[href^="https://www.skinmedspa.ro/"]
 turbomag.ro##.home-featured-boxes
 turbomag.ro##.homepage-banner
 
+zvj.ro##[class*="banner"]
+zvj.ro#?#.boxstire2head:-abp-contains(Publicitate)
+||confortmedia.ro^$image,domain=zvj.ro
+
 !#include road-ubo.txt
