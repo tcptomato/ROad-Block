@@ -958,7 +958,6 @@ cspower.ro##[src*="banner"]
 cspower.ro##[href="https://redsky.ro/"]
 
 floteauto.ro##.pubheader
-||cargo-bus.ro/*banner
 ||autoexpert.ro/img/rca300.png$image,domain=floteauto.ro
 ||floteauto.ro/*Banner$image
 floteauto.ro##[href^="https://ivecopentrutine.ro/"]
@@ -985,6 +984,7 @@ dirtbike.ro##[class*="banner"]
 
 autoexpert.ro##.pubheader
 autoexpert.ro#?#.textwidget:-abp-has([target="_blank"])
+autoexpert.ro##[href="https://www.kia.ro/"]
 
 carzz.ro##[href^="https://www.carvertical.com/"]
 carzz.ro##.second_carvertical_noVin
@@ -1383,5 +1383,6 @@ newsbv.ro#?#.textwidget:-abp-has([src*="anner"])
 newsbv.ro##[href="https://www.rplp-piatracraiului.ro/"]
 
 cargo-bus.ro#?#.textwidget:-abp-has([src])
+||cargo-bus.ro/*banner
 
 !#include road-ubo.txt
