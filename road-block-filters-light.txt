@@ -783,12 +783,9 @@ anunturi-auto.4tuning.ro##.aobn
 forum.4tuning.ro##[style="min-height: 260px;"]:has([id^="adocean"])
 4tuning.ro##.news-fb-comments
 
-gsp.ro##div.article-top.banner
-gsp.ro##.article-hero > .banner-container
-gsp.ro##.x970x250.banner
-gsp.ro##.x90.banner
-||gsp.ro/plugins/brandings/$image
-gsp.ro##.banner
+gsp.ro##[class^="banner"]
+||gsp.ro/*/widgets*.gif$image
+||gsp.ro^*banner$image
 
 ||oradesibiu.ro/wp-content/uploads/*/*/banner*.jpg$image
 ||oradesibiu.ro/wp-content/uploads/*/*/*-banner-*.gif$image
