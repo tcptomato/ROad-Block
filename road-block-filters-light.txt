@@ -1360,4 +1360,6 @@ r3media.ro##iframe[src*="feature=oembed"]
 
 parerimagazin.ro#?#.widget_custom_html:-abp-has([src*="pagead"])
 
+aproapemasini.com#?#.widget_text:has([href*="utm_source=aff"])
+
 !#include road-ubo.txt
