@@ -1384,6 +1384,7 @@ newsbv.ro##[href="https://www.rplp-piatracraiului.ro/"]
 
 cargo-bus.ro#?#.textwidget:-abp-has([src])
 ||cargo-bus.ro/*banner
+||cargo-bus.ro/*.gif$image
 
 missauto.ro###honda_bnr_rot_1
 missauto.ro##[href="http://www.itsybitsy.ro/live/"]
@@ -1403,5 +1404,8 @@ buzau.net#?##sidebar > div.widget:-abp-contains(Publicitate)
 turbomag.ro##[href^="https://www.skinmedspa.ro/"]
 turbomag.ro##.home-featured-boxes
 turbomag.ro##.homepage-banner
+
+motorclasic.ro##.custom-html-widget.textwidget
+motorclasic.ro##.widget_custom_html.widget.widget_text
 
 !#include road-ubo.txt
