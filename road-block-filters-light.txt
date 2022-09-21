@@ -1142,7 +1142,6 @@ ziarul21.ro###leader-wrap
 ziarul21.ro###foot-ad-wrap
 ziarul21.ro##.custom-html-widget
 ziarul21.ro##.lazyloaded.alignnone
-||caaries.ro^$3p
 
 epitesti.ro##.section.add
 
@@ -1185,8 +1184,6 @@ curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
 ||startingup.ro^*/banner*$image
 
 ||giurgiuveanul.ro/stiri/*banner$image
-
-||confortmedia.ro^$3p
 
 ||independentonline.ro^*/commercials/$image
 
