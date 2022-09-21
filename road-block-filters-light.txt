@@ -177,13 +177,6 @@ zonait.ro##[href^="//www.techinstyle.ro/"]
 ||mesagerulneamt.ro/wp-content/uploads/2020/08/Bacanie-bun*.jpg$image
 ||mesagerulneamt.ro/wp-content/uploads/2020/08/logo-Lusitana-clean*.jpg$image
 
-! https://nemteanul.ro
-||nemteanul.ro/wp-content/uploads/2020/04/arcan-1024x512-1*.png$image
-||nemteanul.ro/wp-content/uploads/2018/09/Andrusca-3*.jpg$image
-||nemteanul.ro/wp-content/uploads/2020/08/Instalatii-copia*.jpg$image
-||nemteanul.ro/wp-content/uploads/2020/08/cuc-ppu-psd*.jpg
-||nemteanul.ro/wp-content/uploads/2020/08/arsene-300x225.gif
-
 ! https://newsallert.ro
 ||newsallert.ro/wp-content/uploads/2020/07/Publiserv-SA-servicii*.jpg$image
 ||newsallert.ro/wp-content/uploads/2020/08/mugur-cozmanciuc-pnl-1200x-150px.png$image
