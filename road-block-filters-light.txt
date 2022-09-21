@@ -1362,4 +1362,8 @@ parerimagazin.ro#?#.widget_custom_html:-abp-has([src*="pagead"])
 
 aproapemasini.com#?#.widget_text:has([href*="utm_source=aff"])
 
+i-car.ro##.banners
+i-car.ro###banners-4
+i-car.ro###adswidget1-quick-adsense-reloaded-2
+
 !#include road-ubo.txt
