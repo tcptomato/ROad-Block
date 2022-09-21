@@ -1401,4 +1401,7 @@ zero-accidente.ro##[href="https://www.priboisiasociatii.ro/"]
 buzau.net##[href*="?utm_source="]
 buzau.net#?##sidebar > div.widget:-abp-contains(Publicitate)
 
+motorclasic.ro##.custom-html-widget.textwidget
+motorclasic.ro##.widget_custom_html.widget.widget_text
+
 !#include road-ubo.txt
