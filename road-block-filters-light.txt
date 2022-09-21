@@ -1404,4 +1404,8 @@ buzau.net#?##sidebar > div.widget:-abp-contains(Publicitate)
 motorclasic.ro##.custom-html-widget.textwidget
 motorclasic.ro##.widget_custom_html.widget.widget_text
 
+turbomag.ro##[href^="https://www.skinmedspa.ro/"]
+turbomag.ro##.home-featured-boxes
+turbomag.ro##.homepage-banner
+
 !#include road-ubo.txt
