@@ -1395,4 +1395,9 @@ yachtexpert.ro##[href^="http://constantinnautics.ro/index.php"]
 zero-accidente.ro##[href="https://www.pieseshop.ro/"]
 zero-accidente.ro##[href="https://www.priboisiasociatii.ro/"]
 
+||buzau.net^*gif$image
+||buzau.net/*promo$image
+buzau.net##[href*="?utm_source="]
+buzau.net#?##sidebar > div.widget:-abp-contains(Publicitate)
+
 !#include road-ubo.txt
