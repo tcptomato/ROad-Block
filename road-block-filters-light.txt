@@ -1392,4 +1392,7 @@ yachtexpert.ro##[href="https://www.hulber.ro/"]
 yachtexpert.ro##[href="https://www.pieseshop.ro/"]
 yachtexpert.ro##[href^="http://constantinnautics.ro/index.php"]
 
+zero-accidente.ro##[href="https://www.pieseshop.ro/"]
+zero-accidente.ro##[href="https://www.priboisiasociatii.ro/"]
+
 !#include road-ubo.txt
