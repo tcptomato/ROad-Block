@@ -1385,4 +1385,7 @@ newsbv.ro##[href="https://www.rplp-piatracraiului.ro/"]
 cargo-bus.ro#?#.textwidget:-abp-has([src])
 ||cargo-bus.ro/*banner
 
+missauto.ro###honda_bnr_rot_1
+missauto.ro##[href="http://www.itsybitsy.ro/live/"]
+
 !#include road-ubo.txt
