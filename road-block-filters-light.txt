@@ -952,7 +952,7 @@ onlinesport.ro##[href="http://www.rcforfun.ro/"]
 aktual24.ro##.sam__branding
 aktual24.ro##[style="min-height: 250px;"]
 
-forum.softpedia.com#?#.post_block:-abp-contains(Anunturi)
+forum.softpedia.com#?#.post_block:-abp-has([class^="guest"]):-abp-contains(Anunturi)
 
 dirtbike.ro##[class*="banner"]
 ||dirtbike.ro/*banner$image
