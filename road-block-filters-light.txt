@@ -1373,4 +1373,9 @@ i-car.ro###adswidget1-quick-adsense-reloaded-2
 impactpress.ro###text-25
 impactpress.ro#?#.widget:-abp-has([src*="pagead"])
 
+||stiriest.ro/*banners$image
+||stiriest.ro/*.gif$image
+stiriest.ro##[id^="wds_"]
+stiriest.ro###custom_html-58
+
 !#include road-ubo.txt
