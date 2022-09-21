@@ -1053,6 +1053,8 @@ turdanews.net##.elementor-widget-smartmag-codes
 turdanews.net##.smartmag-widget-codes
 
 ||ziarulevenimentul.ro/data/_editor/$image
+ziarulevenimentul.ro##[href*="/adclick.php"]
+ziarulevenimentul.ro##[href^="https://www.bursa.ro"]
 
 g4media.ro##.custom-html-widget
 
