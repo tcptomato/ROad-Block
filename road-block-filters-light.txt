@@ -1400,4 +1400,6 @@ zero-accidente.ro##[href="https://www.priboisiasociatii.ro/"]
 buzau.net##[href*="?utm_source="]
 buzau.net#?##sidebar > div.widget:-abp-contains(Publicitate)
 
+turbomag.ro##[href^="https://www.skinmedspa.ro/"]
+
 !#include road-ubo.txt
