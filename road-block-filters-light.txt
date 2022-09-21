@@ -153,7 +153,7 @@ zonait.ro##[href^="//www.techinstyle.ro/"]
 ||privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
 
 mesagerulneamt.ro##[href="https://www.platinumoptic.ro/"]
-mesagerulneamt.ro##.elementor-column:has-text(PUBLICITATE)
+mesagerulneamt.ro#?#.elementor-column:-abp-contains(PUBLICITATE)
 ||mesagerulneamt.ro/*banner$image
 mesagerulneamt.ro##.theiaStickySidebar.inner
 mesagerulneamt.ro##[href="http://www.volta.ro/"]
@@ -597,7 +597,7 @@ prosport.ro##.height-250.mg-sm-bottom-20
 ||s2blosh.com^
 
 !.md
-agora.md##div.grey-section:-abp-contains(Advertorial)
+agora.md#?#div.grey-section:-abp-contains(Advertorial)
 
 ||curentul.md/wp-content/banners/
 curentul.md###banner1
