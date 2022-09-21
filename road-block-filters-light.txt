@@ -108,6 +108,7 @@ hotnews.ro##.parteneri
 hotnews.ro##.at-widget-anunturi
 
 libertatea.ro###floating
+libertateapentrufemei.ro##.section-full-ads
 
 nwradu.ro##.second_header > .container > .reclama728
 
