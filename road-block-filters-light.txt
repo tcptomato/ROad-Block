@@ -1382,4 +1382,6 @@ newsbv.ro###block-2
 newsbv.ro#?#.textwidget:-abp-has([src*="anner"])
 newsbv.ro##[href="https://www.rplp-piatracraiului.ro/"]
 
+cargo-bus.ro#?#.textwidget:-abp-has([src])
+
 !#include road-ubo.txt
