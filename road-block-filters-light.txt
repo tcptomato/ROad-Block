@@ -1369,4 +1369,8 @@ i-car.ro###adswidget1-quick-adsense-reloaded-2
 
 ||lyberti.com/*.gif$image
 
+||impactpress.ro/*.gif$image
+impactpress.ro###text-25
+impactpress.ro#?#.widget:-abp-has([src*="pagead"])
+
 !#include road-ubo.txt
