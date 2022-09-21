@@ -1377,4 +1377,9 @@ impactpress.ro#?#.widget:-abp-has([src*="pagead"])
 stiriest.ro##[id^="wds_"]
 stiriest.ro###custom_html-58
 
+||newsbv.ro/*banner$image
+newsbv.ro###block-2
+newsbv.ro#?#.textwidget:-abp-has([src*="anner"])
+newsbv.ro##[href="https://www.rplp-piatracraiului.ro/"]
+
 !#include road-ubo.txt
