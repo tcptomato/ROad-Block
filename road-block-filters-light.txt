@@ -1367,4 +1367,6 @@ i-car.ro##.banners
 i-car.ro###banners-4
 i-car.ro###adswidget1-quick-adsense-reloaded-2
 
+||lyberti.com/*.gif$image
+
 !#include road-ubo.txt
