@@ -537,9 +537,7 @@ pricy.ro##.in.fade.modal-backdrop
 ||psnews.ro/ads/*$image		
 ||psnews.ro/*/*Ad_PS*$image
 
-||nasul.tv/wp-content/uploads/2016/03/200x600-pantofii-nasul-maro.jpg$image
-||nasul.tv/wp-content/uploads/2016/01/200x600-pantofii-nasul.jpg$image
-||nasul.tv/wp-content/uploads/2017/01/Catena-200x600.jpg$image
+nasul.tv#?#.wpb_wrapper:-abp-has([href^="https://repigmentare.ro/"])
 nasul.tv##[href="https://www.ecrgroup.eu/"]
 nasul.tv##[href="http://stefanovidiu.ro/"]
 nasul.tv##[href="https://www.expresorul.ro/"]
