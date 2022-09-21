@@ -1401,5 +1401,7 @@ buzau.net##[href*="?utm_source="]
 buzau.net#?##sidebar > div.widget:-abp-contains(Publicitate)
 
 turbomag.ro##[href^="https://www.skinmedspa.ro/"]
+turbomag.ro##.home-featured-boxes
+turbomag.ro##.homepage-banner
 
 !#include road-ubo.txt
