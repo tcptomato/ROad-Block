@@ -1388,4 +1388,8 @@ cargo-bus.ro#?#.textwidget:-abp-has([src])
 missauto.ro###honda_bnr_rot_1
 missauto.ro##[href="http://www.itsybitsy.ro/live/"]
 
+yachtexpert.ro##[href="https://www.hulber.ro/"]
+yachtexpert.ro##[href="https://www.pieseshop.ro/"]
+yachtexpert.ro##[href^="http://constantinnautics.ro/index.php"]
+
 !#include road-ubo.txt
