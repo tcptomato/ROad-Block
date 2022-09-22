@@ -854,19 +854,20 @@ dcnews.ro##[href^="https://ccir.ro/"]
 dcnews.ro##[data-ad]
 dcnews.ro#?##articleContent > [style]:-abp-has([data-ad])
 
-! anti-gambling advertising
+! fanatik. ro
 ||serve.efortuna.ro^
 ||banners.livepartners.com^
 ||fanatik.ro/wp-content/uploads/*/*/netbet*.webp
 ||fanatik.ro/wp-content/uploads//*/*/netbet-fundal.svg
 ||fanatik.ro/wp-content/uploads/*/*/fortuna*.webp
+||fanatik.ro/*fortuna.svg$image
 ||fanatik.ro/wp-content/uploads/*/*/betano*.webp
+||fanatik.ro^*betano*.svg$image
 ##[href^="https://serve.efortuna.ro/"]
 ##[href^="https://banners.livepartners.com/"]
+fanatik.ro##[data-banner]
 fanatik.ro##[rel^="sponsored"]
-fanatik.ro##.ssc-card__branding--left
-fanatik.ro##.ssc-card__branding--right
-fanatik.ro##.ssc-card__branding--top
+fanatik.ro##[class^="ssc-card__branding"]
 fanatik.ro##[id^="strawberry_feeds_manager_widget"]
 fanatik.ro#?#.container.mg-top-20:-abp-has([href*="pariuri"])
 
