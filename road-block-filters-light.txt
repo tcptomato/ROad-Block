@@ -1052,7 +1052,7 @@ wall-street.ro##.minh-lg-600.sidebarBox
 ! https://github.com/NanoMeow/QuickReports/issues/610
 @@||giz.ro^$generichide
 
-! in-video anti-adb + DIV stuff
+! video player anti-adb + DIV stuff
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kanald.ro|stirilekanald.ro|video.onnetwork.tv
 stirilekanald.ro#?#.col-sm-4:-abp-has([class="ad"])
 
