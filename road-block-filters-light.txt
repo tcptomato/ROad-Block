@@ -624,14 +624,6 @@ tribuna.md###hightopbanner
 ph-online.ro##.banneritem
 ||connect.facebook.net/ro_RO/all.js$script,domain=ph-online.ro
 
-||sighet247.ro/banners/vitreum-1200-280-mai-2020.jpg$image
-||sighet247.ro/banners/banner-asigurari-bm-1200x280.jpg$image
-||sighet247.ro/banners/frtunningshop.gif$image
-||sighet247.ro/banners/herodot.gif$image
-||sighet247.ro/banners/drenaj-limfatic.gif$image
-||sighet247.ro/banners/test-biorezonanta-2-2019.jpg$image
-||sighet247.ro/banners/banner_euronet.gif$image
-
 ||capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif$image
 ||capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg$image
 ||capital.ro/img/buton_shop.png$image
@@ -664,10 +656,6 @@ ziuaconstanta.ro##[class^="custom_module add"]
 ||ziuaconstanta.ro/images/banners/$image
 
 gazetaromaneasca.com##.rm-skin
-
-||sighet247.ro/banners/banner-pe-web_2020-iulie_1200x280px.png$image
-||sighet247.ro/banners/herodot-covid19.jpg$image
-||sighet247.ro/banners/banner-codul-postal-01.jpg$image
 
 ||ido.ro/i/a/160.php$subdocument,domain=vremea.ido.ro
 ||ido.ro/i/a/300.php$subdocument,domain=vremea.ido.ro
