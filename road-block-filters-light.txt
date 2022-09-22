@@ -281,7 +281,6 @@ tvmneamt.ro##[href^="https://www.facebook.com/TurnulBerarilorOficial/"]
 ||tvmneamt.ro/wp-content/uploads/2020/08/91db827b-446f-4ec4-a9b7-64011529386c-e1596986610254.jpg$image
 
 ! SATU MARE
-informatia-zilei.ro##.type-post > .grid_8
 ||informatia-zilei.ro/sm/wp-content/uploads/*.gif$image
 informatia-zilei.ro##.bannerad
 informatia-zilei.ro##[src="http://www.informatia-zilei.ro/sm/wp-content/uploads/2013/10/banner-alma-spa.jpg"]
