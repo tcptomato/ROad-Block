@@ -633,6 +633,7 @@ capital.ro###ado300p1
 
 ||timponline.ro/*300x250$image
 ||timponline.ro/*728x90.jpg$image
+timponline.ro#?#.widget:-abp-has([src][alt][width="300"][height]):not(*:-abp-has([href*="://timponline.ro"]))
 
 newsromania.net##.background-image-clickable
 
@@ -1372,5 +1373,7 @@ actualitati.info#?#.widget:-abp-has(.adsbygoogle)
 moise.ro##[href*="imobiliare.ro"]
 
 gadget.ro#?#[id^="block"]:-abp-has([src*="pub"])
+
+
 
 !#include road-ubo.txt
