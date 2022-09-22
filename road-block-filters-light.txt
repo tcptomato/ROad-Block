@@ -1391,4 +1391,7 @@ damboviteanul.com#?#.widget_custom_html:-abp-has([href][target=_blank]):not(*:-a
 
 actualitati.info#?#.widget:-abp-has(.adsbygoogle)
 
+||imobiliare.ro^$domain=moise.ro
+moise.ro##[href*="imobiliare.ro"]
+
 !#include road-ubo.txt
