@@ -469,6 +469,7 @@ luju.ro##aside.externals:has([href*="cotidianul.ro"])
 
 b1tv.ro##.branding
 b1tv.ro##.bg--dark
+b1tv.ro##.height-250
 
 stiridecluj.ro##div[onclick]
 ziardecluj.ro##div.ad
