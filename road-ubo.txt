@@ -17,7 +17,7 @@ competentedigitale.ro##+js(acis, Math.floor, offsetHeight)
 *$script,redirect-rule=noopjs,domain=protvplus.ro
 
 stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
-sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
+acasatv.ro,sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 
 ! popup
 posturi.live##+js(nowoif)
