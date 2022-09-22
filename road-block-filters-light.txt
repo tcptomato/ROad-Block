@@ -1387,7 +1387,7 @@ zvj.ro#?#.boxstire2head:-abp-contains(Publicitate)
 vloggeri.com##[href^="https://event.2performant.com/"]
 
 ||damboviteanul.com^*.gif$image
-damboviteanul.com#?#.widget_custom_html:-abp-has([href][target=_blank]):not(*:-abp-has([href*="damboviteanul.com"])):not(*:-abp-has([id="widget_container_curs"]))
+damboviteanul.com#?#.widget_custom_html:-abp-has([href][target="_blank"]):not(*:-abp-has([href*="damboviteanul.com"])):not(*:-abp-has([id="widget_container_curs"]))
 
 actualitati.info#?#.widget:-abp-has(.adsbygoogle)
 
