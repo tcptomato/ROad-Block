@@ -979,8 +979,6 @@ dez.ro##.alert-warning.alert
 
 substantial.ro##[id^="subst-"][style]
 
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kanald.ro
-
 mediculmeu.com##[style]:has(.adsbygoogle)
 
 bugetul.ro##[class^="reclama"]
@@ -1054,8 +1052,9 @@ wall-street.ro##.minh-lg-600.sidebarBox
 ! https://github.com/NanoMeow/QuickReports/issues/610
 @@||giz.ro^$generichide
 
-! anti adb videos on stirilekanald.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=stirilekanald.ro|video.onnetwork.tv
+! in-video anti-adb + DIV stuff
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kanald.ro|stirilekanald.ro|video.onnetwork.tv
+stirilekanald.ro#?#.col-sm-4:-abp-has([class="ad"])
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8551
 pbinfo.ro##div.center.well-sm.well
