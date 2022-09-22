@@ -30,3 +30,6 @@ vwforum.ro##+js(nostif, adsbygoogle)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/x9qoen/
 bloground.ro##+js(nostif, show)
+
+! https://github.com/uBlockOrigin/uAssets/pull/10062
+*$script,redirect-rule=noopjs,domain=myradioonline.ro
