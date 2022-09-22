@@ -1374,6 +1374,4 @@ moise.ro##[href*="imobiliare.ro"]
 
 gadget.ro#?#[id^="block"]:-abp-has([src*="pub"])
 
-
-
 !#include road-ubo.txt
