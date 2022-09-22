@@ -685,7 +685,6 @@ romaniatv.net###sam_branding
 ||clubopel.com/8080/images/autopieseonline24.gif$image
 ||clubopel.com/8080/images/autodoc24.gif$image
 ||clubopel.com/8080/images/euautopiese.ro.gif$image
-||clubopel.com/8080/images/autodoc24.gif$image
 ||clubopel.com/8080/images/dwight.gif$image
 clubopel.com##.fab_mid_thread
 clubopel.com##.my_post_goad.my_post.row-fluid
