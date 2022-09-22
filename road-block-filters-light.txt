@@ -457,6 +457,8 @@ luju.ro##aside.externals:has([href*="cotidianul.ro"])
 b1tv.ro##.branding
 b1tv.ro##.bg--dark
 b1tv.ro#?#.height-250:-abp-has([id^="div-gpt-ad"])
+! https://github.com/tcptomato/ROad-Block/issues/286
+.ro/track.js?$script,~third-party
 
 stiridecluj.ro##div[onclick]
 ziardecluj.ro##div.ad
