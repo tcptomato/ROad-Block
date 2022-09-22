@@ -1376,4 +1376,6 @@ gadget.ro#?#[id^="block"]:-abp-has([src*="pub"])
 obiectiv-sm.ro##.ottowebAds
 obiectiv-sm.ro##.bk-sticksb-wrapper
 
+||gedave.ro^*.gif
+
 !#include road-ubo.txt
