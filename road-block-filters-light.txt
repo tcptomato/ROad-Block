@@ -667,6 +667,7 @@ gazetaromaneasca.com##.rm-skin
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=romaniatv.net
 romaniatv.net##.height-300
 romaniatv.net###sam_branding
+romaniatv.net#?#.top:-abp-has([id^="div-gpt-ad"])
 ##.SC_TBlock
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
