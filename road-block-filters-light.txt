@@ -1091,6 +1091,8 @@ desteptarea.ro##[href*="banner"]
 ||integr8.digital^$third-party
 
 csid.ro#?#.centered:-abp-has(.strawberry-ads-manager-container)
+csid.ro#?#.mg-bottom-10:-abp-has(.strawberry-ads-manager-container)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=csid.ro
 
 androidu.ro##.banner728x90px
 androidu.ro#?#.align-right:-abp-has(.adsbygoogle)
