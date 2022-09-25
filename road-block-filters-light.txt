@@ -1383,4 +1383,8 @@ obiectiv-sm.ro##.bk-sticksb-wrapper
 
 ||gedave.ro^*.gif
 
+||sportulsalajean.ro/*banner$image
+sportulsalajean.ro###mvp-top-nav-wrap > .mvp-main-box-cont [href]
+sportulsalajean.ro##.mvp-side-widget
+
 !#include road-ubo.txt
