@@ -1391,4 +1391,7 @@ sportulsalajean.ro#?#.textwidget:-abp-has([href*="facebook.com"])
 stiri.md#?#.wrapper:-abp-has([id^="admixer"])
 stiri.md##[class^="Banner"]
 
+||ziarulincomod.ro^*gif$image
+ziarulincomod.ro#?#.td-a-rec:-abp-has([href*="350x350"])
+
 !#include road-ubo.txt
