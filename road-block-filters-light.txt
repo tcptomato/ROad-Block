@@ -1388,7 +1388,7 @@ sportulsalajean.ro##[href="https://www.welthaus.ro/"]
 sportulsalajean.ro#?#.textwidget:-abp-has([href*="facebook.com"])
 ||sgbm.info^
 
-stiri.md##.wrapper:-abp-has([id^="admixer"])
+stiri.md#?#.wrapper:-abp-has([id^="admixer"])
 stiri.md##[class^="Banner"]
 
 !#include road-ubo.txt
