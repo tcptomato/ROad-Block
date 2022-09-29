@@ -583,6 +583,7 @@ prosport.ro##.height-250.text-center
 prosport.ro##.strawberry-ads-manager-container
 prosport.ro##.height-250.mg-sm-bottom-20
 @@||brid.tv/player/$script,domain=prosport.ro
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=prosport.ro
 
 ||s2blosh.com^
 
