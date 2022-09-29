@@ -707,8 +707,6 @@ mediafax.ro##div.notif-bula.notif
 
 ||i.imgur.com/oj9G0zy.png
 
-cancan.ro##.height-250
-
 ! cspower.ro
 ||i.postimg.cc/Vv2v9kdD/download.jpg$image
 
@@ -746,6 +744,8 @@ oradesibiu.ro##.sidebar-column-primary.sidebar-column.col-sm-4 > .sidebar
 
 cancan.ro##.height-sm-360.height-xs-200.mg-bottom-20
 cancan.ro##.height-250.mg-bottom-20
+cancan.ro##.height-250
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=cancan.ro
 
 ||filmecrestineonline.ro/wp-content/uploads/2021/01/nail-khusnutdinov-als-171-000-aro-244-modelling-0-1.jpg$image
 ||filmecrestineonline.ro/wp-content/uploads/2021/01/nail-khusnutdinov-als-171-000-aro-244-modelling-0-1.jpg$image
