@@ -1394,4 +1394,6 @@ stiri.md##[class^="Banner"]
 ||ziarulincomod.ro^*gif$image
 ziarulincomod.ro#?#.td-a-rec:-abp-has([href*="350x350"])
 
+ciao.ro#?#.hidden-xs:-abp-has([id^="div-gpt-ad"])
+
 !#include road-ubo.txt
