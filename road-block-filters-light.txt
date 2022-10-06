@@ -832,6 +832,11 @@ protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
 dcnews.ro##[href^="https://ccir.ro/"]
 dcnews.ro##[data-ad]
 dcnews.ro#?##articleContent > [style]:-abp-has([data-ad])
+dcnews.ro##[href="https://www.dcbusiness.ro/cum-nu-construim-in-romania"]
+
+dcbusiness.ro##[href="https://arca.info.ro/"]
+dcbusiness.ro##[href="https://www.proger.ro/"]
+dcbusiness.ro##[href="https://www.dcbusiness.ro/cum-nu-construim-in-romania"]
 
 ! fanatik. ro
 ||serve.efortuna.ro^
