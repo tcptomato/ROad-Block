@@ -1403,4 +1403,8 @@ ziarulincomod.ro#?#.td-a-rec:-abp-has([href*="350x350"])
 
 ciao.ro#?#.hidden-xs:-abp-has([id^="div-gpt-ad"])
 
+retetesivedete.ro###adobranding
+retetesivedete.ro##[id^="ado"]
+retetesivedete.ro###ONN_player
+
 !#include road-ubo.txt
