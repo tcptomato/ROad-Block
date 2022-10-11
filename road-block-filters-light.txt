@@ -1407,4 +1407,6 @@ retetesivedete.ro###adobranding
 retetesivedete.ro##[id^="ado"]
 retetesivedete.ro###ONN_player
 
+conso.ro#?#.billboard:-abp-has(#consoAdTop)
+
 !#include road-ubo.txt
