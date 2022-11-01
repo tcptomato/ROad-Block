@@ -1409,4 +1409,6 @@ retetesivedete.ro###ONN_player
 
 conso.ro#?#.billboard:-abp-has(#consoAdTop)
 
+||dailyfeed.ro/*banner$image
+
 !#include road-ubo.txt
