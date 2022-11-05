@@ -1422,4 +1422,11 @@ pofta-buna.com##[href^="https://www.profi.ro/"]
 
 evenimentulistoric.ro###adobranding
 
+stiridinromania.ro##.attachment-full.vc_single_image-img
+stiridinromania.ro##[href*="virtualmag.ro"]
+stiridinromania.ro##[href*="tornabuoni.ro"]
+stiridinromania.ro#?#.textwidget:-abp-has(.adsbygoogle)
+stiridinromania.ro#?#.wpb_wrapper.vc_figure:-abp-has([target="_blank"])
+||stiridinromania.ro^*.gif$image
+
 !#include road-ubo.txt
