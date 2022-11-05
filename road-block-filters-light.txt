@@ -1420,4 +1420,6 @@ doctorulzilei.ro##[id^="ado"]
 
 pofta-buna.com##[href^="https://www.profi.ro/"]
 
+evenimentulistoric.ro###adobranding
+
 !#include road-ubo.txt
