@@ -1429,4 +1429,6 @@ stiridinromania.ro#?#.textwidget:-abp-has(.adsbygoogle)
 stiridinromania.ro#?#.wpb_wrapper.vc_figure:-abp-has([target="_blank"])
 ||stiridinromania.ro^*.gif$image
 
+infoactual.ro##[id^="ado"]
+
 !#include road-ubo.txt
