@@ -1416,4 +1416,6 @@ mediaflux.ro##.td_spot_img_all
 
 substantial.ro#?#.incontent:-abp-has(.adsbygoogle)
 
+doctorulzilei.ro##[id^="ado"]
+
 !#include road-ubo.txt
