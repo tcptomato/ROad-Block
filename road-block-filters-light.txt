@@ -1431,4 +1431,7 @@ stiridinromania.ro#?#.wpb_wrapper.vc_figure:-abp-has([target="_blank"])
 
 infoactual.ro##[id^="ado"]
 
+bzi.ro##.branding--top
+bzi.ro##[href^="https://bit.ly/"]
+
 !#include road-ubo.txt
