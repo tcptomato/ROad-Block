@@ -1411,4 +1411,7 @@ conso.ro#?#.billboard:-abp-has(#consoAdTop)
 
 ||dailyfeed.ro/*banner$image
 
+||mediaflux.ro/*banner$image
+mediaflux.ro##.td_spot_img_all
+
 !#include road-ubo.txt
