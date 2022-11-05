@@ -1434,4 +1434,6 @@ infoactual.ro##[id^="ado"]
 bzi.ro##.branding--top
 bzi.ro##[href^="https://bit.ly/"]
 
+||arq.ro/html/media/banners
+
 !#include road-ubo.txt
