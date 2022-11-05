@@ -1418,4 +1418,6 @@ substantial.ro#?#.incontent:-abp-has(.adsbygoogle)
 
 doctorulzilei.ro##[id^="ado"]
 
+pofta-buna.com##[href^="https://www.profi.ro/"]
+
 !#include road-ubo.txt
