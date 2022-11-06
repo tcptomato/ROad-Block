@@ -1437,4 +1437,8 @@ bzi.ro##[href^="https://bit.ly/"]
 
 ||arq.ro/html/media/banners
 
+presadeazi.ro#?#.td-a-rec-id-custom-spot:-abp-has([href="https://www.vadrexim.ro/anvelope.html"])
+presadeazi.ro#?#.tdm-descr:-abp-contains(sponsor)
+presadeazi.ro#?#[style]:-abp-has(.td-adspot-title):-abp-has(.td_spot_img_all)
+
 !#include road-ubo.txt
