@@ -1454,4 +1454,7 @@ brasovstiri.ro##.ai-rotate
 brasov.net##.braso-adlabel + [class]
 brasov.net##.braso-adlabel
 
+brasovmetropolitan.ro##[href="https://www.facebook.com/bmonkeyadv.ro"]
+||brasovmetropolitan.ro/*BANNER$image
+
 !#include road-ubo.txt
