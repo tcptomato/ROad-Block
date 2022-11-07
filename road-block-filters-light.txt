@@ -896,6 +896,7 @@ geeki.ro##.geeki-la-inceput-de-articol-mobil
 
 ct100.ro##[id*="widget_sp"]
 ct100.ro##[class*="widget_media_image"]
+ct100.ro##.twp-ad-image-section
 
 cugetliber.ro##[class^="banner"]
 
