@@ -1462,4 +1462,10 @@ brasovmetropolitan.ro##[href="https://www.facebook.com/bmonkeyadv.ro"]
 bizbrasov.ro##.demand-supply
 bizbrasov.ro##[href="https://fwdbv.ro/abonamente/"]
 
+cronicadefalticeni.ro##.theiaStickySidebar
+cronicadefalticeni.ro##.sidebar
+cronicadefalticeni.ro##.sidebar-mid
+cronicadefalticeni.ro##[href="https://almaclinic.ro/"]
+cronicadefalticeni.ro##[href^="https://car-invatamant.ro/aplica-online/"]
+
 !#include road-ubo.txt
