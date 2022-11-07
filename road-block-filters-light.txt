@@ -1444,4 +1444,8 @@ presadeazi.ro#?#[style]:-abp-has(.td-adspot-title):-abp-has(.td_spot_img_all)
 
 zcj.ro#?#.hidden-xs:-abp-has(.ad-placeholder)
 
+tomisnews.ro#?#.code-block:-abp-has(.hbagency_space_19811)
+tomisnews.ro##.size-full.wp-block-image
+tomisnews.ro##.widget_media_image
+
 !#include road-ubo.txt
