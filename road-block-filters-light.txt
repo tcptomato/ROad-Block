@@ -1459,4 +1459,7 @@ brasovmetropolitan.ro##[href="https://www.facebook.com/bmonkeyadv.ro"]
 
 ||observatorulbv.ro/*banner$image
 
+bizbrasov.ro##.demand-supply
+bizbrasov.ro##[href="https://fwdbv.ro/abonamente/"]
+
 !#include road-ubo.txt
