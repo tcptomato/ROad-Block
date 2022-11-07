@@ -1441,4 +1441,6 @@ presadeazi.ro#?#.td-a-rec-id-custom-spot:-abp-has([href="https://www.vadrexim.ro
 presadeazi.ro#?#.tdm-descr:-abp-contains(sponsor)
 presadeazi.ro#?#[style]:-abp-has(.td-adspot-title):-abp-has(.td_spot_img_all)
 
+zcj.ro#?#.hidden-xs:-abp-has(.ad-placeholder)
+
 !#include road-ubo.txt
