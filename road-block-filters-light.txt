@@ -1448,4 +1448,7 @@ tomisnews.ro#?#.code-block:-abp-has(.hbagency_space_19811)
 tomisnews.ro##.size-full.wp-block-image
 tomisnews.ro##.widget_media_image
 
+brasovstiri.ro##.ai-rotate
+||brasovstiri.ro/*banner$image
+
 !#include road-ubo.txt
