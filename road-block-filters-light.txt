@@ -1451,4 +1451,7 @@ tomisnews.ro##.widget_media_image
 brasovstiri.ro##.ai-rotate
 ||brasovstiri.ro/*banner$image
 
+brasov.net##.braso-adlabel + [class]
+brasov.net##.braso-adlabel
+
 !#include road-ubo.txt
