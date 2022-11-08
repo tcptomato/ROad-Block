@@ -1472,4 +1472,6 @@ televiziunea-medicala.ro#@#.adsbygoogle
 televiziunea-medicala.ro#?##text-25:-abp-has(.adsbygoogle)
 televiziunea-medicala.ro#?##text-30:-abp-has([href*="jooble.org"])
 
+stirimed.ro##[id*="_ads"]
+
 !#include road-ubo.txt
