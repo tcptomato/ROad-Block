@@ -1474,4 +1474,9 @@ televiziunea-medicala.ro#?##text-30:-abp-has([href*="jooble.org"])
 
 stirimed.ro##[id*="_ads"]
 
+stiridepitesti.ro##.td_spot_img_all
+stiridepitesti.ro##.td-spot-id-content_inline
+stiridepitesti.ro##.td-spot-id-content_bottom
+stiridepitesti.ro##.td-spot-id-content_top
+
 !#include road-ubo.txt
