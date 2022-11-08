@@ -1481,4 +1481,6 @@ stiridepitesti.ro##.td-spot-id-content_top
 
 ||pitesti24.ro/*BANNER$image
 
+ziarobiectiv.ro##.rzonvm-image
+
 !#include road-ubo.txt
