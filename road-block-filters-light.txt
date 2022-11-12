@@ -1486,4 +1486,8 @@ stiridepitesti.ro##.td-spot-id-content_top
 
 ziarobiectiv.ro##.rzonvm-image
 
+ctnews.ro##.gofollow
+ctnews.ro#?#.mh-widget:-abp-contains(/PROMO|PARTENER/i)
+||wp.com/*Banner$image,domain=ctnews.ro
+
 !#include road-ubo.txt
