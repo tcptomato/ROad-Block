@@ -1496,4 +1496,6 @@ litoraltv.ro#?#.widget_media_image:-abp-has([href]:not(*:-abp-contains([href*="l
 litoraltv.ro#?#.widget:-abp-has(.adsbygoogle)
 ||litoraltv.ro/*banner$image
 
+vbiz.ro#?#.height-250:-abp-has(.adsbygoogle)
+
 !#include road-ubo.txt
