@@ -1490,4 +1490,8 @@ ctnews.ro##.gofollow
 ctnews.ro#?#.mh-widget:-abp-contains(/PROMO|PARTENER/i)
 ||wp.com/*Banner$image,domain=ctnews.ro
 
+litoraltv.ro#?#.widget_media_image:-abp-has([href]:not(*:-abp-contains([href*="litoraltv.ro"]):not(*:-abp-has([href*="facebook.com"]))))
+litoraltv.ro#?#.widget:-abp-has(.adsbygoogle)
+||litoraltv.ro/*banner$image
+
 !#include road-ubo.txt

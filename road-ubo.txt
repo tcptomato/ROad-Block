@@ -34,3 +34,7 @@ bloground.ro##+js(nostif, show)
 ! https://github.com/uBlockOrigin/uAssets/pull/10062
 *$script,redirect-rule=noopjs,domain=myradioonline.ro
 myradioonline.ro##+js(rc, _bannerTop1)
+
+! https://github.com/tcptomato/ROad-Block/issues/323
+litoraltv.ro##.pum-active
+litoraltv.ro##html:style(overflow: auto !important;)
