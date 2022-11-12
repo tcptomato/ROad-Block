@@ -1498,4 +1498,6 @@ litoraltv.ro#?#.widget:-abp-has(.adsbygoogle)
 
 vbiz.ro#?#.height-250:-abp-has(.adsbygoogle)
 
+dailybusiness.ro##[data-banner]
+
 !#include road-ubo.txt
