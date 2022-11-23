@@ -47,7 +47,6 @@ coinhive.min.js
 ||criteo.com^
 ||doubleclick.net^
 ||adform.net^$third-party
-||noadblock.org^
 ||i401xox.com^
 ||ads1-adnow.com^
 ||ads2-adnow.com^
