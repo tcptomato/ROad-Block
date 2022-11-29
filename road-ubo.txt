@@ -38,3 +38,6 @@ myradioonline.ro##+js(rc, _bannerTop1)
 ! https://github.com/tcptomato/ROad-Block/issues/323
 litoraltv.ro##.pum-active
 litoraltv.ro##html:style(overflow: auto !important;)
+
+! antena anti-adb
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,important,redirect-rule=google-ima.js,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|jurnalul.ro|observator.tv|observatornews.ro|spynews.ro|zutv.ro

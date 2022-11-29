@@ -1248,7 +1248,8 @@ ciutacu.ro#?#.widget:-abp-contains(Reclame)
 ||geekchronicles.ro/*lisandraad$image
 ||geekchronicles.ro/*/ban$image
 
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|observator.tv|observatornews.ro|spynews.ro|zutv.ro
+! antena anti-adb
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|jurnalul.ro|observator.tv|observatornews.ro|spynews.ro|zutv.ro
 
 ziarulargesul.ro##[class*="e3lan"]
 ziarulargesul.ro#?#.widget_custom_html:-abp-contains(ad)
