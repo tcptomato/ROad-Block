@@ -1511,6 +1511,6 @@ ziaruldinmuscel.ro##.vc_empty_space
 @@||obiectivbr.ro/sites/default/files/banner/bogdi1024-web.jpg$image,1p
 
 ||gorjeanul.ro/*.gif$image
-gorjeanul.ro#?#.textwidget:-abp-has([src][width="800"])
+gorjeanul.ro#?#.textwidget:-abp-has([src])
 
 !#include road-ubo.txt
