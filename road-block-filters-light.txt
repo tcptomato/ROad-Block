@@ -867,6 +867,7 @@ lauralaurentiu.ro##.reclamaLata
 
 ziare.com##.branding-container
 ziare.com##[href*="AdB"]
+||ziare.com^*.gif$image
 
 ! page broken
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
