@@ -749,7 +749,6 @@ oradesibiu.ro##div[class^="ods"]
 oradesibiu.ro##.sidebar-column-primary.sidebar-column.col-sm-4 > .sidebar
 
 cancan.ro##.height-sm-360.height-xs-200.mg-bottom-20
-cancan.ro##.height-250.mg-bottom-20
 cancan.ro##.height-250
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=cancan.ro
 cancan.ro#?#.height-300:-abp-has([id^="div-gpt-ad"])
