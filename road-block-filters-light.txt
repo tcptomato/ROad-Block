@@ -18,10 +18,8 @@
 ||ad.doubleclick.net^
 ||paydemic.com
 
-coinhive.min.js
 ||jsecoin.com^
 ||reasedoper.pw^
-||mataharirama.xyz^
 ||listat.biz^
 ||lmodr.biz^
 ||minecrunch.co^
@@ -30,7 +28,6 @@ coinhive.min.js
 ||ado.icorp.ro^
 ||adunity.com^
 ||brand.ad^
-||gemius.pl^
 ||mookie1.com^$third-party
 ||omniconvert.com^
 ||statcounter.com^
