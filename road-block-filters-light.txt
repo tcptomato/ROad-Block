@@ -21,7 +21,6 @@
 ||jsecoin.com^
 ||reasedoper.pw^
 ||listat.biz^
-||lmodr.biz^
 ||minecrunch.co^
 ||2mdn.net^
 ||7w.ro^
