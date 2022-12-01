@@ -1506,4 +1506,6 @@ ziaruldinmuscel.ro##.vc_empty_space
 ||obiectivbr.ro/*/banner/$image
 @@||obiectivbr.ro/sites/default/files/banner/bogdi1024-web.jpg$image,1p
 
+mediastiri.ro##.td_spot_img_all
+
 !#include road-ubo.txt
