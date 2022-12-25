@@ -3,7 +3,7 @@
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 23 Nov 2022 8:23 UTC
+! Last modified: 25 Dec 2022 23:52 UTC
 
 /plugins/footer-pop-up-banner/*
 /Reclama/*
@@ -279,39 +279,42 @@ tvmneamt.ro##[href^="https://www.facebook.com/TurnulBerarilorOficial/"]
 ||tvmneamt.ro/wp-content/uploads/2020/08/91db827b-446f-4ec4-a9b7-64011529386c-e1596986610254.jpg$image
 
 ! SATU MARE
-||informatia-zilei.ro/sm/wp-content/uploads/*.gif$image
-informatia-zilei.ro##.bannerad
-informatia-zilei.ro##[src="http://www.informatia-zilei.ro/sm/wp-content/uploads/2013/10/banner-alma-spa.jpg"]
+informatia-zilei.ro###custom_html-3
+informatia-zilei.ro###custom_html-50
+informatia-zilei.ro###custom_html-52
+informatia-zilei.ro###custom_html-53
+informatia-zilei.ro###custom_html-54
+informatia-zilei.ro###custom_html-44
+informatia-zilei.ro###custom_html-51
+informatia-zilei.ro###custom_html-32
+informatia-zilei.ro###custom_html-41
+informatia-zilei.ro###custom_html-9
+informatia-zilei.ro###custom_html-40
+informatia-zilei.ro###custom_html-14
+informatia-zilei.ro###custom_html-13
+informatia-zilei.ro###custom_html-45
+informatia-zilei.ro###custom_html-39
+informatia-zilei.ro###custom_html-12
+informatia-zilei.ro###custom_html-37
+informatia-zilei.ro###custom_html-38
 
-portalsm.ro##div.st-clr.st-ad-region
-portalsm.ro##[src^="/media/publicitate/"]
 ||portalsm.ro/wp-content/uploads/*.gif$image
 ||portalsm.ro/media/publicitate/$image
+portalsm.ro##div.st-clr.st-ad-region
+portalsm.ro##[src^="/media/publicitate/"]
 portalsm.ro#?#.st-sidebar-widget:-abp-has([src*="publicitate"])
 
 ||presasm.ro/*reclama$image
 presasm.ro#?#.widget:not(*:-abp-has([href*="presasm.ro"])):not(*:-abp-has([data-href*="facebook"]))
+presasm.ro##.wp-image-179110
 
-satmareanul.net###gabfire_simplead_widget-4
-satmareanul.net###gabfire_simplead_widget-8
-satmareanul.net###gabfire_simplead_widget-10
-satmareanul.net##.custom-html-widget
-
-satumareonline.ro###art_right_div
-satumareonline.ro###reclame_left
-satumareonline.ro###sub_art_pp_div
-satumareonline.ro###venus-136605
-satumareonline.ro###venus-136711
-satumareonline.ro###link_1 > [href^="/servad.php"]
-satumareonline.ro###link_2 > [href^="/servad.php"]
-satumareonline.ro###link_3 > [href^="/servad.php"]
 ||satumareonline.ro/*reclame$image
+satmareanul.net##.widget_custom_html
 
+smlive.ro###ubm-banners-3
 smlive.ro##.ig_content
-smlive.ro###media_image-2
-smlive.ro###ubm-banners-2.ubm_widget.widget
-smlive.ro##[src="https://smlive.ro/wp-content/uploads/useful_banner_manager_banners/4-4-oooooooooooooooooooo.jpg"]
-smlive.ro##[src="https://smlive.ro/wp-content/uploads/useful_banner_manager_banners/45-116795455_3204883796257756_5467569289453464938_n.jpg"]
+smlive.ro##article>div.td-post-content>p>a.td-modal-image
+smlive.ro##article>div.td-post-content>p:has-text(/^\u00A0$/)
 
 ! Filters:
 ||e-day.ro^$third-party
