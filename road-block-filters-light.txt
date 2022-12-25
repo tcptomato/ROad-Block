@@ -1048,6 +1048,8 @@ wall-street.ro##.minh-lg-600.sidebarBox
 
 ! video player anti-adb + DIV stuff
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kanald.ro|stirilekanald.ro|video.onnetwork.tv
+! https://github.com/uBlockOrigin/uAssets/issues/16121
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=kanald.ro
 stirilekanald.ro#?#.col-sm-4:-abp-has([class="ad"])
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8551
