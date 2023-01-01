@@ -604,7 +604,7 @@ curentul.md###banner8_singlebottom
 
 hotnews.md##.adv
 
-istoria.md##div.d2011-block-lateral-middle:-abp-has(a[href*="voceabasarabiei.net"])
+istoria.md#?#div.d2011-block-lateral-middle:-abp-has(a[href*="voceabasarabiei.net"])
 
 poliexpert.md##.banner
 
