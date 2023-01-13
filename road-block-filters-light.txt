@@ -1525,4 +1525,7 @@ gazetavalceana.ro#?#.widget_text.widget:-abp-contains(Reclame)
 
 go4games.ro#?#.mg-bottom-10:-abp-has(.strawberry-ads)
 
+dexonline.net##.adsense-imagine
+dexonline.net##[href="https://creditrapid.ro/"]
+
 !#include road-ubo.txt
