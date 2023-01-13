@@ -1523,4 +1523,6 @@ peco-online.ro##tr[onclick*="revolut"]
 
 gazetavalceana.ro#?#.widget_text.widget:-abp-contains(Reclame)
 
+go4games.ro#?#.mg-bottom-10:-abp-has(.strawberry-ads)
+
 !#include road-ubo.txt
