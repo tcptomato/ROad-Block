@@ -909,7 +909,7 @@ cugetliber.ro##[class^="banner"]
 
 romaniataramea.com##.widget_text
 romaniataramea.com##[href^="https://afflat3c1.com/trk/"]
-romaniataramea.com##.widget_block:not(.widget_block:has([href*="romaniataramea.com"])):not(.widget_block:has([href*="google.com"]))
+romaniataramea.com#?#.widget_block:not(.widget_block:-abp-has([href*="romaniataramea.com"])):not(.widget_block:has([href*="google.com"]))
 ||romaniataramea.com/wp-content/plugins/buymeacoffee/
 ||buymeacoffee.com^$domain=romaniataramea.com
 romaniataramea.com##.wpsd-master-wrapper
