@@ -1528,4 +1528,8 @@ go4games.ro#?#.mg-bottom-10:-abp-has(.strawberry-ads)
 dexonline.net##.adsense-imagine
 dexonline.net##[href="https://creditrapid.ro/"]
 
+actualitateavranceana.ro##[href="https://www.sipotehnokaronline.com/"]
+actualitateavranceana.ro##[href^="https://www.sviatoacademy.ro/"]
+||florariafocsani.ro/image/catalog/ADV/$image,third-party
+
 !#include road-ubo.txt
