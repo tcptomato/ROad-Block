@@ -1532,4 +1532,9 @@ actualitateavranceana.ro##[href="https://www.sipotehnokaronline.com/"]
 actualitateavranceana.ro##[href^="https://www.sviatoacademy.ro/"]
 ||florariafocsani.ro/image/catalog/ADV/$image,third-party
 
+fileshare.ro#?#td[width="250"]:not(*:-abp-has([href*="fileshare.ro"]))
+||fileshare.ro/banners$image
+||simpatie.ro^$third-party
+girlshare.ro#?#td > center:-abp-contains(Reclama)
+
 !#include road-ubo.txt
