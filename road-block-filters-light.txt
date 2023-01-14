@@ -735,7 +735,7 @@ craiovaforum.ro##.wpb_wrapper > aside.widget_text.widget
 4tuning.ro##.aobn
 4tuning.ro##.side-col
 anunturi-auto.4tuning.ro##.aobn
-forum.4tuning.ro##[style="min-height: 260px;"]:has([id^="adocean"])
+forum.4tuning.ro#?#[style="min-height: 260px;"]:-abp-has([id^="adocean"])
 4tuning.ro##.news-fb-comments
 
 gsp.ro#?#[class^="banner"]:not(*:-abp-has(.related-in-article))
