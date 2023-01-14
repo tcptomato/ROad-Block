@@ -1537,4 +1537,6 @@ fileshare.ro#?#td[width="250"]:not(*:-abp-has([href*="fileshare.ro"]))
 ||simpatie.ro^$third-party
 girlshare.ro#?#td > center:-abp-contains(Reclama)
 
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro
+
 !#include road-ubo.txt
