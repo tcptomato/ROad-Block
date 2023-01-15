@@ -1539,4 +1539,6 @@ girlshare.ro#?#td > center:-abp-contains(Reclama)
 
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro
 
+romedic.ro##.promo
+
 !#include road-ubo.txt
