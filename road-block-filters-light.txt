@@ -1239,6 +1239,7 @@ dezvaluiri.ro#?#[id^="media_image"]:not(*:-abp-has([href*="dezvaluiri.ro"]))
 
 ||clujust.ro/*banner$image
 ||clujust.ro/*.gif$image
+clujust.ro##[href*="utm_medium=banner"]
 clujust.ro##[id^="ad"]
 
 forum-auto.info#?#.ipsWidget_inner:-abp-has([href="https://e-husa.ro/"])
