@@ -81,6 +81,7 @@ antena3.ro##body > .bannerGrey
 antena3.ro##.bannerBox
 antena3.ro##.desktop_only.grey.section
 antena3.ro###ivm-inread
+useit.ro##.ads
 ! near video
 jurnalul.ro#?#.special-box-pm > p:-abp-contains(Philip Morris)
 
