@@ -83,7 +83,6 @@ antena3.ro##.desktop_only.grey.section
 antena3.ro###ivm-inread
 useit.ro##.ads
 ! near video
-jurnalul.ro#?#.special-box-pm > p:-abp-contains(Philip Morris)
 
 catchy.ro###footer-ads-section
 catchy.ro##.pin-it-button
@@ -828,8 +827,10 @@ myradioonline.ro##.pls-dis-blck
 
 qreferat.com##[style^="overflow:auto;"]
 
+jurnalul.ro#?#.special-box-pm > p:-abp-contains(Philip Morris)
 jurnalul.ro#?#.DAGInScrollInner:-abp-has(.bannerBox)
 jurnalul.ro##.bannerGrey
+jurnalul.ro###ribbon
 
 protv.ro##.brandingDfp
 protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
