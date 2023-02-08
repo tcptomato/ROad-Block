@@ -955,6 +955,7 @@ onlinesport.ro##[href="http://www.rcforfun.ro/"]
 
 aktual24.ro##.sam__branding
 aktual24.ro##[style="min-height: 250px;"]
+||cdn.aktual24.ro/wp-content/uploads/2022/02/simion4-*.png$image
 
 forum.softpedia.com#?#.post_block:-abp-has([class^="guest"]):-abp-contains(Anunturi)
 
