@@ -454,6 +454,8 @@ luju.ro##[id*="banner"]
 @@||luju.ro/static/images/logo.jpg
 @@||luju.ro/static/images/shadow.jpg
 luju.ro##aside.externals:has([href*="cotidianul.ro"])
+luju.ro##video
+luju.ro##[src^="https://luju.ro/static/images/ccir"]
 
 b1tv.ro##.branding
 b1tv.ro##.bg--dark
@@ -1543,5 +1545,10 @@ girlshare.ro#?#td > center:-abp-contains(Reclama)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro
 
 romedic.ro##.promo
+
+qmagazine.ro##.custom_ad_back_q
+
+||albaiulianul.ro/images/banners/$image
+albaiulianul.ro##.banneritem
 
 !#include road-ubo.txt
