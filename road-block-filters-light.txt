@@ -1551,4 +1551,11 @@ qmagazine.ro##.custom_ad_back_q
 ||albaiulianul.ro/images/banners/$image
 albaiulianul.ro##.banneritem
 
+~patriotromania.ro##[href="https://www.patriotromania.ro/"]
+
+dc360.ro##[href*="maie.ro"]
+dc360.ro##.td-loader-gif
+
+solidnews.ro##.td_spot_img_all
+
 !#include road-ubo.txt
