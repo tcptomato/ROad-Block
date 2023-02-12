@@ -17,6 +17,7 @@
 
 ||ad.doubleclick.net^
 ||paydemic.com
+||geozo.com^$3p
 
 ||jsecoin.com^
 ||reasedoper.pw^
@@ -675,6 +676,8 @@ gazetaromaneasca.com##.rm-skin
 romaniatv.net##.height-300
 romaniatv.net###sam_branding
 romaniatv.net#?#.top:-abp-has([id^="div-gpt-ad"])
+romaniatv.net##[data-platform="AdNow"]
+romaniatv.net##[data-platform="MGID"]
 ##.SC_TBlock
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
