@@ -682,6 +682,7 @@ romaniatv.net##[data-platform="MGID"]
 
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg$image
 ||adevarul.ro/assets/adevarul.ro/MRImage/2019/05/27/5cec182e445219c57e1efd38/orig.jpg$image
+adevarul.ro##[id^="gid-ads"]
 
 ||clubopel.com/8080/images/autopieseonline24.gif$image
 ||clubopel.com/8080/images/autodoc24.gif$image
