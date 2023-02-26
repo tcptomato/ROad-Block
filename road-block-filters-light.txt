@@ -588,6 +588,7 @@ prosport.ro##.strawberry-ads-manager-container
 prosport.ro##.height-250.mg-sm-bottom-20
 @@||brid.tv/player/$script,domain=prosport.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=prosport.ro
+prosport.ro##.strawberry-ad
 
 ||s2blosh.com^
 
@@ -634,9 +635,8 @@ ph-online.ro##.banneritem
 ||capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif$image
 ||capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg$image
 ||capital.ro/img/buton_shop.png$image
-capital.ro###adobranding
-capital.ro###ado970p2
-capital.ro###ado300p1
+capital.ro##[id^="ado"]
+||capital.ro/*Banner$image
 
 ||timponline.ro/*300x250$image
 ||timponline.ro/*728x90.jpg$image
@@ -1004,6 +1004,7 @@ kudika.ro##.minh-250
 ##.strawberry-ads__pretty-container
 ##.strawberry-ads-manager-container
 ##.strawberry-ad-card
+##.strawberry-ad
 
 uzpbihor.ro#?##widget-wrap:not(*:-abp-has([href*="uzpbihor.ro"]))
 
@@ -1440,6 +1441,8 @@ conso.ro#?#.billboard:-abp-has(#consoAdTop)
 
 ||mediaflux.ro/*banner$image
 mediaflux.ro##.td_spot_img_all
+mediaflux.ro##.sam-container
+mediaflux.ro##.mg-top-20
 
 substantial.ro#?#.incontent:-abp-has(.adsbygoogle)
 
@@ -1562,5 +1565,7 @@ dc360.ro##[href*="maie.ro"]
 dc360.ro##.td-loader-gif
 
 solidnews.ro##.td_spot_img_all
+
+animalzoo.ro##[id^="ado"]
 
 !#include road-ubo.txt
