@@ -1568,4 +1568,8 @@ solidnews.ro##.td_spot_img_all
 
 animalzoo.ro##[id^="ado"]
 
+amosnews.ro##.promotion-section
+amosnews.ro##[href^="https://www.catena.ro/"]
+amosnews.ro##[href="http://www.catenapascupas.ro/"]
+
 !#include road-ubo.txt
