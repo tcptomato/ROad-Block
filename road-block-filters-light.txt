@@ -555,6 +555,7 @@ evz.ro###ado970p2
 evz.ro##.bncp-desktop
 evz.ro##.ford.reclama-auto
 evz.ro##.news-listing-comunicate
+evz.ro##[id^="ado"]
 
 ! https://github.com/tcptomato/ROad-Block/issues/128
 ||cotidianul.ro/wp-content/uploads/*banner
