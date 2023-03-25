@@ -48,4 +48,4 @@ posturi.live##+js(nowoif)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro,redirect=google-ima.js,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro,redirect=google-ima.js,important
 
-||sputniknews.*^$all
+
