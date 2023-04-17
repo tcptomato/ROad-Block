@@ -134,8 +134,6 @@ stiripesurse.ro#?#.row:not([class]:-abp-has([href^="https://www.stiripesurse.ro"
 stiripesurse.ro##.bgcolor-revista-blogurilor
 stiripesurse.ro##.border-revista-blogurilor
 ||media.stiripesurse.ro/assets/img/agerpres-300x250.png$image
-stiripesurse.ro##.article-category:has-text(/Philip Morris|țigar/)
-stiripesurse.ro##.article-category-featured:has-text(Philip Morris)
 
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
@@ -318,7 +316,7 @@ satmareanul.net##.widget_custom_html
 smlive.ro###ubm-banners-3
 smlive.ro##.ig_content
 smlive.ro##article>div.td-post-content>p>a.td-modal-image
-smlive.ro##article>div.td-post-content>p:has-text(/^\u00A0$/)
+smlive.ro#?#article>div.td-post-content>p:-abp-contains(/^\u00A0$/)
 
 ! Filters:
 ||e-day.ro^$third-party
@@ -836,7 +834,6 @@ myradioonline.ro##.pls-dis-blck
 
 qreferat.com##[style^="overflow:auto;"]
 
-jurnalul.ro#?#.special-box-pm > p:-abp-contains(Philip Morris)
 jurnalul.ro#?#.DAGInScrollInner:-abp-has(.bannerBox)
 jurnalul.ro##.bannerGrey
 jurnalul.ro###ribbon
@@ -1578,5 +1575,26 @@ amosnews.ro##[href^="https://www.catena.ro/"]
 amosnews.ro##[href="http://www.catenapascupas.ro/"]
 
 lumeasatului.ro##.sp-module-content
+
+jurnalul.ro#?#.special-box-pm > p:-abp-contains(Philip Morris)
+stiripesurse.ro#?#.article-category:-abp-contains(/Philip Morris|țigar/)
+stiripesurse.ro#?#.article-category-featured:-abp-contains(Philip Morris)
+hotnews.ro#?#.article-body:-abp-contains(susținut de Philip Morris)
+csid.ro#?#.single__content:-abp-contains(Philip Morris International)
+gandul.ro#?#.single__content:-abp-contains(Philip Morris România)
+||gandul.ro/*Tobacco$media
+news.ro#?#.article-body:-abp-contains(Philip Morris România)
+mediafax.ro###article:-abp-contains(arderea tutunului)
+||mediafax.ro/publicitate
+wall-street.ro#?#.article-wrap:-abp-contains(arderea tutunului)
+descopera.ro#?#.single__container:-abp-contains(arderea tutunului)
+click.ro#?#.container:-abp-contains(arderea tutunului)
+dilemaveche.ro##article:-abp-contains(arderea tutunului)
+evz.ro#?#.container:-abp-contains(arderea tutunului)
+locals.md#?#.t-records:-abp-contains(arderea )
+kudika.ro#?#.article-view:-abp-contains(arderea tutunului)
+digi24.ro#?#.article:-abp-contains(arderea tutunului)
+dcmedical.ro#?#.ContentArticle:-abp-contains( tutunului)
+dcnews.ro#?#.page:-abp-contains(Philip Morris)
 
 !#include road-ubo.txt
