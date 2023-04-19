@@ -1597,4 +1597,6 @@ digi24.ro#?#.article:-abp-contains(arderea tutunului)
 dcmedical.ro#?#.ContentArticle:-abp-contains( tutunului)
 dcnews.ro#?#.page:-abp-contains(Philip Morris)
 
+stirilebzi.ro#?#.vc_column_inner > .vc_column-inner > .wpb_wrapper:-abp-has(.adsbygoogle)
+
 !#include road-ubo.txt
