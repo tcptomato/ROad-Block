@@ -19,9 +19,6 @@ competentedigitale.ro##+js(acis, Math.floor, offsetHeight)
 stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 acasatv.ro,sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 
-! popup
-posturi.live##+js(nowoif)
-
 ! https://github.com/tcptomato/ROad-Block/pull/222
 cool-etv.net##+js(acis, onload, noBackPlease)
 
@@ -44,6 +41,10 @@ litoraltv.ro##html:style(overflow: auto !important;)
 
 ! posturi. live popups
 posturi.live##+js(nowoif)
+posturi.live##+js(nosiif, location)
+posturi.live##+js(acs, setTimeout, admc)
+||blaneo.com^
+||cumult.com^
 
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro,redirect=google-ima.js,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro,redirect=google-ima.js,important
