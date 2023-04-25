@@ -1670,4 +1670,6 @@ autoplay.ro##.custom-html-widget
 
 radiobrasov.ro##.view-advertising-banner
 
+stirileimobiliare.ro##.ai_widget
+
 !#include road-ubo.txt
