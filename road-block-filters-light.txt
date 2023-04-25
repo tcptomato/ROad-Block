@@ -960,6 +960,8 @@ lovendal.ro#?#.widget:-abp-contains(/Publicitate|Asemanatoare/)
 onlinesport.ro##[href^="https://afiliati-online.casapariurilor.ro/promoRedirect"]
 onlinesport.ro##.ptate_banner_cmz
 onlinesport.ro##[href="http://www.rcforfun.ro/"]
+onlinesport.ro##.ptate
+onlinesport.ro##[href="https://www.anvelopemag.ro/anvelope-iarna.aspx"]
 
 aktual24.ro##.sam__branding
 aktual24.ro##[style="min-height: 250px;"]
