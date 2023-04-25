@@ -50,3 +50,5 @@ posturi.live##+js(acs, setTimeout, admc)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro,redirect=google-ima.js,important
 
 ||sputniknews.*^$all
+
+filmeserialegratis.*,fsplayer.*##+js(nowoif)
