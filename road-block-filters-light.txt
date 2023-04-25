@@ -1632,4 +1632,6 @@ buzoienii.ro##.is-style-default [href]
 
 ||viata-libera.ro/*banner$image
 
+zhd.ro##.td-a-rec-id-custom-spot
+
 !#include road-ubo.txt
