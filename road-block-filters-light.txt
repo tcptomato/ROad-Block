@@ -1619,4 +1619,6 @@ arenavalceana.ro##.td-all-devices
 
 ziartopdearges.com##.size-large.wp-block-image
 
+ramnicuvalceaweek.ro###sidebar > .widget_text:not(.widgettitle:has-text(Horoscop))
+
 !#include road-ubo.txt
