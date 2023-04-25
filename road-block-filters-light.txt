@@ -1652,4 +1652,6 @@ revistaconstructiilor.eu##.revis-widget
 
 hunedoaraplus.ro##.td-a-rec-id-sidebar.td-a-rec
 
+exquis.ro##.banner
+
 !#include road-ubo.txt
