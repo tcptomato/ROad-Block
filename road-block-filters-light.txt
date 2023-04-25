@@ -1628,4 +1628,6 @@ paginademedia.ro##.entry-content > div.demand-supply
 ziaruldebacau.ro##.widget_links.widget
 ziaruldebacau.ro#?#.widget_text.widget:not(*:-abp-has([href*="ziaruldebacau.ro"]))
 
+buzoienii.ro##.is-style-default [href]
+
 !#include road-ubo.txt
