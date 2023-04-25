@@ -1599,4 +1599,8 @@ dcnews.ro#?#.page:-abp-contains(Philip Morris)
 
 stirilebzi.ro#?#.vc_column_inner > .vc_column-inner > .wpb_wrapper:-abp-has(.adsbygoogle)
 
+||cronicazilei.ro/*banner-$image
+cronicazilei.ro##[href="https://www.amosnews.ro/"]
+cronicazilei.ro##[href^="https://www.facebook.com/profile.php"]
+
 !#include road-ubo.txt
