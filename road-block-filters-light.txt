@@ -49,7 +49,6 @@
 ||ads2-adnow.com^
 ||ads3-adnow.com^
 ||tesseradigital.com^
-||qds.ninja^
 
 ||observatorulph.ro/cdn-cgi/apps/*$script,first-party
 
