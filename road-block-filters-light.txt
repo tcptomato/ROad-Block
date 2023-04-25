@@ -1404,7 +1404,7 @@ turbomag.ro##.homepage-banner
 
 zvj.ro##[class*="banner"]
 zvj.ro#?#.boxstire2head:-abp-contains(Publicitate)
-||confortmedia.ro^$image,domain=zvj.ro
+||confortmedia.ro^$3p
 
 vloggeri.com##[href^="https://event.2performant.com/"]
 
@@ -1647,5 +1647,7 @@ ziarulatac.ro##.ziarul-ad
 ||revistaconstructiilor.eu/*banner$image
 revistaconstructiilor.eu##[href="http://www.erbasu.ro/"]
 revistaconstructiilor.eu##.revis-widget
+
+hunedoaraplus.ro##.td-a-rec-id-sidebar.td-a-rec
 
 !#include road-ubo.txt
