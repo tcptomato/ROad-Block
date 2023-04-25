@@ -1065,6 +1065,7 @@ wall-street.ro##.ads
 wall-street.ro##.minh-250
 wall-street.ro###adocean\.slots\.box3
 wall-street.ro##.minh-lg-600.sidebarBox
+wall-street.ro#?#[class^="add"]:-abp-has([id^="adocean"])
 
 9am.ro###branding-holder
 9am.ro##.ad-in-artilce
