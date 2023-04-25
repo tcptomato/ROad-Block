@@ -1638,4 +1638,8 @@ gazetadeagricultura.info##.banneritem
 
 timisplus.ro##.td-a-rec
 
+presagalati.ro###text-6
+presagalati.ro##[href="http://exploremag.ro"]
+presagalati.ro##[href="http://www.inimadecopil.ro/"]
+
 !#include road-ubo.txt
