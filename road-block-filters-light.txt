@@ -1166,6 +1166,7 @@ epitesti.ro##.section.add
 ||alba24.ro/wp-content/uploads/*/*/Banner*
 ||alba24.ro/*banner*.gif$image
 alba24.ro###mvp-content-bot
+alba24.ro##.adsubtitlu
 
 ||ziarulunirea.ro^*.gif$image
 ziarulunirea.ro###mvp-leader-wrap
