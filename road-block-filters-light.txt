@@ -1644,4 +1644,8 @@ presagalati.ro##[href="http://www.inimadecopil.ro/"]
 ||ziarulatac.ro/static/banner
 ziarulatac.ro##.ziarul-ad
 
+||revistaconstructiilor.eu/*banner$image
+revistaconstructiilor.eu##[href="http://www.erbasu.ro/"]
+revistaconstructiilor.eu##.revis-widget
+
 !#include road-ubo.txt
