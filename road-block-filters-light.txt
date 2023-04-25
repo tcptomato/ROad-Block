@@ -1038,6 +1038,7 @@ moduri.ro#?#.widget-container:-abp-has(.adsbygoogle)
 turdanews.net##.elementor-widget-smartmag-codes
 turdanews.net##[href="https://viamso.ro/"]
 turdanews.net##.smartmag-widget-codes
+turdanews.net##.e-con-full
 
 ||ziarulevenimentul.ro/data/_editor/$image
 ziarulevenimentul.ro##[href*="/adclick.php"]
