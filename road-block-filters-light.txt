@@ -1665,4 +1665,6 @@ shtiu.ro##.leaderboard
 ||autoplay.ro/*banner$image
 autoplay.ro##.custom-html-widget
 
+radiobrasov.ro##.view-advertising-banner
+
 !#include road-ubo.txt
