@@ -1611,4 +1611,8 @@ cronicazilei.ro##[href^="https://www.facebook.com/profile.php"]
 criterii.ro##[href^="https://www.nurvil.ro/"]
 criterii.ro##.customnomobile
 
+ziaruldevalcea.ro##[href*="raureni.ro"]
+ziaruldevalcea.ro##.widget_media_image
+ziaruldevalcea.ro##.widget_block
+
 !#include road-ubo.txt
