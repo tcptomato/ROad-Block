@@ -1654,4 +1654,6 @@ hunedoaraplus.ro##.td-a-rec-id-sidebar.td-a-rec
 
 exquis.ro##.banner
 
+bankingnews.ro##[href^="https://ro.xtb.com/"]
+
 !#include road-ubo.txt
