@@ -1607,4 +1607,8 @@ stirilebzi.ro#?#.vc_column_inner > .vc_column-inner > .wpb_wrapper:-abp-has(.ads
 cronicazilei.ro##[href="https://www.amosnews.ro/"]
 cronicazilei.ro##[href^="https://www.facebook.com/profile.php"]
 
+||criterii.ro/images/banner
+criterii.ro##[href^="https://www.nurvil.ro/"]
+criterii.ro##.customnomobile
+
 !#include road-ubo.txt
