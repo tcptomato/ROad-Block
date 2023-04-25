@@ -214,17 +214,19 @@ zch.ro##.bookingaff
 ||neamt24.ro/wp-content/uploads/2018/05/10846314_358363621010976_5389899719681894478_n*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/as2-*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/14361421_1788204751460538_8516078036903297482_o-*.jpg$image
-||radiomplusfm.ro/wp-content/uploads/2017/10/leo.jpg$image
-||radiomplusfm.ro/wp-content/uploads/2017/10/violeta.jpg$image
-||radiomplusfm.ro/wp-content/uploads/2017/10/vorny.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/servelectron*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/magic-mirror*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/la-cetate*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/petshop*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/geneza-*.jpg$image
 ||neamt24.ro/wp-content/uploads/2018/05/coravi-2.jpg$image
+neamt24.ro##[href="https://www.facebook.com/TaxiLuxTarguNeamt/"]
+
 ||radiomplusfm.ro/wp-content/uploads/2017/10/banner-petite-roulote.jpg$image
 ||radiomplusfm.ro/wp-content/uploads/2017/10/milenium2.jpg$image
+||radiomplusfm.ro/wp-content/uploads/2017/10/leo.jpg$image
+||radiomplusfm.ro/wp-content/uploads/2017/10/violeta.jpg$image
+||radiomplusfm.ro/wp-content/uploads/2017/10/vorny.jpg$image
 
 ! https://ziarpiatraneamt.ro
 ||ziarpiatraneamt.ro/wp-content/uploads/2015/06/eurotravel-piatra-neamt.jpg$image
