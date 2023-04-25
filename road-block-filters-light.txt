@@ -1621,4 +1621,6 @@ ziartopdearges.com##.size-large.wp-block-image
 
 ramnicuvalceaweek.ro###sidebar > .widget_text:not(.widgettitle:has-text(Horoscop))
 
+paginademedia.ro##.entry-content > div.demand-supply
+
 !#include road-ubo.txt
