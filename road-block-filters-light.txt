@@ -1617,4 +1617,6 @@ ziaruldevalcea.ro##.widget_block
 
 arenavalceana.ro##.td-all-devices
 
+ziartopdearges.com##.size-large.wp-block-image
+
 !#include road-ubo.txt
