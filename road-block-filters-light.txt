@@ -1634,4 +1634,6 @@ buzoienii.ro##.is-style-default [href]
 
 zhd.ro##.td-a-rec-id-custom-spot
 
+gazetadeagricultura.info##.banneritem
+
 !#include road-ubo.txt
