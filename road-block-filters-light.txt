@@ -1615,4 +1615,6 @@ ziaruldevalcea.ro##[href*="raureni.ro"]
 ziaruldevalcea.ro##.widget_media_image
 ziaruldevalcea.ro##.widget_block
 
+arenavalceana.ro##.td-all-devices
+
 !#include road-ubo.txt
