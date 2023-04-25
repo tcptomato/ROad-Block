@@ -1623,4 +1623,9 @@ ramnicuvalceaweek.ro###sidebar > .widget_text:not(.widgettitle:has-text(Horoscop
 
 paginademedia.ro##.entry-content > div.demand-supply
 
+||ziaruldebacau.ro/*banner$image
+||ziaruldebacau.ro/*Reclama$image
+ziaruldebacau.ro##.widget_links.widget
+ziaruldebacau.ro#?#.widget_text.widget:not(*:-abp-has([href*="ziaruldebacau.ro"]))
+
 !#include road-ubo.txt
