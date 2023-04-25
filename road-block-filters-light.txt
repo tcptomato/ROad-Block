@@ -1658,4 +1658,7 @@ bankingnews.ro##[href^="https://ro.xtb.com/"]
 
 shtiu.ro##.leaderboard
 
+||autoplay.ro/*banner$image
+autoplay.ro##.custom-html-widget
+
 !#include road-ubo.txt
