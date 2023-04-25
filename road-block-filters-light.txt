@@ -1656,4 +1656,6 @@ exquis.ro##.banner
 
 bankingnews.ro##[href^="https://ro.xtb.com/"]
 
+shtiu.ro##.leaderboard
+
 !#include road-ubo.txt
