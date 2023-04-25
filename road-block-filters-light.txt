@@ -1630,4 +1630,6 @@ ziaruldebacau.ro#?#.widget_text.widget:not(*:-abp-has([href*="ziaruldebacau.ro"]
 
 buzoienii.ro##.is-style-default [href]
 
+||viata-libera.ro/*banner$image
+
 !#include road-ubo.txt
