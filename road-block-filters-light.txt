@@ -1672,4 +1672,7 @@ radiobrasov.ro##.view-advertising-banner
 
 stirileimobiliare.ro##.ai_widget
 
+arhiblog.ro#?#.widget_text.widget:-abp-contains(eMAG)
+arhiblog.ro#?#.widget:-abp-has([href^="https://arhiblog.ro/colaboram/"])
+
 !#include road-ubo.txt
