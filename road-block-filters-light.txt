@@ -1688,4 +1688,6 @@ novatv.ro##.adv-link
 
 ||infotravelromania.ro/banner
 
+||ghiseulbancar.ro/files/anunturi/$image
+
 !#include road-ubo.txt
