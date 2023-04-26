@@ -1696,4 +1696,8 @@ site-anunturi.ro##[href*="ad_click"]
 ||site-anunturi.ro/*reclama$image
 site-anunturi.ro###widget_text > .shadowblock
 
+anunturigarla.ro##.gads-top
+anunturigarla.ro#?#.recl:not([href="#"])
+||anunturigarla.ro/banners/*.gif$image
+
 !#include road-ubo.txt
