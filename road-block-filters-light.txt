@@ -1692,4 +1692,8 @@ novatv.ro##.adv-link
 
 ||anunturigalati.ro/images/*.gif$image
 
+site-anunturi.ro##[href*="ad_click"]
+||site-anunturi.ro/*reclama$image
+site-anunturi.ro###widget_text > .shadowblock
+
 !#include road-ubo.txt
