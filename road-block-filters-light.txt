@@ -1686,4 +1686,6 @@ bancherul.ro#?#.side_right_box:-abp-has([src*="banner/"])
 ||novatv.ro/*banner$image
 novatv.ro##.adv-link
 
+||infotravelromania.ro/banner
+
 !#include road-ubo.txt
