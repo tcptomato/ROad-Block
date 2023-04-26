@@ -148,6 +148,8 @@ zf.ro###alephLiveBkp
 
 ||zonait.ro/*/728x90px$image
 zonait.ro##[href^="//www.techinstyle.ro/"]
+zonait.ro#?#[id^="custom_html"]:-abp-has([id^="adocean"])
+
 ||partner.dw-world.de/syndication/feeds/rss-en-hotnews.2757-cb.html$subdocument
 ||partner.dw-world.de/syndication/feeds/VTPartner_hotnewsecon.2756-cb.html$subdocument
 ||privesc.eu/Widget/embeded/Inregistrare/Romania,Parlament,Guvern,Conferinte,Offlineuri,Emisiuni,Concerte,Retransmisiuni,Sport,Monden,Altele,hotnews$subdocument
