@@ -1702,4 +1702,7 @@ anunturigarla.ro##.gads-top
 anunturigarla.ro#?#.recl:not([href="#"])
 ||anunturigarla.ro/banners/*.gif$image
 
+anunturi66.ro##.ads
+anunturi66.ro##.ads-vizualizare
+
 !#include road-ubo.txt
