@@ -878,6 +878,8 @@ fanatik.ro#?#.container.mg-top-20:-abp-has([href*="pariuri"])
 
 lauralaurentiu.ro##.ai-attributes
 lauralaurentiu.ro##.reclamaLata
+lauralaurentiu.ro##.titluReclama
+lauralaurentiu.ro#?#.code-block:-abp-contains(PUB)
 
 ziare.com##.branding-container
 ziare.com##[href*="AdB"]
