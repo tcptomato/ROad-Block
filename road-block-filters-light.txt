@@ -1683,4 +1683,7 @@ spectacola.ro##[href="mailto:publicitate@dcnews.ro"]
 ||bancherul.ro/banner
 bancherul.ro#?#.side_right_box:-abp-has([src*="banner/"])
 
+||novatv.ro/*banner$image
+novatv.ro##.adv-link
+
 !#include road-ubo.txt
