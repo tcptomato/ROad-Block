@@ -1690,4 +1690,6 @@ novatv.ro##.adv-link
 
 ||ghiseulbancar.ro/files/anunturi/$image
 
+||anunturigalati.ro/images/*.gif$image
+
 !#include road-ubo.txt
