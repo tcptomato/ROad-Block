@@ -1680,4 +1680,7 @@ arhiblog.ro#?#.widget:-abp-has([href^="https://arhiblog.ro/colaboram/"])
 spectacola.ro##[href="mailto:publicitate@dcnews.ro"]
 ||spectacola.ro/*banner$image
 
+||bancherul.ro/banner
+bancherul.ro#?#.side_right_box:-abp-has([src*="banner/"])
+
 !#include road-ubo.txt
