@@ -1743,4 +1743,9 @@ ziarmedical.ro##.td-a-rec-id-custom-spot
 
 videotutorial.ro#?#.widget-wrap:-abp-has(.adsbygoogle)
 
+||ziarulsanatatea.ro/*banner$image
+ziarulsanatatea.ro##.vc_raw_html.td_block_wrap.wpb_wrapper
+ziarulsanatatea.ro##.td-a-rec-id-content_bottom.td-a-rec
+ziarulsanatatea.ro##[href^="http://www.spitalbunavestire.ro/"]
+
 !#include road-ubo.txt
