@@ -673,6 +673,7 @@ agrointel.ro#?#.textwidget:-abp-contains(PUBLICITATE)
 ziuaconstanta.ro###optional_banner
 ziuaconstanta.ro##[class^="custom_module add"]
 ||ziuaconstanta.ro/images/banners/$image
+ziuaconstanta.ro###pa_inarticle_placeholder
 
 gazetaromaneasca.com##.rm-skin
 
@@ -1363,6 +1364,7 @@ bankingnews.ro###text-49
 
 ||i0.wp.com/r3media.ro/*/banner$image
 r3media.ro##iframe[src*="feature=oembed"]
+r3media.ro###pa_inarticle_placeholder
 
 parerimagazin.ro#?#.widget_custom_html:-abp-has([src*="pagead"])
 
