@@ -1720,4 +1720,6 @@ info1tv.ro##.widget_custom_html.side-widget.widget_text
 stiriardeal.ro##.custom-html-widget.textwidget
 stiriardeal.ro##.widget-title
 
+actualdecluj.ro##.custom-html-widget.textwidget
+
 !#include road-ubo.txt
