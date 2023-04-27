@@ -1722,4 +1722,7 @@ stiriardeal.ro##.widget-title
 
 actualdecluj.ro##.custom-html-widget.textwidget
 
+mesagerulhunedorean.ro##.widget_media_image
+mesagerulhunedorean.ro#?#.textwidget:-abp-has(.adsbygoogle)
+
 !#include road-ubo.txt
