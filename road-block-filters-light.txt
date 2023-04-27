@@ -1278,6 +1278,7 @@ napocanews.ro##[href="http://www.coralimpex.ro/"]
 napocanews.ro##[href="http://www.rosal.ro/"]
 napocanews.ro##[href="http://www.trcj.ro"]
 ||napocanews.ro/*Banner$image
+napocanews.ro###pa_inarticle_placeholder
 
 ciutacu.ro#?#.widget:-abp-contains(Reclame)
 
