@@ -1725,4 +1725,8 @@ actualdecluj.ro##.custom-html-widget.textwidget
 mesagerulhunedorean.ro##.widget_media_image
 mesagerulhunedorean.ro#?#.textwidget:-abp-has(.adsbygoogle)
 
+politik24.ro##.td_spot_img_all
+politik24.ro##.tdi_153
+politik24.ro###tdi_195
+
 !#include road-ubo.txt
