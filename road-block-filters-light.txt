@@ -1729,4 +1729,7 @@ politik24.ro##.td_spot_img_all
 politik24.ro##.tdi_153
 politik24.ro###tdi_195
 
+mangalianews.ro#?#.td_block_template_1:-abp-has(.td_single_image_bg)
+mangalianews.ro#?#.td_block_template_1:-abp-has([class^="td-adspot"])
+
 !#include road-ubo.txt
