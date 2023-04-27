@@ -1705,4 +1705,6 @@ anunturigarla.ro#?#.recl:not([href="#"])
 anunturi66.ro##.ads
 anunturi66.ro##.ads-vizualizare
 
+marketingportal.ro##.bannerDFP
+
 !#include road-ubo.txt
