@@ -1741,4 +1741,6 @@ jamilacuisine.ro##.td-a-rec-id-custom-spot
 
 ziarmedical.ro##.td-a-rec-id-custom-spot
 
+videotutorial.ro#?#.widget-wrap:-abp-has(.adsbygoogle)
+
 !#include road-ubo.txt
