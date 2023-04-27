@@ -1709,4 +1709,7 @@ marketingportal.ro##.bannerDFP
 
 mytex.ro#?#.container-wrapper:-abp-has([src*=".mgid.com"])
 
+||bzb.ro/files/banner$image
+bzb.ro##.banners
+
 !#include road-ubo.txt
