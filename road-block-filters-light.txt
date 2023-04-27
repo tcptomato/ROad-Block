@@ -1739,4 +1739,6 @@ manager.ro###fixedDiv
 
 jamilacuisine.ro##.td-a-rec-id-custom-spot
 
+ziarmedical.ro##.td-a-rec-id-custom-spot
+
 !#include road-ubo.txt
