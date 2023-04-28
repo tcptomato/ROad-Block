@@ -1748,4 +1748,8 @@ ziarulsanatatea.ro##.vc_raw_html.td_block_wrap.wpb_wrapper
 ziarulsanatatea.ro##.td-a-rec-id-content_bottom.td-a-rec
 ziarulsanatatea.ro##[href^="http://www.spitalbunavestire.ro/"]
 
+||reporteris.ro/*.gif$image
+reporteris.ro##.banneritem
+||reporteris.ro/images/banners/$image
+
 !#include road-ubo.txt
