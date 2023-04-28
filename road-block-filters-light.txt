@@ -1752,4 +1752,9 @@ ziarulsanatatea.ro##[href^="http://www.spitalbunavestire.ro/"]
 reporteris.ro##.banneritem
 ||reporteris.ro/images/banners/$image
 
+programegratuitepc.com#?#.widget_media_image:-abp-has([href*="affiliate.php"])
+programegratuitepc.com##[href^="https://bit.ly/"]
+programegratuitepc.com##.td_shadow_btn
+programegratuitepc.com##.td-all-devices
+
 !#include road-ubo.txt
