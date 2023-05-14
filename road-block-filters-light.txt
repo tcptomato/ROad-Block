@@ -1760,4 +1760,7 @@ programegratuitepc.com##.td-all-devices
 newsmed.ro#?#[style^="min-height: 200px;"]:-abp-has(.adsbygoogle)
 newsmed.ro#?#.vc_column-inner:-abp-has(.adsbygoogle)
 
+doc.ro##.side-sticky-banner
+doc.ro##.content-add
+
 !#include road-ubo.txt
