@@ -1757,4 +1757,7 @@ programegratuitepc.com##[href^="https://bit.ly/"]
 programegratuitepc.com##.td_shadow_btn
 programegratuitepc.com##.td-all-devices
 
+newsmed.ro#?#[style^="min-height: 200px;"]:-abp-has(.adsbygoogle)
+newsmed.ro#?#.vc_column-inner:-abp-has(.adsbygoogle)
+
 !#include road-ubo.txt
