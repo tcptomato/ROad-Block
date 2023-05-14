@@ -704,6 +704,8 @@ clubopel.com##.banner_720
 
 ||sfatulmedicului.ro/external/img/adds*
 sfatulmedicului.ro###reclame
+||sfatulmedicului.ro/*/images/banner
+sfatulmedicului.ro###promoClk
 
 multecase.ro##.visible.go-premium-drawer
 multecase.ro##.listAd.center-block.img-responsive
