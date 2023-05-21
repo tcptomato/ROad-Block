@@ -1771,4 +1771,7 @@ filmeonlinesubtitrate.org##[href^="https://accounts.binance.me/en/register"]
 
 ||filmelexxx.com/*.php
 
+coinjournal.net##.ad-banner
+coinjournal.net#?#.py-6:-abp-has([href*="/etoro"])
+
 !#include road-ubo.txt
