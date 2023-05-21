@@ -1767,4 +1767,6 @@ doc.ro##.content-add
 
 filmeonlinesubtitrate.org##[href^="https://accounts.binance.me/en/register"]
 
+||aplizz.net^
+
 !#include road-ubo.txt
