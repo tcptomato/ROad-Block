@@ -1765,4 +1765,6 @@ newsmed.ro#?#.vc_column-inner:-abp-has(.adsbygoogle)
 doc.ro##.side-sticky-banner
 doc.ro##.content-add
 
+filmeonlinesubtitrate.org##[href^="https://accounts.binance.me/en/register"]
+
 !#include road-ubo.txt

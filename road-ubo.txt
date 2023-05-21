@@ -57,3 +57,5 @@ cinemagia.ro###banner_container_top
 cinemagia.ro###header:style(position:static!important; top: 0 !important;)
 cinemagia.ro###main_container:style(padding-top: 0 !important;)
 cinemagia.ro##.header_nav:style(position:static !important;)
+
+filmeonlinesubtitrate.org##+js(aopr, doSecondPop)
