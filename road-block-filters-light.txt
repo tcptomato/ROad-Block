@@ -1780,4 +1780,6 @@ eporno.ro,filme-porno.ro##.videoPlayerAD
 ||femeisingure.net^$doc
 ||easyaff.net/?ref$doc
 
+filmeserialeonline.org##[href^="http://bit.ly/"]
+
 !#include road-ubo.txt

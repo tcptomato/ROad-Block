@@ -59,3 +59,4 @@ cinemagia.ro###main_container:style(padding-top: 0 !important;)
 cinemagia.ro##.header_nav:style(position:static !important;)
 
 filmeonlinesubtitrate.org##+js(aopr, doSecondPop)
+yoixmzo.xyz##+js(aopr, doSecondPop)
