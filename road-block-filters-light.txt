@@ -1798,4 +1798,7 @@ newsbucovina.ro###text-10
 
 ||stirisuceava.ro/*reclama$image
 
+ziarroman.ro###text-10
+ziarroman.ro###text-3
+
 !#include road-ubo.txt
