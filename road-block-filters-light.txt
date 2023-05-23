@@ -1787,4 +1787,7 @@ ziaruldebacau.ro##.afiseaza-desktop
 bacau.net##.td-a-rec
 bacau.net##.text-11
 
+presadeazi.ro##.tdi_74
+presadeazi.ro##.td-a-rec
+
 !#include road-ubo.txt
