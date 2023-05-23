@@ -1782,4 +1782,6 @@ eporno.ro,filme-porno.ro##.videoPlayerAD
 
 filmeserialeonline.org##[href^="http://bit.ly/"]
 
+ziaruldebacau.ro##.afiseaza-desktop
+
 !#include road-ubo.txt
