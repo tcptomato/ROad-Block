@@ -1784,4 +1784,7 @@ filmeserialeonline.org##[href^="http://bit.ly/"]
 
 ziaruldebacau.ro##.afiseaza-desktop
 
+bacau.net##.td-a-rec
+bacau.net##.text-11
+
 !#include road-ubo.txt
