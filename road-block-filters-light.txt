@@ -1794,4 +1794,6 @@ stirivaslui.ro##.wp-block-image
 stirivaslui.ro#?#.lazyloaded.size-full:not([src*="Aqua"])
 ||stirivaslui.ro/*reclama$image
 
+newsbucovina.ro###text-10
+
 !#include road-ubo.txt
