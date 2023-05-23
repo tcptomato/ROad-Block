@@ -1796,4 +1796,6 @@ stirivaslui.ro#?#.lazyloaded.size-full:not([src*="Aqua"])
 
 newsbucovina.ro###text-10
 
+||stirisuceava.ro/*reclama$image
+
 !#include road-ubo.txt
