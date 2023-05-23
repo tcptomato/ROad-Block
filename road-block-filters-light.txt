@@ -1790,4 +1790,8 @@ bacau.net##.text-11
 presadeazi.ro##.tdi_74
 presadeazi.ro##.td-a-rec
 
+stirivaslui.ro##.wp-block-image
+stirivaslui.ro#?#.lazyloaded.size-full:not([src*="Aqua"])
+||stirivaslui.ro/*reclama$image
+
 !#include road-ubo.txt
