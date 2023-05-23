@@ -1801,4 +1801,8 @@ newsbucovina.ro###text-10
 ziarroman.ro###text-10
 ziarroman.ro###text-3
 
+||roman24.ro/w*banner$image
+||roman24.ro/wp-content/*.gif$image
+roman24.ro###text-28 > .textwidget
+
 !#include road-ubo.txt
