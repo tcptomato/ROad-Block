@@ -1808,4 +1808,6 @@ roman24.ro###text-28 > .textwidget
 redactia.ro##.mrf-adsmedia
 ||adsmedia.ro^$third-party
 
+sporttim.ro##.reclama
+
 !#include road-ubo.txt
