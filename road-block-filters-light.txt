@@ -1810,4 +1810,6 @@ redactia.ro##.mrf-adsmedia
 
 sporttim.ro##.reclama
 
+flashscore.ro##.boxOverContent__banner
+
 !#include road-ubo.txt
