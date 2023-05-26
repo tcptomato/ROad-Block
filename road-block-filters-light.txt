@@ -1805,4 +1805,7 @@ ziarroman.ro###text-3
 ||roman24.ro/wp-content/*.gif$image
 roman24.ro###text-28 > .textwidget
 
+redactia.ro##.mrf-adsmedia
+||adsmedia.ro^$third-party
+
 !#include road-ubo.txt
