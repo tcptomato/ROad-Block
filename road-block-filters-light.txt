@@ -1015,6 +1015,7 @@ bugetul.ro##[class^="banner"]
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=kudika.ro
 kudika.ro#?#.textlink:-abp-contains(ad)
 kudika.ro##.minh-250
+kudika.ro#?##billboard:-abp-has(.add-container)
 
 ##.strawberry_ads_container
 ##.strawberry-ads__pretty-container
