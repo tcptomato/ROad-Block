@@ -1814,4 +1814,6 @@ sporttim.ro##.reclama
 
 flashscore.ro##.boxOverContent__banner
 
+radioimpuls.ro##.desktop.billboard.use-placeholder
+
 !#include road-ubo.txt

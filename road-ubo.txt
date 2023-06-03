@@ -60,3 +60,5 @@ cinemagia.ro##.header_nav:style(position:static !important;)
 
 filmeonlinesubtitrate.org##+js(aopr, doSecondPop)
 yoixmzo.xyz##+js(aopr, doSecondPop)
+
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=radioimpuls.ro,redirect-rule=google-ima.js
