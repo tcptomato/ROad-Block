@@ -81,8 +81,10 @@ antena3.ro##body > .bannerGrey
 antena3.ro##.bannerBox
 antena3.ro##.desktop_only.grey.section
 antena3.ro###ivm-inread
+antena3.ro##.close
+antena3.ro###ribbon
+
 useit.ro##.ads
-! near video
 
 catchy.ro###footer-ads-section
 catchy.ro##.pin-it-button
