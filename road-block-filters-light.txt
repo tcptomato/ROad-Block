@@ -1052,6 +1052,7 @@ turdanews.net##.elementor-widget-smartmag-codes
 turdanews.net##[href="https://viamso.ro/"]
 turdanews.net##.smartmag-widget-codes
 turdanews.net##.e-con-full
+turdanews.net##.ai-track
 
 ||ziarulevenimentul.ro/data/_editor/$image
 ziarulevenimentul.ro##[href*="/adclick.php"]
