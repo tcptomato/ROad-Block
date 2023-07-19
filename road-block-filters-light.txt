@@ -1042,7 +1042,9 @@ monitorulexpres.ro##.td_spot_img_all
 
 crestintotal.ro##[href="https://www.kerigma.ro/"]
 crestintotal.ro##[href^="https://librariact.ro/"]
-crestintotal.ro##.stream-item-top
+||i0.wp.com/*-377x200$image,domain=crestintotal.ro
+crestintotal.ro##[href^="https://www.ineditprint.ro/"]
+crestintotal.ro##[href="https://www.facebook.com/emiandtabita"]
 
 spynews.ro##.ads
 
