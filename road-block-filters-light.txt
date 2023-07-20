@@ -1820,4 +1820,6 @@ radioimpuls.ro##.desktop.billboard.use-placeholder
 
 estnews.ro##[id^="media_image"]
 
+||argument.ro/*banner
+
 !#include road-ubo.txt
