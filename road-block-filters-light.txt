@@ -1818,4 +1818,6 @@ flashscore.ro##.boxOverContent__banner
 
 radioimpuls.ro##.desktop.billboard.use-placeholder
 
+estnews.ro##[id^="media_image"]
+
 !#include road-ubo.txt
