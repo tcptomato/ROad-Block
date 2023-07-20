@@ -1120,6 +1120,7 @@ sport.ro##.dfp-d-billboard
 pretbenzina.ro#?#[id^="box"]:-abp-has(.adsbygoogle)
 
 autouncle.ro#?#[style]:-abp-has([id^="div-gpt-ad"])
+autouncle.ro#?#[style]:-abp-has(>#RO_Web_SP_LB1_Skin)
 
 evmarket.ro#?##custom_html-10:-abp-contains(Advertising)
 
