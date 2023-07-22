@@ -745,7 +745,7 @@ nimfomane.com##.advertise
 nimfomane.com##[href^="https://bcprm.com/promo.php"]
 nimfomane.com##[href="https://luxuryescorts.com/"]
 nimfomane.com##[alt="advertisement_alt"]
-
+##[href^="https://bongacams7.com/track"]
 
 sa-mp.ro#?#.ipsWidget_title.ipsType_reset:-abp-contains(Sponsor)
 ||ro-ph.com/img/banners/roph.jpg
