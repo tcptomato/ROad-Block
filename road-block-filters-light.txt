@@ -1823,4 +1823,6 @@ estnews.ro##[id^="media_image"]
 
 ||argument.ro/*banner
 
+horoscop.ro##.images_adv
+
 !#include road-ubo.txt
