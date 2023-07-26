@@ -1825,4 +1825,7 @@ estnews.ro##[id^="media_image"]
 
 horoscop.ro##.images_adv
 
+republikanews.ro##.object-contain
+republikanews.ro##.rounded.border-gray-200
+
 !#include road-ubo.txt
