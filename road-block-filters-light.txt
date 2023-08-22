@@ -1829,4 +1829,6 @@ horoscop.ro##.images_adv
 republikanews.ro##.object-contain
 republikanews.ro##.rounded.border-gray-200
 
+super-boost.ro#?#.border-green-500:-abp-has(> [href*=".binance.com/"])
+
 !#include road-ubo.txt
