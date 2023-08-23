@@ -65,3 +65,4 @@ yoixmzo.xyz##+js(aopr, doSecondPop)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=smartliving.ro,redirect-rule=google-ima.js
 
 @@||digisport.ro^$xhr,1p
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=digisport.ro
