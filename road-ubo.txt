@@ -66,3 +66,5 @@ yoixmzo.xyz##+js(aopr, doSecondPop)
 
 @@||digisport.ro^$xhr,1p
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=digisport.ro
+
+sampmoduri.ro##+js(rmnt, script, AdBlock)
