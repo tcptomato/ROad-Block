@@ -73,9 +73,7 @@ europafm.ro##.player-bar-ad
 ##.only_desktop.related_on_top.parteneri.sectiune
 
 antena3.ro###slidebox
-antena3.ro##.bH600.bannerBox
 antena3.ro##.DAGInScrollContainer
-antena3.ro##.max600.bannerBox
 antena3.ro##aside > .bannerBox
 antena3.ro##body > .bannerGrey
 antena3.ro##.bannerBox
