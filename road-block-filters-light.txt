@@ -1833,4 +1833,6 @@ republikanews.ro##.rounded.border-gray-200
 
 super-boost.ro##.border:has([href*="binance.com"])
 
+||botosaneanul.ro/reclame/$image
+
 !#include road-ubo.txt
