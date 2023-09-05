@@ -1835,4 +1835,7 @@ super-boost.ro##.border:has([href*="binance.com"])
 
 ||botosaneanul.ro/reclame/$image
 
+editiedevrancea.ro##[id^="media_image"]
+editiedevrancea.ro##.gridview-post-ad-two
+
 !#include road-ubo.txt
