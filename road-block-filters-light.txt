@@ -1835,4 +1835,13 @@ super-boost.ro##.border:has([href*="binance.com"])
 
 ||botosaneanul.ro/reclame/$image
 
+editiedevrancea.ro##.gridview-post-ad-two
+editiedevrancea.ro##[href="https://www.facebook.com/reinabijou.ro"]
+editiedevrancea.ro##[href="https://www.facebook.com/florievenimentecadouri"]
+editiedevrancea.ro##[href^="https://m.facebook.com/"]
+editiedevrancea.ro##[href="https://www.facebook.com/laguna.focsani/"]
+editiedevrancea.ro##[href="http://arosa.ro"]
+editiedevrancea.ro##[href^="https://www.facebook.com/profile.php"]
+editiedevrancea.ro#?#.gridview-box-inside:-abp-contains(PROMO)
+
 !#include road-ubo.txt
