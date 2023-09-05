@@ -66,6 +66,7 @@ yoixmzo.xyz##+js(aopr, doSecondPop)
 
 @@||digisport.ro^$xhr,1p
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=digisport.ro
+@@||digisport.ro^$ghide
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160134
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=stiripesurse.ro
