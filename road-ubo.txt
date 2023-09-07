@@ -70,3 +70,5 @@ yoixmzo.xyz##+js(aopr, doSecondPop)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160134
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=stiripesurse.ro
+
+sampmoduri.ro##+js(rmnt, script, /jQuery.*reload/)
