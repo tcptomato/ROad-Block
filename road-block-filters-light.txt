@@ -943,6 +943,7 @@ romaniataramea.com##.wpsd-master-wrapper
 ||focuspress.ro/*banner$image
 focuspress.ro##.td_spot_img_all
 focuspress.ro##aside.widget_media_image.widget.td_block_template_1
+@@||focuspress.ro/*/logo-600x90-constanta.png
 
 ||sfatulparintilor.ro/*banner$image
 sfatulparintilor.ro##.textwidget:has([target="_blank"]:not([method]))
