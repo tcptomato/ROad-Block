@@ -1850,4 +1850,10 @@ roforum.net##.block-minorHeader
 ||roforum.net/*sponsor$image
 roforum.net##[href^="https://www.airbnb.com/"]
 
+newsbucuresti.ro##[href="https://indagra.ro"]
+newsbucuresti.ro##[href="https://plescavita.ro/produs/plescavita/"]
+newsbucuresti.ro##[href="https://www.indagra-food.ro/"]
+||newsbucuresti.ro/*romedica.jpg
+||newsbucuresti.ro/*/2023/08/denta.jpg
+
 !#include road-ubo.txt
