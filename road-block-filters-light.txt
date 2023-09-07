@@ -1844,4 +1844,9 @@ editiedevrancea.ro##[href="http://arosa.ro"]
 editiedevrancea.ro##[href^="https://www.facebook.com/profile.php"]
 editiedevrancea.ro#?#.gridview-box-inside:-abp-contains(PROMO)
 
+roforum.net##[data-widget-key="Reclama"]
+roforum.net##.block-minorHeader
+||roforum.net/*sponsor$image
+roforum.net##[href^="https://www.airbnb.com/"]
+
 !#include road-ubo.txt
