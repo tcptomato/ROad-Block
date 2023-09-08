@@ -986,9 +986,11 @@ forum.softpedia.com#?#.post_block:-abp-has([class^="guest"]):-abp-contains(Anunt
 dirtbike.ro##[class*="banner"]
 ||dirtbike.ro/*banner$image
 
+autoexpert.ro##.pub
 autoexpert.ro##.pubheader
+autoexpert.ro##[href="https://www.sab.ro/"]
 autoexpert.ro#?#.textwidget:-abp-has([target="_blank"])
-autoexpert.ro##[href="https://www.kia.ro/"]
+autoexpert.ro##[href^="https://www.porschefinance.ro/"]
 
 carzz.ro##[href^="https://www.carvertical.com/"]
 carzz.ro##.second_carvertical_noVin
