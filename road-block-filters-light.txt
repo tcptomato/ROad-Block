@@ -2,8 +2,7 @@
 ! Title: ROU: Romanian Ad (ROad) Block List Light
 ! Expires: 3 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
-! Homepage: https://www.adblock.ro
-! Last modified: 25 Dec 2022 23:52 UTC
+! Homepage: https://github.com/tcptomato/ROad-Block
 
 /plugins/footer-pop-up-banner/*
 /Reclama/*
