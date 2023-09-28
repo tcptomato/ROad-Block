@@ -1096,6 +1096,7 @@ wall-street.ro#?#[class^="add"]:-abp-has([id^="adocean"])
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=kanald.ro
 stirilekanald.ro#?#.col-sm-4:-abp-has([class="ad"])
 kanald.ro##.afis-sticky
+kanald.ro##[id*="overlayer"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8551
 pbinfo.ro##div.center.well-sm.well
