@@ -860,6 +860,8 @@ dcnews.ro##[href^="https://ccir.ro/"]
 dcnews.ro##[data-ad]
 dcnews.ro#?##articleContent > [style]:-abp-has([data-ad])
 dcnews.ro##[href="https://www.dcbusiness.ro/cum-nu-construim-in-romania"]
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=dcnews.ro
+dcnews.ro##[align="center"]:has(#div-gpt-dcnews_gpt-billboard_responsive)
 
 dcbusiness.ro##[href="https://arca.info.ro/"]
 dcbusiness.ro##[href="https://www.proger.ro/"]
