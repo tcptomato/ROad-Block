@@ -1860,4 +1860,7 @@ newsbucuresti.ro##[href="https://www.indagra-food.ro/"]
 ||newsbucuresti.ro/*romedica.jpg
 ||newsbucuresti.ro/*/2023/08/denta.jpg
 
+! https://forums.lanik.us/viewtopic.php?t=48324
+||kkadverts.com^$third-party
+
 !#include road-ubo.txt
