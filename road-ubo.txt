@@ -72,3 +72,8 @@ yoixmzo.xyz##+js(aopr, doSecondPop)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=stiripesurse.ro
 
 sampmoduri.ro##+js(rmnt, script, /jQuery.*reload/)
+
+! https://www.reddit.com/r/uBlockOrigin/s/ztY9iMT88X
+vzlinks.com##+js(nowoif)
+vzlinks.com##+js(set, adblockcheck, false)
+||unpkg.com/videojs-vast-vpaid@2.0.2/bin/videojs_5.vast.vpaid.min.js$script,domain=vzlinks.com
