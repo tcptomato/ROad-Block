@@ -1863,4 +1863,7 @@ newsbucuresti.ro##[href="https://www.indagra-food.ro/"]
 ! https://forums.lanik.us/viewtopic.php?t=48324
 ||kkadverts.com^$third-party
 
+bucataras.ro##.grv-product-box
+bucataras.ro##.recomandations
+
 !#include road-ubo.txt
