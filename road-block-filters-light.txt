@@ -104,6 +104,10 @@ hotnews.ro##.parteneri
 hotnews.ro##.at-widget-anunturi
 
 libertatea.ro###floating
+@@||googletagmanager.com/gtm.js$script,domain=libertatea.ro
+@@||onesignal.com/api/*/sync/$script,domain=libertatea.ro
+@@||onesignal.com/sdks/OneSignalSDKStyles.css$stylesheet,domain=libertatea.ro
+
 libertateapentrufemei.ro##.section-full-ads
 
 nwradu.ro##.second_header > .container > .reclama728
