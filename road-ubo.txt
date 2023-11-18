@@ -77,3 +77,5 @@ sampmoduri.ro##+js(rmnt, script, /jQuery.*reload/)
 vzlinks.com##+js(nowoif)
 vzlinks.com##+js(set, adblockcheck, false)
 ||unpkg.com/videojs-vast-vpaid@2.0.2/bin/videojs_5.vast.vpaid.min.js$script,domain=vzlinks.com
+
+regielive.ro##+js(rmnt, script, adb)
