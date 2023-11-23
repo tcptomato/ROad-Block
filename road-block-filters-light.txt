@@ -749,6 +749,7 @@ nimfomane.com##[href="https://luxuryescorts.com/"]
 nimfomane.com##[alt="advertisement_alt"]
 
 sa-mp.ro#?#.ipsWidget_title.ipsType_reset:-abp-contains(Sponsor)
+sa-mp.ro##[href*="&do=advertisement"]
 ||ro-ph.com/img/banners/roph.jpg
 ||sa-mp.ro^*reclama
 
