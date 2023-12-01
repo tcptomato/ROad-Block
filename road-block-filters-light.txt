@@ -819,10 +819,6 @@ scritub.com#?#[style^="overflow:"]:-abp-has(#v-scritub-v3)
 ||sighet247.ro/banners/
 sighet247.ro##.ad
 
-||hdfilmeonline.ro/wp-content/uploads/2021/03/amazon-bands.jpg$image
-||hdfilmeonline.ro/wp-content/uploads/2021/03/amazonnub.png$image
-hdfilmeonline.ro##.bireklam
-
 ||hoinaru.ro/wp-content/uploads/*/*/banner*$image
 
 reno.ro##.profitshare
