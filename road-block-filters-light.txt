@@ -821,9 +821,6 @@ sighet247.ro##.ad
 
 ||hoinaru.ro/wp-content/uploads/*/*/banner*$image
 
-reno.ro##.profitshare
-reno.ro##.adsense
-
 rasfoiesc.com#?#[style^="overflow:"]:-abp-has([data-ad])
 rasfoiesc.com#?#[style^="overflow:"]:-abp-has([data-ad-slot])
 rasfoiesc.com##td[height^="500"]
