@@ -888,10 +888,11 @@ lauralaurentiu.ro##.titluReclama
 lauralaurentiu.ro#?#.code-block:-abp-contains(PUB)
 
 ziare.com##.branding-container
-ziare.com##[href*="AdB"]
 ||ziare.com^*.gif$image
 @@||ziare.com^$ghide
 ziare.com##.banner
+ziare.com##[href*="AdB"]
+ziare.com##[id^="div-gpt-ad"]
 
 ! page broken
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
