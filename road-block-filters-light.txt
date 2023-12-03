@@ -232,37 +232,10 @@ neamt24.ro##[href="https://www.facebook.com/TaxiLuxTarguNeamt/"]
 ||radiomplusfm.ro/wp-content/uploads/2017/10/violeta.jpg$image
 ||radiomplusfm.ro/wp-content/uploads/2017/10/vorny.jpg$image
 
-! https://ziarpiatraneamt.ro
-||ziarpiatraneamt.ro/wp-content/uploads/2015/06/eurotravel-piatra-neamt.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2015/06/trust.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2017/03/aqua-400x200.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/09/70022062_437327273573053_6732254343333937152_n.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/12/80638465_2543127912674698_1767350691224879104_n.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/02/megatravel.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2018/03/brantner-1-300x69.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/04/cmj-300x100.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/07/arcan-1024x512-300x150.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/03/deputat-serban-1-300x150.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/02/Andrusca-3-1024x512-1024x512-1-300x150.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/03/aqua-400x200-1-300x150.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/03/rifil-300x53.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2018/09/cadou-300x150.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2019/03/arhiprint-300x186-1-300x186.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/08/razvan-cuc*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/08/cuc-ppu-psd*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/08/Jidvei-Campanie-Must-2020-BannerWeb_300x300*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/07/116710077_4101654119905386_5560791733571842946_o*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/brantner-piatra-neamt*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/constructii-neamt*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/rifil-neamt*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/megatravelneamt*.jpg$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/08/ardealul*.png$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/serban-neamt*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/07/arcan-senator*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/andrusca-neamt*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/arhiprint-piatra-neamt*.jpg$image
-||ziarpiatraneamt.ro/wp-content/uploads/2020/06/cadou-piatra-neamt*.jpg$image
-||ziarpiatraneamt.ro/*.gif$image
+||ziarpiatraneamt.ro/wp-content/uploads/2020/06/rifil-neamt*.jpg$image
+||ziarpiatraneamt.ro/wp-content/uploads/2020/06/brantner-piatra-neamt*.jpg$image
+ziarpiatraneamt.ro#?#.widget_text:-abp-has(.h-text:-abp-contains(publicitar))
 
 ! http://tvmneamt.ro
 ||tvmneamt.ro/wp-content/uploads/2016/08/macheta-arcan-1*.jpg$image
