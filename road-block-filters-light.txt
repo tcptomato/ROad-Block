@@ -202,7 +202,7 @@ ziartarguneamt.ro###block-7
 ||neamt24.ro/wp-content/uploads/2018/05/coravi-2.jpg$image
 neamt24.ro##[href="https://www.facebook.com/TaxiLuxTarguNeamt/"]
 
-radiomplusfm.ro##.widget:has([href]:not([href*="radiomplusfm.ro"]))
+radiomplusfm.ro#?#.widget:-abp-has([href]:not([href*="radiomplusfm.ro"]))
 
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/08/ardealul*.png$image
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/06/rifil-neamt*.jpg$image
