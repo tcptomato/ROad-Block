@@ -79,3 +79,9 @@ vzlinks.com##+js(set, adblockcheck, false)
 ||unpkg.com/videojs-vast-vpaid@2.0.2/bin/videojs_5.vast.vpaid.min.js$script,domain=vzlinks.com
 
 @@||regielive.ro^$ghide
+
+! https://github.com/uBlockOrigin/uAssets/issues/21041
+filme2023.online,onlyplay.online##+js(aopw, _pop)
+filme2023.online##+js(rmnt, script, document.head.appendChild)
+*&ad=$frame,domain=filme2023.online
+onlyplay.online##+js(nowoif, , 10)
