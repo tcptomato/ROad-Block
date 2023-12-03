@@ -171,16 +171,7 @@ mesagerulneamt.ro##[href^="https://cybernet.volvocarsdealer.ro/cere-oferta"]
 ||newsallert.ro/wp-content/uploads/2019/10/mega-travel-sigla*.jpg$image
 ||newsallert.ro/wp-content/uploads/2020/08/banner-mugur-cozmanciuc-pnl-1200-x-150.png$image
 
-! https://stiri-neamt.ro
-||stiri-neamt.ro/wp-content/uploads/2020/03/teren.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2020/04/zoom-studio.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2017/11/maiaoutdoor.ro1_.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2019/04/Jurnal-FM-Piatra-Neamt.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2020/08/PSD-Neamt.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2020/07/3cc2b24f-2d50-4ae7-82ce-e92dad4fa80b.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2020/07/taxi-anny.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2020/08/Bringo-5-x-20.jpg$image
-||stiri-neamt.ro/wp-content/uploads/2020/08/PSD-CAMPANIE-NEAMT-CUC-ARSENE.jpg
+stiri-neamt.ro##.banner-image
 
 vestea.net##[id^="buffercode_banner"]
 
