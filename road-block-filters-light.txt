@@ -209,26 +209,11 @@ radiomplusfm.ro#?#.widget:-abp-has([href]:not([href*="radiomplusfm.ro"]))
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/06/brantner-piatra-neamt*.jpg$image
 ziarpiatraneamt.ro#?#.widget_text:-abp-has(.h-text:-abp-contains(publicitar))
 
-! http://tvmneamt.ro
-||tvmneamt.ro/wp-content/uploads/2016/08/macheta-arcan-1*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2016/08/barfe-zvonuri*.jpg$image
 ||tvmneamt.ro/wp-content/uploads/2020/02/anigif-serban-audiente.gif$image
-||tvmneamt.ro/wp-content/uploads/2019/02/50868998_167305590914447_4660493159195738112_o-*.jpg$image
+||tvmneamt.ro/wp-content/uploads/2016/08/barfe-zvonuri*.jpg$image
 ||tvmneamt.ro/wp-content/uploads/2018/07/cam*.png$image
-||tvmneamt.ro/wp-content/uploads/2016/08/gif-locativserv-august-2018.gif$image
-||tvmneamt.ro/wp-content/uploads/2019/04/15042121_347023182326958_7413423562893619749_o*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2019/04/fundal-negru_1-min-4*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2019/04/terex-1-*.png$image
-||tvmneamt.ro/wp-content/uploads/2020/01/1*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2019/04/terex-1.png$image
-||tvmneamt.ro/wp-content/uploads/2019/02/51010637_167305544247785_8798473318853246976_o.jpg$image
-tvmneamt.ro##[href^="https://www.facebook.com/TurnulBerarilorOficial/"]
-||tvmneamt.ro/wp-content/uploads/2016/08/macheta-arcan.jpg$image
-||tvmneamt.ro/wp-content/uploads/2020/08/PSD-Neamt-razvan-cuc-primar.jpg$image
-||tvmneamt.ro/wp-content/uploads/2020/06/3-razvan-alexandru-cuc1*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2020/06/caseta-directia-silivica*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2020/08/caseta-salubritas*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2020/08/91db827b-446f-4ec4-a9b7-64011529386c-e1596986610254.jpg$image
+tvmneamt.ro##[class^="widget"] [src][width][height]
+tvmneamt.ro#?#.wpb_start_animation:-abp-has(.vc_box_border_grey [src])
 
 ! SATU MARE
 informatia-zilei.ro###custom_html-3
