@@ -209,11 +209,8 @@ radiomplusfm.ro#?#.widget:-abp-has([href]:not([href*="radiomplusfm.ro"]))
 ||ziarpiatraneamt.ro/wp-content/uploads/2020/06/brantner-piatra-neamt*.jpg$image
 ziarpiatraneamt.ro#?#.widget_text:-abp-has(.h-text:-abp-contains(publicitar))
 
-||tvmneamt.ro/wp-content/uploads/2020/02/anigif-serban-audiente.gif$image
-||tvmneamt.ro/wp-content/uploads/2016/08/barfe-zvonuri*.jpg$image
-||tvmneamt.ro/wp-content/uploads/2018/07/cam*.png$image
+tvmneamt.ro##.wpb_content_element
 tvmneamt.ro##[class^="widget"] [src][width][height]
-tvmneamt.ro#?#.wpb_start_animation:-abp-has(.vc_box_border_grey [src])
 
 ! SATU MARE
 informatia-zilei.ro###custom_html-3
