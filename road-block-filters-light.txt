@@ -577,6 +577,9 @@ capital.ro##[id^="ado"]
 
 ||timponline.ro/*300x250$image
 ||timponline.ro/*728x90.jpg$image
+timponline.ro#?#.widget:-abp-has([href]:not([href*="timponline.ro"]))
+timponline.ro##[href="https://www.facebook.com/romanadecomobili"]
+timponline.ro##.g-single
 
 newsromania.net##.background-image-clickable
 
