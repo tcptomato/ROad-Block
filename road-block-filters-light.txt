@@ -212,25 +212,7 @@ ziarpiatraneamt.ro#?#.widget_text:-abp-has(.h-text:-abp-contains(publicitar))
 tvmneamt.ro##.wpb_content_element
 tvmneamt.ro##[class^="widget"] [src][width][height]
 
-! SATU MARE
-informatia-zilei.ro###custom_html-3
-informatia-zilei.ro###custom_html-50
-informatia-zilei.ro###custom_html-52
-informatia-zilei.ro###custom_html-53
-informatia-zilei.ro###custom_html-54
-informatia-zilei.ro###custom_html-44
-informatia-zilei.ro###custom_html-51
-informatia-zilei.ro###custom_html-32
-informatia-zilei.ro###custom_html-41
-informatia-zilei.ro###custom_html-9
-informatia-zilei.ro###custom_html-40
-informatia-zilei.ro###custom_html-14
-informatia-zilei.ro###custom_html-13
-informatia-zilei.ro###custom_html-45
-informatia-zilei.ro###custom_html-39
-informatia-zilei.ro###custom_html-12
-informatia-zilei.ro###custom_html-37
-informatia-zilei.ro###custom_html-38
+informatia-zilei.ro##[width="2246"][height="519"]
 
 ||portalsm.ro/wp-content/uploads/*.gif$image
 ||portalsm.ro/media/publicitate/$image
