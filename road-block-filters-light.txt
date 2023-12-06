@@ -301,6 +301,7 @@ razvanbb.ro##.feededay
 @@||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_down.png
 @@||zoso.ro/wp-content/plugins/classic-smilies/img/icon_*.gif
 @@||zoso.ro/wp-content/themes/zoso/icons/favicon.ico
+@@||zoso.ro/wp-content/themes/zoso/images/logo.svg$image
 
 ||eftimie.net/wp-content/uploads/2016/10/300x250animat2.gif$image
 ||hdsupraveghere.ro/supraveghere125.jpg
