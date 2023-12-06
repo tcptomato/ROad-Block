@@ -6,15 +6,11 @@
 
 /plugins/footer-pop-up-banner/*
 /Reclama/*
-/adsense/*
-/adverts/*
 /load_e.php
 /preurl.php
 /ac_d_n
 /campaigns/click
-/prebid/*$script
 
-||ad.doubleclick.net^
 ||paydemic.com
 ||geozo.com^$3p
 
@@ -22,27 +18,18 @@
 ||reasedoper.pw^
 ||listat.biz^
 ||minecrunch.co^
-||2mdn.net^
 ||7w.ro^
 ||ado.icorp.ro^
-||adunity.com^
 ||brand.ad^
 ||mookie1.com^$third-party
 ||omniconvert.com^
-||statcounter.com^
 ||storage.icorp.ro^
-||taboola.com^
 ||zm232.com^
 ||adtlgc.com^
-||cxense.com^
-||criteo.net^
 ||tynt.com^
 ||crwdcntrl.net^
 ||t5.ro/static/$third-party
 ||smartdreamers.ro/embed/$third-party
-||criteo.com^
-||doubleclick.net^
-||adform.net^$third-party
 ||ads1-adnow.com^
 ||ads2-adnow.com^
 ||ads3-adnow.com^
