@@ -309,29 +309,6 @@ trafictube.ro##div[style*="width:520px;"]
 /razvanbb\.ro\/[a-zA-Z0-9=,.?&-]+$/$domain=razvanbb.ro,script,image
 razvanbb.ro##.feededay
 
-||camerevideoauto.ro/api/produs-responsive-featured.php
-||cetin.ro/poze/2016/02/ame-de-aparare.png
-||cetin.ro/poze/2016/04/logo-new.png
-||cetin.ro/poze/2016/04/logoh-new.png
-||cetin.ro/poze/2016/05/keyhost_125_x_125.gif
-||cetin.ro/poze/2016/06/alexa.png
-||cetin.ro/poze/2016/06/alexa2.png
-||cetin.ro/poze/2016/06/servicii-infiintare-firme.png
-||cetin.ro/poze/2016/07/echoz_125x125.png
-||cetin.ro/poze/2016/07/sgg.jpg
-||cetin.ro/poze/2016/08/rochisme.png
-||cetin.ro/poze/2016/12/2500lei.png$image
-||cetin.ro/poze/2017/03/ziardebucuresti.jpg
-||cetin.ro/wp-content/themes/cetin/images/top.png
-||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-sides-2.png
-||cetin.ro/wp-content/themes/cetin_branding/images/ziuaoriginals-top.jpg
-||cetin.ro/wp-content/themes/cetin_emag/images/cetin_bf.jpg$image
-||cetin.ro/wp-content/themes/cetin_emag_doi/images/cetin_bf.jpg$image
-cetin.ro##.cetinblog > .site-header > .prehead
-cetin.ro##.wpel-icon-right.bflink
-cetin.ro##.bf > .wpel-icon-right
-cetin.ro##.cd-is-visible.cd-top
-
 ||yoso.ro$image,domain=zoso.ro
 ||zoso.ro/wp-content/*$image
 ||imgur.com$image,domain=zoso.ro
@@ -463,7 +440,7 @@ pricy.ro##.in.fade.modal-backdrop
 
 ||cabral.ro/ads/*$image
 
-||psnews.ro/ads/*$image		
+||psnews.ro/ads/*$image
 ||psnews.ro/*/*Ad_PS*$image
 
 nasul.tv#?#.wpb_wrapper:-abp-has([href^="https://repigmentare.ro/"])
