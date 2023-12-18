@@ -1744,4 +1744,6 @@ bucataras.ro##.recomandations
 
 1tap.ro##[href^="https://freakhosting.com/"]
 
+diacritice.ro##.space
+
 !#include road-ubo.txt
