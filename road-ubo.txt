@@ -85,3 +85,6 @@ filme2023.online,onlyplay.online##+js(aopw, _pop)
 filme2023.online##+js(rmnt, script, document.head.appendChild)
 *&ad=$frame,domain=filme2023.online
 onlyplay.online##+js(nowoif, , 10)
+
+! https://github.com/uBlockOrigin/uAssets/issues/21915
+boardingpass.ro##+js(nostif, ai_adb)
