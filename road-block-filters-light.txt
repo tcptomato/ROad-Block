@@ -1746,4 +1746,6 @@ bucataras.ro##.recomandations
 
 diacritice.ro##.space
 
+loganclub.ro##.axd
+
 !#include road-ubo.txt
