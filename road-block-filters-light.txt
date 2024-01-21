@@ -1747,7 +1747,8 @@ bucataras.ro##.recomandations
 diacritice.ro##.space
 
 loganclub.ro##.axd
-clubmercedes.ro##[class^="ad_"]
-clubmercedes.ro##.custom-html-widget
+
+clubmercedes.ro##.axd
+||clubmercedes.ro/*.gif$image
 
 !#include road-ubo.txt
