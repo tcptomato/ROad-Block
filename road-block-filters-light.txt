@@ -1751,4 +1751,7 @@ loganclub.ro##.axd
 clubmercedes.ro##.axd
 ||clubmercedes.ro/*.gif$image
 
+||hostclub.ro^$subdocument,domain=forum.b-zone.ro
+forum.b-zone.ro##.ipsPad.ipsWidget_inner:has([src*="://www.hostclub.ro"])
+
 !#include road-ubo.txt
