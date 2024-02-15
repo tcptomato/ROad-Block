@@ -1754,4 +1754,7 @@ clubmercedes.ro##.axd
 ||hostclub.ro^$subdocument,domain=forum.b-zone.ro
 forum.b-zone.ro##.ipsPad.ipsWidget_inner:has([src*="://www.hostclub.ro"])
 
+||atacdeconstanta.com/*banner$image
+||atacdeconstanta.com/*VIVO*.gif$image
+
 !#include road-ubo.txt
