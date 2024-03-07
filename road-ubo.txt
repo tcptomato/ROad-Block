@@ -93,4 +93,4 @@ boardingpass.ro##+js(nostif, ai_adb)
 clujust.ro##+js(rmnt, script, ai_adb)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/174312
-lovendal.ro##+js(noeval-if, /chp_?ad/)
+lovendal.ro##+js(noeval-if, ads)
