@@ -6,6 +6,7 @@
 
 ! anti adb turdanews. net
 turdanews.net##+js(nostif, ai_)
+turdanews.net##+js(rmnt, script, adsbygoogle)
 
 ! nosteam.ro + nosteamgames popups
 nosteam.ro,nosteamgames.ro##+js(nowoif)
