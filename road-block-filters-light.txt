@@ -1757,4 +1757,15 @@ forum.b-zone.ro##.ipsPad.ipsWidget_inner:has([src*="://www.hostclub.ro"])
 ||atacdeconstanta.com/*banner-$image
 ||atacdeconstanta.com/*VIVO*.gif$image
 
+! economica. net ph, ads
+||adc-teasers.com^
+||xamubee.ru^
+||gwngdfxtm.ru^
+||nnowa.com^
+||klodrum.com^
+/click?impid=$document
+&ad_campaign_id$document
+||get-in-shape.beauty^
+###sam_branding[style="min-height:250px;"]
+
 !#include road-ubo.txt
