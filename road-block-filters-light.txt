@@ -1701,6 +1701,12 @@ redactia.ro##.mrf-adsmedia
 sporttim.ro##.reclama
 
 flashscore.ro##.boxOverContent__banner
+flashscore.ro##.boxOverContent__getOfferLink
+flashscore.ro##.adscontent
+flashscore.ro##.adsclick
+flashscore.ro##.banner
+flashscore.ro##.container__bannerZone
+flashscore.ro##.adsenvelope
 
 radioimpuls.ro##.desktop.billboard.use-placeholder
 
