@@ -95,3 +95,6 @@ clujust.ro##+js(rmnt, script, ai_adb)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/174312
 lovendal.ro##+js(noeval-if, ads)
+
+! ff netu player popups
+kimdesene.org##+js(nowoif)
