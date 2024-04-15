@@ -1772,6 +1772,8 @@ clubmercedes.ro##.axd
 ||get-in-shape.beauty^
 ###sam_branding[style="min-height:250px;"]
 
-actualmehedinti.ro##.banner_wrapper
+zicala.ro##.theiaStickySidebar
+||director-web.helponline.ro^$third-party
+||roportal.ro^$third-party
 
 !#include road-ubo.txt
