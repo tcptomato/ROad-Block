@@ -1776,4 +1776,6 @@ zicala.ro##.theiaStickySidebar
 ||director-web.helponline.ro^$third-party
 ||roportal.ro^$third-party
 
+actualmehedinti.ro##.banner_wrapper
+
 !#include road-ubo.txt
