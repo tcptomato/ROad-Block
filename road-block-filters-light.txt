@@ -1156,6 +1156,8 @@ dezvaluiri.ro#?#[id^="media_image"]:not(*:-abp-has([href*="dezvaluiri.ro"]))
 
 ||clujust.ro/*banner$image
 ||clujust.ro/*.gif$image
+clujust.ro##[href^="https://www.studiumgreen.ro/"]
+clujust.ro##[href^="https://sdcproperties.ro/"]
 clujust.ro##[href*="utm_medium=banner"]
 clujust.ro##[id^="ad"]
 
@@ -1521,6 +1523,8 @@ ziaruldevalcea.ro##[href*="raureni.ro"]
 ziaruldevalcea.ro##.widget_media_image
 ziaruldevalcea.ro##.widget_block
 
+arenavalceana.ro##[href="https://tradecores.com/"]
+arenavalceana.ro##.widget:has(> [href])
 arenavalceana.ro##.td-all-devices
 
 ziartopdearges.com##.size-large.wp-block-image
