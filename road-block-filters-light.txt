@@ -1103,6 +1103,8 @@ weradio.ro#?#.textwidget:-abp-contains(Publicitate)
 ||curier.ro^*/publicitate/$image
 curier.ro##[href="https://hotelilavamaveche.ro/"]
 curier.ro#?#.custom_textwidget:-abp-contains(publicitar)
+curier.ro##img[alt="Dr.Teo"]
+curier.ro##[alt="ad"]
 
 ||startingup.ro^*/banner*$image
 
