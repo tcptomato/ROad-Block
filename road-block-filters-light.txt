@@ -122,6 +122,8 @@ stiripesurse.ro#?#.row:not([class]:-abp-has([href^="https://www.stiripesurse.ro"
 stiripesurse.ro##.bgcolor-revista-blogurilor
 stiripesurse.ro##.border-revista-blogurilor
 ||media.stiripesurse.ro/assets/img/agerpres-300x250.png$image
+stiripesurse.ro##.in-article-banner
+stiripesurse.ro###taboola-sponsored-mid-article
 
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
