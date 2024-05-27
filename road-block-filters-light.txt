@@ -944,6 +944,9 @@ ziarulevenimentul.ro##[href*="/adclick.php"]
 ziarulevenimentul.ro##[href^="https://www.bursa.ro"]
 
 g4media.ro##.custom-html-widget
+g4media.ro##[data-ai-debug]:has([src*=pnl])
+g4media.ro##.code-block:has(.ad-header)
+g4media.ro##.post-review:has(.author-publicitate)
 
 ||investigatoria.ro/*banner$image
 investigatoria.ro##.code-block
