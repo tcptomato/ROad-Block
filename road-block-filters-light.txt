@@ -1793,4 +1793,7 @@ turdainfo.ro##[href="https://app.aqmeter.com/"]
 turdainfo.ro##.module-inner
 turdainfo.ro##.banner
 
+! detection ziaruldeiasi
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ziaruldeiasi.ro
+
 !#include road-ubo.txt
