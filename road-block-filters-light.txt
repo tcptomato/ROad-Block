@@ -602,7 +602,7 @@ digi24.ro###category_b
 @@||scdn.cxense.com/cx.js$script,domain=digi24.ro
 @@||pubads.g.doubleclick.net/ssai/event/$xhr,domain=digi24.ro
 
-||rangfort.ro/resurse/rfhz.png$image
+||rangfort.ro/*/rfhz.png$image
 rangfort.ro##[href="https://renth.ro/index.php"]
 
 ||stream-aleph.m.ro^$domain=mediafax.ro
