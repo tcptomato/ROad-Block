@@ -615,8 +615,8 @@ mediafax.ro##div.notif-bula.notif
 
 ||i.imgur.com/oj9G0zy.png
 
-! cspower.ro
-||i.postimg.cc/Vv2v9kdD/download.jpg$image
+cspower.ro##.container:has(> .part-right:has([href*="freakhosting.com"]))
+cspower.ro##.ipsWidget_inner:has([href*="freakhosting.com"])
 
 escortebucuresti.com##.banners-box
 escortebucuresti.com##.new_domain_r.block
