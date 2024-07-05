@@ -769,6 +769,7 @@ lauralaurentiu.ro##.titluReclama
 lauralaurentiu.ro#?#.code-block:-abp-contains(PUB)
 
 ziare.com##.branding-container
+ziare.com##.banner-container
 ||ziare.com^*.gif$image
 @@||ziare.com^$ghide
 ziare.com##.banner
