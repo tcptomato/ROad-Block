@@ -1223,6 +1223,7 @@ mobilissimo.ro##.aboveDisqusBanners
 monitoruldevrancea.ro#?#.widget_rss:-abp-has([href*=".bursa.ro/"])
 monitoruldevrancea.ro##[class*="td-a-rec-id-custom_ad"]
 monitoruldevrancea.ro##[href="https://www.bursa.ro/"]
+monitoruldevrancea.ro##[class*="_ad_"]
 
 bursa.ro#?#.clearfix [href][target="_blank"][rel]:-abp-has([alt][title][style])
 bursa.ro##.banner
