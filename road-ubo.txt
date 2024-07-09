@@ -106,3 +106,9 @@ emag.*##.container:has([data-tracking-alias^="sponsored_products"])
 
 ! image background
 gsp.ro##+js(rmnt, script, maxbet)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/183110
+||business24.ro/index.php?module=getActiveBlockerContent.ajxinternal
+business24.ro##.banner
+business24.ro##.branding-container
+business24.ro##div.banner-container
