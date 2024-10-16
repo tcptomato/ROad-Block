@@ -1389,6 +1389,7 @@ infoactual.ro##[id^="ado"]
 bzi.ro##.branding--top
 bzi.ro##[href^="https://bit.ly/"]
 bzi.ro#?#.height-250:-abp-has(> [id^="div-gpt-ad"])
+bzi.ro#?#.min-height-250:-abp-has(> [id^="div-gpt-ad"])
 
 ||arq.ro/html/media/banners
 
