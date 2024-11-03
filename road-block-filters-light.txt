@@ -1816,4 +1816,6 @@ turdainfo.ro##.banner
 ||oltenia-actualitati.ro^
 ||rezistentaromanesca.ro^
 
+bihon.ro##[href^="https://www.melindainstal.ro/"]
+
 !#include road-ubo.txt
