@@ -440,6 +440,7 @@ evz.ro##.bncp-desktop
 evz.ro##.ford.reclama-auto
 evz.ro##.news-listing-comunicate
 evz.ro##[id^="ado"]
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=evz.ro
 
 ! https://github.com/tcptomato/ROad-Block/issues/128
 ||cotidianul.ro/wp-content/uploads/*banner
