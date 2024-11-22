@@ -1820,4 +1820,7 @@ turdainfo.ro##.banner
 
 bihon.ro##[href^="https://www.melindainstal.ro/"]
 
+! popunders
+||gonowx.com/*?filmexxx.live$script,domain=filmexxx.live
+
 !#include road-ubo.txt
