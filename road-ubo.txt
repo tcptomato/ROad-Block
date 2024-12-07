@@ -117,3 +117,6 @@ business24.ro##div.banner-container
 subs.epochbase.com##.container
 epochtimes-romania.com##.modal__overlay
 epochtimes-romania.com##body:style(overflow: unset !important)
+
+! stream player anti-adblock
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,method=get,domain=tvonline123.com
