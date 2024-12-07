@@ -97,9 +97,6 @@ clujust.ro##+js(rmnt, script, ai_adb)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/174312
 lovendal.ro##+js(noeval-if, ads)
 
-! ff netu player popups
-kimdesene.org##+js(nowoif)
-
 ! https://github.com/uBlockOrigin/uAssets/issues/23860
 ||sapi.emag.*/recommendations/*zones=adss$xhr,1p
 emag.*##.container:has([data-tracking-alias^="sponsored_products"])
