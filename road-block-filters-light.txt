@@ -644,6 +644,7 @@ forum.4tuning.ro#?#[style="min-height: 260px;"]:-abp-has([id^="adocean"])
 4tuning.ro##.news-fb-comments
 
 gsp.ro#?#[class^="banner"]:not(*:-abp-has(.related-in-article))
+||gsp.ro/usr/widgets/*/cptm*$image
 ||gsp.ro/*/widgets*.gif$image
 ||gsp.ro^*banner$image
 ||gsp.ro/*widgets/*betfair
