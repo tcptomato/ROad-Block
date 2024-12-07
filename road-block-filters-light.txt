@@ -1769,8 +1769,6 @@ newsbucuresti.ro##[href="https://www.indagra-food.ro/"]
 bucataras.ro##.grv-product-box
 bucataras.ro##.recomandations
 
-1tap.ro##[href^="https://freakhosting.com/"]
-
 diacritice.ro##.space
 
 loganclub.ro##.axd
