@@ -788,8 +788,6 @@ ziare.com##[id^="div-gpt-ad"]
 @@/adsid/integrator.js$script,domain=savoriurbane.com
 @@||pagead2.googlesyndication.com/getconfig/$xmlhttprequest,domain=savoriurbane.com
 
-||i0.wp.com/arenait.ro/files/*/banner$image,domain=arenait.ro
-
 b365.ro#?#.height-250:-abp-has(.strawberry-ads)
 
 nationalisti.ro#?#.widget-container:-abp-has(ins.adsbygoogle)
@@ -1066,6 +1064,8 @@ cristianmargarit.ro##.textwidget
 7media.md##.p-b-30
 
 arenait.ro##[href^="https://msi.gm/"]
+arenait.ro##.widget_text img
+
 
 @@||stireadeazi.ro^$generichide
 stireadeazi.ro#?#.inside-right-sidebar:-abp-contains(ads)
@@ -1110,7 +1110,6 @@ stiridesibiu.ro##.adcontainer
 weradio.ro##[id^="werad"]
 weradio.ro#?#.textwidget:-abp-contains(Publicitate)
 ||weradio.ro/*banner*$image
-
 
 ||curier.ro^*/banner/$image
 ||curier.ro^*/publicitate/$image
