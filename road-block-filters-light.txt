@@ -1476,6 +1476,7 @@ dexonline.net##[href="https://creditrapid.ro/"]
 
 actualitateavranceana.ro##[href="https://www.sipotehnokaronline.com/"]
 actualitateavranceana.ro##[href^="https://www.sviatoacademy.ro/"]
+actualitateavranceana.ro##.widget_media_image
 ||florariafocsani.ro/image/catalog/ADV/$image,third-party
 
 fileshare.ro#?#td[width="250"]:not(*:-abp-has([href*="fileshare.ro"]))
