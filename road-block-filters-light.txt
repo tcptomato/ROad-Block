@@ -1826,4 +1826,6 @@ bihon.ro##[href^="https://www.melindainstal.ro/"]
 
 /wp-content/plugins/custom-banner-plugin/$~third-party,domain=ro
 
+jurnaldevrancea.ro##[alt="spot_img"]
+
 !#include road-ubo.txt
