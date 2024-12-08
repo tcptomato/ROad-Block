@@ -1632,6 +1632,7 @@ bzb.ro##.banners
 info1tv.ro##[href="http://www.april91.ro/"]
 info1tv.ro#?#[id^="custom_html"]:-abp-has([alt^="Agentie"])
 info1tv.ro##.widget_custom_html.side-widget.widget_text
+||info1tv.ro/*banner
 
 stiriardeal.ro##.custom-html-widget.textwidget
 stiriardeal.ro##.widget-title
