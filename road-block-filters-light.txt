@@ -1192,9 +1192,6 @@ napocanews.ro###pa_inarticle_placeholder
 
 ciutacu.ro#?#.widget:-abp-contains(Reclame)
 
-! banner
-||anime-kage.eu/media/affiliate/$image
-
 ||geekchronicles.ro/*lisandraad$image
 ||geekchronicles.ro/*/ban$image
 
