@@ -944,6 +944,7 @@ moduri.ro#?#.widget-container:-abp-has(.adsbygoogle)
 turdanews.net##.elementor-widget-smartmag-codes
 turdanews.net##[href="https://viamso.ro/"]
 turdanews.net##.smartmag-widget-codes
+turdanews.net##.widget_custom_html
 turdanews.net##.e-con-full
 turdanews.net##.ai-track
 
