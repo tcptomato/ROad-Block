@@ -1832,4 +1832,6 @@ jurnaldevrancea.ro##[alt="spot_img"]
 
 observatorconstanta.ro##.gofollow > [data-eio-rwidth="728"]
 
+||antena3constanta.ro/*/*728x90px.gif$image
+
 !#include road-ubo.txt
