@@ -1846,4 +1846,6 @@ obiectiv.net##.widget_custom_html
 ||cdn.knd.ro/media/*/common/placeholders/$image
 wowbiz.ro,kanald.ro,kanald2.ro##.afis
 
+transilvania365.ro##.td-ss-main-sidebar > aside > .wp-block-image
+
 !#include road-ubo.txt
