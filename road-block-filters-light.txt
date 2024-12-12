@@ -1843,4 +1843,8 @@ servuspress.ro###text-169
 obiectiv.net##.widget[id^="media_image"]
 obiectiv.net##.widget_custom_html
 
+||cdn.knd.ro/media/*/common/placeholders/$image
+wowbiz.ro##.afis
+
+
 !#include road-ubo.txt
