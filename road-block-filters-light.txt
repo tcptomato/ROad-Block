@@ -1837,4 +1837,7 @@ servuspress.ro##[id^="text-"] img
 servuspress.ro###custom_html-5
 servuspress.ro###text-169
 
+obiectiv.net##.widget[id^="media_image"]
+obiectiv.net##.widget_custom_html
+
 !#include road-ubo.txt
