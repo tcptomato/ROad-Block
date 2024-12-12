@@ -1844,7 +1844,7 @@ obiectiv.net##.widget[id^="media_image"]
 obiectiv.net##.widget_custom_html
 
 ||cdn.knd.ro/media/*/common/placeholders/$image
-wowbiz.ro,kanald.ro##.afis
+wowbiz.ro,kanald.ro,kanald2.ro##.afis
 
 
 !#include road-ubo.txt
