@@ -117,3 +117,6 @@ epochtimes-romania.com##body:style(overflow: unset !important)
 
 ! stream player anti-adblock
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,method=get,domain=tvonline123.com
+
+! video player anti-adb
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=kanald2.ro
