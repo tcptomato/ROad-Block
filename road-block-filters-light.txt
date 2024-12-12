@@ -1848,4 +1848,6 @@ wowbiz.ro,kanald.ro,kanald2.ro##.afis
 
 transilvania365.ro##.td-ss-main-sidebar > aside > .wp-block-image
 
+punctul.ro##.content-widget-before
+
 !#include road-ubo.txt
