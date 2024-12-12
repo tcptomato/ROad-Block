@@ -212,6 +212,9 @@ portalsm.ro#?#.st-sidebar-widget:-abp-has([src*="publicitate"])
 ||presasm.ro/*reclama$image
 presasm.ro#?#.widget:not(*:-abp-has([href*="presasm.ro"])):not(*:-abp-has([data-href*="facebook"]))
 presasm.ro##.wp-image-179110
+presasm.ro##.header-banner
+presasm.ro##.code-block
+presasm.ro##.ttpAds
 
 ||satumareonline.ro/*reclame$image
 satmareanul.net##.widget_custom_html
