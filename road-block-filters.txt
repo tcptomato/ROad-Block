@@ -1719,17 +1719,4 @@ ziaruldinmuscel.ro##.vc_empty_space
 
 mediastiri.ro##.td_spot_img_all
 
-!spam => https://publicrecord.ro/2024/10/22/caruta-cu-troli-din-caracal-si-teoriile-conspirationiste/
-||olt-media.ro^
-||romania-unita.ro^
-||romania-noastra.ro^
-||jurnalul-militar.ro^
-||romanulnationalist.ro^
-||gazeta-romaneasca.ro^
-||universul-stirilor.ro^
-||romanii-liberi.ro^
-||ziarul-democrat.ro^
-||oltenia-actualitati.ro^
-||rezistentaromanesca.ro^
-
 !#include road-ubo.txt
