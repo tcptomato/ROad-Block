@@ -50,9 +50,6 @@ posturi.live##+js(acs, setTimeout, admc)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro,redirect=google-ima.js,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro,redirect=google-ima.js,important
 
-||sputniknews.*^$all
-||sputnikglobe.*^$all
-
 filmeserialegratis.*,fsplayer.*##+js(nowoif)
 
 cinemagia.ro###banner_container_top
@@ -109,11 +106,6 @@ gsp.ro##+js(rmnt, script, maxbet)
 business24.ro##.banner
 business24.ro##.branding-container
 business24.ro##div.banner-container
-
-! epochtimes-romania overlay
-subs.epochbase.com##.container
-epochtimes-romania.com##.modal__overlay
-epochtimes-romania.com##body:style(overflow: unset !important)
 
 ! stream player anti-adblock
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,method=get,domain=tvonline123.com
