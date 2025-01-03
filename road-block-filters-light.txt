@@ -1694,8 +1694,6 @@ eporno.ro,filme-porno.ro##.videoPlayerAD
 ||femeisingure.net^$doc
 ||easyaff.net/?ref$doc
 
-filmeserialeonline.org##[href^="http://bit.ly/"]
-
 ziaruldebacau.ro##.afiseaza-desktop
 
 bacau.net##.td-a-rec
