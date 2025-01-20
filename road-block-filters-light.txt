@@ -1624,7 +1624,7 @@ anunturi66.ro##.ads-vizualizare
 
 marketingportal.ro##.bannerDFP
 
-mytex.ro#?#.container-wrapper:-abp-has([src*=".mgid.com"])
+mytex.ro##.stream-item-below-header.stream-item
 
 ||bzb.ro/files/banner$image
 bzb.ro##.banners
@@ -1679,8 +1679,6 @@ newsmed.ro#?#.vc_column-inner:-abp-has(.adsbygoogle)
 doc.ro##.side-sticky-banner
 doc.ro##.content-add
 
-filmeonlinesubtitrate.org##[href^="https://accounts.binance.me/en/register"]
-
 ||aplizz.net^
 
 ||filmelexxx.com/*.php
@@ -1693,8 +1691,6 @@ eporno.ro,filme-porno.ro##.cxADBlock
 eporno.ro,filme-porno.ro##.videoPlayerAD
 ||femeisingure.net^$doc
 ||easyaff.net/?ref$doc
-
-filmeserialeonline.org##[href^="http://bit.ly/"]
 
 ziaruldebacau.ro##.afiseaza-desktop
 
