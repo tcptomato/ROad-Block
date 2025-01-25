@@ -1846,4 +1846,8 @@ transilvania365.ro##.td-ss-main-sidebar > aside > .wp-block-image
 
 punctul.ro##.content-widget-before
 
+||golazo.ro/storage/2025-01-10/65534/bucovina.mp4$media
+golazo.ro##.branding
+golazo.ro##.banner-top-branding
+
 !#include road-ubo.txt
