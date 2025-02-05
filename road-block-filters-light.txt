@@ -1850,4 +1850,7 @@ punctul.ro##.content-widget-before
 golazo.ro##.branding
 golazo.ro##.banner-top-branding
 
+timesnewroman.ro##.available-jobs-container
+||widget.apsis.ai^$subdocument,domain=timesnewroman.ro
+
 !#include road-ubo.txt
