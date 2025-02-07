@@ -1,0 +1,20 @@
+name: trigger-pr
+on:
+  pull_request:
+    types: [opened, reopened]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    if: (( contains(github.event.pull_request.title, 'nazi')) 
+    permissions: write-all
+    steps:
+      - name: Close Pull
+        run: |
+          echo The PR Title is ${{ github.event.pull_request.title }}
+        env:
+          nr: ${{ github.event.number }}
+      - uses: peter-evans/close-pull@v3
+        with:
+          pull-request-number: nr
+          comment: Auto-closing pull request
+          delete-branch: false
