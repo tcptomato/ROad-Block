@@ -1854,4 +1854,7 @@ golazo.ro##.banner-top-branding
 timesnewroman.ro##.available-jobs-container
 ||widget.apsis.ai^$subdocument,domain=timesnewroman.ro
 
+comisarul.ro###parteneri_top
+comisarul.ro##[id^="reclama"]
+
 !#include road-ubo.txt
