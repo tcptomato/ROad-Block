@@ -1859,4 +1859,8 @@ comisarul.ro##[id^="reclama"]
 
 meoo.ro##[onclick*="open"]
 
+||rotalianul.com/wp-content/uploads/ads/$image
+rotalianul.com##.ad-continue
+rotalianul.com##.sponsored-content-title
+
 !#include road-ubo.txt
