@@ -1345,7 +1345,9 @@ moise.ro##[href*="imobiliare.ro"]
 gadget.ro#?#[id^="block"]:-abp-has([src*="pub"])
 
 obiectiv-sm.ro##.ottowebAds
+obiectiv-sm.ro##.ads-banner-link
 obiectiv-sm.ro##.bk-sticksb-wrapper
+||obiectiv-sm.ro/wp-content/uploads/2023/*DEMOLARI-SM.jpg$image
 
 ||gedave.ro^*.gif
 
