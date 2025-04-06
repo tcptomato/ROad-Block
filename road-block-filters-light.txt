@@ -1865,4 +1865,6 @@ meoo.ro##[onclick*="open"]
 rotalianul.com##.ad-continue
 rotalianul.com##.sponsored-content-title
 
+gandul.ro##[style]:has(.strawberry-ads-manager-container)
+
 !#include road-ubo.txt
