@@ -124,6 +124,11 @@ stiripesurse.ro##.border-revista-blogurilor
 ||media.stiripesurse.ro/assets/img/agerpres-300x250.png$image
 stiripesurse.ro##.in-article-banner
 stiripesurse.ro###taboola-sponsored-mid-article
+stiripesurse.ro##.sticky-banner-container
+stiripesurse.ro##[style]:has([id^="adocean"])
+stiripesurse.ro##[style]:has(#PA-Taboola-mid)
+stiripesurse.ro##[href="https://www.stiripesurse.ro/ardereaesteproblema"]
+||media.stiripesurse.ro/assets/img/ads_$frame
 
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
@@ -907,6 +912,8 @@ mediculmeu.com##[style]:has(.adsbygoogle)
 
 bugetul.ro##[class^="reclama"]
 bugetul.ro##[class^="banner"]
+bugetul.ro##[class^="bg"]:has([id^="adocean"])
+bugetul.ro##[style]:has(#taboola-mid-article)
 
 @@||vitan-auto.ro/*/ads_images/$image,~third-party
 
