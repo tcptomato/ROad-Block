@@ -1876,4 +1876,6 @@ rotalianul.com##.sponsored-content-title
 
 gandul.ro##[style]:has(.strawberry-ads-manager-container)
 
+||gonowx.com^
+
 !#include road-ubo.txt
