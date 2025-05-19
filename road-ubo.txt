@@ -38,7 +38,7 @@ litoraltv.ro##.pum-active
 litoraltv.ro##html:style(overflow: auto !important;)
 
 ! anti-adb
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,important,redirect=google-ima.js,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|jurnalul.ro|observator.tv|observatornews.ro|spynews.ro|zutv.ro|evz.ro
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,important,redirect=google-ima.js,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|jurnalul.ro|observator.tv|observatornews.ro|realitatea.net|spynews.ro|zutv.ro|evz.ro
 
 ! posturi. live popups
 posturi.live##+js(nowoif)
