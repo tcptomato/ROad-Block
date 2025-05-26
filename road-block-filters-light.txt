@@ -1878,4 +1878,8 @@ gandul.ro##[style]:has(.strawberry-ads-manager-container)
 
 ||gonowx.com^
 
+program-tv.ro##.topad
+program-tv.ro##div:has(> .multicolumndayproginnerad)
+program-tv.ro##.striped_table_row:has(> div > .multicolumndayproginnerad):style(position: absolute;)
+
 !#include road-ubo.txt
