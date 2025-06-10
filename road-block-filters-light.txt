@@ -1884,4 +1884,7 @@ program-tv.ro##.striped_table_row:has(> div > .multicolumndayproginnerad):style(
 
 filme123.ro##[href^="https://ggbetbestoffer.com"]
 
+ofertecatalog.ro###newfollow:has([href*="/?redirect"])
+ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
+
 !#include road-ubo.txt
