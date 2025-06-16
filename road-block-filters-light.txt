@@ -1889,6 +1889,7 @@ ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
 ofertecatalog.ro##[href^="https://bit.ly/"]
 ofertecatalog.ro##div[id="primary"] div[id]:has-text(/Super|Deals|Click|⚡|😍/)
 ofertecatalog.ro##[target="_blank"]
+ofertecatalog.ro##*:matches-css(min-height:34px)
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
