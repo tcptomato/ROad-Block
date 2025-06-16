@@ -1886,7 +1886,7 @@ filme123.ro##[href^="https://ggbetbestoffer.com"]
 
 ofertecatalog.ro###newfollow:has([href*="/?redirect"])
 ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
-ofertecatalog.ro##[target="_blank"][href]:upward(p)
+ofertecatalog.ro##span:has([target="_blank"][href])
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
