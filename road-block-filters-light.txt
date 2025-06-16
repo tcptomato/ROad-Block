@@ -1894,5 +1894,6 @@ catalog-az.ro##.sidebar-ads-container
 catalog-az.ro##.catalogue-entry-ad-desktop
 catalog-az.ro##.small:has-text(Publicitate)
 catalog-az.ro##.tall-ads
+catalog-az.ro##.long-ad
 
 !#include road-ubo.txt
