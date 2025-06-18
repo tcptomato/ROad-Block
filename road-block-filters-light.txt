@@ -1895,6 +1895,7 @@ ofertecatalog.ro##div[id="primary"] div[id]:has([href][rel])
 ofertecatalog.ro##div[id="primary"] p[id]:has([href][rel])
 ofertecatalog.ro##[rel][onclick*="open"]
 ofertecatalog.ro##[rel*=noopener][rel*=nofollow]
+ofertecatalog.ro##[alt=eMAG]
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
