@@ -1887,10 +1887,10 @@ filme123.ro##[href^="https://ggbetbestoffer.com"]
 ofertecatalog.ro###newfollow:has([href*="/?redirect"])
 ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
 ofertecatalog.ro##[href^="https://bit.ly/"]
-ofertecatalog.ro##div[id="primary"] div[id]:has-text(/Super|Deals|Click|⚡|😍|📢|🚗| Ai |😜/)
+ofertecatalog.ro##div[id="primary"] div[id]:has-text(/Deals|Click|⚡|😍|📢|🚗|😜/)
 ofertecatalog.ro##[target="_blank"]
 ofertecatalog.ro##*:matches-css(min-height:35px)
-ofertecatalog.ro##[rel*=noopener][rel*=nofollow]:upward(2)
+ofertecatalog.ro##div[id="primary"] div[id]:has([href][rel])
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
