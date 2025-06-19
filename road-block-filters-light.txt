@@ -1899,7 +1899,7 @@ ofertecatalog.ro##[width^="78"]
 ofertecatalog.ro##[width^="79"]
 ofertecatalog.ro##[width^="80"]
 !ofertecatalog.ro##+js(aopr, Object.keys)
-ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗/)
+ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗|😀/)
 ofertecatalog.ro##*:matches-css(min-height:34px)
 ofertecatalog.ro##*:matches-css(min-height:33px)
 ofertecatalog.ro##*:matches-css(min-height:36px)
