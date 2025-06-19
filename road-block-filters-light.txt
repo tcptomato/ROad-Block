@@ -1899,6 +1899,7 @@ ofertecatalog.ro##[rel*=noopener][rel*=nofollow]
 ofertecatalog.ro##[alt=eMAG]
 ofertecatalog.ro##[href="https://ofertecatalog.ro/cal"]
 ofertecatalog.ro##[href^="https://ofertecatalog.ro/"]:has(.size-full)
+ofertecatalog.ro##[fetchpriority]
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
