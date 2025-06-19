@@ -1910,4 +1910,6 @@ catalog-az.ro##.small:has-text(Publicitate)
 catalog-az.ro##.tall-ads
 catalog-az.ro##.long-ad
 
+kimbino.ro##.ad
+
 !#include road-ubo.txt
