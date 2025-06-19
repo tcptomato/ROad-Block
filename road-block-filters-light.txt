@@ -1889,7 +1889,7 @@ ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
 ofertecatalog.ro##[href^="https://bit.ly/"]
 !ofertecatalog.ro##div[id="primary"] [id]:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩/)
 !ofertecatalog.ro##div[id="primary"] p:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩/)
-ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗|😀|👉|👋|👍/)
+ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗|😀|👉|👋|👍|👀/)
 ofertecatalog.ro##[target="_blank"]
 ofertecatalog.ro##[rel][onclick*="open"]
 ofertecatalog.ro##[rel*=noopener][rel*=nofollow]
