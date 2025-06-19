@@ -1889,16 +1889,16 @@ ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
 ofertecatalog.ro##[href^="https://bit.ly/"]
 !ofertecatalog.ro##div[id="primary"] [id]:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩/)
 !ofertecatalog.ro##div[id="primary"] p:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩/)
-ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗|😀|👉|👋|👍|👀|✨/)
+!ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗|😀|👉|👋|👍|👀|✨/)
 !ofertecatalog.ro##div[id="primary"] p + [class]
-ofertecatalog.ro##[target="_blank"]
-ofertecatalog.ro##[rel][onclick*="open"]
-ofertecatalog.ro##[rel*=noopener][rel*=nofollow]
-ofertecatalog.ro##[width^="77"]
-ofertecatalog.ro##[width^="78"]
-ofertecatalog.ro##[width^="79"]
-ofertecatalog.ro##[width^="80"]
-ofertecatalog.ro##+js(aopr, Object.keys)
+!ofertecatalog.ro##[target="_blank"]
+!ofertecatalog.ro##[rel][onclick*="open"]
+!ofertecatalog.ro##[rel*=noopener][rel*=nofollow]
+!ofertecatalog.ro##[width^="77"]
+!ofertecatalog.ro##[width^="78"]
+!ofertecatalog.ro##[width^="79"]
+!ofertecatalog.ro##[width^="80"]
+!ofertecatalog.ro##+js(aopr, Object.keys)
 !ofertecatalog.ro##*:matches-css(min-height:/(33|34|35|36|37|38|39)/)
 !ofertecatalog.ro##*:matches-css(line-height:/(23|24|25|26|27|28|29)/)
 !ofertecatalog.ro##[class]:matches-css(height:/(23|24|25|26|27|28|29)/)
