@@ -1904,6 +1904,7 @@ ofertecatalog.ro##*:matches-css(min-height:34px)
 ofertecatalog.ro##*:matches-css(min-height:33px)
 ofertecatalog.ro##*:matches-css(min-height:36px)
 ofertecatalog.ro##*:matches-css(min-height:35px)
+ofertecatalog.ro##*:matches-css(line-height:28px)
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
