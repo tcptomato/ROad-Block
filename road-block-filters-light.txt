@@ -1900,15 +1900,8 @@ ofertecatalog.ro##[width^="79"]
 ofertecatalog.ro##[width^="80"]
 !ofertecatalog.ro##+js(aopr, Object.keys)
 ofertecatalog.ro##span:has-text(/😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐|🤩|😎|🤗|😀|👉/)
-ofertecatalog.ro##*:matches-css(min-height:33px)
-ofertecatalog.ro##*:matches-css(min-height:34px)
-ofertecatalog.ro##*:matches-css(min-height:35px)
-ofertecatalog.ro##*:matches-css(min-height:36px)
-ofertecatalog.ro##*:matches-css(min-height:37px)
-ofertecatalog.ro##*:matches-css(min-height:38px)
-ofertecatalog.ro##*:matches-css(line-height:27px)
-ofertecatalog.ro##*:matches-css(line-height:28px)
-ofertecatalog.ro##*:matches-css(line-height:29px)
+ofertecatalog.ro##*:matches-css(min-height:/(33|34|35|36|37|38|39)/)
+ofertecatalog.ro##*:matches-css(line-height:/(25|26|27|28|29)/)
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
