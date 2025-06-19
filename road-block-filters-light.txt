@@ -1888,8 +1888,8 @@ ofertecatalog.ro##.eticheteart,.clearlinie,#infooferta,.masonry-start,.paginatio
 ofertecatalog.ro###newfollow:has([href*="/?redirect"])
 ofertecatalog.ro##[href^="https://l.profitshare.ro/"]
 ofertecatalog.ro##[href^="https://bit.ly/"]
-ofertecatalog.ro##div[id="primary"] [id]:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃/)
-ofertecatalog.ro##div[id="primary"] p:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃/)
+ofertecatalog.ro##div[id="primary"] [id]:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐/)
+ofertecatalog.ro##div[id="primary"] p:has-text(/Deals|Click|⚡|😍|📢|🚗|😜|☺️|😉|😋|🥰|😃|🧐/)
 ofertecatalog.ro##[target="_blank"]
 ofertecatalog.ro##*:matches-css(min-height:35px)
 ofertecatalog.ro##div[id="primary"] div[id]:has([href][rel])
