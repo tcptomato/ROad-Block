@@ -1895,6 +1895,7 @@ ofertecatalog.ro##[rel*=noopener][rel*=nofollow]
 ofertecatalog.ro##[href^="https://ofertecatalog.ro/"]:has([class*="full"])
 ofertecatalog.ro##div[id="primary"] p:has([href][class])
 ofertecatalog.ro##[width^="78"]
+ofertecatalog.ro##[width^="77"]
 
 catalog-az.ro##.ads
 catalog-az.ro##.ads-container
