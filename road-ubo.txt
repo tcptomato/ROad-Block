@@ -115,3 +115,8 @@ business24.ro##div.banner-container
 
 ! video player anti-adb
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=kanald2.ro
+
+! https://github.com/tcptomato/ROad-Block/issues/558
+canale-tv.com##+js(nowoif, _blank, 10)
+canale-tv.com##+js(nostif, location)
+canale-tv.com##+js(nosiif, tool)
