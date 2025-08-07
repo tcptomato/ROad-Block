@@ -220,6 +220,9 @@ presasm.ro##.wp-image-179110
 presasm.ro##.header-banner
 presasm.ro##.code-block
 presasm.ro##.ttpAds
+presasm.ro##.ottoweb-banner
+presasm.ro##.ottoweb-banner2
+presasm.ro##.widget-title:has-text(Publ)
 
 ||satumareonline.ro/*reclame$image
 satmareanul.net##.widget_custom_html
