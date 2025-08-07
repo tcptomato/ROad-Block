@@ -1925,4 +1925,6 @@ tvonline123.com##.video-container:has([href*="?key="])
 
 acasatv.protv.ro##[id]:has(script)
 
+lovedeco.ro###billboard
+
 !#include road-ubo.txt
