@@ -1927,4 +1927,6 @@ acasatv.protv.ro##[id]:has(script)
 
 lovedeco.ro###billboard
 
+publi24.ro##.article-list > [class]:has([id^="PUB"])
+
 !#include road-ubo.txt
