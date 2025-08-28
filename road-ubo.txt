@@ -120,3 +120,6 @@ business24.ro##div.banner-container
 canale-tv.com##+js(nowoif, _blank, 10)
 canale-tv.com##+js(nostif, location)
 canale-tv.com##+js(nosiif, tool)
+
+! https://github.com/uBlockOrigin/uAssets/issues/29807
+player.desenefaine.net##+js(acs, document.write, unescape)
