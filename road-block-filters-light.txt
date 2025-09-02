@@ -1930,4 +1930,6 @@ lovedeco.ro###billboard
 
 publi24.ro##.article-list > [class]:has([id^="PUB"])
 
+compari.ro##.admanager-leaderboard
+
 !#include road-ubo.txt
