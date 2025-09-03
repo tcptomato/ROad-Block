@@ -1254,6 +1254,7 @@ gorjonline.ro##.stream-item-below-header
 gorjonline.ro##[src^="wp-content/uploads/2024/08/banner-"]
 gorjonline.ro##[href="//www.psgone.ro/"]
 gorjonline.ro##[href="//www.baltacocorenilor.ro/"]
+gorjonline.ro##.widget_media_video:has-text(Publ)
 
 newmoney.ro#?#.sow-image-container:-abp-has([target="_blank"][rel])
 ||newmoney.ro/*Banner$image
