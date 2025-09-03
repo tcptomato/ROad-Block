@@ -1940,5 +1940,6 @@ gorjeanul.ro##[href="https://sni.ro/"]
 ||gorjeanul.ro/wp-content/uploads/2018/06/macheta_clinic_life.jpg$image
 
 asingorj.ro##.widget_custom_html
+asingorj.ro##[href="https://www.allcrisguard.ro/"]
 
 !#include road-ubo.txt
