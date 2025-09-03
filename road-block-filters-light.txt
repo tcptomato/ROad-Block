@@ -1250,6 +1250,10 @@ bursa.ro#?#.clearfix [href][target="_blank"][rel]:-abp-has([alt][title][style])
 bursa.ro##.banner
 
 gorjonline.ro#?#.container-wrapper > [href="https://www.gorjonline.ro/anunturi/"]:-abp-has([src])
+gorjonline.ro##.stream-item-below-header
+gorjonline.ro##[src^="wp-content/uploads/2024/08/banner-"]
+gorjonline.ro##[href="//www.psgone.ro/"]
+gorjonline.ro##[href="//www.baltacocorenilor.ro/"]
 
 newmoney.ro#?#.sow-image-container:-abp-has([target="_blank"][rel])
 ||newmoney.ro/*Banner$image
