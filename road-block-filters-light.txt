@@ -1932,4 +1932,7 @@ publi24.ro##.article-list > [class]:has([id^="PUB"])
 
 compari.ro##.admanager-leaderboard
 
+gorjeanul.ro##[href="https://sni.ro/"]
+||gorjeanul.ro/wp-content/uploads/2018/06/macheta_clinic_life.jpg$image
+
 !#include road-ubo.txt
