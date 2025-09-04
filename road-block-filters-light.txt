@@ -1944,4 +1944,6 @@ gorjeanul.ro##[href="https://sni.ro/"]
 asingorj.ro##.widget_custom_html
 asingorj.ro##[href="https://www.allcrisguard.ro/"]
 
+cvlpress.ro##.bla-container:not(*:has([href*="cvlpress.ro"]))
+
 !#include road-ubo.txt
