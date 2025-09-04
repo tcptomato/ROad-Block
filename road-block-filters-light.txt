@@ -664,6 +664,7 @@ gsp.ro#?#[class^="banner"]:not(*:-abp-has(.related-in-article))
 ||gsp.ro/*superbet
 ||gsp.ro/*maxbet$image
 ||gsp.ro/*/betano$image
+||gsp.ro/*winbet$image
 
 ||oradesibiu.ro/wp-content/uploads/*/*/banner*.jpg$image
 ||oradesibiu.ro/wp-content/uploads/*/*/*-banner-*.gif$image
