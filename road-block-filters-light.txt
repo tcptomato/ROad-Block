@@ -1957,4 +1957,7 @@ expressdebanat.ro##[href^="https://www.brantner.com/"]
 
 tion.ro##.et-last-child.et_pb_column_2
 
+||stiridetimisoara.ro/*banner
+||stiridetimisoara.ro/*.gif$image
+
 !#include road-ubo.txt
