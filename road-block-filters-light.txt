@@ -1987,4 +1987,8 @@ asculta-live.com##.ad-mid
 
 tonurideapelgratis.com##.ad
 
+catalog-hypermarket.ro##[style]:has(.adsbygoogle)
+catalog-hypermarket.ro##.mod-custom:has-text(Publicitate)
+catalog-hypermarket.ro##.container-top-a:has-text(Publicitate)
+
 !#include road-ubo.txt
