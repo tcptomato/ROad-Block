@@ -1981,4 +1981,6 @@ e-ziare.ro##.right.sidebar:has(.adsbygoogle)
 
 tvfoltenia.ro##[class^="facebook-like-"]
 
+asculta-radio-live.com##[class^="ad_"]
+
 !#include road-ubo.txt
