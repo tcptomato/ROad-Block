@@ -2002,4 +2002,6 @@ ziarulactualitatea.ro##aside > .widget_text:not(*:has([href^="https://ziarulactu
 ziarulactualitatea.ro##.flexslider:has([href*="facebook.com"])
 ziarulactualitatea.ro##[href^="https://retim.ro/"]
 
+angliamea.ro,germaniamea.ro##.flag-block-wrapper:has(.adsbygoogle)
+
 !#include road-ubo.txt
