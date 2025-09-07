@@ -1985,4 +1985,6 @@ asculta-radio-live.com##[class^="ad_"]
 
 asculta-live.com##.ad-mid
 
+tonurideapelgratis.com##.ad
+
 !#include road-ubo.txt
