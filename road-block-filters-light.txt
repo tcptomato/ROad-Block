@@ -1991,4 +1991,8 @@ catalog-hypermarket.ro##[style]:has(.adsbygoogle)
 catalog-hypermarket.ro##.mod-custom:has-text(Publicitate)
 catalog-hypermarket.ro##.container-top-a:has-text(Publicitate)
 
+actualitateaprahoveana.ro##.bannergroup
+actualitateaprahoveana.ro##.card:has(.bannergroup)
+actualitateaprahoveana.ro##.module-inner:has(.bannergroup)
+
 !#include road-ubo.txt
