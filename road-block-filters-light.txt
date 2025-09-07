@@ -1979,4 +1979,6 @@ e-ziare.ro##.right.sidebar:has(.adsbygoogle)
 
 ||micapi.ro/*reclama$image
 
+tvfoltenia.ro##[class^="facebook-like-"]
+
 !#include road-ubo.txt
