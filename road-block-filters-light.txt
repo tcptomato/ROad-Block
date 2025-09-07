@@ -1966,4 +1966,6 @@ go4it.ro##.mg-bottom-10:has(.strawberry-ads)
 
 oradea-online.ro##.widget:not(*:has([href*="oradea-online.ro"], [href^="/"], [href^="oradea"], [href^="https://www.digi24.ro"])):has([href])
 
+||bihorstiri.ro/*banner$image
+
 !#include road-ubo.txt
