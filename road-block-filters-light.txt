@@ -1977,4 +1977,6 @@ cronicaolteniei.ro##.tdm_block_inline_image_simplified
 
 e-ziare.ro##.right.sidebar:has(.adsbygoogle)
 
+||micapi.ro/*reclama$image
+
 !#include road-ubo.txt
