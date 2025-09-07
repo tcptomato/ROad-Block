@@ -1983,4 +1983,6 @@ tvfoltenia.ro##[class^="facebook-like-"]
 
 asculta-radio-live.com##[class^="ad_"]
 
+asculta-live.com##.ad-mid
+
 !#include road-ubo.txt
