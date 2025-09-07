@@ -1973,4 +1973,6 @@ jurnalulolteniei.ro##.reclame
 cronicaolteniei.ro##.size-full.wp-block-image > picture
 cronicaolteniei.ro##.tdm_block_inline_image_simplified
 
+||republicaoltenia.ro/*banner$image
+
 !#include road-ubo.txt
