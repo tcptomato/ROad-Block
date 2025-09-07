@@ -1968,4 +1968,6 @@ oradea-online.ro##.widget:not(*:has([href*="oradea-online.ro"], [href^="/"], [hr
 
 ||bihorstiri.ro/*banner$image
 
+jurnalulolteniei.ro##.reclame
+
 !#include road-ubo.txt
