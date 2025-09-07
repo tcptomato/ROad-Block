@@ -1975,4 +1975,6 @@ cronicaolteniei.ro##.tdm_block_inline_image_simplified
 
 ||republicaoltenia.ro/*banner$image
 
+e-ziare.ro##.right.sidebar:has(.adsbygoogle)
+
 !#include road-ubo.txt
