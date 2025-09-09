@@ -2015,4 +2015,6 @@ svnews.ro###sidebar > [style]:has([id^="div-gpt-ad-"])
 svnews.ro##article > *:has([style]:has(.adsbygoogle))
 svnews.ro##[style*="980"]:has(.adsbygoogle)
 
+cotidianulagricol.ro##.ad_fixed
+
 !#include road-ubo.txt
