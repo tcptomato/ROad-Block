@@ -2021,4 +2021,6 @@ cotidianulagricol.ro##.ad_fixed
 
 reviste.ro##.box_orange:has-text(Publicitate)
 
+marketwatch.ro##.reclama
+
 !#include road-ubo.txt
