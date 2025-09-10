@@ -1122,6 +1122,8 @@ infobistrita.ro##.banner_image
 agro-tv.ro##.gofollow
 agro-tv.ro#?#.td-pb-span3:-abp-contains(Publicitate)
 agro-tv.ro##[href="https://www.fabricadecompost.ro/"]
+agro-tv.ro##[alt^="reclama"]
+agro-tv.ro##.elementor-widget-heading:has-text(PUBLICITATE)
 
 mesageruldesibiu.ro#?#.widget:-abp-contains(PUBLICITATE)
 
