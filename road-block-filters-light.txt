@@ -2023,4 +2023,11 @@ reviste.ro##.box_orange:has-text(Publicitate)
 
 marketwatch.ro##.reclama
 
+||graiul.ro/banners/$image
+||graiul.ro/*banner$image
+graiul.ro##[href="https://www.facebook.com/cruceaalbgalbenaBM"]
+||graiul.ro/*.gif$image
+graiul.ro##[href="https://www.graiul.ro/wp-content/uploads/2025/07/spatiu-vasile-300x238.jpg"]
+||graiul.ro/wp-content/uploads/2025/09/clinica*.jpg$image
+
 !#include road-ubo.txt
