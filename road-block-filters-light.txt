@@ -885,6 +885,7 @@ aktual24.ro##[style="min-height: 250px;"]
 ||cdn.aktual24.ro/wp-content/uploads/2022/02/simion4-*.png$image
 
 forum.softpedia.com#?#.post_block:-abp-has([class^="guest"]):-abp-contains(Anunturi)
+forum.softpedia.com##.topic_reply:has-text(Anunturi)
 
 dirtbike.ro##[class*="banner"]
 ||dirtbike.ro/*banner$image
