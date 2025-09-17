@@ -1485,6 +1485,7 @@ litoraltv.ro#?#.widget:-abp-has(.adsbygoogle)
 vbiz.ro#?#.height-250:-abp-has(.adsbygoogle)
 
 dailybusiness.ro##[data-banner]
+dailybusiness.ro##.height-250:has([id^="div-gpt-ad-"])
 
 ||ziaruldinmuscel.ro/*reclama$image
 ziaruldinmuscel.ro#?#.td_block_template_1.vc_column_text:-abp-has([href]):not(*:-abp-has([href*="ziaruldinmuscel.ro"]))
