@@ -883,6 +883,8 @@ onlinesport.ro##[href="https://www.anvelopemag.ro/anvelope-iarna.aspx"]
 aktual24.ro##.sam__branding
 aktual24.ro##[style="min-height: 250px;"]
 ||cdn.aktual24.ro/wp-content/uploads/2022/02/simion4-*.png$image
+aktual24.ro##.min-h-250:has(.strawberry-ads-manager-container)
+aktual24.ro##[class*="min-height-50"]:has(.strawberry-ads-manager-container)
 
 forum.softpedia.com#?#.post_block:-abp-has([class^="guest"]):-abp-contains(Anunturi)
 forum.softpedia.com##.topic_reply:has-text(Anunturi)
