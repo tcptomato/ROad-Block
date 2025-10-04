@@ -85,7 +85,6 @@ hotnews.ro###rss\.euractiv_20456596
 hotnews.ro###rss\.medlive_20312972
 hotnews.ro###rss\.webpr_6183168
 hotnews.ro##.articol_lead_full[style="width: 158px; margin-right:5px; float:left;"]
-science.hotnews.ro###\$\{tile\.name\}_\$\{tile\.id\}
 hotnews.ro##[src*="banner"]
 hotnews.ro##.parteneri
 hotnews.ro##.at-widget-anunturi
