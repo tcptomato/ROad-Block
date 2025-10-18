@@ -36,6 +36,7 @@
 ||tesseradigital.com^
 
 ||observatorulph.ro/cdn-cgi/apps/*$script,first-party
+observatorulph.ro##[class^="obser-internet_corp"]:has(.obser-adlabel)
 
 ||thumbs.gfycat.com^$image,domain=deschide.md
 
