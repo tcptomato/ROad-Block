@@ -2048,4 +2048,7 @@ graiul.ro##[href="https://www.graiul.ro/wp-content/uploads/2025/07/spatiu-vasile
 
 economedia.ro##.code-block:has([id^="div-gpt-ad"])
 
+ziaruldetulcea.ro###reclama-header-sub-logo
+ziaruldetulcea.ro##.sidebar-item:has(.widget-content:not(*:has([href*="ziaruldetulcea.ro"])):has([href]))
+
 !#include road-ubo.txt
