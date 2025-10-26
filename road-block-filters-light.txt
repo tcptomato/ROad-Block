@@ -2054,4 +2054,7 @@ ziaruldetulcea.ro##.sidebar-item:has(.widget-content:not(*:has([href*="ziaruldet
 
 actualitati-valcene.ro##.wp-block-image:not(*:has([href*="actualitati-valcene.ro"])):has([href])
 
+banateanul.ro##.mvp-side-widget:not(*:has([href*="banateanul.ro"])):has([href])
+banateanul.ro##.aligncenter:has([src])
+
 !#include road-ubo.txt
