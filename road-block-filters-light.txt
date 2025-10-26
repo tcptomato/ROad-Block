@@ -1834,6 +1834,7 @@ atacdeconstanta.com##aside[id^="media"]
 &ad_campaign_id$document
 ||get-in-shape.beauty^
 ###sam_branding[style="min-height:250px;"]
+economica.net##.mg-xs-top-20:has([id^="div-gpt-ad"])
 
 zicala.ro##.theiaStickySidebar
 ||director-web.helponline.ro^$third-party
