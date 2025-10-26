@@ -2051,4 +2051,6 @@ economedia.ro##.code-block:has([id^="div-gpt-ad"])
 ziaruldetulcea.ro###reclama-header-sub-logo
 ziaruldetulcea.ro##.sidebar-item:has(.widget-content:not(*:has([href*="ziaruldetulcea.ro"])):has([href]))
 
+actualitati-valcene.ro##.wp-block-image:not(*:has([href*="actualitati-valcene.ro"])):has([href])
+
 !#include road-ubo.txt
