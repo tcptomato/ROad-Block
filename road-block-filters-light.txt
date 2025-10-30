@@ -2064,4 +2064,7 @@ t-times.ro##.article-page-banner
 t-times.ro##.categories-banner
 t-times.ro##.articlesBanner
 
+cursdeguvernare.ro##.add-articol:has([id^="adocean"])
+cursdeguvernare.ro##.elementor-widget-container:has([id^="adocean"])
+
 !#include road-ubo.txt
