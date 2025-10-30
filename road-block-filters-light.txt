@@ -2059,4 +2059,9 @@ banateanul.ro##.aligncenter:has([src])
 
 acasa.ro###container_bn_acasa_ro
 
+t-times.ro##.left-top-banner
+t-times.ro##.article-page-banner
+t-times.ro##.categories-banner
+t-times.ro##.articlesBanner
+
 !#include road-ubo.txt
