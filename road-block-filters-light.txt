@@ -2073,4 +2073,6 @@ tractionisti.ro##.stream-item:not([href*="tractionisti.ro"])
 
 obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [href*="facebook.com"], [href="#"])):has([href])
 
+||obiectivdesuceava.ro/*banner$image
+
 !#include road-ubo.txt
