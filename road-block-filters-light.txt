@@ -2067,4 +2067,6 @@ t-times.ro##.articlesBanner
 cursdeguvernare.ro##.add-articol:has([id^="adocean"])
 cursdeguvernare.ro##.elementor-widget-container:has([id^="adocean"])
 
+infotrucker.ro##.stream-item:not([href*="infotrucker.ro"])
+
 !#include road-ubo.txt
