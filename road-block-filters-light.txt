@@ -2071,4 +2071,6 @@ infotrucker.ro##.stream-item:not([href*="infotrucker.ro"])
 
 tractionisti.ro##.stream-item:not([href*="tractionisti.ro"])
 
+obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [href*="facebook.com"], [href="#"])):has([href])
+
 !#include road-ubo.txt
