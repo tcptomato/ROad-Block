@@ -2075,4 +2075,6 @@ obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [hr
 
 ||obiectivdesuceava.ro/*banner$image
 
+||obiectiv-mehedintean.ro/imgs/profin-small.jpg$image
+
 !#include road-ubo.txt
