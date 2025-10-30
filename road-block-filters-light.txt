@@ -2057,4 +2057,6 @@ actualitati-valcene.ro##.wp-block-image:not(*:has([href*="actualitati-valcene.ro
 banateanul.ro##.mvp-side-widget:not(*:has([href*="banateanul.ro"])):has([href])
 banateanul.ro##.aligncenter:has([src])
 
+acasa.ro###container_bn_acasa_ro
+
 !#include road-ubo.txt

@@ -127,3 +127,5 @@ player.desenefaine.net##+js(acs, document.write, unescape)
 ! www.digi.ro extremely annoying animation
 www.digi.ro##.nav-user-notifications-icon-span:style(animation: none !important; -webkit-animation: none !important; animation-name: none !important; animation-duration: 0s !important;)
 
+! https://github.com/tcptomato/ROad-Block/issues/612
+acasa.ro##+js(set-cookie, fwp_wpm_, 1)
