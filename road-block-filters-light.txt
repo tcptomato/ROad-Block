@@ -2087,4 +2087,6 @@ obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [hr
 
 ziuaveche.ro##[align="center"]:not(*:has([href*="ziuaveche.ro"], [href*="facebook.com"], [href="#"])):has([href])
 
+tv8.md##[style="height:250px"]:has([id^="admixer"])
+
 !#include road-ubo.txt
