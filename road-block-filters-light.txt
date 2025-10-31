@@ -2090,5 +2090,7 @@ ziuaveche.ro##[align="center"]:not(*:has([href*="ziuaveche.ro"], [href*="faceboo
 tv8.md##[style="height:250px"]:has([id^="admixer"])
 
 ||adv.noi.md^
+noi.md##.top-bnr
+noi.md##.news-feed-item:has([src*="adv"])
 
 !#include road-ubo.txt
