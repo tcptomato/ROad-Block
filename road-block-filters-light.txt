@@ -2080,4 +2080,6 @@ obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [hr
 2mnews.ro##.wpb_wrapper:not(*:has([href*="2mnews.ro"], [href*="facebook.com"], [href="#"])):has([href])
 2mnews.ro##.textwidget:not(*:has([href*="2mnews.ro"], [href*="facebook.com"], [href="#"])):has([href])
 
+ziuaveche.ro##[align="center"]:not(*:has([href*="ziuaveche.ro"], [href*="facebook.com"], [href="#"])):has([href])
+
 !#include road-ubo.txt
