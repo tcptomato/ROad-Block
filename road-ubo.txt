@@ -129,3 +129,6 @@ www.digi.ro##.nav-user-notifications-icon-span:style(animation: none !important;
 
 ! https://github.com/tcptomato/ROad-Block/issues/612
 acasa.ro##+js(set-cookie, fwp_wpm_, 1)
+
+! https://github.com/tcptomato/ROad-Block/issues/643
+bzb.ro##.upM:style(margin-top: 10px !important)

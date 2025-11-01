@@ -1673,7 +1673,7 @@ marketingportal.ro##.bannerDFP
 
 mytex.ro##.stream-item-below-header.stream-item
 
-||bzb.ro/files/banner$image
+||bzb.ro/*banner$image
 bzb.ro##.banners
 
 ||info1tv.ro/*.gif$image
