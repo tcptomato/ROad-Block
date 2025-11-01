@@ -2116,4 +2116,8 @@ phonline.ro###cad-slider
 
 viata-libera.ro##.bannergroup
 
+vestea.net##aside[id^="media"]:not(*:has([href])) [src]
+vestea.net##aside.widget:not(*:has([href], [src*="youtube.com"])) [src]
+vestea.net##[href="https://vestea.net/servicii-salubritas-pentru-firme-si-persoane-fizice/"]
+
 !#include road-ubo.txt
