@@ -2103,4 +2103,6 @@ argesfocus.ro###popper_content
 argesexpres.ro##[href^="/images/pub/"]
 argesexpres.ro##.uk-panel-title:has-text(PUBLICITATE)
 
+arenabuzoiana.ro##.san-block:has-text(Publicitate)
+
 !#include road-ubo.txt
