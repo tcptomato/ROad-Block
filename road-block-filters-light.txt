@@ -2105,4 +2105,6 @@ argesexpres.ro##.uk-panel-title:has-text(PUBLICITATE)
 
 arenabuzoiana.ro##.san-block:has-text(Publicitate)
 
+apropomagazin.md##li:not(*:has([href*="apropomagazin.md"], [href^="/"], [href*="webmaster.md"], [href*="aproteh.md"])):has([href])
+
 !#include road-ubo.txt
