@@ -2131,4 +2131,7 @@ urmele.ro##.elementor-column .elementor-widget-image:not(*:has([href*="urmele.ro
 
 timisoaraexpress.ro##[href="https://timisoaraexpress.ro/cerere-publicitate/"]
 
+||timisoarastiri.ro/*Banner
+||timisoarastiri.ro/wp-content/uploads/*.gif
+
 !#include road-ubo.txt
