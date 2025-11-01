@@ -496,6 +496,7 @@ prosport.ro##[data-platform]:has([id^="div-gpt-ad"])
 
 !.md
 agora.md#?#div.grey-section:-abp-contains(Advertorial)
+agora.md##.overflow-hidden:has(app-dfp-ad)
 
 ||curentul.md/wp-content/banners/
 curentul.md###banner1
