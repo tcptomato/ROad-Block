@@ -2129,4 +2129,6 @@ stiricraiova.ro##.widget:not(*:has([href*="stiricraiova.ro"])):has([href])
 
 urmele.ro##.elementor-column .elementor-widget-image:not(*:has([href*="urmele.ro"])):has([href])
 
+timisoaraexpress.ro##[href="https://timisoaraexpress.ro/cerere-publicitate/"]
+
 !#include road-ubo.txt
