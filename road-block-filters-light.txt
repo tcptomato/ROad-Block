@@ -2097,4 +2097,7 @@ noi.md##.news-feed-item:has([src*="adv"])
 diez.md##.widget:not(*:has([href*="diez.md"])):has([href])
 diez.md##[src="https://www.delucru.md/recent-jobs"]
 
+argesfocus.ro##.bannergroup
+argesfocus.ro###popper_content
+
 !#include road-ubo.txt
