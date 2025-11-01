@@ -2114,4 +2114,6 @@ jurnaluldesatumare.ro##.wpb_wrapper.td_block_single_image
 phonline.ro##.banneritem
 phonline.ro###cad-slider
 
+viata-libera.ro##.bannergroup
+
 !#include road-ubo.txt
