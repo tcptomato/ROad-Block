@@ -2111,4 +2111,7 @@ apropomagazin.md##li:not(*:has([href*="apropomagazin.md"], [href^="/"], [href*="
 
 jurnaluldesatumare.ro##.wpb_wrapper.td_block_single_image
 
+phonline.ro##.banneritem
+phonline.ro###cad-slider
+
 !#include road-ubo.txt
