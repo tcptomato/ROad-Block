@@ -2134,4 +2134,6 @@ timisoaraexpress.ro##[href="https://timisoaraexpress.ro/cerere-publicitate/"]
 ||timisoarastiri.ro/*Banner
 ||timisoarastiri.ro/wp-content/uploads/*.gif
 
+timpuldevalcea.net##.widget:not(*:has([href*="timpuldevalcea.net"])):has([href])
+
 !#include road-ubo.txt
