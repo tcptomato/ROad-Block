@@ -2125,4 +2125,6 @@ vestea.net##[href="https://vestea.net/servicii-salubritas-pentru-firme-si-persoa
 jurnalulolteniei.ro##[aria-label*="banner"]
 jurnalulolteniei.ro##.widget:not(*:has([href*="jurnalulolteniei.ro"])):has([href])
 
+stiricraiova.ro##.widget:not(*:has([href*="stiricraiova.ro"])):has([href])
+
 !#include road-ubo.txt
