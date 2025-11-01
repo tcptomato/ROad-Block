@@ -2100,4 +2100,7 @@ diez.md##[src="https://www.delucru.md/recent-jobs"]
 argesfocus.ro##.bannergroup
 argesfocus.ro###popper_content
 
+argesexpres.ro##[href^="/images/pub/"]
+argesexpres.ro##.uk-panel-title:has-text(PUBLICITATE)
+
 !#include road-ubo.txt
