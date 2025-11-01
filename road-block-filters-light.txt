@@ -2120,4 +2120,6 @@ vestea.net##aside[id^="media"]:not(*:has([href])) [src]
 vestea.net##aside.widget:not(*:has([href], [src*="youtube.com"])) [src]
 vestea.net##[href="https://vestea.net/servicii-salubritas-pentru-firme-si-persoane-fizice/"]
 
+||euro-firms.eu/reclame/$image
+
 !#include road-ubo.txt
