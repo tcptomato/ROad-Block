@@ -2122,4 +2122,7 @@ vestea.net##[href="https://vestea.net/servicii-salubritas-pentru-firme-si-persoa
 
 ||euro-firms.eu/reclame/$image
 
+jurnalulolteniei.ro##[aria-label*="banner"]
+jurnalulolteniei.ro##.widget:not(*:has([href*="jurnalulolteniei.ro"])):has([href])
+
 !#include road-ubo.txt
