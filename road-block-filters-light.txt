@@ -2144,4 +2144,6 @@ timpuldevalcea.net##.widget:not(*:has([href*="timpuldevalcea.net"])):has([href])
 bunaziuafagaras.ro##.ads-only-aside
 bunaziuafagaras.ro##.wp-block-template-part:has-text(Publicitate)
 
+||atacul.ro/*.gif$image
+
 !#include road-ubo.txt
