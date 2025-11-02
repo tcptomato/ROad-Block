@@ -2136,4 +2136,10 @@ timisoaraexpress.ro##[href="https://timisoaraexpress.ro/cerere-publicitate/"]
 
 timpuldevalcea.net##.widget:not(*:has([href*="timpuldevalcea.net"])):has([href])
 
+||bunaziuafagaras.ro/*reclama$image
+||bunaziuafagaras.ro/*banner$image
+||bunaziuafagaras.ro/*.gif$image
+bunaziuafagaras.ro##.ads-only-aside
+bunaziuafagaras.ro##.wp-block-template-part:has-text(Publicitate)
+
 !#include road-ubo.txt
