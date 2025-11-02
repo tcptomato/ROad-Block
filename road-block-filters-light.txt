@@ -2146,4 +2146,7 @@ bunaziuafagaras.ro##.wp-block-template-part:has-text(Publicitate)
 
 ||atacul.ro/*.gif$image
 
+||urbeamea.ro/albaiulia/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/
+||urbeamea.ro/albaiulia/wp-content/uploads/3d-flip-book/
+
 !#include road-ubo.txt
