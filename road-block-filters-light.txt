@@ -1829,6 +1829,8 @@ clubmercedes.ro##.axd
 atacdeconstanta.com##[id^="banner"]
 atacdeconstanta.com##[href="https://www.iuliuscompany.ro/"]
 atacdeconstanta.com##aside[id^="media"]
+atacdeconstanta.com##ul:has([href^="https://bit.ly"])
+atacdeconstanta.com##.size-large[srcset]
 
 ! economica. net ph, ads
 ||adc-teasers.com^
