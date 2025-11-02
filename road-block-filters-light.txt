@@ -1736,6 +1736,8 @@ coinjournal.net#?#.py-6:-abp-has([href*="/etoro"])
 ||pornlash.com^
 eporno.ro,filme-porno.ro##.cxADBlock
 eporno.ro,filme-porno.ro##.videoPlayerAD
+e-porno.ro##.global-army
+e-porno.ro##.right
 ||femeisingure.net^$doc
 ||easyaff.net/?ref$doc
 
