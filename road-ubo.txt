@@ -102,7 +102,7 @@ lovendal.ro##+js(noeval-if, ads)
 emag.*##.container:has([data-tracking-alias^="sponsored_products"])
 
 ! image background
-gsp.ro##+js(rmnt, style, /@media.*url/gms)
+gsp.ro##+js(rmnt, script, document.body.classList.add)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/183110
 ||business24.ro/index.php?module=getActiveBlockerContent.ajxinternal
