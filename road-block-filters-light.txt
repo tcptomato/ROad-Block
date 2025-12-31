@@ -91,6 +91,7 @@ hotnews.ro##.parteneri
 hotnews.ro##.at-widget-anunturi
 
 libertatea.ro###floating
+libertatea.ro##[id^="piano-content"]
 @@||googletagmanager.com/gtm.js$script,domain=libertatea.ro
 @@||onesignal.com/api/*/sync/$script,domain=libertatea.ro
 @@||onesignal.com/sdks/OneSignalSDKStyles.css$stylesheet,domain=libertatea.ro
