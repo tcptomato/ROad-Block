@@ -754,6 +754,7 @@ qreferat.com##[style^="overflow:auto;"]
 jurnalul.ro#?#.DAGInScrollInner:-abp-has(.bannerBox)
 jurnalul.ro##.bannerGrey
 jurnalul.ro###ribbon
+jurnalul.ro##.push-notification
 
 protv.ro##.brandingDfp
 protv.ro#?#.container.billboard-1-index:-abp-has([id^="div-gpt-ad"])
