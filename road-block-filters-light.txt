@@ -2160,4 +2160,6 @@ bunaziuafagaras.ro##.wp-block-template-part:has-text(Publicitate)
 
 programtv.ro##.py-5.px-3.background-white
 
+xfilme.ro##.fakeplayer
+
 !#include road-ubo.txt
