@@ -2162,4 +2162,6 @@ programtv.ro##.py-5.px-3.background-white
 
 xfilme.ro##.fakeplayer
 
+desene.3xforum.ro##.punmain:has([rel="sponsored"])
+
 !#include road-ubo.txt
