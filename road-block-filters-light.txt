@@ -2165,4 +2165,7 @@ xfilme.ro##.fakeplayer
 
 desene.3xforum.ro##.punmain:has([rel="sponsored"])
 
+||money.ro/*banner$image
+60m.ro##[href^="https://www.money.ro/"]
+
 !#include road-ubo.txt
