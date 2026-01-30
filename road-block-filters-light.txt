@@ -2165,6 +2165,7 @@ programtv.ro##.py-5.px-3.background-white
 xfilme.ro##.fakeplayer
 
 desene.3xforum.ro##.punmain:has([rel="sponsored"])
+desene.3xforum.ro##.no-mob.puncon1
 
 ||money.ro/*banner$image
 60m.ro##[href^="https://www.money.ro/"]
