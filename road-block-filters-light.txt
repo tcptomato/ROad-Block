@@ -1921,6 +1921,7 @@ comisarul.ro###parteneri_top
 comisarul.ro##[id^="reclama"]
 
 meoo.ro##[onclick*="open"]
+meoo.ro###buttonposter.blue
 
 ||rotalianul.com/wp-content/uploads/ads/$image
 rotalianul.com##.ad-continue
