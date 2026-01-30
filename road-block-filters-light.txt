@@ -2172,4 +2172,6 @@ money.ro##[class^="ad-mobile-"]
 descopera.ro##[data-placeholder]:has([id^="gpt-ad"])
 descopera.ro###tvdpl
 
+monitorulneamt.ro##[style="width: 100%; display: flex; justify-content: center; align-items: center; margin: 30px 0;"]
+
 !#include road-ubo.txt
