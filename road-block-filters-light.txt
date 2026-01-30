@@ -1970,9 +1970,6 @@ kimbino.ro##.ad
 
 observatornews.ro##.outstream-text:has(.banner)
 
-tvonline123.com#@##ads-container
-tvonline123.com##.video-container:has([href*="?key="])
-
 acasatv.protv.ro##[id]:has(script)
 
 lovedeco.ro###billboard
