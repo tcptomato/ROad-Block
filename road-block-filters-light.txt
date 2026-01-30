@@ -2165,6 +2165,8 @@ desene.3xforum.ro##.punmain:has([rel="sponsored"])
 desene.3xforum.ro##.no-mob.puncon1
 
 ||money.ro/*banner$image
+money.ro##[class^="ad-desktop-"]
+money.ro##[class^="ad-mobile-"]
 60m.ro##[href^="https://www.money.ro/"]
 
 descopera.ro##[data-placeholder]:has([id^="gpt-ad"])
