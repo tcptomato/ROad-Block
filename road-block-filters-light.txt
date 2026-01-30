@@ -2167,4 +2167,7 @@ desene.3xforum.ro##.no-mob.puncon1
 ||money.ro/*banner$image
 60m.ro##[href^="https://www.money.ro/"]
 
+descopera.ro##[data-placeholder]:has([id^="gpt-ad"])
+descopera.ro###tvdpl
+
 !#include road-ubo.txt
