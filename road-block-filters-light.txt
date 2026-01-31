@@ -2178,4 +2178,11 @@ monitorulneamt.ro##[style="width: 100%; display: flex; justify-content: center; 
 
 actualitati-arad.ro##.widget_block:not(*:has([href*="actualitati-arad.ro"],[href="https://presadeazi.ro/"]))
 
+liberinteleorman.ro###simple-banner
+liberinteleorman.ro##.before-header
+liberinteleorman.ro##.size-large.attachment-large
+liberinteleorman.ro##.align-center.about-wrapper > .widget-title
+liberinteleorman.ro##.ad56__wrapper
+liberinteleorman.ro###mobile-banner
+
 !#include road-ubo.txt
