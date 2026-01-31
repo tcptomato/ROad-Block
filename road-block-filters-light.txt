@@ -2174,4 +2174,6 @@ descopera.ro###tvdpl
 
 monitorulneamt.ro##[style="width: 100%; display: flex; justify-content: center; align-items: center; margin: 30px 0;"]
 
+||livearad.ro/*advert
+
 !#include road-ubo.txt
