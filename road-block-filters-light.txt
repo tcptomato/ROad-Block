@@ -2176,4 +2176,6 @@ monitorulneamt.ro##[style="width: 100%; display: flex; justify-content: center; 
 
 ||livearad.ro/*advert
 
+actualitati-arad.ro##.widget_block:not(*:has([href*="actualitati-arad.ro"],[href="https://presadeazi.ro/"]))
+
 !#include road-ubo.txt
