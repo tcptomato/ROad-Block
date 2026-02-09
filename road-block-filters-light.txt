@@ -2190,4 +2190,6 @@ liberinteleorman.ro###mobile-banner
 
 altex.ro,mediagalaxy.ro##[class^="ffrWebAdvertising"]
 
+telegraph.md##.widget_custom_html:has-text(Publicitate)
+
 !#include road-ubo.txt
