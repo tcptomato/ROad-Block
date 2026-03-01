@@ -130,6 +130,7 @@ stiripesurse.ro##[href="https://www.stiripesurse.ro/ardereaesteproblema"]
 ||media.stiripesurse.ro/assets/img/ads_$frame
 stiripesurse.ro##.banner-sales-soma
 ||stiripesurse.ro/images/ads-images/
+stiripesurse.ro##.truvid-player
 
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
