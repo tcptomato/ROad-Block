@@ -2196,4 +2196,6 @@ altex.ro,mediagalaxy.ro##[class^="ffrWebAdvertising"]
 
 telegraph.md##.widget_custom_html:has-text(Publicitate)
 
+stiripesurse.md##[class^="reclama"]
+
 !#include road-ubo.txt
