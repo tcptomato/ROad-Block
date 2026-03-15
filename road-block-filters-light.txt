@@ -2198,4 +2198,6 @@ telegraph.md##.widget_custom_html:has-text(Publicitate)
 
 stiripesurse.md##[class^="reclama"]
 
+fsonline.app##.ml-popup-overlay
+
 !#include road-ubo.txt
