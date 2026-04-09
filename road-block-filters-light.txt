@@ -2204,4 +2204,6 @@ stiripesurse.md##[class^="reclama"]
 
 fsonline.app##.ml-popup-overlay
 
+tpu.ro##.banner-box
+
 !#include road-ubo.txt
