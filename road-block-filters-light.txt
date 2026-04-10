@@ -2206,4 +2206,6 @@ fsonline.app##.ml-popup-overlay
 
 tpu.ro##.banner-box
 
+ipn.md##header > .elementor-element:has(script)
+
 !#include road-ubo.txt
