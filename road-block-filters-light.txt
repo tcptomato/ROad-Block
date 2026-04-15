@@ -2208,4 +2208,9 @@ tpu.ro##.banner-box
 
 ipn.md##header > .elementor-element:has(script)
 
+point.md##[class] > [class]:has([data-banner-position="Top"])
+point.md##div[class]:has(> a[href*="://sales.simpals.com/"][href*="banner"])
+point.md##[data-banner-name*="Banner"]
+point.md##aside > [class]:has([data-banner-name*="Banner"])
+
 !#include road-ubo.txt
