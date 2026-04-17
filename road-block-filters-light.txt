@@ -1411,6 +1411,8 @@ stiri.md##.desktopBranding
 stiri.md##[href*="banner"]
 stiri.md##[data-banner-name]:upward([class^="mocked-styled"]):not(*:has(.content-banner))
 stiri.md##[data-testid="source-url"]:not(*:has([href*="stiri.md"]))
+stiri.md##[class*="AdWrapper"]
+stiri.md##.desktop-branding-wrapper
 
 ||ziarulincomod.ro^*gif$image
 ziarulincomod.ro#?#.td-a-rec:-abp-has([href*="350x350"])
