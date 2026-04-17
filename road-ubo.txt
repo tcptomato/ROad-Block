@@ -149,3 +149,5 @@ tvonline.to##.preload-ad-overlay:remove()
 
 ! detection
 softinfo.ro##+js(rmnt, script, var Data)
+
+tvmd.info##+js(nowoif)

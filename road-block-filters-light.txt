@@ -2221,4 +2221,7 @@ point.md##aside > [class]:has([data-banner-name*="Banner"])
 
 okazii.ro##[style]:has-text(Publicitate)
 
+||deltarockme.com^
+||beesratyou.com^
+
 !#include road-ubo.txt
