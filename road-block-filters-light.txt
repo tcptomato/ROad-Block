@@ -2111,7 +2111,10 @@ obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [hr
 
 ziuaveche.ro##[align="center"]:not(*:has([href*="ziuaveche.ro"], [href*="facebook.com"], [href="#"])):has([href])
 
-tv8.md##[style="height:250px"]:has([id^="admixer"])
+tv8.md##[style*="250px"]:has([id^="admixer"])
+tv8.md##[style*="90px"]:has([id^="admixer"])
+tv8.md##[style*="600px"]:has([id^="admixer"])
+tv8.md##.ad-container
 
 ||adv.noi.md^
 noi.md##.top-bnr
