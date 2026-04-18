@@ -1267,6 +1267,8 @@ gazetadambovitei.ro##.custom-html-widget
 mobilissimo.ro##.banner
 mobilissimo.ro##.profitshare
 mobilissimo.ro##.aboveDisqusBanners
+mobilissimo.ro##.banner-top-branding
+mobilissimo.ro###topBanners
 
 ||viata-libera.ro/images/banners/$image
 
