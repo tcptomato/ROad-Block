@@ -2228,4 +2228,7 @@ okazii.ro##[style]:has-text(Publicitate)
 
 lajumate.ro##.hidden:has([id^="ad-"])
 
+jurnaltv.md##.bg-advertoriale
+jurnaltv.md##.bg-gray-1500:has(.fb-comments)
+
 !#include road-ubo.txt
