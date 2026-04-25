@@ -2225,6 +2225,8 @@ okazii.ro##[style]:has-text(Publicitate)
 
 ||deltarockme.com^
 ||beesratyou.com^
+||whitemaincode.com^
+||kdsk32lfa.xyz^
 
 lajumate.ro##.hidden:has([id^="ad-"])
 

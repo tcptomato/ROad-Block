@@ -151,3 +151,4 @@ tvonline.to##.preload-ad-overlay:remove()
 softinfo.ro##+js(rmnt, script, var Data)
 
 tvmd.info##+js(nowoif)
+tvmd.info##+js(rmnt, script, appendChild)
