@@ -2244,4 +2244,6 @@ cronica-gaestiului.ro##.mow_fn_sidebar
 meoo.ro###fake-play-overlay
 meoo.ro##[href*="?key"]
 
+999.md##[class^="styles_ad__banner"]
+
 !#include road-ubo.txt
