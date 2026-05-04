@@ -2248,4 +2248,6 @@ meoo.ro##[href*="?key"]
 
 999.md##[class^="styles_ad__banner"]
 
+realitatea.net##.relative.flex.items-center.justify-center:has([id^="div-gpt-ad"])
+
 !#include road-ubo.txt
