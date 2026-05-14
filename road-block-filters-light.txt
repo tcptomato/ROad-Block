@@ -2065,6 +2065,11 @@ ziarulactualitatea.ro##[href="https://ziarulactualitatea.ro/marea-publicitate/"]
 ziarulactualitatea.ro##aside > .widget_text:not(*:has([href^="https://ziarulactualitatea.ro/"], [href="https://nicolaesilade.blogspot.com/"], [href*="paydemic.com"], [href="https://actualitatealiterara.ro"], [href="https://augustinbercean.com"], [href="https://www.ort.ro/"], [href^="https://www.flashscore.ro/"], [href="http://www.agerpres.ro"])):has([href])
 ziarulactualitatea.ro##.flexslider:has([href*="facebook.com"])
 ziarulactualitatea.ro##[href^="https://retim.ro/"]
+ziarulactualitatea.ro##.widget_text:has-text(PUBLICITATE)
+||ziarulactualitatea.ro/*banner
+||ziarulactualitatea.ro/*/ultima-computers
+||ziarulactualitatea.ro/*/bella-gold
+||ziarulactualitatea.ro/*/macheta
 
 angliamea.ro,germaniamea.ro##.flag-block-wrapper:has(.adsbygoogle)
 
@@ -2261,5 +2266,7 @@ realitatea.net##.relative.flex.items-center.justify-center:has([id^="div-gpt-ad"
 
 orangesport.ro##[href="https://www.veolia.ro/"]
 orangesport.ro##[href^="https://mrbit.ro/"]
+
+||activenews.ro/*/publicitate
 
 !#include road-ubo.txt
