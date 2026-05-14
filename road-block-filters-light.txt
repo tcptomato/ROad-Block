@@ -2251,4 +2251,7 @@ meoo.ro##[href*="?key"]
 
 realitatea.net##.relative.flex.items-center.justify-center:has([id^="div-gpt-ad"])
 
+! as.ro a1.ro observatornews.ro etc
+*fifa-banner$script,1p
+
 !#include road-ubo.txt
