@@ -492,6 +492,7 @@ prosport.ro##.height-250.mg-sm-bottom-20
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=prosport.ro
 prosport.ro##.strawberry-ad
 prosport.ro##[data-platform]:has([id^="div-gpt-ad"])
+prosport.ro###tvdpl
 
 ||s2blosh.com^
 
@@ -897,6 +898,7 @@ onlinesport.ro##.ptate_banner_cmz
 onlinesport.ro##[href="http://www.rcforfun.ro/"]
 onlinesport.ro##.ptate
 onlinesport.ro##[href="https://www.anvelopemag.ro/anvelope-iarna.aspx"]
+onlinesport.ro##[href^="https://record.mypartners360.com/"]
 
 aktual24.ro##.sam__branding
 aktual24.ro##[style="min-height: 250px;"]
@@ -1047,6 +1049,7 @@ stirileprotv.ro###topBranding
 
 sport.ro##.dfp-d-branding
 sport.ro##.dfp-d-billboard
+sport.ro##.desktop-branding
 
 7est.ro##.popmake-content
 7est.ro##.td-a-rec-id-header
@@ -1948,6 +1951,7 @@ rotalianul.com##.sponsored-content-title
 
 gandul.ro##[style]:has(.strawberry-ads-manager-container)
 gandul.ro###tvdpl
+gandul.ro##.gap-10.flex-col
 
 ||gonowx.com^
 
@@ -2253,5 +2257,8 @@ realitatea.net##.relative.flex.items-center.justify-center:has([id^="div-gpt-ad"
 
 ! as.ro a1.ro observatornews.ro etc
 *fifa-banner$script,1p
+
+orangesport.ro##[href="https://www.veolia.ro/"]
+orangesport.ro##[href^="https://mrbit.ro/"]
 
 !#include road-ubo.txt
