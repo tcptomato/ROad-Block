@@ -152,3 +152,6 @@ tvmd.info##+js(rmnt, script, appendChild)
 
 ! unbreak (issue due to uBO filters - map broken on https://www.eventim.ro/event/alifantis-mirica-gemini-2-0-casa-de-cultura-a-sindicatelor-21322560/ )
 @@||stay22.com/embed/$frame,domain=eventim.ro
+
+! https://github.com/uBlockOrigin/uAssets/issues/33146
+canale-tv.net##+js(nowoif, , 1)
