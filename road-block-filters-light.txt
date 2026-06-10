@@ -1836,6 +1836,7 @@ editiedevrancea.ro##[href="https://www.facebook.com/laguna.focsani/"]
 editiedevrancea.ro##[href="http://arosa.ro"]
 editiedevrancea.ro##[href^="https://www.facebook.com/profile.php"]
 editiedevrancea.ro##.gridview-box-inside:has-text(PROMO)
+editiedevrancea.ro##[href="http://mgmotorfocsani.ro"]
 
 roforum.net##[data-widget-key="Reclama"]
 roforum.net##.block-minorHeader
