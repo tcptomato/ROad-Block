@@ -1824,6 +1824,8 @@ republikanews.ro##.rounded.border-gray-200
 super-boost.ro##.border:has([href*="binance.com"])
 
 ||botosaneanul.ro/reclame/$image
+*.gif$domain=botosaneanul.ro,image
+botosaneanul.ro##.home_prezentare.prezentare
 
 editiedevrancea.ro##.gridview-post-ad-two
 editiedevrancea.ro##[href="https://www.facebook.com/reinabijou.ro"]
