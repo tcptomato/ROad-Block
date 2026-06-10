@@ -2276,4 +2276,6 @@ orangesport.ro##[href^="https://mrbit.ro/"]
 ||miscareaderezistenta.ro/*Banner
 miscareaderezistenta.ro##[href="http://www.smartradio.ro/"]
 
+stiri.botosani.ro##[class^="ads"]
+
 !#include road-ubo.txt
