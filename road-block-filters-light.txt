@@ -2284,4 +2284,7 @@ miscareaderezistenta.ro##[href="http://www.smartradio.ro/"]
 
 stiri.botosani.ro##[class^="ads"]
 
+zdg.md##[class^="code"]:has([id^="adocean"])
+zdg.md##[style*="border"]:has([id^="admixer"])
+
 !#include road-ubo.txt
