@@ -2287,4 +2287,6 @@ stiri.botosani.ro##[class^="ads"]
 zdg.md##[class^="code"]:has([id^="adocean"])
 zdg.md##[style*="border"]:has([id^="admixer"])
 
+radioinfinit.ro##.slick-track
+
 !#include road-ubo.txt
