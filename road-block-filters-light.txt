@@ -2313,4 +2313,6 @@ banatulmeu.ro##[href*="utm_campaign"]
 
 banatulazi.ro##[href]:not([href*="banatulazi.ro"], [href^="/"], [href*="#"]):has([src])
 
+ziarultimisoara.ro##.banneritem
+
 !#include road-ubo.txt
