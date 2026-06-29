@@ -2308,4 +2308,7 @@ transilvaniaon.ro,stirilemoldovei.ro,stirilebanatului.ro##[href="https://tradesi
 transilvaniaon.ro,stirilemoldovei.ro,stirilebanatului.ro##[href="https://www.completdental.ro/"]
 transilvaniaon.ro##.wp-block-paragraph:has-text(Publicitate)
 
+banatulmeu.ro##[href]:not([href*="banatulmeu.ro"], [href*="youtube.com"], [href^="/"]):has([src])
+banatulmeu.ro##[href*="utm_campaign"]
+
 !#include road-ubo.txt
