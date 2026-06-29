@@ -155,3 +155,6 @@ tvmd.info##+js(rmnt, script, appendChild)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33146
 canale-tv.net##+js(nowoif, , 1)
+
+! https://github.com/tcptomato/ROad-Block/issues/431#issuecomment-4831983334
+filmexxx.live,pizde.live##+js(nostif, appendChild)
