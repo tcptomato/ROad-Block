@@ -2297,4 +2297,7 @@ dincolodesport.eu##[href^="https://www.facebook.com/"]
 dincolodesport.eu##[href="https://coica.ro/"]
 dincolodesport.eu##[href^="https://www.tiktok.com/"]
 
+debanat.ro##.widget:not(*:has([href*="debanat.ro"], [href^="/"])):has([href])
+debanat.ro##.custom-html-widget:has([onclick])
+
 !#include road-ubo.txt
