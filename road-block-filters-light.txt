@@ -2300,4 +2300,11 @@ dincolodesport.eu##[href^="https://www.tiktok.com/"]
 debanat.ro##.widget:not(*:has([href*="debanat.ro"], [href^="/"])):has([href])
 debanat.ro##.custom-html-widget:has([onclick])
 
+stirilebanatului.ro##.widget:not(*:has([href*="stirilebanatului.ro"], [href^="/"], center)):has([href])
+stirilebanatului.ro##.wp-block-heading
+stirilebanatului.ro##[href="https://msmileorto.ro/"]
+stirilebanatului.ro##[href="https://www.twelvetransfers.co.uk/"]
+stirilebanatului.ro##[href="https://tradesilvania.com/"]
+stirilebanatului.ro##[href="https://www.completdental.ro/"]
+
 !#include road-ubo.txt
