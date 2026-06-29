@@ -2311,4 +2311,6 @@ transilvaniaon.ro##.wp-block-paragraph:has-text(Publicitate)
 banatulmeu.ro##[href]:not([href*="banatulmeu.ro"], [href*="youtube.com"], [href^="/"]):has([src])
 banatulmeu.ro##[href*="utm_campaign"]
 
+banatulazi.ro##[href]:not([href*="banatulazi.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
