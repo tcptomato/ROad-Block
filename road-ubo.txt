@@ -161,3 +161,6 @@ filmebro.com,futai.live,xxx1.link,nimfomane.org,pornofilmexxx.net,pornobi.net,fi
 
 ! https://github.com/tcptomato/ROad-Block/issues/717
 embedsun.cc##+js(nowoif)
+
+! https://github.com/tcptomato/ROad-Block/issues/719
+filmeonline123.com##+js(nowoif)
