@@ -2312,4 +2312,6 @@ infotulcea.ro##[href]:not([href*="infotulcea.ro"], [href^="/"], [href*="#"]):has
 
 ##[href*="/add.php"]
 
+turnulsfatului.ro##.tsai
+
 !#include road-ubo.txt
