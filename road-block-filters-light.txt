@@ -2303,4 +2303,7 @@ ziarultimisoara.ro##.banneritem
 ziarulamprenta.ro##[href]:not([href*="ziarulamprenta.ro"], [href^="/"], [href*="#"]):has([src])
 ziarulamprenta.ro##.full-w-communication
 
+tulceanoastra.ro##[href]:not([href*="tulceanoastra.ro"], [href^="/"], [href*="#"]):has([src])
+tulceanoastra.ro##.box > .home-top-img
+
 !#include road-ubo.txt
