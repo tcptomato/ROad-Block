@@ -825,9 +825,6 @@ ziare.com##[id^="div-gpt-ad"]
 
 b365.ro##.height-250:has(.strawberry-ads)
 
-nationalisti.ro##.widget-container:has(ins.adsbygoogle)
-nationalisti.ro##[href="https://www.incorectpolitic.com"]
-
 incorectpolitic.com##.widget-container:has([href^="http://thecryptobot.com"])
 
 divahair.ro##.featuredBrandsCon
