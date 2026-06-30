@@ -2298,4 +2298,6 @@ banatulazi.ro##[href]:not([href*="banatulazi.ro"], [href^="/"], [href*="#"]):has
 
 ziarultimisoara.ro##.banneritem
 
+||zfilmeonline.ro/scripts.js$script
+
 !#include road-ubo.txt
