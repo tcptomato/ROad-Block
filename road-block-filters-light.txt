@@ -2309,4 +2309,6 @@ tulceanoastra.ro##.box > .home-top-img
 infotulcea.ro##[href]:not([href*="infotulcea.ro"], [href^="/"], [href*="#"]):has([src])
 ||infotulcea.ro/wp-content/uploads/*navrom-delta*$image
 
+##[href*="/add.php"]
+
 !#include road-ubo.txt
