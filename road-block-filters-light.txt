@@ -2314,4 +2314,7 @@ infotulcea.ro##[href]:not([href*="infotulcea.ro"], [href^="/"], [href*="#"]):has
 
 turnulsfatului.ro##.tsai
 
+tribuna.ro##.advertising
+tribuna.ro##[class*="ads"]
+
 !#include road-ubo.txt
