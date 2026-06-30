@@ -2300,4 +2300,7 @@ ziarultimisoara.ro##.banneritem
 
 ||zfilmeonline.ro/scripts.js$script
 
+ziarulamprenta.ro##[href]:not([href*="ziarulamprenta.ro"], [href^="/"], [href*="#"]):has([src])
+ziarulamprenta.ro##.full-w-communication
+
 !#include road-ubo.txt
