@@ -2402,4 +2402,6 @@ voceafagarasenilor.ro##.widget_media_image
 
 ampress.ro##[href]:not([href*="ampress.ro"], [href^="/"], [href*="#"]):has([src])
 
+actualitateabotosaneana.ro##[id^="ads"]
+
 !#include road-ubo.txt
