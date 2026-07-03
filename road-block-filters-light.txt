@@ -2369,4 +2369,6 @@ rasunetul.ro##[href]:not([href*="rasunetul.ro"], [href^="/"], [href*="#"]):has([
 ||rasunetul.ro/*/adfiles$image
 ||rasunetul.ro/sites/default/files/reclame/$image
 
+ziarulevenimentul.ro##[href]:not([href*="ziarulevenimentul.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
