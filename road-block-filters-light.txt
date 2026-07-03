@@ -2387,4 +2387,6 @@ magazinsalajean.ro##[href]:not([href*="magazinsalajean.ro"], [href*="youtube.com
 ||magazinsalajean.ro/*/traducator-copy*.jpg$image
 ||magazinsalajean.ro/*/just*.jpg$image
 
+monitorfg.ro##.widget:has-text(Publicitate)
+
 !#include road-ubo.txt
