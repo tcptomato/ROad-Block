@@ -2365,4 +2365,8 @@ bistritaexpress.ro##[href]:not([href*="bistritaexpress.ro"], [href^="/"], [href*
 bacau.net##[href]:not([href*="bacau.net"], [href^="/"], [href*="#"]):has([src])
 bacau.net##.widget_block:has-text(Publicitate)
 
+rasunetul.ro##[href]:not([href*="rasunetul.ro"], [href^="/"], [href*="#"]):has([src])
+||rasunetul.ro/*/adfiles$image
+||rasunetul.ro/sites/default/files/reclame/$image
+
 !#include road-ubo.txt
