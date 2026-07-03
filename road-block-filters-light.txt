@@ -2348,4 +2348,6 @@ dinpolitica.ro##[href]:not([href*="dinpolitica.ro"], [href*="politiclive.ro"], [
 
 constantadeazi.ro##[href]:not([href*="constantadeazi.ro"], [href^="/"], [href*="#"]):has([src])
 
+iasitvlife.ro##[href]:not([href*="iasitvlife.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
