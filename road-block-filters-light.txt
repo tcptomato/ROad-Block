@@ -2395,4 +2395,9 @@ fagarasultau.ro##.widget.widget_media_image
 
 ||tvfagaras.ro/*/my-flyer$image
 
+voceafagarasenilor.ro##[href]:not([href*="voceafagarasenilor.ro"], [href*="wetter2.com"], [href*="facebook.com"], [href*="youtube.com"], [href*="x.com"], [href^="/"], [href*="#"]):has([src])
+voceafagarasenilor.ro##[href="https://www.facebook.com/CityRideTaxi/"]
+voceafagarasenilor.ro##.vf-ad-card
+voceafagarasenilor.ro##.widget_media_image
+
 !#include road-ubo.txt
