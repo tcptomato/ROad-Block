@@ -2371,4 +2371,6 @@ rasunetul.ro##[href]:not([href*="rasunetul.ro"], [href^="/"], [href*="#"]):has([
 
 ziarulevenimentul.ro##[href]:not([href*="ziarulevenimentul.ro"], [href^="/"], [href*="#"]):has([src])
 
+media9.ro##[href]:not([href*="media9.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
