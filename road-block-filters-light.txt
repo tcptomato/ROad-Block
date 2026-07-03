@@ -2389,4 +2389,8 @@ magazinsalajean.ro##[href]:not([href*="magazinsalajean.ro"], [href*="youtube.com
 
 monitorfg.ro##.widget:has-text(Publicitate)
 
+fagarasultau.ro##[href]:not([href*="fagarasultau.ro"], [href^="/"], [href*="#"]):has([src])
+fagarasultau.ro##.widget.widget_simpleimage
+fagarasultau.ro##.widget.widget_media_image
+
 !#include road-ubo.txt
