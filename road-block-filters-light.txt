@@ -2393,4 +2393,6 @@ fagarasultau.ro##[href]:not([href*="fagarasultau.ro"], [href^="/"], [href*="#"])
 fagarasultau.ro##.widget.widget_simpleimage
 fagarasultau.ro##.widget.widget_media_image
 
+||tvfagaras.ro/*/my-flyer$image
+
 !#include road-ubo.txt
