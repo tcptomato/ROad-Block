@@ -2335,4 +2335,6 @@ monitoruldesalaj.ro##.advertise-area
 monitoruldesalaj.ro##[href*="utm_campaign"]
 monitoruldesalaj.ro##[src*="delcar"]
 
+ztv.ro##.widget_media_image
+
 !#include road-ubo.txt
