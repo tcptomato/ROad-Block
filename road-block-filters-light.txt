@@ -2340,4 +2340,8 @@ ztv.ro##.widget_media_image
 gazetadebistrita.ro##[href]:not([href*="gazetadebistrita.ro"], [href*="youtube.com"], [href^="/"], [href*="#"]):has([src])
 gazetadebistrita.ro##.td-g-rec:has(.adsbygoogle)
 
+bistritabusiness.ro##[href]:not([href*="bistritabusiness.ro"], [href*="xyoutube.com"], [href^="/"], [href*="#"]):has([src])
+bistritabusiness.ro##.header-banner
+bistritabusiness.ro##.widget:has-text(PUB)
+
 !#include road-ubo.txt
