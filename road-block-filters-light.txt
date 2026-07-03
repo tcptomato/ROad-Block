@@ -2352,4 +2352,6 @@ iasitvlife.ro##[href]:not([href*="iasitvlife.ro"], [href^="/"], [href*="#"]):has
 
 clujenii.ro##[href]:not([href*="clujenii.ro"], [href*="europa.eu"], [href*="anpc.ro"], [href^="/"], [href*="#"]):has([src])
 
+actualdecluj.ro##[href]:not([href*="actualdecluj.ro"], [href*="g4media.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
