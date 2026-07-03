@@ -2375,7 +2375,10 @@ media9.ro##[href]:not([href*="media9.ro"], [href^="/"], [href*="#"]):has([src])
 
 wikipress.ro##[href]:not([href*="wikipress.ro"], [href*="forms.gle"], [href^="/"], [href*="#"]):has([src])
 
-salutfagaras.ro##[href]:not([href*="salutfagaras.ro"], [href*="forms.gle"], [href^="/"], [href*="#"]):has([src])
+salutfagaras.ro##[href]:not([href*="salutfagaras.ro"], [href^="/"], [href*="#"]):has([src])
 ||cdn.shortpixel.ai/spai/*/florian-shaorma.jpg$image
+
+ct100.ro##[href]:not([href*="ct100.ro"], [href^="/"], [href*="#"]):has([src])
+ct100.ro##.twp-ad
 
 !#include road-ubo.txt
