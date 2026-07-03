@@ -2346,4 +2346,6 @@ bistritabusiness.ro##.widget:has-text(PUB)
 
 dinpolitica.ro##[href]:not([href*="dinpolitica.ro"], [href*="politiclive.ro"], [href^="/"], [href*="#"]):has([src])
 
+constantadeazi.ro##[href]:not([href*="constantadeazi.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
