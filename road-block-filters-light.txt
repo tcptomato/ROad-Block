@@ -2350,4 +2350,6 @@ constantadeazi.ro##[href]:not([href*="constantadeazi.ro"], [href^="/"], [href*="
 
 iasitvlife.ro##[href]:not([href*="iasitvlife.ro"], [href^="/"], [href*="#"]):has([src])
 
+clujenii.ro##[href]:not([href*="clujenii.ro"], [href*="europa.eu"], [href*="anpc.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
