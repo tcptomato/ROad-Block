@@ -2400,4 +2400,6 @@ voceafagarasenilor.ro##[href="https://www.facebook.com/CityRideTaxi/"]
 voceafagarasenilor.ro##.vf-ad-card
 voceafagarasenilor.ro##.widget_media_image
 
+ampress.ro##[href]:not([href*="ampress.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
