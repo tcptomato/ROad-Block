@@ -2357,4 +2357,7 @@ actualdecluj.ro##[href]:not([href*="actualdecluj.ro"], [href*="g4media.ro"], [hr
 infoialomita.ro##[href]:not([href*="infoialomita.ro"], [href^="/"], [href*="#"]):has([src])
 infoialomita.ro##.fancybox
 
+mesagerulbacau.ro##[href]:not([href*="mesagerulbacau.ro"], [href^="/"], [href*="#"]):has([src])
+mesagerulbacau.ro##.heading:has-text(PUBLICITATE)
+
 !#include road-ubo.txt
