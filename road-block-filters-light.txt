@@ -2337,4 +2337,7 @@ monitoruldesalaj.ro##[src*="delcar"]
 
 ztv.ro##.widget_media_image
 
+gazetadebistrita.ro##[href]:not([href*="gazetadebistrita.ro"], [href*="youtube.com"], [href^="/"], [href*="#"]):has([src])
+gazetadebistrita.ro##.td-g-rec:has(.adsbygoogle)
+
 !#include road-ubo.txt
