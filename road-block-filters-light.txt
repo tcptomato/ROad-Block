@@ -2373,4 +2373,6 @@ ziarulevenimentul.ro##[href]:not([href*="ziarulevenimentul.ro"], [href^="/"], [h
 
 media9.ro##[href]:not([href*="media9.ro"], [href^="/"], [href*="#"]):has([src])
 
+wikipress.ro##[href]:not([href*="wikipress.ro"], [href*="forms.gle"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
