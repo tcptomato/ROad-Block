@@ -2381,4 +2381,10 @@ salutfagaras.ro##[href]:not([href*="salutfagaras.ro"], [href^="/"], [href*="#"])
 ct100.ro##[href]:not([href*="ct100.ro"], [href^="/"], [href*="#"]):has([src])
 ct100.ro##.twp-ad
 
+magazinsalajean.ro##[href]:not([href*="magazinsalajean.ro"], [href*="youtube.com"], [href*="caietesilvane.ro"], [href*="ajs.ro"], [href^="/"], [href*="#"]):has([src])
+||magazinsalajean.ro/*.gif$image
+||magazinsalajean.ro/*/meses$image
+||magazinsalajean.ro/*/traducator-copy*.jpg$image
+||magazinsalajean.ro/*/just*.jpg$image
+
 !#include road-ubo.txt
