@@ -2360,4 +2360,6 @@ infoialomita.ro##.fancybox
 mesagerulbacau.ro##[href]:not([href*="mesagerulbacau.ro"], [href^="/"], [href*="#"]):has([src])
 mesagerulbacau.ro##.heading:has-text(PUBLICITATE)
 
+bistritaexpress.ro##[href]:not([href*="bistritaexpress.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
