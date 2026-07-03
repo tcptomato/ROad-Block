@@ -2319,4 +2319,12 @@ tribuna.ro##[class*="ads"]
 
 fidelis.ro##span:has-text(Publicitate)
 
+salajulliber.ro##[href]:not([href*="salajulliber.ro"], [href^="https://crucearosiesalaj.ro"], [href^="/"], [href*="#"]):has([src])
+salajulliber.ro##[src*="Banner"]
+salajulliber.ro##[src*="banner"]
+salajulliber.ro##[alt="cover"]
+salajulliber.ro##.widget_media_image
+salajulliber.ro##[alt*="Pub"]
+salajulliber.ro##[src*="top-sim.jpg"]
+
 !#include road-ubo.txt
