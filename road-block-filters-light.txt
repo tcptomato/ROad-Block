@@ -2354,4 +2354,7 @@ clujenii.ro##[href]:not([href*="clujenii.ro"], [href*="europa.eu"], [href*="anpc
 
 actualdecluj.ro##[href]:not([href*="actualdecluj.ro"], [href*="g4media.ro"], [href^="/"], [href*="#"]):has([src])
 
+infoialomita.ro##[href]:not([href*="infoialomita.ro"], [href^="/"], [href*="#"]):has([src])
+infoialomita.ro##.fancybox
+
 !#include road-ubo.txt
