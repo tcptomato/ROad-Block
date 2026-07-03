@@ -2317,4 +2317,6 @@ turnulsfatului.ro##.tsai
 tribuna.ro##.advertising
 tribuna.ro##[class*="ads"]
 
+fidelis.ro##span:has-text(Publicitate)
+
 !#include road-ubo.txt
