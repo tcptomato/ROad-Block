@@ -2327,4 +2327,11 @@ salajulliber.ro##.widget_media_image
 salajulliber.ro##[alt*="Pub"]
 salajulliber.ro##[src*="top-sim.jpg"]
 
+monitoruldesalaj.ro##[href]:not([href*="monitoruldesalaj.ro"], [href^="/"], [href*="#"]):has([src])
+monitoruldesalaj.ro##.header-banner
+monitoruldesalaj.ro##p:has([src][sizes][srcset])
+monitoruldesalaj.ro##.advertise-area
+monitoruldesalaj.ro##[href*="utm_campaign"]
+monitoruldesalaj.ro##[src*="delcar"]
+
 !#include road-ubo.txt
