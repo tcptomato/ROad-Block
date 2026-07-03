@@ -2362,4 +2362,7 @@ mesagerulbacau.ro##.heading:has-text(PUBLICITATE)
 
 bistritaexpress.ro##[href]:not([href*="bistritaexpress.ro"], [href^="/"], [href*="#"]):has([src])
 
+bacau.net##[href]:not([href*="bacau.net"], [href^="/"], [href*="#"]):has([src])
+bacau.net##.widget_block:has-text(Publicitate)
+
 !#include road-ubo.txt
