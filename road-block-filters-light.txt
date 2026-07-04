@@ -2407,4 +2407,7 @@ actualitateabotosaneana.ro##[id^="ads"]
 obiectivbr.ro##[href]:not([href*="obiectivbr.ro"], [href^="/"], [href*="#"]):has([src])
 obiectivbr.ro##[class*="banner"]:not(*:has([href*="obiectivbr.ro"]))
 
+voceatimisului.ro##[href]:not([href*="voceatimisului.ro"], [href^="/"], [href*="#"]):has([src])
+voceatimisului.ro##.td-block-title-wrap:has-text(PUB)
+
 !#include road-ubo.txt
