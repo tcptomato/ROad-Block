@@ -2404,4 +2404,7 @@ ampress.ro##[href]:not([href*="ampress.ro"], [href^="/"], [href*="#"]):has([src]
 
 actualitateabotosaneana.ro##[id^="ads"]
 
+obiectivbr.ro##[href]:not([href*="obiectivbr.ro"], [href^="/"], [href*="#"]):has([src])
+obiectivbr.ro##[class*="banner"]:not(*:has([href*="obiectivbr.ro"]))
+
 !#include road-ubo.txt
