@@ -2415,4 +2415,7 @@ reper24.ro##.sa_vert_center
 ||reper24.ro/*.gif$image
 ||reper24.ro/*/brantner$image
 
+ieseanul.com##[href="https://www.palasmall.ro"]
+||ieseanul.com/*.gif$image
+
 !#include road-ubo.txt
