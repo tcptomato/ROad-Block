@@ -2410,4 +2410,9 @@ obiectivbr.ro##[class*="banner"]:not(*:has([href*="obiectivbr.ro"]))
 voceatimisului.ro##[href]:not([href*="voceatimisului.ro"], [href^="/"], [href*="#"]):has([src])
 voceatimisului.ro##.td-block-title-wrap:has-text(PUB)
 
+reper24.ro##.sa_vert_center
+||reper24.ro/*banner$image
+||reper24.ro/*.gif$image
+||reper24.ro/*/brantner$image
+
 !#include road-ubo.txt
