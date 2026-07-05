@@ -2425,4 +2425,6 @@ gazetanord-vest.ro##[href]:not([href*="gazetanord-vest.ro"], [href^="/"], [href*
 gazetanord-vest.ro##.ow-block-media
 ||cdn.ottoweb.ro/*/ads/
 
+jurnaldeilfov.ro##[href]:not([href*="jurnaldeilfov.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
