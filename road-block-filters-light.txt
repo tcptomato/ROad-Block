@@ -2421,4 +2421,8 @@ ieseanul.com##[href="https://www.palasmall.ro"]
 gherlainfo.ro##[href="https://www.gama-optic.ro/"]
 gherlainfo.ro##body > div > [href] > picture
 
+gazetanord-vest.ro##[href]:not([href*="gazetanord-vest.ro"], [href^="/"], [href*="#"]):has([src])
+gazetanord-vest.ro##.ow-block-media
+||cdn.ottoweb.ro/*/ads/
+
 !#include road-ubo.txt
