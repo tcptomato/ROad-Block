@@ -2418,4 +2418,7 @@ reper24.ro##.sa_vert_center
 ieseanul.com##[href="https://www.palasmall.ro"]
 ||ieseanul.com/*.gif$image
 
+gherlainfo.ro##[href="https://www.gama-optic.ro/"]
+gherlainfo.ro##body > div > [href] > picture
+
 !#include road-ubo.txt
