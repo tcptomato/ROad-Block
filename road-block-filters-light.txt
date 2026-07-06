@@ -2431,4 +2431,9 @@ tipli.ro##.relative:has-text(/PUB|REKLAMA/)
 
 mooldo.ro##.border:has-text(Pub)
 
+botosaninews.ro##[href]:not([href*="botosaninews.ro"], [href^="/"], [href*="#"]):has([src])
+botosaninews.ro##.banner-wrapper
+botosaninews.ro##[class*="banner"]
+||botosaninews.ro/*.gif$image
+
 !#include road-ubo.txt
