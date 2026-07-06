@@ -2438,4 +2438,6 @@ botosaninews.ro##[class*="banner"]
 
 botosaninecenzurat.ro##[href]:not([href*="botosaninecenzurat.ro"], [href^="/"], [href*="#"]):has([src])
 
+gazetabt.ro##[href]:not([href*="gazetabt.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
