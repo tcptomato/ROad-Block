@@ -2436,4 +2436,6 @@ botosaninews.ro##.banner-wrapper
 botosaninews.ro##[class*="banner"]
 ||botosaninews.ro/*.gif$image
 
+botosaninecenzurat.ro##[href]:not([href*="botosaninecenzurat.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
