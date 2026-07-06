@@ -2444,4 +2444,10 @@ infobt.ro##[href]:not([href*="infobt.ro"], [href^="/"], [href*="google.com"], [h
 ||infobt.ro/*.gif$image
 infobt.ro##[alt*="admir"]
 
+banulbotosanean.ro##.banner-stack
+banulbotosanean.ro##.widget_media_image
+banulbotosanean.ro##[alt^="banner"]
+||banulbotosanean.ro/*banner$image
+banulbotosanean.ro##.elementor-widget-image
+
 !#include road-ubo.txt
