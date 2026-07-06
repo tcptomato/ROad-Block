@@ -2440,4 +2440,8 @@ botosaninecenzurat.ro##[href]:not([href*="botosaninecenzurat.ro"], [href^="/"], 
 
 gazetabt.ro##[href]:not([href*="gazetabt.ro"], [href^="/"], [href*="#"]):has([src])
 
+infobt.ro##[href]:not([href*="infobt.ro"], [href^="/"], [href*="google.com"], [href*="#"]):has([src])
+||infobt.ro/*.gif$image
+infobt.ro##[alt*="admir"]
+
 !#include road-ubo.txt
