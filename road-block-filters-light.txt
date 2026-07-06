@@ -2450,4 +2450,7 @@ banulbotosanean.ro##[alt^="banner"]
 ||banulbotosanean.ro/*banner$image
 banulbotosanean.ro##.elementor-widget-image
 
+telembotosani.ro##[href]:not([href*="telembotosani.ro"], [href^="/"], [href*="#"]):has([src])
+telembotosani.ro##figure.wp-caption
+
 !#include road-ubo.txt
