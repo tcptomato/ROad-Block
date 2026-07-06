@@ -2429,4 +2429,6 @@ jurnaldeilfov.ro##[href]:not([href*="jurnaldeilfov.ro"], [href^="/"], [href*="#"
 
 tipli.ro##.relative:has-text(/PUB|REKLAMA/)
 
+mooldo.ro##.border:has-text(Pub)
+
 !#include road-ubo.txt
