@@ -2427,4 +2427,6 @@ gazetanord-vest.ro##.ow-block-media
 
 jurnaldeilfov.ro##[href]:not([href*="jurnaldeilfov.ro"], [href^="/"], [href*="#"]):has([src])
 
+tipli.ro##.relative:has-text(/PUB|REKLAMA/)
+
 !#include road-ubo.txt
