@@ -2459,4 +2459,6 @@ ziarebotosani.ro##.ad-banner:not(.ad-banner:has([title*="Trimite"]))
 ||bihorstiri.ro/*.gif$image
 bihorstiri.ro##[href]:not([href*="bihorstiri.ro"], [href^="/"], [href*="#"]):has([src])
 
+epitesti.ro##.big-google-ads
+
 !#include road-ubo.txt
