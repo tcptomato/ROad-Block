@@ -164,3 +164,6 @@ embedsun.cc##+js(nowoif)
 
 ! https://github.com/tcptomato/ROad-Block/issues/719
 filmeonline123.com##+js(nowoif)
+
+! right click
+buzau.net##+js(aeld, contextmenu)
