@@ -2506,4 +2506,6 @@ turnucustiri.ro##.right_col_300_250
 trnews.ro##[href]:not([href*="trnews.ro"], [href^="/"], [href*="#"]):has([src])
 trnews.ro##.widget_media_image
 
+opiniagiurgiu.ro##.widget_media_image.widget
+
 !#include road-ubo.txt
