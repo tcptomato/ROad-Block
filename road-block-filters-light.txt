@@ -2479,4 +2479,9 @@ monitoruldevaslui.ro##.td_block_single_image
 
 stirivaslui.ro##[href]:not([href*="stirivaslui.ro"], [href^="/"], [href*="#"]):has([src])
 
+vasluianul.ro##.td-custom
+vasluianul.ro##[href]:not([href*="vasluianul.ro"], [href^="/"], [href*="#"]):has([src])
+||vasluianul.ro/*reclam
+vasluianul.ro##[src*="reclam"]
+
 !#include road-ubo.txt

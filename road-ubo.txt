@@ -167,3 +167,6 @@ filmeonline123.com##+js(nowoif)
 
 ! right click
 buzau.net##+js(aeld, contextmenu)
+
+! https://github.com/tcptomato/ROad-Block/issues/772
+vasluianul.ro##+js(nowoif)
