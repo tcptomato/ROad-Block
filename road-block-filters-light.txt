@@ -2520,4 +2520,7 @@ breakingnewsgiurgiu.ro##[href]:not([href*="breakingnewsgiurgiu.ro"], [href*="for
 
 eziarultau.ro##[style][href]:not([href*="eziarultau.ro"], [href^="/"], [href*="#"])
 
+||stirilemm.ro/images/Reclame
+||necenzuratmm.ro/images/Reclame
+
 !#include road-ubo.txt
