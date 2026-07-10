@@ -209,6 +209,10 @@ tvmneamt.ro##.wpb_content_element
 tvmneamt.ro##[class^="widget"] [src][width][height]
 
 informatia-zilei.ro##[width="2246"][height="519"]
+informatia-zilei.ro##[href]:not([href*="informatia-zilei.ro"], [href*="abonamente-informatiazilei.ro"], [href^="/"], [href*="#"]):has([src])
+||informatia-zilei.ro/wp-content/uploads/2023/03/Captura$image
+||informatia-zilei.ro/wp-content/uploads/2026/03/poster$image
+informatia-zilei.ro##.wp-element-caption
 
 ||portalsm.ro/wp-content/uploads/*.gif$image
 ||portalsm.ro/media/publicitate/$image
