@@ -2537,4 +2537,6 @@ ecronica.ro##[href="http://mgps.ro"]
 infocs.ro##[href]:not([href*="infocs.ro"], [href^="/"], [href*="#"]):has([src])
 infocs.ro##[href="#lightbox_6"]
 
+||curentul.info/*Banner$image
+
 !#include road-ubo.txt
