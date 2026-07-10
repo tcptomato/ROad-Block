@@ -2532,4 +2532,6 @@ baiamaretv.ro##[href]:not([href*="baiamaretv.ro"], [href^="/"], [href*="#"]):has
 
 ||unghiul.md/*banner$image
 
+ecronica.ro##[href="http://mgps.ro"]
+
 !#include road-ubo.txt
