@@ -1162,6 +1162,7 @@ curier.ro##[alt="ad"]
 ||startingup.ro^*/banner*$image
 
 ||giurgiuveanul.ro/stiri/*banner$image
+giurgiuveanul.ro##[href]:not([href*="giurgiuveanul.ro"], [href^="/"], [href*="#"]):has([src])
 
 ||independentonline.ro^*/commercials/$image
 
