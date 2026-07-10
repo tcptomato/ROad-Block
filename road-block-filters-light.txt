@@ -2539,4 +2539,6 @@ infocs.ro##[href="#lightbox_6"]
 
 ||curentul.info/*Banner$image
 
+realitateavalceana.ro##[href]:not([href*="realitateavalceana.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
