@@ -2489,4 +2489,9 @@ newsvaslui.ro##[href]:not([href*="newsvaslui.ro"], [href^="/"], [href*="#"]):has
 newsvaslui.ro##.widget_media_image.widget
 newsvaslui.ro##[src*="WhatsApp"]
 
+||b-o.ro/banners/
+b-o.ro##[href]:not([href*="b-o.ro"], [href^="/"], [href*="#"]):has([src])
+b-o.ro##body > center > center > table:nth-child(4) > tbody > tr > td:nth-child(3)
+b-o.ro##table[bgcolor="#fafafa"]:has-text(PUB)
+
 !#include road-ubo.txt
