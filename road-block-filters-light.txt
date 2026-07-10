@@ -2499,4 +2499,8 @@ b-o.ro##[href]:not([href*="b-o.ro"], [href^="/"], [href*="#"]):has([src])
 b-o.ro##body > center > center > table:nth-child(4) > tbody > tr > td:nth-child(3)
 b-o.ro##table[bgcolor="#fafafa"]:has-text(PUB)
 
+turnucustiri.ro##.adsense_articol
+turnucustiri.ro##.right_col_300_250
+||turnucustiri.ro/*.gif$image
+
 !#include road-ubo.txt
