@@ -2525,4 +2525,7 @@ eziarultau.ro##[style][href]:not([href*="eziarultau.ro"], [href^="/"], [href*="#
 
 someseanul.ro##[href]:not([href*="someseanul.ro"], [href*="ziar.com"], [href*="ziare.org"], [href^="/"], [href*="#"]):has([src])
 
+tlplus.ro##[href]:not([href*="tlplus.ro"], [href*="ziare.org"], [href^="/"], [href*="#"]):has([src])
+tlplus.ro##.widget_media_image.widget
+
 !#include road-ubo.txt
