@@ -2528,4 +2528,6 @@ someseanul.ro##[href]:not([href*="someseanul.ro"], [href*="ziar.com"], [href*="z
 tlplus.ro##[href]:not([href*="tlplus.ro"], [href*="ziare.org"], [href^="/"], [href*="#"]):has([src])
 tlplus.ro##.widget_media_image.widget
 
+baiamaretv.ro##[href]:not([href*="baiamaretv.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
