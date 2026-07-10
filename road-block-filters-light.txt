@@ -2530,4 +2530,6 @@ tlplus.ro##.widget_media_image.widget
 
 baiamaretv.ro##[href]:not([href*="baiamaretv.ro"], [href^="/"], [href*="#"]):has([src])
 
+||unghiul.md/*banner$image
+
 !#include road-ubo.txt
