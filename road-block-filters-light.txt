@@ -2484,4 +2484,9 @@ vasluianul.ro##[href]:not([href*="vasluianul.ro"], [href^="/"], [href*="#"]):has
 ||vasluianul.ro/*reclam
 vasluianul.ro##[src*="reclam"]
 
+||newsvaslui.ro/*-ad$image
+newsvaslui.ro##[href]:not([href*="newsvaslui.ro"], [href^="/"], [href*="#"]):has([src])
+newsvaslui.ro##.widget_media_image.widget
+newsvaslui.ro##[src*="WhatsApp"]
+
 !#include road-ubo.txt
