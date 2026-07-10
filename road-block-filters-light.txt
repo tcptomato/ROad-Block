@@ -2512,4 +2512,6 @@ giurgiu-news.ro##[href]:not([href*="giurgiu-news.ro"], [href*="forecast7.com"], 
 
 cronicagiurgiuveana.ro##[href]:not([href*="cronicagiurgiuveana.ro"], [href^="/"], [href*="#"]):has([src])
 
+breakingnewsgiurgiu.ro##[href]:not([href*="breakingnewsgiurgiu.ro"], [href*="forecast7.com"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
