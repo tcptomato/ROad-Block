@@ -2510,4 +2510,6 @@ opiniagiurgiu.ro##.widget_media_image.widget
 
 giurgiu-news.ro##[href]:not([href*="giurgiu-news.ro"], [href*="forecast7.com"], [href^="/"], [href*="#"]):has([src])
 
+cronicagiurgiuveana.ro##[href]:not([href*="cronicagiurgiuveana.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
