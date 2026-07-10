@@ -2523,4 +2523,6 @@ eziarultau.ro##[style][href]:not([href*="eziarultau.ro"], [href^="/"], [href*="#
 ||stirilemm.ro/images/Reclame
 ||necenzuratmm.ro/images/Reclame
 
+someseanul.ro##[href]:not([href*="someseanul.ro"], [href*="ziar.com"], [href*="ziare.org"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
