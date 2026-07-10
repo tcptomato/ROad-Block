@@ -2219,6 +2219,7 @@ liberinteleorman.ro##.size-large.attachment-large
 liberinteleorman.ro##.align-center.about-wrapper > .widget-title
 liberinteleorman.ro##.ad56__wrapper
 liberinteleorman.ro###mobile-banner
+liberinteleorman.ro##.size-medium.attachment-medium
 
 altex.ro,mediagalaxy.ro##[class^="ffrWebAdvertising"]
 
