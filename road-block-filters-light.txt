@@ -1809,6 +1809,8 @@ radioimpuls.ro##.desktop.billboard.use-placeholder
 estnews.ro##[id^="media_image"]
 
 ||argument.ro/*banner
+||i0.wp.com/*/banner$image,domain=argument.ro
+argument.ro##[href]:not([href*="argument.ro"], [href^="/"], [href*="#"]):has([src])
 
 horoscop.ro##.images_adv
 
