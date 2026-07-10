@@ -2473,4 +2473,8 @@ ziarulargesenilor.ro##.widget_sp_image:not(.widget_sp_image:has([href*="ziarular
 
 monitoruldegalati.ro##[href]:not([href*="monitoruldegalati.ro"], [href^="/"]):has([src])
 
+monitoruldevaslui.ro##.td-custom-image
+monitoruldevaslui.ro##.widget_media_image
+monitoruldevaslui.ro##.td_block_single_image
+
 !#include road-ubo.txt
