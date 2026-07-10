@@ -2477,4 +2477,6 @@ monitoruldevaslui.ro##.td-custom-image
 monitoruldevaslui.ro##.widget_media_image
 monitoruldevaslui.ro##.td_block_single_image
 
+stirivaslui.ro##[href]:not([href*="stirivaslui.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
