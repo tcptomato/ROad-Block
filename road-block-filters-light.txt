@@ -2576,4 +2576,6 @@ stirilafixdb.ro##[href]:not([href*="stirilafixdb.ro"], [href^="/"], [href*="#"])
 incomod-media.ro##[href]:not([href*="incomod-media.ro"], [href*="incomod-media.blogspot.ro"], [href^="/"], [href*="#"]):has([src])
 incomod-media.ro##.mvp-widget-home-title:has-text(PUB)
 
+radio.com.ro##.card-header:has-text(Pub)
+
 !#include road-ubo.txt
