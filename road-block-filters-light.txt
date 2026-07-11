@@ -2556,4 +2556,6 @@ televiziuneacalarasi.ro##[href]:not([href*="televiziuneacalarasi.ro"], [href^="/
 
 realitateadincalarasi.ro##.widget:has-text(/PUB|Spon/)
 
+zi-de-zi.ro##[href]:not([href*="zi-de-zi.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
