@@ -2571,4 +2571,6 @@ dambovitanews.com##[href]:not([href*="dambovitanews.com"], [href^="/"], [href*="
 dambovita24.ro##[href]:not([href*="dambovita24.ro"], [href^="/"], [href*="#"]):has([src])
 dambovita24.ro##.textwidget
 
+stirilafixdb.ro##[href]:not([href*="stirilafixdb.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
