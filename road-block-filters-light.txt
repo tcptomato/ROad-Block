@@ -2558,4 +2558,8 @@ realitateadincalarasi.ro##.widget:has-text(/PUB|Spon/)
 
 zi-de-zi.ro##[href]:not([href*="zi-de-zi.ro"], [href^="/"], [href*="#"]):has([src])
 
+punctul.ro##p:has([class*="wp-image-"])
+punctul.ro##[href]:not([href*="punctul.ro"], [href^="/"], [href*="#"]):has([src])
+punctul.ro##.widget_sp_image:has([style="max-width: 100%;"]:not(aside)):not(aside)
+
 !#include road-ubo.txt
