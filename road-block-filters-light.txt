@@ -2544,4 +2544,6 @@ realitateavalceana.ro##[href]:not([href*="realitateavalceana.ro"], [href^="/"], 
 sportpesurse.ro##[class^="reclama"]
 sportpesurse.ro##.code-block:has(script)
 
+canalsud.ro##[href]:not([href*="canalsud.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
