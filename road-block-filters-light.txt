@@ -2568,4 +2568,7 @@ dambovitanews.com##.widget_media_image.widget
 dambovitanews.com##[href]:not([href*="dambovitanews.com"], [href^="/"], [href*="#"]):has([src])
 ||dambovitanews.com/wp-content/uploads/*/ddd$image
 
+dambovita24.ro##[href]:not([href*="dambovita24.ro"], [href^="/"], [href*="#"]):has([src])
+dambovita24.ro##.textwidget
+
 !#include road-ubo.txt
