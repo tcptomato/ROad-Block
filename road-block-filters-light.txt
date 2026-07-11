@@ -2541,4 +2541,7 @@ infocs.ro##[href="#lightbox_6"]
 
 realitateavalceana.ro##[href]:not([href*="realitateavalceana.ro"], [href^="/"], [href*="#"]):has([src])
 
+sportpesurse.ro##[class^="reclama"]
+sportpesurse.ro##.code-block:has(script)
+
 !#include road-ubo.txt
