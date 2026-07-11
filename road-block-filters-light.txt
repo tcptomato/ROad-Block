@@ -2549,4 +2549,9 @@ canalsud.ro##[href]:not([href*="canalsud.ro"], [href^="/"], [href*="#"]):has([sr
 calarasipress.ro##.widget_media_image.widget:not(.widget_media_image:has([href*="calarasipress.ro"], [href*="brandingradio.com"], [href^="/"], [href*="#"])):has([src])
 calarasipress.ro##.banner
 
+atitudineadincalarasi.ro##[href]:not([href*="atitudineadincalarasi.ro"], [href*="televiziuneacalarasi.ro"], [href^="/"], [href*="#"]):has([src])
+||atitudineadincalarasi.ro/wp-content/uploads/*/aldis.jpg$image
+televiziuneacalarasi.ro##[href]:not([href*="televiziuneacalarasi.ro"], [href^="/"], [href*="#"]):has([src])
+||atitudineadincalarasi.ro/wp-content/uploads/*/afispic.jpg$image
+
 !#include road-ubo.txt
