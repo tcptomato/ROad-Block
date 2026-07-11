@@ -2562,4 +2562,6 @@ punctul.ro##p:has([class*="wp-image-"])
 punctul.ro##[href]:not([href*="punctul.ro"], [href^="/"], [href*="#"]):has([src])
 punctul.ro##.widget_sp_image:has([style="max-width: 100%;"]:not(aside)):not(aside)
 
+cuvantul-liber.ro##[href]:not([href*="cuvantul-liber.ro"], [href*="anpc.ro"], [href*="europa.eu"], [href*="acvromania.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
