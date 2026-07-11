@@ -2554,4 +2554,6 @@ atitudineadincalarasi.ro##[href]:not([href*="atitudineadincalarasi.ro"], [href*=
 televiziuneacalarasi.ro##[href]:not([href*="televiziuneacalarasi.ro"], [href^="/"], [href*="#"]):has([src])
 ||atitudineadincalarasi.ro/wp-content/uploads/*/afispic.jpg$image
 
+realitateadincalarasi.ro##.widget:has-text(/PUB|Spon/)
+
 !#include road-ubo.txt
