@@ -2564,4 +2564,8 @@ punctul.ro##.widget_sp_image:has([style="max-width: 100%;"]:not(aside)):not(asid
 
 cuvantul-liber.ro##[href]:not([href*="cuvantul-liber.ro"], [href*="anpc.ro"], [href*="europa.eu"], [href*="acvromania.ro"], [href^="/"], [href*="#"]):has([src])
 
+dambovitanews.com##.widget_media_image.widget
+dambovitanews.com##[href]:not([href*="dambovitanews.com"], [href^="/"], [href*="#"]):has([src])
+||dambovitanews.com/wp-content/uploads/*/ddd$image
+
 !#include road-ubo.txt
