@@ -2573,4 +2573,7 @@ dambovita24.ro##.textwidget
 
 stirilafixdb.ro##[href]:not([href*="stirilafixdb.ro"], [href^="/"], [href*="#"]):has([src])
 
+incomod-media.ro##[href]:not([href*="incomod-media.ro"], [href*="incomod-media.blogspot.ro"], [href^="/"], [href*="#"]):has([src])
+incomod-media.ro##.mvp-widget-home-title:has-text(PUB)
+
 !#include road-ubo.txt
