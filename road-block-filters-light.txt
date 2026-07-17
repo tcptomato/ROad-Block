@@ -1384,6 +1384,8 @@ turbomag.ro##.homepage-banner
 zvj.ro##[class*="banner"]
 zvj.ro##.boxstire2head:has-text(Publicitate)
 ||confortmedia.ro^$3p
+zvj.ro##[href]:not([href*="zvj.ro"], [href^="/"], [href*="#"]):has([src])
+zvj.ro##.titluboxdreapta:has-text(/Pub|Promo/)
 
 vloggeri.com##[href^="https://event.2performant.com/"]
 
