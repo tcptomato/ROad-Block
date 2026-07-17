@@ -2588,4 +2588,6 @@ ziarulderoman.ro##.custom-html-widget.textwidget
 ziarulderoman.ro##center:has([src*="gif"])
 ||ziarulderoman.ro/wp-content/uploads/2016/05/danlinxxl.jpg$image
 
+ziaruldetulcea.ro##[href]:not([href*="ziaruldetulcea.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
