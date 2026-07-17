@@ -2570,4 +2570,6 @@ radio.com.ro##.card-header:has-text(Pub)
 ||filmexxx.ro/assets/js/cxads.js
 filmexxx.ro##.videoPlayerAD
 
+cronicadeseverin.ro##.widget_custom_html
+
 !#include road-ubo.txt
