@@ -176,11 +176,8 @@ zch.ro##.widget_sp_image
 zch.ro##.bookingaff
 
 ! https://ziartarguneamt.ro
-||ziartarguneamt.ro/wp-content/uploads/2020/08/ardealul.png$image
-ziartarguneamt.ro###block-3
-ziartarguneamt.ro###block-4
-ziartarguneamt.ro###block-6
-ziartarguneamt.ro###block-7
+ziartarguneamt.ro##[href]:not([href*="ziartarguneamt.ro"], [href^="/"], [href*="#"]):has([src])
+ziartarguneamt.ro##.primary-sidebar-widget:has-text(publi)
 
 ! https://neamt24.ro
 ||neamt24.ro/wp-content/uploads/2020/02/mplus-fm-creative-print*.jpg$image
