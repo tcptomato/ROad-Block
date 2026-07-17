@@ -2577,4 +2577,6 @@ ziaruldegarda.ro##[href]:not([href*="ziaruldegarda.ro"], [href^="/"], [href*="#"
 ziaruldegarda.ro##[id^="swiftadswidget"]
 ziaruldegarda.ro##.block.widget:has([href]:not([href*="ziaruldegarda.ro"], [href^="/"], [href*="#"]):has([src]))
 
+ziaruldeolt.ro##[style^="background-image"]
+
 !#include road-ubo.txt
