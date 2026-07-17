@@ -2590,4 +2590,6 @@ ziarulderoman.ro##center:has([src*="gif"])
 
 ziaruldetulcea.ro##[href]:not([href*="ziaruldetulcea.ro"], [href^="/"], [href*="#"]):has([src])
 
+automotorsisport.ro##[href]:not([href*="automotorsisport.ro"], [href^="/"], [href*="#"]):has([src])
+
 !#include road-ubo.txt
