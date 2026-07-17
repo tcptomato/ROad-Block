@@ -739,6 +739,7 @@ ziuanews.ro###pub-top-container
 ziuanews.ro##.ads-container
 ziuanews.ro##.adsz
 ziuanews.ro##.pub
+ziuanews.ro##[href]:not([href*="ziuanews.ro"], [href^="/"], [href*="#"]):has([src])
 
 ziaruldeiasi.ro##[href*="adclick"]
 
