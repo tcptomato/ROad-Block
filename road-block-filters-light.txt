@@ -2582,4 +2582,10 @@ ziaruldeolt.ro##[style^="background-image"]
 zdp.ro##[href]:not([href*="zdp.ro"], [href^="/"], [href*="#"]):has([src])
 ||zdp.ro/*banner_GME.jpg$image
 
+ziarulderoman.ro##[href]:not([href*="ziarulderoman.ro"], [href^="/"], [href*="#"]):has([src])
+ziarulderoman.ro##.banner-vertical
+ziarulderoman.ro##.custom-html-widget.textwidget
+ziarulderoman.ro##center:has([src*="gif"])
+||ziarulderoman.ro/wp-content/uploads/2016/05/danlinxxl.jpg$image
+
 !#include road-ubo.txt
