@@ -2118,6 +2118,7 @@ obiectivderadauti.ro##.wpb_wrapper:not(*:has([href*="obiectivderadauti.ro"], [hr
 ||obiectivdesuceava.ro/*banner$image
 
 ||obiectiv-mehedintean.ro/imgs/profin-small.jpg$image
+obiectiv-mehedintean.ro##.widgetcontainer:has([href*="profin"])
 
 2mnews.ro##.wpb_wrapper:not(*:has([href*="2mnews.ro"], [href*="facebook.com"], [href="#"])):has([href])
 2mnews.ro##.textwidget:not(*:has([href*="2mnews.ro"], [href*="facebook.com"], [href="#"])):has([href])
