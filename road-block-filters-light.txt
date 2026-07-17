@@ -2573,4 +2573,8 @@ filmexxx.ro##.videoPlayerAD
 
 cronicadeseverin.ro##.widget_custom_html
 
+ziaruldegarda.ro##[href]:not([href*="ziaruldegarda.ro"], [href^="/"], [href*="#"]):has([src])
+ziaruldegarda.ro##[id^="swiftadswidget"]
+ziaruldegarda.ro##.block.widget:has([href]:not([href*="ziaruldegarda.ro"], [href^="/"], [href*="#"]):has([src]))
+
 !#include road-ubo.txt
