@@ -2579,4 +2579,7 @@ ziaruldegarda.ro##.block.widget:has([href]:not([href*="ziaruldegarda.ro"], [href
 
 ziaruldeolt.ro##[style^="background-image"]
 
+zdp.ro##[href]:not([href*="zdp.ro"], [href^="/"], [href*="#"]):has([src])
+||zdp.ro/*banner_GME.jpg$image
+
 !#include road-ubo.txt
