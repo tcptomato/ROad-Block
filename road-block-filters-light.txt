@@ -2592,4 +2592,8 @@ ziaruldetulcea.ro##[href]:not([href*="ziaruldetulcea.ro"], [href^="/"], [href*="
 
 automotorsisport.ro##[href]:not([href*="automotorsisport.ro"], [href^="/"], [href*="#"]):has([src])
 
+||sportulbistritean.ro/*.gif$image
+sportulbistritean.ro##[href]:not([href*="sportulbistritean.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
+sportulbistritean.ro###sidebar > .widget_media_image.widget
+
 !#include road-ubo.txt
