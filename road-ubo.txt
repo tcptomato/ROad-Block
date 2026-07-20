@@ -40,13 +40,6 @@ litoraltv.ro##html:style(overflow: auto !important;)
 ! anti-adb
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,important,redirect=google-ima.js,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|jurnalul.ro|observator.tv|observatornews.ro|realitatea.net|spynews.ro|zutv.ro|evz.ro
 
-! posturi. live popups
-posturi.live##+js(nowoif)
-posturi.live##+js(nosiif, location)
-posturi.live##+js(acs, setTimeout, admc)
-||blaneo.com^
-||cumult.com^
-
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro,redirect=google-ima.js,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro,redirect=google-ima.js,important
 
