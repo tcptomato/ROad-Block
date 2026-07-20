@@ -50,9 +50,6 @@ cinemagia.ro###header:style(position:static!important; top: 0 !important;)
 cinemagia.ro###main_container:style(padding-top: 0 !important;)
 cinemagia.ro##.header_nav:style(position:static !important;)
 
-filmeonlinesubtitrate.org##+js(aopr, doSecondPop)
-yoixmzo.xyz##+js(aopr, doSecondPop)
-
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=radioimpuls.ro,redirect-rule=google-ima.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=smartliving.ro,redirect-rule=google-ima.js
 
