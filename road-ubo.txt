@@ -15,7 +15,7 @@ nosteam.com.ro,nosteam.ro,nosteamgames.ro##+js(nowoif)
 competentedigitale.ro##+js(rmnt, script, /adb/i)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8753
-*$script,redirect-rule=noopjs,domain=protvplus.ro
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=protvplus.ro,redirect-rule=noopjs
 
 stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
 acasatv.ro,sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
