@@ -2596,4 +2596,6 @@ automotorsisport.ro##[href]:not([href*="automotorsisport.ro"], [href^="/"], [hre
 sportulbistritean.ro##[href]:not([href*="sportulbistritean.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
 sportulbistritean.ro###sidebar > .widget_media_image.widget
 
+rds.live##.adsterra-header-desktop
+
 !#include road-ubo.txt
