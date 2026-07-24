@@ -2598,4 +2598,6 @@ sportulbistritean.ro###sidebar > .widget_media_image.widget
 
 rds.live##.adsterra-header-desktop
 
+webcamromania.ro##.wcr-ad
+
 !#include road-ubo.txt
