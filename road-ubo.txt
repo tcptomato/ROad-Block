@@ -46,9 +46,9 @@ litoraltv.ro##html:style(overflow: auto !important;)
 filmeserialegratis.*,fsplayer.*##+js(nowoif)
 
 cinemagia.ro###banner_container_top
-cinemagia.ro###header:style(position:static!important; top: 0 !important;)
 cinemagia.ro###main_container:style(padding-top: 0 !important;)
-cinemagia.ro##.header_nav:style(position:static !important;)
+cinemagia.ro###header:style(position: relative !important; top: 0 !important;)
+cinemagia.ro##.header_nav:style(position: absolute !important;)
 
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=radioimpuls.ro,redirect-rule=google-ima.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=smartliving.ro,redirect-rule=google-ima.js
