@@ -133,6 +133,7 @@ stiripesurse.ro##.banner-sales-soma
 ||stiripesurse.ro/images/ads-images/
 stiripesurse.ro##.truvid-player
 stiripesurse.ro##.video-player-embed
+stiripesurse.ro##.divee-ad-slot
 
 transilvaniareporter.ro###flashContent
 urban.ro###home_calendar > a
