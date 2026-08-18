@@ -155,3 +155,7 @@ vasluianul.ro##+js(nowoif)
 ! https://github.com/uBlockOrigin/uAssets/issues/33744
 filmexxx.ro##+js(rmnt, script, window.location.href)
 filmexxx.ro##+js(no-fetch-if, php)
+
+! https://github.com/tcptomato/ROad-Block/issues/819
+||rvlqplr.com^
+*$script,domain=versmuzica.ro,3p,denyallow=facebook.net
