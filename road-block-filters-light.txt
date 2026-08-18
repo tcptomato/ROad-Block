@@ -2600,6 +2600,8 @@ sportulbistritean.ro##[href]:not([href*="sportulbistritean.ro"], [href^="/"], [h
 sportulbistritean.ro###sidebar > .widget_media_image.widget
 
 rds.live##.adsterra-header-desktop
+rds.live##iframe[id^="ai-ad-"]
+||shufflefell.com^
 
 webcamromania.ro##.wcr-ad
 
