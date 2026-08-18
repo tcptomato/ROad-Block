@@ -1991,6 +1991,7 @@ kimbino.ro##.ad
 observatornews.ro##.outstream-text:has(.banner)
 observatornews.ro##.vertical-add-container
 observatornews.ro##.new-ad
+observatornews.ro##.ad-special
 
 acasatv.protv.ro##[id]:has(script)
 
