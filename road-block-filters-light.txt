@@ -2606,15 +2606,13 @@ rds.live##iframe[id^="ai-ad-"]
 
 webcamromania.ro##.wcr-ad
 
-||seintamplainvalcea.ro/wp-content/uploads/2026/01/c2810cc3-eb60-4fc4-a6a8-e2da284e62df.jpeg$image
-seintamplainvalcea.ro##[href*="https://www.magazinediana.ro"]
-||seintamplainvalcea.ro/wp-content/uploads/2026/03/b24f9a3e-91f8-4820-9d73-402e77b87a86.jpeg$image
-||seintamplainvalcea.ro/wp-content/uploads/2025/11/DB408691-B91D-4657-9BAA-47FD3259FB6A.jpeg$image
+seintamplainvalcea.ro##.code-block-4.code-block
 
 impactreal.ro##[href]:not([href*="impactreal.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
 
 curierul.ro##[href]:not([href*="curierul.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
 
-www.opiniavl.ro##[href="https://annabella.ro"]
+opiniavl.ro##[href="https://annabella.ro"]
+opiniavl.ro##.widget:has-text(Publicitate)
 
 !#include road-ubo.txt
