@@ -1159,10 +1159,13 @@ weradio.ro##.textwidget:has-text(Publicitate)
 
 ||curier.ro^*/banner/$image
 ||curier.ro^*/publicitate/$image
+||curier.ro/wp-content/uploads/2024/04/hotel_360x300*.jpg
 curier.ro##[href="https://hotelilavamaveche.ro/"]
 curier.ro##.custom_textwidget:has-text(publicitar)
 curier.ro##img[alt="Dr.Teo"]
 curier.ro##[alt="ad"]
+curier.ro##[href="https://cadastru-arges.ro/"]
+curier.ro##[href="https://www.pieseauto.org/"]
 
 ||startingup.ro^*/banner*$image
 
@@ -2616,5 +2619,7 @@ opiniavl.ro##[href="https://annabella.ro"]
 opiniavl.ro##.widget:has-text(Publicitate)
 
 infocontact.ro##aside.ad-container
+
+opiniavl.ro##[href="https://annabella.ro"]
 
 !#include road-ubo.txt
