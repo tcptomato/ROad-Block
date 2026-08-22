@@ -2617,4 +2617,7 @@ opiniavl.ro##.widget:has-text(Publicitate)
 
 infocontact.ro##aside.ad-container
 
+financiarpress.ro##[href]:not([href*="financiarpress.ro"], [href^="/"], [href*="#"]):has([src])
+||financiarpress.ro/wp-content/uploads/2026/07/garanta*.png$image
+
 !#include road-ubo.txt
