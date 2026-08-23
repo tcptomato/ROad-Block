@@ -159,3 +159,8 @@ filmexxx.ro##+js(no-fetch-if, php)
 ! https://github.com/tcptomato/ROad-Block/issues/819
 ||rvlqplr.com^
 *$script,domain=versmuzica.ro,3p,denyallow=facebook.net
+
+curier.ro##+js(rmnt, script, atob)
+curier.ro#@#html > #bw-cf-root
+||curier.ro/wp-content/uploads/2024/04/hotel_360x300*.jpg$image
+curier.ro##[href]:not([href*="curier.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
