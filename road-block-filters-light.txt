@@ -2603,7 +2603,9 @@ sportulbistritean.ro###sidebar > .widget_media_image.widget
 
 rds.live##.adsterra-header-desktop
 rds.live##iframe[id^="ai-ad-"]
+rds.live##.code-block-2.code-block
 ||shufflefell.com^
+
 
 webcamromania.ro##.wcr-ad
 
