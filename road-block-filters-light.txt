@@ -2606,7 +2606,6 @@ rds.live##iframe[id^="ai-ad-"]
 rds.live###ai-sb-wrap
 ||shufflefell.com^
 
-
 webcamromania.ro##.wcr-ad
 
 seintamplainvalcea.ro##.code-block-4.code-block
