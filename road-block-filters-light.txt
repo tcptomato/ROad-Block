@@ -1773,6 +1773,9 @@ e-porno.ro##.global-army
 e-porno.ro##.right
 ||femeisingure.net^$doc
 ||easyaff.net/?ref$doc
+! e-porno.ro popups / popunders
+||massug.space^
+*$script,domain=e-porno.ro,3p
 
 ziaruldebacau.ro##.afiseaza-desktop
 

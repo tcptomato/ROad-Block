@@ -164,7 +164,3 @@ curier.ro##+js(rmnt, script, atob)
 curier.ro#@#html > #bw-cf-root
 ||curier.ro/wp-content/uploads/2024/04/hotel_360x300*.jpg$image
 curier.ro##[href]:not([href*="curier.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
-
-! e-porno.ro popups / popunders
-||massug.space^
-*$script,domain=e-porno.ro,3p
