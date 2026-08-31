@@ -167,3 +167,4 @@ curier.ro##[href]:not([href*="curier.ro"], [href^="/"], [href*="#"]):has([src]):
 
 ! e-porno.ro popups / popunders
 ||massug.space^
+*$script,domain=e-porno.ro,3p
