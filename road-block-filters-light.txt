@@ -2630,4 +2630,6 @@ financiarpress.ro##[href]:not([href*="financiarpress.ro"], [href^="/"], [href*="
 
 /sitefilme\.com\/.*.js\?\d+/
 
+smartliving.ro##[data-sl-ad-slot]
+
 !#include road-ubo.txt
