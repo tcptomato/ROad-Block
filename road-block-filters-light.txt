@@ -2632,4 +2632,6 @@ financiarpress.ro##[href]:not([href*="financiarpress.ro"], [href^="/"], [href*="
 
 smartliving.ro##[data-sl-ad-slot]
 
+tvron.me##.zona-ad-mare
+
 !#include road-ubo.txt
