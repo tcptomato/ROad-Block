@@ -2613,6 +2613,7 @@ rds.live###ai-sb-wrap
 ||afders.org^
 
 webcamromania.ro##.wcr-ad
+webcamromania.ro##.wcr-reclama-titlu
 
 seintamplainvalcea.ro##.code-block-4.code-block
 
