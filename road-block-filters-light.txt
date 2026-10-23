@@ -2634,7 +2634,6 @@ financiarpress.ro##[href]:not([href*="financiarpress.ro"], [href^="/"], [href*="
 smartliving.ro##[data-sl-ad-slot]
 
 voxfilmeonline.biz##.cta-banner
-gaqghe.com##+js(nowoif)
 
 tvron.me##.zona-ad-mare
 tvron.me##.zona-ad-player-mica

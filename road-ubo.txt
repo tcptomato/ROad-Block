@@ -166,3 +166,5 @@ curier.ro#@#html > #bw-cf-root
 curier.ro##[href]:not([href*="curier.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
 
 sitefilme.com##+js(nostif, loadScript)
+
+gaqghe.com##+js(nowoif)
