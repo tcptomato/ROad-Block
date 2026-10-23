@@ -2635,4 +2635,7 @@ smartliving.ro##[data-sl-ad-slot]
 voxfilmeonline.biz##.cta-banner
 gaqghe.com##+js(nowoif)
 
+tvron.me##.zona-ad-mare
+tvron.me##.zona-ad-player-mica
+
 !#include road-ubo.txt
