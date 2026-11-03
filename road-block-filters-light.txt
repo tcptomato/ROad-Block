@@ -2641,4 +2641,6 @@ voxfilmeonline.biz##img[src][alt="Play"]
 tvron.me##.zona-ad-mare
 tvron.me##.zona-ad-player-mica
 
+filmepornonline.org##.mban
+
 !#include road-ubo.txt
