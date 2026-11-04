@@ -2205,6 +2205,7 @@ xfilme.ro##.fakeplayer
 
 3xforum.ro##[src^="/banners/"]
 3xforum.ro##td:has([href^="https://www.simpatie.ro/"])
+3xforum.ro##td:has(script)
 
 ||money.ro/*banner$image
 money.ro##[class^="ad-desktop-"]
