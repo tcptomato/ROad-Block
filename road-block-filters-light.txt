@@ -2643,4 +2643,6 @@ tvron.me##.zona-ad-player-mica
 
 filmepornonline.org##.mban
 
+tvzonehd.com###tv-ad
+
 !#include road-ubo.txt
