@@ -2643,4 +2643,23 @@ tvron.me##.zona-ad-player-mica
 
 filmepornonline.org##.mban
 
+! heyblu.ro - raportare erori (telemetry)
+||wallet.heyblu.ro/api/log-error
+
+! Microsoft OneCollector - telemetry aplicatii mobile
+||mobile.events.data.microsoft.com/OneCollector/
+
+! Onfido - analytics SDK verificare identitate (global + EU)
+||api.onfido.com/v4/analytics
+||api.onfido.com/v4/sdk/analytics
+||api.eu.onfido.com/v4/analytics
+||api.eu.onfido.com/v4/sdk/analytics
+
+! Gympass - OpenTelemetry (bp, gps etc.) + metrici Unleash feature flags (bp, gps, code)
+||ext-otel.*.gympass.cloud/collect
+||unleash-edge-*.gympass.com/api/frontend/client/metrics
+
+! emag.ro - logger client-side
+||emag.ro/logger.json
+
 !#include road-ubo.txt
