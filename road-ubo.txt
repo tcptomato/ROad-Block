@@ -168,3 +168,5 @@ curier.ro##[href]:not([href*="curier.ro"], [href^="/"], [href*="#"]):has([src]):
 sitefilme.com##+js(nostif, loadScript)
 
 gaqghe.com##+js(nowoif)
+
+frstream.life,mxzhxco8dft.com##+js(nowoif)
