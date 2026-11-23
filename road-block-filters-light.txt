@@ -2211,6 +2211,8 @@ xfilme.ro##.fakeplayer
 money.ro##[class^="ad-desktop-"]
 money.ro##[class^="ad-mobile-"]
 60m.ro##[href^="https://www.money.ro/"]
+money.ro##.hidden:has([id^="adocean"])
+money.ro##.hidden:has([rel^="sponsored"])
 
 descopera.ro##[data-placeholder]:has([id^="gpt-ad"])
 descopera.ro###tvdpl
